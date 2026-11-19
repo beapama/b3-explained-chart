@@ -21,8 +21,24 @@
 - **Known risk**: yfinance is an unofficial Yahoo scraper; it can break or
   rate-limit. Fine for an MVP; a paid data vendor would replace it in prod.
 
+- **Rolling z-score instead of a fixed % threshold**: each stock is judged
+  against its own volatility. MGLU3 needs ~8% to be "strong", ITUB4 ~3.5%.
+  A fixed 5% cut would flood MGLU3 and miss the banks.
+- **Baseline uses only past days (`shift(1)`)**: today's move must not
+  inflate its own std (look-ahead bias, and it would hide the event).
+- **60-day window, threshold 2.5**: tested 20/60 days x 2.0/2.5/3.0. 20 days
+  gives a noisy std; 2.0 gives ~95 events (too many to explain/label); 3.0
+  only ~15. 60/2.5 -> 53 events, ~1 per stock per month.
+- **Warm-up**: download 100 extra calendar days so the window is full on
+  the first day of the 12-month period.
+- **Market vs stock**: "market" if the Ibovespa's own z >= 2 in the same
+  direction; also store excess return (stock - Ibov). Simple alternative to
+  a beta-adjusted (CAPM) abnormal return; beta is a next step.
+- **Normality caveat**: returns have fat tails, so z=2.5 is not "1% chance";
+  it is a relative ranking of unusual days, not a probability.
+
 ## Numbers
-- Events detected: TBD
+- Events detected: 53 (PETR4 12, VALE3 11, ITUB4 10, MGLU3 13, WEGE3 7)
 - Cost per run: TBD
 - Eval accuracy: TBD
 

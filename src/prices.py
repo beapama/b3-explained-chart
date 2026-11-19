@@ -9,7 +9,7 @@ from datetime import date, timedelta
 
 import yfinance as yf
 
-from src.config import INDEX, INDEX_NAME, LOOKBACK_DAYS, PRICES_DIR, TICKERS, yahoo_symbol
+from src.config import INDEX, INDEX_NAME, LOOKBACK_DAYS, PRICES_DIR, TICKERS, WARMUP_DAYS, yahoo_symbol
 
 
 def fetch_prices(symbol: str, start: date) -> list[dict]:
@@ -37,7 +37,8 @@ def save(name: str, rows: list[dict]) -> None:
 
 
 def main() -> None:
-    start = date.today() - timedelta(days=LOOKBACK_DAYS)
+    # Extra warm-up history so the detector's rolling window is full on day 1.
+    start = date.today() - timedelta(days=LOOKBACK_DAYS + WARMUP_DAYS)
     # Full re-download every run: 6 free requests, and it picks up any
     # retroactive adjustment (new dividend) without incremental-merge logic.
     for name, symbol in [(t, yahoo_symbol(t)) for t in TICKERS] + [(INDEX_NAME, INDEX)]:
