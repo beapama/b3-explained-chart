@@ -26,19 +26,28 @@ def _search(query: str, start: date, end: date) -> list[dict]:
         published = datetime(*e.published_parsed[:6], tzinfo=timezone.utc).date()
         if not start <= published <= end:
             continue
+        source = e.get("source", {}).get("title", "")
         items.append({
-            "title": e.title.rsplit(" - ", 1)[0],  # drop " - Source" suffix
-            "source": e.get("source", {}).get("title", ""),
+            "title": _clean_title(e.title, source),
+            "source": source,
             "url": e.link,
             "published": published.isoformat(),
         })
     return items
 
 
-def _normalize(title: str) -> str:
-    # The same story is often syndicated by several outlets with identical
-    # headlines; some outlets repeat their name (" - Suno"), so drop it again.
+def _clean_title(title: str, source: str) -> str:
+    """Drop the " - Source" suffix Google adds; some outlets also repeat a
+    short form of their name ("... - Suno" from "Suno - Investimentos")."""
     title = title.rsplit(" - ", 1)[0]
+    head, _, tail = title.rpartition(" - ")
+    if head and source.lower().startswith(tail.lower()):
+        title = head
+    return title
+
+
+def _normalize(title: str) -> str:
+    # The same story is often syndicated by several outlets with identical headlines.
     return re.sub(r"\W+", " ", title.lower()).strip()
 
 

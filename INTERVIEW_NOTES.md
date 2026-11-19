@@ -50,9 +50,32 @@
   by several outlets; 8 keeps the prompt short and cheap.
 - **Detector sanity check paid off**: MGLU3 -58% looked like bad data; news
   confirmed it was real (biggest drop since 1994 after the election).
+- **Model: Claude Haiku 5.5** ($0.10 / $0.50 per M tokens): the task is
+  short reading comprehension over ~8 headlines, not deep reasoning. Swap
+  is one constant in config if eval shows quality issues.
+- **Structured output with Pydantic** (`messages.parse`): the API is
+  constrained to the schema (enums for type/confidence) and the SDK
+  validates on our side. No regex parsing of free text.
+- **Model cites source NUMBERS, not URLs**: we map ids -> URLs in code, so a
+  hallucinated or mistyped link is impossible by construction; ids outside
+  the list are dropped and logged (`invalid_source_ids`) for the eval.
+  Also saves tokens (Google redirect URLs are ~200 chars).
+- **Explicit "no clear explanation" path** + `type: "unknown"`: the
+  prompt makes abstaining a valid answer, so the model is not pushed to
+  invent a cause when headlines are irrelevant. (Added "unknown" to the
+  company/sector/macro enum for that case.)
+- **"Use only the headlines"**: grounding rule, so explanations are
+  auditable against the sources shown on the site. Limitation: headlines
+  only, no article body.
+- **Detector context in the prompt** (return, z, Ibovespa return, scope):
+  helps the model choose macro vs company (e.g. -58% with Ibov -14%).
+- **Every call logs tokens, cost and latency** in `meta` -> cost per run
+  and eval numbers come from real data, not estimates.
 
 ## Numbers
 - Events detected: 53 (PETR4 12, VALE3 11, ITUB4 10, MGLU3 13, WEGE3 7)
+- Cost per event (Haiku 5.5): ~$0.0002-0.0005, ~1.5k input tokens,
+  latency 1.7-4.8 s. Smoke test: 3 events = $0.00116.
 - Cost per run: TBD
 - Eval accuracy: TBD
 

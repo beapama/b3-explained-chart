@@ -5,6 +5,7 @@
 - [x] 2. Prices: `python -m src.prices` -> data/prices/*.json (248 days each)
 - [x] 3. Detection: `python -m src.detect` -> 53 events (z>=2.5, 60d window)
 - [x] 4. News: `python -m src.news` -> Google News RSS, up to 8 deduped articles/event
+- [x] 5. AI explanation: `python -m src.explain` -> 3/3 sample events correct type, valid sources, ~$0.0004/event
 
 ## Current step
 - 1. Setup — waiting for local confirmation (venv + install)
@@ -16,6 +17,8 @@
 ## Open issues
 - ~~MGLU3 2026-10-26 -58%: data error?~~ Resolved: real move, "biggest daily
   drop since 1994 after Lula's reelection" (Valor). Retail stocks crashed.
+- Fixed: VS Code injected an empty ANTHROPIC_API_KEY into the terminal;
+  `load_dotenv(override=True)` makes .env win locally.
 - Google News links are news.google.com redirect URLs (open fine in a
   browser, but are not the publisher URL).
 - Some articles in the list are context, not cause (e.g. "Petrobras in
