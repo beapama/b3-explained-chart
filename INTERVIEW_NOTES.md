@@ -36,6 +36,20 @@
   a beta-adjusted (CAPM) abnormal return; beta is a next step.
 - **Normality caveat**: returns have fat tails, so z=2.5 is not "1% chance";
   it is a relative ranking of unusual days, not a probability.
+- **Google News RSS** for context: free, no key, supports `after:`/`before:`
+  date operators, Brazilian outlets (Valor, InfoMoney, Estadão). Trade-off:
+  unofficial endpoint, only headlines (no article body), redirect URLs. Paid
+  alternative: a news API with full text.
+- **News window = previous trading day -> day after the event**: a Monday
+  move is usually caused by weekend news (the 2026-10-26 crash came from the
+  Sunday runoff election). Day-after catches "why it fell" recaps.
+- **Query = name + market terms** (`"Petrobras" (ações OR PETR4 OR Ibovespa
+  OR bolsa)`): the plain name returned job contests and sponsorships.
+- **Market-scope events also search "Ibovespa"** for macro context.
+- **Dedupe by normalized headline**, max 8 per event: same story syndicated
+  by several outlets; 8 keeps the prompt short and cheap.
+- **Detector sanity check paid off**: MGLU3 -58% looked like bad data; news
+  confirmed it was real (biggest drop since 1994 after the election).
 
 ## Numbers
 - Events detected: 53 (PETR4 12, VALE3 11, ITUB4 10, MGLU3 13, WEGE3 7)

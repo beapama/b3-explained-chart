@@ -32,7 +32,11 @@ def detect_events(ticker: str) -> list[dict]:
     df = pd.DataFrame({
         "ret": ret, "z": zscore(ret),
         "ibov_ret": ibov_ret, "ibov_z": zscore(ibov_ret),
-    }).dropna()
+    })
+    # Previous trading day: the news window starts there, so weekend/overnight
+    # news (e.g. an election on Sunday) is included for a Monday move.
+    df["prev_date"] = pd.Series(df.index, index=df.index).shift(1)
+    df = df.dropna()
 
     cutoff = (date.today() - timedelta(days=LOOKBACK_DAYS)).isoformat()
     strong = df[(df.z.abs() >= Z_THRESHOLD) & (df.index >= cutoff)]
@@ -43,6 +47,7 @@ def detect_events(ticker: str) -> list[dict]:
         market_wide = abs(r.ibov_z) >= MARKET_Z_THRESHOLD and same_direction
         events.append({
             "date": day,
+            "prev_date": r.prev_date,
             "return": round(r.ret, 4),
             "z": round(r.z, 2),
             "ibov_return": round(r.ibov_ret, 4),
