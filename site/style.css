@@ -48,11 +48,11 @@ a { color: var(--link); text-underline-offset: 2px; }
 .tabs button:focus-visible, .lang button:focus-visible { outline: 2px solid var(--rose); outline-offset: 2px; }
 .controls { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 16px; }
 /* Language switch: a quieter twin of the ticker tabs, set apart by a rule. */
-.lang { display: flex; border: 1px solid rgb(255 255 255 / 0.35); border-radius: 4px; overflow: hidden; }
-.lang button { font: inherit; font-size: 14px; min-height: 44px; min-width: 44px; padding: 0 10px; border: 0; background: transparent; color: #f3d3d8; cursor: pointer; }
-.lang button + button { border-left: 1px solid rgb(255 255 255 / 0.35); }
+.lang { display: flex; padding: 2px; gap: 2px; background: rgb(38 33 38 / 0.55); border-radius: 6px; }
+.lang button { position: relative; font: 600 12px/1 system-ui, sans-serif; letter-spacing: 0.02em; height: 26px; min-width: 32px; padding: 0 8px; border: 0; border-radius: 4px; background: transparent; color: #cfc3c9; cursor: pointer; }
+.lang button::before { content: ""; position: absolute; inset: -9px -4px; } /* keeps a ~44px tap area while the pill stays small */
 .lang button:hover { color: #fff; }
-.lang button[aria-pressed=true] { background: var(--rose); color: var(--wine); font-weight: 600; }
+.lang button[aria-pressed=true] { background: #262126; color: #fff; }
 .events tr:focus-visible, .step:focus-visible, .pin:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
 /* Finding + figures */
