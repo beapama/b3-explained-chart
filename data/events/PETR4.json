@@ -1,0 +1,1068 @@
+[
+ {
+  "date": "2025-12-05",
+  "prev_date": "2025-12-04",
+  "return": -0.0354,
+  "z": -3.24,
+  "ibov_return": -0.0431,
+  "excess_return": 0.0077,
+  "scope": "market",
+  "news": [
+   {
+    "title": "Dividendos à vista: além da Petrobras, saiba quem pagará proventos após balanços do 3T",
+    "source": "InvesTalk",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQanpHUDRib01tYTJMRlFEVFoxWDYteXduSUwxRkhzWHBUR0h0SHMwUHllNFFCNHVXLVdKOXBRdjNidVRrRjlnODRuUEtzQU4wVDNhSHozWUk5My1RYjFWWFlPUmE1alVuVkY1T1hNelc1TW9ZRDg3d1ZUZ1N0bzUzZWNfV0pTQXRadW5jVmYwNVVPMHg3V3pZSmliNmFhVUNVRktkY0oyQzJFNmFHRXVuZmt5eDV4LS1od3Q0QVA3RTNVeWNWVVBhcQ?oc=5",
+    "published": "2025-12-05"
+   },
+   {
+    "title": "Itaú ultrapassa a Petrobras e se torna a empresa mais valiosa da bolsa brasileira",
+    "source": "G1",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT2t0Zm8yNGx5QXpzR2ZCM2VIc1Uya2ZUMXUxY2hyV2xjODkyZ2J6akY4MDRXUWFSb3Nob0V1OHZNQ256NGJSRUR1cVdzLUJRMXJzS054cGtWdjR1aUlJYUtiVW1aLURzX2ZiNkt2cUJGN2VLZjM0NnVQa0k5d1JKY0xsQkHSAZMBQVVfeXFMTzJSSmFrb0FBelFSRl9RRndfNjVPVkdUQ2ZlTXFDWWFQZUMwQzBhNUxUUVlmQUIwRUl3TmxuR2kxZk80cFNKZ3EwU2ZvbXJ2bWJocHdCb1VyU0h3VU9oeGxfeks1LUptWEpUNnRfMld0V1RmQ0FnVC1jTTVzalhxYVI2RXN2YnA1OFVvLURvd29NMGFN?oc=5",
+    "published": "2025-12-05"
+   },
+   {
+    "title": "BTG diz que Petrobras (PETR4) só anda se o Brent ajudar, e 2026 virou um “ano decisivo”",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05TlB3dDdZX1kwMEJQYXc0d0dOVWVkckc2dTlyeEZ0OEpZNkxFRXJYVWpzYlBkRlZtZFNrS1FrQVdtNXl3aWxwMkNod0lKVXZjNzBDWUZCSjhPSkttUndwUFhiRF9TMG04MTE1RWNYVUhsLUhiSlHSAXtBVV95cUxPWkRXbnFfNlNUWnBCWFJLZHBucDAyMklubEhDLTd0d0R4N1R0N3BYd2ZuREJGTDAyTTJ1SWVyekhmaWVkMXpBSml5V1I5TjlnRE9qYnoxRHprSE42NVU3ay1EVmVtTVh5RjlqV2xocmdUdERSRWJTakRvODg?oc=5",
+    "published": "2025-12-04"
+   },
+   {
+    "title": "Itaú ganha R$ 162 bi no ano em valor de mercado, passa Petrobras e assume o 1º lugar na bolsa brasileira",
+    "source": "Bora Investir",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWXV6Q2JZSHEzQzRjR1FXNERxRnpYMEQ1WF8wRzA5ZVN2RWJtWUZXQUJlbC1CY29EaWktaGd3MFZRSWxrR0pSQm9kRGstSXhtTFZQWmdQMWVtQ3hNRGkweFhJWjB0M0xqNHRsajAzallZVzdNTEszLUJCU0RNQ0RNV2pCS2NZV3RhZlVFUWl6ZUlUVDdNbDcxSURwS2FoTi1wREcxbnByQ0wzM2Z0U0VsYWVvbVk2dEh6Qi04STloYWpmdkY3VUlVSmhXcHlfd3kzb0puUEpwOTdEX3Z6aVBHdC1jcjZOZVU?oc=5",
+    "published": "2025-12-05"
+   },
+   {
+    "title": "Petrobras launches sustainable aviation fuel produced entirely in Brazil",
+    "source": "Agência Petrobras de Notícias",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd1lKR0pfWE85aDhKTEZfLWlMLTh0T2FfakNxTUtnVVZKVC03V0xzdGdkdVlVX3o4UGJsNzJyTkpaXzQ3eHVPdE5JQkZkWmI5b3l6UkJZMFJUY2VmZEhkQWJNbkdHQVQ2bVJtTjZqNGRtMWlwdS1lQ3hnX3JiSzVWT1dxX2xrNGRRV2E3QW1xWFVYV29ac2pOWjZJZXctM2w4cUQzalU2RU9SbHNkTHRvUmVYbF9rV05CRnpWaVVqcjJRdnd5cFMwQmxqeTJXa3V2LVY4ZnA5Mm91QWtVc0RTMVJCZ1JZRFd3ODN4Y0ZXOVdKX2M?oc=5",
+    "published": "2025-12-05"
+   },
+   {
+    "title": "Bolsa cai 4,31% em dia tenso e reverte início positivo de mês",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT2Y0WTRjblNESWN5NjlVOElGSWctc25DS0FSMDFSX1IzZVlDR0R4MURFTXlad3NKUGRmYy1xN3haV3d0WGpnNkdrVEIxZUxVcVF1WjdMSzM0R1VBcFZYUEROSnY0Z0FpN2ZwQW55Vk5MX2hiQTRDRTAteThqV19ZSEdIb29DenlZQ1g2ZEM2cjYzeU1KVDNGeUhJX0wxd3A5RGhnelFpOHc2dHgtRkNkcFhtYzc4d1dx?oc=5",
+    "published": "2025-12-05"
+   },
+   {
+    "title": "Após recordes, Ibovespa B3 vira e tem queda de mais de 4%; entenda",
+    "source": "Bora Investir",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYTM1X0dobDUxSUk0dVE1RkFuMDBpLXpxRTYycFFVbDlDaXE2YjBiMTNkNV9fNVRGb2RVVmpORE9JYmx3VVJKYlBWNHB0bE16cUlZWndmMHY3Z2tQSVBsNzlucEZ0TllIYU5nWHRreVRsRVJQbDNVVVFaRmtyRC03ZkNzUVk2SmUzTk5oNXV0TXY3UWJMbzVYZ25MTXFEZnVBbmw4WEYyQkF4eC1ZcmJrM1Z3?oc=5",
+    "published": "2025-12-05"
+   },
+   {
+    "title": "Dólar dispara a R$ 5,43 e bolsa cai mais de 4%, após pré-candidatura de Flávio Bolsonaro",
+    "source": "G1",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yMnoxNHgwMUNZQjV0MXp5TlJ3UThGaTN1bDJiZlhDeXlsM2V5RnFVOVZkVEFEcXZoZmNXOEdNQUZWWmFOaGRYU3U0bmx5NzNNMXo3c3FFcmVLUDE4SFU2MzF6V1FWaWx0dEQ0SVNoc2JuOTl2SkFxUtIBhwFBVV95cUxOUnNHTlNuUmYzQ3MzR1Q3RTdNWC1HQW9CTW84SlU0cWJ2ZUdMV21qSG8zN2x0UkE1QkF4TENVVnNWaTlYWVRiMDJlX0hHckF2QWk0czk5ZGNDWkpPVjRjV09nMGMwbUtXWXFXNFdEdFB2SXFBc1Bocm9FM1laY1haSDZNYmNmNEU?oc=5",
+    "published": "2025-12-05"
+   },
+   {
+    "title": "Por que a Bolsa sobe tanto? Índice alcançou os 164 mil pontos pela 1ª vez",
+    "source": "Exame",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS2dPRHo1eEx2bDEwZzVuNHlkaWpSWXYyTDVCN1NzTDFCcndONVJhRGRZdEt5cC1RM2pNaWhKdzdqZXMzQVgtNF9XcHMwZHVPMGpBdGcyWDFVOWpBNThseUswWXRNMVh5eWR3dk5tQVNBamUyNUd2dGpnb1pYZEgyWEEtT0VEa05iREdaREdaQm9maF9jTTlVaUFhbVFtUmRMQ3FGTXM1eV9qRHM?oc=5",
+    "published": "2025-12-04"
+   },
+   {
+    "title": "Ibovespa tem a maior queda em quatro anos após Flávio Bolsonaro indicar candidatura",
+    "source": "Bloomberg Línea Brasil",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONm5BUXhVbnJzNjBBQVZCTWd0Q1pyR1BLbVdka0E0TW5rbHNPMmZzSEdvNktOeHZPbFBZVHBmZk9WRkNTQjVIc0syM0hZNFhydXg3bnBIWkZ0clFRd3FQVzQyR3RHeGppa3g4UG9Pd00zYzFpS2JRY2JQUk1LTW81bWhseWl0RkFKek5NWFNzR0ZKbml1VmVIUVowb2FFYTM4VmdKWlZFWm54S3R6OEhlaTJLaG90SVk2UFJPNTZhTF9QQjU4UkHSAdoBQVVfeXFMTkNvOFV5Z0Y5OEhoLVNLbFhpSjB1Vzg4WWRaSG1tX21SUXVCUXgzLWg2M3dqaUJMa1BsYlFUUlhlem5GLUlUX19nQW5RX3dqRlhSTkxkcGhKYVJMQ2ZNaVc3UlExM1NLeWF0MG5VVmh5T0M5QzFGZHNIRE1lOWxUdktOenQ0ZXFqZm00c1REUmFaaFlzbk9zclBSNWlOaEZoN0Q4OTNsY3c0MGtuVTVvSklKS0plcEZhVkRweDFQY3RuN3p5LTA0anJCVFJmLTlTeHE1cVV1TlViR1E?oc=5",
+    "published": "2025-12-05"
+   }
+  ],
+  "ai": {
+   "short_reason": "Queda da bolsa após pré-candidatura de Flávio Bolsonaro",
+   "explanation": "O Ibovespa caiu 4,31% e o dólar disparou para R$ 5,43 após Flávio Bolsonaro indicar sua pré-candidatura, o que elevou a aversão a risco no mercado. A PETR4 acompanhou a queda do índice, com recuo de 3,54% no dia, em movimento de alcance geral da bolsa.",
+   "type": "macro",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Bolsa cai 4,31% em dia tenso e reverte início positivo de mês",
+     "source": "Agência Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT2Y0WTRjblNESWN5NjlVOElGSWctc25DS0FSMDFSX1IzZVlDR0R4MURFTXlad3NKUGRmYy1xN3haV3d0WGpnNkdrVEIxZUxVcVF1WjdMSzM0R1VBcFZYUEROSnY0Z0FpN2ZwQW55Vk5MX2hiQTRDRTAteThqV19ZSEdIb29DenlZQ1g2ZEM2cjYzeU1KVDNGeUhJX0wxd3A5RGhnelFpOHc2dHgtRkNkcFhtYzc4d1dx?oc=5"
+    },
+    {
+     "title": "Dólar dispara a R$ 5,43 e bolsa cai mais de 4%, após pré-candidatura de Flávio Bolsonaro",
+     "source": "G1",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yMnoxNHgwMUNZQjV0MXp5TlJ3UThGaTN1bDJiZlhDeXlsM2V5RnFVOVZkVEFEcXZoZmNXOEdNQUZWWmFOaGRYU3U0bmx5NzNNMXo3c3FFcmVLUDE4SFU2MzF6V1FWaWx0dEQ0SVNoc2JuOTl2SkFxUtIBhwFBVV95cUxOUnNHTlNuUmYzQ3MzR1Q3RTdNWC1HQW9CTW84SlU0cWJ2ZUdMV21qSG8zN2x0UkE1QkF4TENVVnNWaTlYWVRiMDJlX0hHckF2QWk0czk5ZGNDWkpPVjRjV09nMGMwbUtXWXFXNFdEdFB2SXFBc1Bocm9FM1laY1haSDZNYmNmNEU?oc=5"
+    },
+    {
+     "title": "Ibovespa tem a maior queda em quatro anos após Flávio Bolsonaro indicar candidatura",
+     "source": "Bloomberg Línea Brasil",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONm5BUXhVbnJzNjBBQVZCTWd0Q1pyR1BLbVdka0E0TW5rbHNPMmZzSEdvNktOeHZPbFBZVHBmZk9WRkNTQjVIc0syM0hZNFhydXg3bnBIWkZ0clFRd3FQVzQyR3RHeGppa3g4UG9Pd00zYzFpS2JRY2JQUk1LTW81bWhseWl0RkFKek5NWFNzR0ZKbml1VmVIUVowb2FFYTM4VmdKWlZFWm54S3R6OEhlaTJLaG90SVk2UFJPNTZhTF9QQjU4UkHSAdoBQVVfeXFMTkNvOFV5Z0Y5OEhoLVNLbFhpSjB1Vzg4WWRaSG1tX21SUXVCUXgzLWg2M3dqaUJMa1BsYlFUUlhlem5GLUlUX19nQW5RX3dqRlhSTkxkcGhKYVJMQ2ZNaVc3UlExM1NLeWF0MG5VVmh5T0M5QzFGZHNIRE1lOWxUdktOenQ0ZXFqZm00c1REUmFaaFlzbk9zclBSNWlOaEZoN0Q4OTNsY3c0MGtuVTVvSklKS0plcEZhVkRweDFQY3RuN3p5LTA0anJCVFJmLTlTeHE1cVV1TlViR1E?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1622,
+    "output_tokens": 447,
+    "cost_usd": 0.000386,
+    "latency_s": 3.14,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-20T03:21:11+00:00"
+ },
+ {
+  "date": "2025-12-16",
+  "prev_date": "2025-12-15",
+  "return": -0.0303,
+  "z": -2.54,
+  "ibov_return": -0.024,
+  "excess_return": -0.0063,
+  "scope": "market",
+  "news": [
+   {
+    "title": "Quanto você teria se tivesse investido na Petrobras (PETR4) há dez anos?",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2Y0WFhhaHI3YUFCNXEzT0lvbE13OE9aTVIxbXh3QTE5a251MzI5YWFmbDI1dVVCSExSWmw1LVpKYncxa1RmWWZRMG1rRHBNNTZwUncyNmRxcDVaRE0wRk9PWjBPVktaZndlc1pDbUNyVnBReVd0N3dndjBialJZLURaSzduVkpBTF9fang1ZVdkclRIQXI1cUptb0ZmTEJrODFsZ1pwai03SnNKZlNPaHduRdIBuAFBVV95cUxQZlVMUUs4c1Z4UW1XWkNkbE5uQXNYZVFJaDVNV3Ria2ltVXdyU1RFMWF5a2NHOWFLMDBINnc4cENWSFN5NTBjWXIwWWZ2bEhOOGhpUnZNWUdsTTBvdWFqRnl0WFZfRGlsdEFwbUpQdUF2eUZyS0NXYTZqcVpCa0lIcnJiOWNfX0JzczRUR21tUEZiV0dKTFRjenIwSjhnNWRnVmJXaWM1V2o2WnRNRnVQTzRFVUhWSHI1?oc=5",
+    "published": "2025-12-15"
+   },
+   {
+    "title": "Braskem: Petrobras pressiona por novo acordo de acionistas com avanço da IG4. Entenda o que está em jogo",
+    "source": "O GLOBO",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWDJZQndWRGJ2SjJxNS1sZXFEOFBWRFN0X1MwaFRsTkp5Qkd0V3oyeU1MOVlZV1R6QmltbUxOXzE1MFpFdXdqVWRrTUphMThiUjc0cHFkU2RUSjhNandBa0FnVGEwZlRkSldjQnNpSFhrR05SU016SnI2TVlEVV91cnVETzdYX0Npd0gyT0tyRE9EWnVncURYNVBUYVZsVGRzWVplRkhncm51VG45eHJRS1NQeHRNVHlMNGFPRW9GMTNGcXFKY2VOU2YxeDJ1RlFvU1hBcDc4UHFyUVnSAeoBQVVfeXFMUEJFeWxWcHB2NVBQOTc3SGo0OFVETTZUT08wMTdaZ2NaNlBnNlRGU0l1Y1dUazI4dWlKbDJ3Q0dKSUNDVlR3VV95MHZmd0ZQcUVlWm4yeEN0NzJWMHhJam9XZWR1NUVWdlpjWWkxYlp2cVVPMGViY1hQZlFmTlBpU29xOHlobXVnUkZ4UVBKd0JTQ0pUNkFXSTBiUGFBNFhpOVFrNUpZdzdVXzVGNFBkdnlxX0MxVmphajJoQkRZYzBNM0NKa3BsYTNZWE52cGxuQkd3YXlSenFsTU41dmc0cEROVDZ5aUhqUmhn?oc=5",
+    "published": "2025-12-15"
+   },
+   {
+    "title": "Petrobras aprova compra de fatia em empresa de energia solar e baterias da BP",
+    "source": "Bloomberg Línea Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ3dndEV6NDRGRDk3TzRsNVR6MjMwV3kxQmtaNGJqdkg5TjhPQzBhYm95NG1SZTlDQnVTbzFHLThOTXgtX0taR01qTjZEcWtXY0l5emU5aDBRWWFPTmhhZXJwcXFVdTY4MWNNVTM1NXRtY18tanZhRzNadHBzZUFnd0xPYkx6MmR1TkVacG9ZYzFoWjNSbUo2TDk5cGlZWVpSLWdDSzYzTU9qTU5kYUFZUjZlbF9VZ0tCekNZb0hVUUTSAdQBQVVfeXFMUFh6a3otNVVfTVNvV3I0cUN1OWxpekVNdXRhTnU2Uk56eWhDUmMyLW1Bekl6STFlNjU0VF9OX2R6YkRqZVRIVTZLamFsanRrTEwxOUpOcVM2NE1WWVd6OG54cWJCVkVZZm5jbzZDZDAzY0tGWjhTQjl3OXh3Vi1nVE9ublJDYjFycUp3WDBtMkFkWV9lMVludnRxU3Q4WDlKQkRpWnFzV0J4R01ycmU4bllfbU9UX29VY1hzTGRua0hTVTl2Q0treHRZUWlobTRpYWFnNEk?oc=5",
+    "published": "2025-12-16"
+   },
+   {
+    "title": "Veja ranking das melhores pagadoras de dividendos da B3 em 2025",
+    "source": "ISTOÉ DINHEIRO",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05enJ1ZktoVnBMOW9fVnZobjdESGpTX09ibThoZDR4WE9nSkFteVVnazJPdHhaS2c2NGtjbElrdWRoSzFqajVxNnVfcWpBYnBTbmEzTGJKVUxFem1mR1F4ZkUzVnVtRWtYWl9MSThldkZrQQ?oc=5",
+    "published": "2025-12-17"
+   },
+   {
+    "title": "Petrobras (PETR4): XP e Itaú BBA revisam estimativas e mantêm compra para as ações",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcWQ2ZEtZTDktSlBfbXpvXzVFWDVDU2VqOGoxNk81Z05Xamx4cmlMVm1zRU94NnNVLWp2ZDRhT1JOQkp4RWY5OWZDbk5XVlh6TU4xNkdNaFg5R1llNW15YXBiYXVScG5zYkwyU0d5NHp3akxiMkVWNjJoblBkbjdFWGNZbkJSbFpNQVVGRGxlSFNxMjAwWDdMV1RwQ3dOcm42aFhzZ1VFN2k5bzllWEVZaWNqaExXeWM1V1HSAb8BQVVfeXFMT0c5cVZORldBNlYtaFNLTHJnWndqNGV4czUtRjBKb0R6WVpMS0FDeUZ3U195aEVGaXVMQ1RRMGYtYVQ2WU81bVVpX3Njd3dxTG10M0hCMnpPazQ0ZjJXRHFNY2Ixblo3QjlVQmN5Skt0SUxPVGFvV2g5R3VsMDJhazI4dzFKVnh2MDJhSjRWUjBsNTVGelNLalMwN1Rmai14VUVCWmJOd1YxTFVfLUN3RWFicVpUbUhyZ0RQMkNFWDA?oc=5",
+    "published": "2025-12-16"
+   },
+   {
+    "title": "Bolsa cai 2,42% com indefinição sobre juros no Brasil e no exterior",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGJ2Vk96SlNtZGUzTmd5RWZCbGpscFRqalVMSkFqR0xXZmpjeUtNc1d6d3dfSGxZaTYzdkF1WTBhdWFqOFFmX2Jaek1oekdsRG9CSmVVUWRCUW43WklVQjZEemhqdm5vZmFYN1JkWUFiUDNnbjZPNVNrSlZSc3k1aUhMZlRWSEJ5cUN3d2xSQlU0SVF3VzNHajgzNDl5RnlhbUNjVVhmX0JvWVpBZWNjRFBYd09JNWc0UUs4QmxkUHE?oc=5",
+    "published": "2025-12-16"
+   },
+   {
+    "title": "Bolsa cai mais de 2% com eleições, ata do BC e payroll no radar; dólar sobe",
+    "source": "CNN Brasil",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2dCR3NiNkFoSWFvSkdkZk1nLTlDaWx1bmZtOXkzbnFSVkNCczVSRVhDQTRsZGJaRHB6QWNDcTViNUlDb1o3Y1RsMFN5UHY1cEcwYXVoQk56VEg3U0VyNTltNXQtLVg5ZXlQTF9qWUxpXzYzLWVUa3N6Ykg3UFZxUFQteE42dDdoRnB6ZHRtMHA1Y2tWWklod3RNc1pHQUFKRnZVOV93?oc=5",
+    "published": "2025-12-16"
+   },
+   {
+    "title": "Ibovespa B3 sobe 1,07% e recupera o patamar dos 162 mil pontos; dólar vai a R$ 5,42",
+    "source": "Bora Investir",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQalM1aXMtRnVJQmdDc0p0RDFUQmw3dmp1OTBEakZDbHZMUWwzRkdlOFZQMTI1UWdWdDVPYTY4b3czd1ZNNmV1MjhEdHVSeGdtSUNpdHhSMGhfMjRfZE1aZGk1bXJuMGtSU1RhbUVOWGtjSWcxdkM3TjhON1RYd2RQckZGalJNSGZGTXZqd3MzYVZhb0NwYWtCRWxMbFhHdlUxaVA4QTgwbTdFS3JXTi11akpabHp6ZzctUXEtNkdnQmEtTFJKaFE?oc=5",
+    "published": "2025-12-15"
+   },
+   {
+    "title": "Ibovespa despenca 2,4%, abaixo dos 160 mil pontos, com pesquisa Quaest e desemprego nos EUA; dólar sobe",
+    "source": "G1",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UQVBYVVJ4d1BfMmRtOFVQSW1ET3dKcXFzWF9SYmRwd2NZbE1mVjFtd0JObFkzbFhVclB2dGNNVkpCY0FLaGpVSjlHM3dMU2J3X3lWNl9jUUcyQzJGTU9DNDd1U3k1LU56WGI1dk1CLVRNUTlxTmp3ZNIBhwFBVV95cUxPX1ItQnRCaXZYWlpsdXVBRU5HRW10Wm5YWjNqaGdUUXZQQjZ5ZTVjOTNwLWxfczVxS2JBTE1pOUNRUzctZmJWSTJhUmhVemdWODduQnIwek4zNGhtVjF6cl8xYUtzSjVkdzAtblRDYkNGUlpOd1JHTzhtazJUYnkzUURnbHdmSG8?oc=5",
+    "published": "2025-12-16"
+   },
+   {
+    "title": "Dólar abre em queda e Bolsa sobe após divulgação da prévia do PIB",
+    "source": "UOL Economia",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVkw1R3lDTjh2V2RvejVyUDFJTEZ4SmM0TWRRdmlVaWlZcUUzSlJ2VE5IdUUzeFlsd2NDSTFWUGRHNXI4N2tkQkJEUlRwS1R6Y2hJTFNhVmwyZmdMWnRHTjRNUHVOQS1sN0ZEaS10b2FONDJfRkFhcXBJZDQtdENGcDRoRHRCRTRxMTQxYWVpWE9mZ0RIWjR3UGc3TTRVT1Zf?oc=5",
+    "published": "2025-12-15"
+   }
+  ],
+  "ai": {
+   "short_reason": "Queda do mercado por juros, eleições e dados dos EUA",
+   "explanation": "A Bolsa caiu cerca de 2,4% com indefinição sobre juros no Brasil e no exterior, além da pesquisa Quaest e do dado de desemprego nos EUA, que elevaram a aversão a risco. Como a queda foi generalizada, a PETR4 acompanhou o movimento do Ibovespa, com baixa de 3,03% no dia.",
+   "type": "macro",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Bolsa cai 2,42% com indefinição sobre juros no Brasil e no exterior",
+     "source": "Agência Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGJ2Vk96SlNtZGUzTmd5RWZCbGpscFRqalVMSkFqR0xXZmpjeUtNc1d6d3dfSGxZaTYzdkF1WTBhdWFqOFFmX2Jaek1oekdsRG9CSmVVUWRCUW43WklVQjZEemhqdm5vZmFYN1JkWUFiUDNnbjZPNVNrSlZSc3k1aUhMZlRWSEJ5cUN3d2xSQlU0SVF3VzNHajgzNDl5RnlhbUNjVVhmX0JvWVpBZWNjRFBYd09JNWc0UUs4QmxkUHE?oc=5"
+    },
+    {
+     "title": "Bolsa cai mais de 2% com eleições, ata do BC e payroll no radar; dólar sobe",
+     "source": "CNN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2dCR3NiNkFoSWFvSkdkZk1nLTlDaWx1bmZtOXkzbnFSVkNCczVSRVhDQTRsZGJaRHB6QWNDcTViNUlDb1o3Y1RsMFN5UHY1cEcwYXVoQk56VEg3U0VyNTltNXQtLVg5ZXlQTF9qWUxpXzYzLWVUa3N6Ykg3UFZxUFQteE42dDdoRnB6ZHRtMHA1Y2tWWklod3RNc1pHQUFKRnZVOV93?oc=5"
+    },
+    {
+     "title": "Ibovespa despenca 2,4%, abaixo dos 160 mil pontos, com pesquisa Quaest e desemprego nos EUA; dólar sobe",
+     "source": "G1",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UQVBYVVJ4d1BfMmRtOFVQSW1ET3dKcXFzWF9SYmRwd2NZbE1mVjFtd0JObFkzbFhVclB2dGNNVkpCY0FLaGpVSjlHM3dMU2J3X3lWNl9jUUcyQzJGTU9DNDd1U3k1LU56WGI1dk1CLVRNUTlxTmp3ZNIBhwFBVV95cUxPX1ItQnRCaXZYWlpsdXVBRU5HRW10Wm5YWjNqaGdUUXZQQjZ5ZTVjOTNwLWxfczVxS2JBTE1pOUNRUzctZmJWSTJhUmhVemdWODduQnIwek4zNGhtVjF6cl8xYUtzSjVkdzAtblRDYkNGUlpOd1JHTzhtazJUYnkzUURnbHdmSG8?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1612,
+    "output_tokens": 408,
+    "cost_usd": 0.000365,
+    "latency_s": 2.9,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-20T03:21:17+00:00"
+ },
+ {
+  "date": "2026-01-21",
+  "prev_date": "2026-01-20",
+  "return": 0.0353,
+  "z": 2.59,
+  "ibov_return": 0.0333,
+  "excess_return": 0.002,
+  "scope": "market",
+  "news": [
+   {
+    "title": "Petrobras (PETR4) avança no semanal após rompimento técnico e mira topo histórico",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWl92TU5zNmtaLU51VVlVdmZRUVNrWlplUTBHQ3YzMFplbFliN3hPTWVObG03ZC03NHpYZlZRM0FIVXFLZnhRRGJRM1EwSWEzeWxHb1poOGpER3NiYVRJWlZkaF9wSVYyNmphTWZCQXFvNzJPSVBYdmRtZlJiTTRXVmV0LWtOQ0p1NENBX216Z3BBQV8wMWkwazRaLTBtSHViMHg1Yjhkd3F4OFJvUWYzZXpUdTBDRG_SAbwBQVVfeXFMUFYtR3RxWVBvTkVPTXd0dEt5MkQ1UXVHOFM1Ry00YzFOLUcxZ2VLOWVhM2VjR2xmRkRrZTNBN3V1UHVEY2NzREdyamdSWWxqdkVPVTJpc0YxRzFlM0ZBZHN1WkJWZEdmd1hIOW1hVUM3TEh2eGRUcnQ0SzFLdWFOSHBFWGN0VW9JQnd2M1pZcllpZklaaFUwZkVsVWt6akM2MGtzTV9fSGlESGtKcjNhRjROQVIyZzFwbUl4NnM?oc=5",
+    "published": "2026-01-22"
+   },
+   {
+    "title": "Comissão de Ética Pública e Petrobras fortalecem diálogo sobre ética e integridade — Planalto",
+    "source": "GOV.BR",
+    "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNaVAzOEdnRGtMSm16Ykc4VTRaZ2lWM2JQRzZIdWlGNkVMRE5jYm5SS2syYlB5dmFBZUtxNXJYMDA1Y0RZYVBuRWhKZ3hKU0IyNmljRnJYaG1oTVFYQmVxVkRKdmpobVNURjllVFd3QUsxWjdPRlZwOWhDeC02Vmk3Ri1QUnBIUXZwT0hUcTBkel9hRDF0YmJZdDBYbHI3Mlp2dDA1UjA2RGM2eS1tZjBTaUw2aXZveHlsZnJ3Uk5yVEV2U2w0ZVRmMFZXMEUyZl9XUG54LWNIYjlBZmVTWTlteG9ZUGpfU0hoUnpvYTNOc0puS2NrQzFRLWdFV3JfVU10YWZ6MmFaRVlqYUtnQ19EaFZDOS1VZHdjY05QVV9JQ3g3ZzF4OGE1ZEhB?oc=5",
+    "published": "2026-01-22"
+   },
+   {
+    "title": "Ações da Petrobras (PETR4) seguem pressionadas mesmo com recorde operacional",
+    "source": "Nord Investimentos",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUTJCVnplaGZuTzlsR1plZ0RtcUpwMVZLZHBGQ3FlTWd2RzJWREpBdkhaYnNiQmw3OXlRZFUzNDN3UnRqVGotYVpDcjRJNkNSRXhMVUFYd2JqNi1kQ0NYQ1NIRE5lUGo5TW1jZUlocTY3TTlDaGlhc1lHS3V1ZzZRS0czQWt2V2RG0gGOAUFVX3lxTFBTcXlKbWF4NS1yMW8ybFQ5NDJCX2VqM0ZvUTBlWm1raDZIcTJ5WG9YWDlOcUlRbXhPQ1JLS3Z1UTJSQ0ZxYW1IY0RMSTBvaHlVUnZmNFI5eXh0aEMyQ3VoYzJ1UmJ1ZG41U0xBNjhOcWpJVnJ4b1RXTHFOSmxFd0JRZHFUVFpzblBoMkM1TWc?oc=5",
+    "published": "2026-01-20"
+   },
+   {
+    "title": "Petrobras (PETR4) coloca R$ 2,8 bilhões na mesa e reacende a indústria naval",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbl9ONkFHby1XU3IxRHRCcUlzZFBvODJqbzEzbXg2MzlXcFdfVXNuN0NWRWlsZlNTSEVtdkItVGUza09Cak54NUZSaktIdzJyMVJqYjR5RTlkX09kaFViN004OTc3NExaUThfWndHazRMX0pSMWNmSW83eXFzN1cyS2RUYjUtRTJp0gGOAUFVX3lxTE4xenNTMFZiUTdmN1NTOVhEWFlqaFlIR21Kc3R0U2Rxa0F5UUhCZWVucEFaOEtxWHlnVU5FSGpxME1nSlN0X1duWnNJdnVsby1Ham5ReHBYZHB3R1oyOEtXcXZFa0o0ejY5RXMxbjFaWGhVT3NBR3FoOVhtbzV5UU9ScTY5TlZvSXJyS1I2Vnc?oc=5",
+    "published": "2026-01-20"
+   },
+   {
+    "title": "Vale, Petrobras e Itaú são ações mais negociadas por estrangeiros no Brasil",
+    "source": "UOL Economia",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRnBEVkllUE9xcFVXRkhVNlk1aFFiZFhGa3FsN1R1MUpkTW1PNHBxN05EZ3pNV2I2Tjh1S0trSko4ZG9nNU9NcFFWM0IzMGRiN29MaU5tdlRHZU1hN3ZhRXp4aGVUZFJQV1hqZjYxdTVWMmpkQVZ0SjYzNGRaNDRGRUJ3MlE0UFJmVUJsYXE3Tk1lRWVMWkpDMDVvMmRTTEdQZEROV1JmMTJQYkhwRmFXMUUxNWxMWVZGQ0JmY0RuMHZPWFFxVDJj?oc=5",
+    "published": "2026-01-20"
+   },
+   {
+    "title": "Bolsa sobe mais de 3% e encosta nos 172 mil pontos com recuos de Trump",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQXFfMFBGeHVHMnk3aDZTeF9KWFB5eXFDNW83blZXc19nbGlVYk1KaVkwRE1aQ0dzcjJQWGg2WDRnSmVMakk5cHdnRXdUTE9QMHJ6Y1ROeGpQRjNHVmR3bUU2WEJIRXJ0dDRLdkVaUGFkWmllcXh4Ym1zNXc2b2NqME82T3h5NU5YcURabHB5SndLLUU4ZjA2Z2s0U3VuTDBsNUJTM0l5N2FZT0M4RlhrUU1pWV9ZRC1ReTYzejZwM3g0eWhkM1E?oc=5",
+    "published": "2026-01-21"
+   },
+   {
+    "title": "Bolsa opera em alta histórica por dois dias consecutivos",
+    "source": "Fundação Perseu Abramo",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZFFzdFc2dTExWG8xc01WMWg3cmFHd3I0amxhbk5FY0I0YjlaTU1yd3dTY3hZTzJSdWhRSVVkYzR3ZWNJV3NVYTVxalF2aW5vaG1pa1JJTnRLVHJZbnpkZ0h3ZDVMT0ttcGo0amNyblFuQ1doWkQ4eGxyemRTRGIzQlNyM2V3eW1q?oc=5",
+    "published": "2026-01-22"
+   },
+   {
+    "title": "Às 17h, o Ibovespa avançava 2,07%, a 175.377 pontos, a caminho de renovar o recorde histórico pelo quarto dia consecutivo. Na máxima da sessão, chegou a 177.741 pontos. Na quarta, o principal índice do mercado acionário do país superou pela primeira",
+    "source": "Instagram",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpVEdOWGFiaG84ampyTE54bkJBLUR2TGVjUDhyb0JsMW5obS1lbjhseHFxRFlqLWh3Nnd2eFpkVzdCRUhoYllaYWJ2SmFIRnFReVE?oc=5",
+    "published": "2026-01-22"
+   },
+   {
+    "title": "Ibovespa B3 sobe 3,33% e fecha nos 171 mil pontos, em recorde histórico; dólar cai a R$ 5,32",
+    "source": "Bora Investir",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWV4UnJTWVp3cXJDV2FtcmNMRGIxWWRNdTJTeWdrZDRpbnpwWmdZY3pqM0tPLWVPdi0ydTdjNkh2dDZHeEZpckIyM0dCZER3SjE5U3JveEc4WWZoa0xuNkxzVEc2OVpXdGNtWjRmcUJzVEE1YVJmbExsLVR0UHZCVVJfc2toMFhDNGFSNW1hVURRZ1VwbEhkS3Q0QXE1a196R0xEVnQyT1NhNkhNdUU4NHNjZGtkZXM0aE5tMmFwZ3NNc1lNalhWamZra1dxYlFn?oc=5",
+    "published": "2026-01-21"
+   },
+   {
+    "title": "Ibovespa dispara e fecha em patamar histórico acima dos 171 mil pontos",
+    "source": "CNN Brasil",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSU94b2JYSnBXN2V3dk9CVUlqSV82M3NoaWRrUzB0Z21jN3FzQWg2ZzN2akpCOGhjZThLVUgwT1Y2Yl9GbkRfdkI2VnB3ZEpfdkxOcm84eXU0WW41YngzX0JnS2loUzdSRTFtS0hfLU9Hdk5fN25mTzNYQUJGNmoyekpXcmZiN0hIbUxVTm11cV9NRGdkX3JWOWlYcUZfMzBONHJOMw?oc=5",
+    "published": "2026-01-21"
+   }
+  ],
+  "ai": {
+   "short_reason": "Alta geral do Ibovespa com recuos de Trump",
+   "explanation": "A ação subiu no mesmo ritmo do Ibovespa, que fechou em alta de 3,33% e em recorde histórico, com o dólar caindo para R$ 5,32. A Agência Brasil associa a alta a recuos de Trump, o que indica um movimento de mercado amplo e não um fato específico da Petrobras.",
+   "type": "macro",
+   "confidence": "medium",
+   "sources": [
+    {
+     "title": "Bolsa sobe mais de 3% e encosta nos 172 mil pontos com recuos de Trump",
+     "source": "Agência Brasil",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQXFfMFBGeHVHMnk3aDZTeF9KWFB5eXFDNW83blZXc19nbGlVYk1KaVkwRE1aQ0dzcjJQWGg2WDRnSmVMakk5cHdnRXdUTE9QMHJ6Y1ROeGpQRjNHVmR3bUU2WEJIRXJ0dDRLdkVaUGFkWmllcXh4Ym1zNXc2b2NqME82T3h5NU5YcURabHB5SndLLUU4ZjA2Z2s0U3VuTDBsNUJTM0l5N2FZT0M4RlhrUU1pWV9ZRC1ReTYzejZwM3g0eWhkM1E?oc=5"
+    },
+    {
+     "title": "Ibovespa B3 sobe 3,33% e fecha nos 171 mil pontos, em recorde histórico; dólar cai a R$ 5,32",
+     "source": "Bora Investir",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWV4UnJTWVp3cXJDV2FtcmNMRGIxWWRNdTJTeWdrZDRpbnpwWmdZY3pqM0tPLWVPdi0ydTdjNkh2dDZHeEZpckIyM0dCZER3SjE5U3JveEc4WWZoa0xuNkxzVEc2OVpXdGNtWjRmcUJzVEE1YVJmbExsLVR0UHZCVVJfc2toMFhDNGFSNW1hVURRZ1VwbEhkS3Q0QXE1a196R0xEVnQyT1NhNkhNdUU4NHNjZGtkZXM0aE5tMmFwZ3NNc1lNalhWamZra1dxYlFn?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1673,
+    "output_tokens": 429,
+    "cost_usd": 0.000382,
+    "latency_s": 2.72,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-20T03:21:23+00:00"
+ },
+ {
+  "date": "2026-01-23",
+  "prev_date": "2026-01-22",
+  "return": 0.0435,
+  "z": 3.06,
+  "ibov_return": 0.0186,
+  "excess_return": 0.0249,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Ação da Petrobras (PETR4) sobe quase 10% na semana e companhia ganha R$ 18 bi em valor de mercado",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOZlV6c2tySzlWbVJiUXJ3R0dFVHNGTUEzV0xOUVJDU0ZwNWNxbXBuTlhFbUktNzUyYXR0V0t1WWh1T3dZMXEwOHdDUl9RYnBqTFFrZEdkYVQ4RHFrY2dnV2pTeEQzbjBKblF4ZU9HR1NYSFpjQXhROXZGZm1QcVpMX25rc01BbWRpdTliVnZ5R0plWk5oV2dmaDFSWFBmLUlkOW1wWkJBbkV6WHBZVGtuX0ZUaWZlaWpCNmttb0Z3YWVvMGJ4cU9QTS1kRnFQQ2Z2eURTVWlGN0FSNTl1dmJvYm8ycTRHZU9ldU9jaU4wTkZVYVJfVUNtVm8wSXRraDNTV3pUeGg2bW5nU0kxdWhVSFU5SDVXTFpT0gGnAkFVX3lxTE80bzN5UzRQSXppeWlMQ0hGTkx4aFI3d3lnMGEwcTBPaEdvN050X0lHd3VJMUhVX0pPMnlrZUpwNEtPaXJvZTFfWHU1bHVXSW5TOVBnV0JrQlVSa0c4ZE9VOWV4YmJzWTczQ0FvVk1vZDRsTU82THUxVEIycGRKU3VIdldVcDFhandBR21CLVhfMVhVNG9fODV1blF3aC1uakdBS2dnZXQ2UXNfYmxWMHRJaGVuMHNjQzFCOW96QU96UXM4YVkzdjUzTVk5Y0JVcVozbjhEbkpkTWNubkdya3pGM3BSM0hfazlKVHFtS0VmUEs5S0p3eVdjUGtSZEhxa0stbTN6aDBVcE11dGItNVpIWmwyV2EzcHVLSmpjT1RDVTBzcUxMS3c?oc=5",
+    "published": "2026-01-23"
+   },
+   {
+    "title": "Petrobras (PETR4) avança no semanal após rompimento técnico e mira topo histórico",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWl92TU5zNmtaLU51VVlVdmZRUVNrWlplUTBHQ3YzMFplbFliN3hPTWVObG03ZC03NHpYZlZRM0FIVXFLZnhRRGJRM1EwSWEzeWxHb1poOGpER3NiYVRJWlZkaF9wSVYyNmphTWZCQXFvNzJPSVBYdmRtZlJiTTRXVmV0LWtOQ0p1NENBX216Z3BBQV8wMWkwazRaLTBtSHViMHg1Yjhkd3F4OFJvUWYzZXpUdTBDRG_SAbwBQVVfeXFMUFYtR3RxWVBvTkVPTXd0dEt5MkQ1UXVHOFM1Ry00YzFOLUcxZ2VLOWVhM2VjR2xmRkRrZTNBN3V1UHVEY2NzREdyamdSWWxqdkVPVTJpc0YxRzFlM0ZBZHN1WkJWZEdmd1hIOW1hVUM3TEh2eGRUcnQ0SzFLdWFOSHBFWGN0VW9JQnd2M1pZcllpZklaaFUwZkVsVWt6akM2MGtzTV9fSGlESGtKcjNhRjROQVIyZzFwbUl4NnM?oc=5",
+    "published": "2026-01-22"
+   },
+   {
+    "title": "Comissão de Ética Pública e Petrobras fortalecem diálogo sobre ética e integridade — Planalto",
+    "source": "GOV.BR",
+    "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNaVAzOEdnRGtMSm16Ykc4VTRaZ2lWM2JQRzZIdWlGNkVMRE5jYm5SS2syYlB5dmFBZUtxNXJYMDA1Y0RZYVBuRWhKZ3hKU0IyNmljRnJYaG1oTVFYQmVxVkRKdmpobVNURjllVFd3QUsxWjdPRlZwOWhDeC02Vmk3Ri1QUnBIUXZwT0hUcTBkel9hRDF0YmJZdDBYbHI3Mlp2dDA1UjA2RGM2eS1tZjBTaUw2aXZveHlsZnJ3Uk5yVEV2U2w0ZVRmMFZXMEUyZl9XUG54LWNIYjlBZmVTWTlteG9ZUGpfU0hoUnpvYTNOc0puS2NrQzFRLWdFV3JfVU10YWZ6MmFaRVlqYUtnQ19EaFZDOS1VZHdjY05QVV9JQ3g3ZzF4OGE1ZEhB?oc=5",
+    "published": "2026-01-22"
+   }
+  ],
+  "ai": {
+   "short_reason": "no clear explanation",
+   "explanation": "As manchetes descrevem a alta da PETR4 na semana e um rompimento técnico no gráfico, mas não apontam uma causa fundamental para o movimento do dia. A notícia sobre diálogo com a Comissão de Ética Pública não tem relação com o preço da ação.",
+   "type": "unknown",
+   "confidence": "low",
+   "sources": [],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1209,
+    "output_tokens": 476,
+    "cost_usd": 0.000359,
+    "latency_s": 3.11,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:41:06+00:00"
+ },
+ {
+  "date": "2026-03-02",
+  "prev_date": "2026-02-27",
+  "return": 0.0458,
+  "z": 2.81,
+  "ibov_return": 0.0028,
+  "excess_return": 0.043,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Guerra no Oriente Médio: entenda efeitos no petróleo e nas ações da Petrobras (PETR4)",
+    "source": "InvesTalk",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbW40MkhZN0ZhOE1ndUZLdU5MZGZ2ZEg3U1huTlM5YUdRT1RXUHNGQW56ZVhHV2dLTFpKeXJWTHdvRjZoRzByVjlRUmVtTUV4Y2ROZVFwNnZJd0taeTdCMGlUNlVoRHdVajBGclpXYjZBSWFmN3Q0aVFqa1pzLWwydl9SNmZKSzRUWUswcFFLM1pyR3VaRnk2UU82TG8zbE5PcE40WUFldlQwc3IyQTJQMS1od01HbXhWT1BpcnlFSzBnaXBOSEE?oc=5",
+    "published": "2026-03-02"
+   },
+   {
+    "title": "Petrobras dispara com guerra no Oriente Médio e setor entra em rali na bolsa",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVUk2ZVlSNXZiZW1QVUw0LXVtSHlhS0FpZlFKSUREZEt3TVhwM3ZUMUZNcWo5blpsenkyMzJqSGdKWm4zN2R1WXNQN3VyQXRoMEkzNkIwTkJnOGVNNnh3TXpUY3UzdVNBczVHWXRYOERGT2FsSXJsekp2aE4wUUM4M1pHRUZtZ1RPbDRQckZQaFFZZVBDTDFwMkljY05pUURhTnNzVTAzRTkydGhVTmpDQ3BqaXA2bGFfaUlpTXd1SDFMSGt4Zm1tc180Z2pQNks4TXdIUzRRamZJOC1NU3QwUkUySEVJd3VGd3dWbGdnRTdXTmVCRmZOUlVhUTjSAYsCQVVfeXFMTUFwTktUMkNoZHNkZXNKMm1sYWI5ZGkybjlkdGNyS25kTlFBUDhNOGI0aS0yWkh6aFFsaUFvZmNwazJpb2xuT3FIclJzSXJuMnZoQ0liZEVHWk1pOGRHd2xDYXd2QVN3QjFCT0VpSG5WdWFfUWV3Q1ZCMExxMkVSN1c2SjFjUjBzRUpCZGZsQnZxVnAyT3d3VEdULUZCOTJHN004N2RiTVUyYTA1NmRXVlMzYXQtZXhBWWRWakR1NENLTkR2UHJwenYwNmRidlVZV0duOHdjY3l5U2tGeERDODAwOW5oSXdhUzlhUkVKZEx4NTZVbE9GV1BtcWpVS3NlbWxqOE55VEJiVVRr?oc=5",
+    "published": "2026-03-02"
+   },
+   {
+    "title": "Petrobras (PETR3; PETR4) sobe mais de 4% com conflito no Irã",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEl6Y3h1YTc3Rks5c2R3cUdTS2kxYXhsRkpMdGt0MjRQRldBWGpsNjYtcHR6VW1DTkhpT2diTW9PQ1c5UEVKYU42cWFPdXVMTmVvTGdvWU9nNHpIRGpITkZvaU5lZGx5TnhTNEhYakdOV2VGZXlVUmg5VkZkR3o2RlVzbHDSAYoBQVVfeXFMTWJiR2tZRG1XN0FHTEZTQThqM1RBejNLd2RZQWk4dDltYzdZRTFKd3Q3Y2FSelF1cEFjT0ZnM1RLMmttZ21TX1BfVzdnQW1CNzZGaHlRM2VLYUhjbXo4TTI5UXFqNkdrd1FvMm96cFpzRXBEdUlfc1Rsc2FJQ3Z0U0piQzZGakNXczBR?oc=5",
+    "published": "2026-03-02"
+   },
+   {
+    "title": "Prio (PRIO3) e Petrobras (PETR4) em alta com conflito no Oriente Médio; vale investir? Veja por que a resposta não é tão simples",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYUU4MUlFSUJOLTM5X1dNRmRfUkgtbnZidGtaZjdYNmRjQVNaUXgxUUdIZnpwZ2RHcTI1Qk9fZkpacjRkalZGWVU3cmtTUlNXV21keE1yT3VlZ0JuV3Y4UmJiNEV4ajVRVlhoc29IeHNNSUV4bndyODEwTk5zRE5CLTdhOWtEQ1lnOEFjN3g4LWR0RkJKeXUtQ2VTek9pX1dBa0tzcjlJTzlZM2N5RkZFWGVmNWRWSDNBbmlqbDltajA3WXEyWnpBUE5R?oc=5",
+    "published": "2026-03-02"
+   },
+   {
+    "title": "Bolsa brasileira sofre maior queda desde dezembro de 2025",
+    "source": "TradeMap",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NakhGWHg5LXJ1WGhIOUdLWW9oSzJadE55RnJNR3FTMXV0NENOTE9sT1ZFWFdMYWczYnJEOFhiX0tvY0haQ3dTdzZLNDRYR3VJSm5EWlFSbWY?oc=5",
+    "published": "2026-03-03"
+   },
+   {
+    "title": "Petrobras (PETR4): por que ação chegou a cair mesmo com nova disparada do petróleo?",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX1VzWnZjUXQ4T3Q1dW1tczJvYmxxU05RSmd5WFhPNFdwbU1fS3BHdGVxNTVkS0lhaHhBODNtTGlocHJLVk9QcmdEalk2eDJpcUgtVGZCczNsWFFNYXREY0lUSFNwaV9MZFUyTUlQN3hGODJGX2lvLWFnSFFSLTlCbFhFQmZOZldwb3pGaTVENnJkaklVZ3VYNFlma1B6ZGI5WGR3d19RM3pSUXVtQXdRd0ZFVk82RmMz0gG-AUFVX3lxTFBFQ29NYmNyVlZocUFZd05EdWc1QlB6Y2JkbGNsWmp4LW4ydVllZG85R1hwMElWdklzLVp1VlA3czhKVFBRV2Rya1VKRVFPNDlqWXE4aTNLQlRqUzlvM0hCdTNzOEdrT1U3Q2VpNHI1dXlzRWhvMS1UcVJHVF8zOEQ4dGRSR0VKcXFUTDRNa0JyZS1vVTB4bGlwM2VMYkJpVWlRaTRZUTBmb01xcjd3dTlkdW5pUUxQTXkwcVdNMUE?oc=5",
+    "published": "2026-03-03"
+   },
+   {
+    "title": "Disparada do petróleo: Petrobras (PETR4) vai ficar para trás? \"Lula vai segurar os preços o quanto puder\", diz economista",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcTdXVFREWWVkbWVtSzJyVF9yNHE0eHNvY1JmZmxlRTBGZ0oxR2otNXlfVjRPeDNBX0FqN09nSDhzQkx1QV85Ul8xNi1nSkoxNVlMaGtGcDNicS1OUUh0eG1xRXlvaml5dTVRRVRSUFBuVzBLc1ZyMldiLWU2Rm9Eby1fYW91MXJYR0VUalR0Qkg1TGJES3BBZ1BXTF9hcVJMU3JjWnRjZk5EcjhYZTZldmUtdzBPWWRMSlpjaFl4S3NORE4tTFhrb3ZBRHRjWk9DNkJpc19LeHJ2VWFYQ0kyS3RLLTFFOGtrVm1Na3RpamQ2NDls?oc=5",
+    "published": "2026-03-03"
+   }
+  ],
+  "ai": {
+   "short_reason": "Alta do petróleo com conflito no Oriente Médio",
+   "explanation": "Notícias de 2 de março associam a alta da PETR4 à guerra no Oriente Médio, que elevou os preços do petróleo e beneficiou a Petrobras e o setor. O movimento foi setorial, com a ação subindo bem acima do Ibovespa, que teve alta modesta no dia.",
+   "type": "sector",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Guerra no Oriente Médio: entenda efeitos no petróleo e nas ações da Petrobras (PETR4)",
+     "source": "InvesTalk",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbW40MkhZN0ZhOE1ndUZLdU5MZGZ2ZEg3U1huTlM5YUdRT1RXUHNGQW56ZVhHV2dLTFpKeXJWTHdvRjZoRzByVjlRUmVtTUV4Y2ROZVFwNnZJd0taeTdCMGlUNlVoRHdVajBGclpXYjZBSWFmN3Q0aVFqa1pzLWwydl9SNmZKSzRUWUswcFFLM1pyR3VaRnk2UU82TG8zbE5PcE40WUFldlQwc3IyQTJQMS1od01HbXhWT1BpcnlFSzBnaXBOSEE?oc=5"
+    },
+    {
+     "title": "Petrobras dispara com guerra no Oriente Médio e setor entra em rali na bolsa",
+     "source": "Valor Investe",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVUk2ZVlSNXZiZW1QVUw0LXVtSHlhS0FpZlFKSUREZEt3TVhwM3ZUMUZNcWo5blpsenkyMzJqSGdKWm4zN2R1WXNQN3VyQXRoMEkzNkIwTkJnOGVNNnh3TXpUY3UzdVNBczVHWXRYOERGT2FsSXJsekp2aE4wUUM4M1pHRUZtZ1RPbDRQckZQaFFZZVBDTDFwMkljY05pUURhTnNzVTAzRTkydGhVTmpDQ3BqaXA2bGFfaUlpTXd1SDFMSGt4Zm1tc180Z2pQNks4TXdIUzRRamZJOC1NU3QwUkUySEVJd3VGd3dWbGdnRTdXTmVCRmZOUlVhUTjSAYsCQVVfeXFMTUFwTktUMkNoZHNkZXNKMm1sYWI5ZGkybjlkdGNyS25kTlFBUDhNOGI0aS0yWkh6aFFsaUFvZmNwazJpb2xuT3FIclJzSXJuMnZoQ0liZEVHWk1pOGRHd2xDYXd2QVN3QjFCT0VpSG5WdWFfUWV3Q1ZCMExxMkVSN1c2SjFjUjBzRUpCZGZsQnZxVnAyT3d3VEdULUZCOTJHN004N2RiTVUyYTA1NmRXVlMzYXQtZXhBWWRWakR1NENLTkR2UHJwenYwNmRidlVZV0duOHdjY3l5U2tGeERDODAwOW5oSXdhUzlhUkVKZEx4NTZVbE9GV1BtcWpVS3NlbWxqOE55VEJiVVRr?oc=5"
+    },
+    {
+     "title": "Petrobras (PETR3; PETR4) sobe mais de 4% com conflito no Irã",
+     "source": "Suno - Investimentos Inteligentes",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEl6Y3h1YTc3Rks5c2R3cUdTS2kxYXhsRkpMdGt0MjRQRldBWGpsNjYtcHR6VW1DTkhpT2diTW9PQ1c5UEVKYU42cWFPdXVMTmVvTGdvWU9nNHpIRGpITkZvaU5lZGx5TnhTNEhYakdOV2VGZXlVUmg5VkZkR3o2RlVzbHDSAYoBQVVfeXFMTWJiR2tZRG1XN0FHTEZTQThqM1RBejNLd2RZQWk4dDltYzdZRTFKd3Q3Y2FSelF1cEFjT0ZnM1RLMmttZ21TX1BfVzdnQW1CNzZGaHlRM2VLYUhjbXo4TTI5UXFqNkdrd1FvMm96cFpzRXBEdUlfc1Rsc2FJQ3Z0U0piQzZGakNXczBR?oc=5"
+    },
+    {
+     "title": "Prio (PRIO3) e Petrobras (PETR4) em alta com conflito no Oriente Médio; vale investir? Veja por que a resposta não é tão simples",
+     "source": "Seu Dinheiro",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYUU4MUlFSUJOLTM5X1dNRmRfUkgtbnZidGtaZjdYNmRjQVNaUXgxUUdIZnpwZ2RHcTI1Qk9fZkpacjRkalZGWVU3cmtTUlNXV21keE1yT3VlZ0JuV3Y4UmJiNEV4ajVRVlhoc29IeHNNSUV4bndyODEwTk5zRE5CLTdhOWtEQ1lnOEFjN3g4LWR0RkJKeXUtQ2VTek9pX1dBa0tzcjlJTzlZM2N5RkZFWGVmNWRWSDNBbmlqbDltajA3WXEyWnpBUE5R?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1460,
+    "output_tokens": 169,
+    "cost_usd": 0.00023,
+    "latency_s": 1.75,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:41:09+00:00"
+ },
+ {
+  "date": "2026-04-08",
+  "prev_date": "2026-04-07",
+  "return": -0.0392,
+  "z": -2.77,
+  "ibov_return": 0.0209,
+  "excess_return": -0.0601,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Ações da Petrobras (PETR3; PETR4) caem apesar da alta do petróleo; saída de diretor reacende temor de intervenção",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzc5aHRDLW1wdk1iVDhIenIydW9lRzZmX2dscFZSbEJJSmNMSkNKcXZEUV8yTE16enF1LTdvV2NVa3dJSXBqc3dzQi1ZMW9xUGRIWk9XTXBHbDh6enk5b1V6WDFBVHpwaTlYVTJFUWFwZlZ3V3FybjVZZFhSOGNTV2hweFprWEMxYktOa3h4VkdKaHhaa3FoUzRidHRSWWplUHRkQ3NmZHhBUkw4NDctRWViMzNIeDJ1TjhXa9IBwgFBVV95cUxNZ0FqME9pOHM5LXdIMVdEZDZGOFRjOGJ5cVJOY3VhV0JOaDUwLUhreDNBelFMLWV6OVg3QUY3Ym9GWjF0bVJLNVIxUDk3elpCXzRTbHlhVzVyalJyNi1BRFFDakhfS20xM1RleDNHR1lULWpXVy1DSDBSVGhScUd2bGY1Vl9qRkNGcTRLRlJDdFBHUDRWSTJvcGtQYkVOZjM3R0RGTjBfRXpIeHZpcjVoX1FNcWNwbzJWNmEtVUc0cHI2QQ?oc=5",
+    "published": "2026-04-07"
+   },
+   {
+    "title": "Ações da Prio e da Petrobras lideram perdas no setor com tombo nos preços do petróleo",
+    "source": "Valor Econômico",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQODRySjdUZGxMSE4zb2g1X2pzZTZwS2Qyb1NoSHZGdDNZU3k0UmZjWkU4U3RIcGtNRUxidUQ0bVJYUEVva3ZUY0JhVHZ5b0paUHZsNFh3eHpFZ05EeXl6bnVuS2NPam9KMzNpNmloaTFnYy1fX05aLUFPVXNhNXBHdXNDenhtRFU2ckRIdnQzNHNDdkVEeVhTdUdjZnJITUNVNVVTck9ObXBuRE9DQVVnUkFSU0kyTXh4LTJpSXFGdW5Eenk0VkVyamxmcmlEajJ2M3U1eXRB0gHkAUFVX3lxTE1XaHY5WmtxS0Izams5aklDeDJxZDNXZ0NSX2FpYWFYOWVzMTBPaUxrT181MG9ldHhlVEpudHdWN2RDQXVja3VTd3hGN093SHhOaG9kNUtlZy1jQzdzSHpKVWJjTjNFUm9nblQ4ekVuM1RMX1cyMXY2TnRCSHBGMkhLVlU3T3JTNFRXbV9taW5sMHloUkJ3YXRyaVYyeWRDQThiM1ZoTVhFQ1JtXzRhOERNYlpXdkZXZVVvbVNDX3Nyc3JobUg1TGNmejA1YVJDbWxPN0ZZczlHZWZPc0JCbkRRaUE1dw?oc=5",
+    "published": "2026-04-08"
+   },
+   {
+    "title": "Ações da Petrobras caem na Bolsa com trégua entre EUA e Irã, e estatal perde R$ 28 bi em valor de mercado",
+    "source": "Folha de S.Paulo",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM3hCeFhWZEh0TWRVNkgxeEFVTmVKbkdMbU5yUTRoNTRiQkxxU0hMMnlyTmdJQnBPSkhCWldZQ3lXZ19SVTNQd01LNURYQlBNTTlnSElHVUI4VmZValZEUXVFUnF5TkJvU2JkRlp1QlpMczlucVUzdHIydGN2NXN4aGZLRXROVjBTazM4a2VUN2RQeGtKSE5xaUhBZzVkR09sN0w2U2xINGM1eFVwc1V2Z2FFTC1LbmRuVDAzcHNxZ2RLdVZTRE9qVNIBzgFBVV95cUxNVVlQSERGcER3aXNKblRLbFEyWDlIWGR1UnllNldYc1NjOVYzODFWUnBWRDh1X0NwYnRnMDI3UGVUYkp6R0l4ZmFWNGZKbVJQa3dWUzJJcmJmT3k0TmFpZ2txemJEQklqQkljaGRwS3NtZUlLeGJlRFduYnZXeXdoRXRVdVZpaE9BQy1MenlONW9zX0FMTjNTcjk0ZHVEaVRiQ2NLeExmZFg4Ri1VQTVaaXlFN29nZ2s4dGc3SDg3MzJZN3VZOHJaNlNLaFBTQQ?oc=5",
+    "published": "2026-04-08"
+   },
+   {
+    "title": "Como a Petrobras (PETR4) recuperou R$ 27 bilhões perdidos na véspera e ajuda o Ibovespa a passar dos 195 mil pontos",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQb1FzVk9wOVNVem43WnBTbVRQUkcyRlEwelJMd29RS1p3WHFBLTRGbFFwZjE5Rnh2eVVhYjliN2RrbGVETTBhN3dtTjc3Y255Qy1fUFFaTlh0SFRyRW1RUjVkdk9FUWdsUTNEeTJCd2s3aHBHVV9scm1WQnk0NHd2RzVyb2ZLY3VXbDFYLUFvNG4tbzZ3OGQ0ckJQWXZfQ3V4NS0yWF9udUVoV25oNmdTME1Ed0pndHd3M2RvRGNkeTBUZzcxalJKY29UdFUwN2RUMGVzS0lXSFJZMEZpS1BfZnhIUGoxNG5sbWV4bmIxbHAzWkUw?oc=5",
+    "published": "2026-04-09"
+   },
+   {
+    "title": "R$ 27,9 bilhões vão pelo ralo: Petrobras (PETR4) tem a maior queda intradia em valor de mercado em 4 anos",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOM0tsLTY4TUxIWEl5ME9vU1htSFMyZkNhQ3VyVUpydElEc2xhQWoxemxaS3YyS3VsUTZ5RnJvZ0R5R1ZSMUk4NUx2NzBqb1oyOHBWRjZPNTk0RlNDQlFsS213RmtMcnNxT29qVmRZeG1BcFRsbFl5cm9Qb0tVbHBpVUNHV2tCRi1NRnlCU0ZZMENLYnVQZ3lScDEtcXFOUHRrNFZFbDdYS1lpVDRINldJb1l4RlN6cVBSV2JINFRoSm9rQlpSam9xSUJvU0Y4LVdFMkk5d19JUlBNZTg3NWFxUlhLTVA?oc=5",
+    "published": "2026-04-08"
+   }
+  ],
+  "ai": {
+   "short_reason": "Queda do petróleo com trégua entre EUA e Irã",
+   "explanation": "As ações da Petrobras caíram com a trégua entre EUA e Irã, que derrubou os preços do petróleo, e a estatal perdeu cerca de R$ 28 bilhões em valor de mercado. A queda foi mais intensa que a de outras empresas do setor, enquanto o Ibovespa subiu no mesmo dia.",
+   "type": "sector",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Ações da Prio e da Petrobras lideram perdas no setor com tombo nos preços do petróleo",
+     "source": "Valor Econômico",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQODRySjdUZGxMSE4zb2g1X2pzZTZwS2Qyb1NoSHZGdDNZU3k0UmZjWkU4U3RIcGtNRUxidUQ0bVJYUEVva3ZUY0JhVHZ5b0paUHZsNFh3eHpFZ05EeXl6bnVuS2NPam9KMzNpNmloaTFnYy1fX05aLUFPVXNhNXBHdXNDenhtRFU2ckRIdnQzNHNDdkVEeVhTdUdjZnJITUNVNVVTck9ObXBuRE9DQVVnUkFSU0kyTXh4LTJpSXFGdW5Eenk0VkVyamxmcmlEajJ2M3U1eXRB0gHkAUFVX3lxTE1XaHY5WmtxS0Izams5aklDeDJxZDNXZ0NSX2FpYWFYOWVzMTBPaUxrT181MG9ldHhlVEpudHdWN2RDQXVja3VTd3hGN093SHhOaG9kNUtlZy1jQzdzSHpKVWJjTjNFUm9nblQ4ekVuM1RMX1cyMXY2TnRCSHBGMkhLVlU3T3JTNFRXbV9taW5sMHloUkJ3YXRyaVYyeWRDQThiM1ZoTVhFQ1JtXzRhOERNYlpXdkZXZVVvbVNDX3Nyc3JobUg1TGNmejA1YVJDbWxPN0ZZczlHZWZPc0JCbkRRaUE1dw?oc=5"
+    },
+    {
+     "title": "Ações da Petrobras caem na Bolsa com trégua entre EUA e Irã, e estatal perde R$ 28 bi em valor de mercado",
+     "source": "Folha de S.Paulo",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM3hCeFhWZEh0TWRVNkgxeEFVTmVKbkdMbU5yUTRoNTRiQkxxU0hMMnlyTmdJQnBPSkhCWldZQ3lXZ19SVTNQd01LNURYQlBNTTlnSElHVUI4VmZValZEUXVFUnF5TkJvU2JkRlp1QlpMczlucVUzdHIydGN2NXN4aGZLRXROVjBTazM4a2VUN2RQeGtKSE5xaUhBZzVkR09sN0w2U2xINGM1eFVwc1V2Z2FFTC1LbmRuVDAzcHNxZ2RLdVZTRE9qVNIBzgFBVV95cUxNVVlQSERGcER3aXNKblRLbFEyWDlIWGR1UnllNldYc1NjOVYzODFWUnBWRDh1X0NwYnRnMDI3UGVUYkp6R0l4ZmFWNGZKbVJQa3dWUzJJcmJmT3k0TmFpZ2txemJEQklqQkljaGRwS3NtZUlLeGJlRFduYnZXeXdoRXRVdVZpaE9BQy1MenlONW9zX0FMTjNTcjk0ZHVEaVRiQ2NLeExmZFg4Ri1VQTVaaXlFN29nZ2s4dGc3SDg3MzJZN3VZOHJaNlNLaFBTQQ?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1389,
+    "output_tokens": 498,
+    "cost_usd": 0.000388,
+    "latency_s": 3.34,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:41:14+00:00"
+ },
+ {
+  "date": "2026-04-14",
+  "prev_date": "2026-04-13",
+  "return": -0.0382,
+  "z": -2.53,
+  "ibov_return": 0.0033,
+  "excess_return": -0.0415,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Ações da Petrobras (PETR4) viram obstáculo para o Ibovespa chegar nos 200 mil pontos",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOVjdnTkpJaGRWeWJ0RUk4TzlRQ0JIVkhNUUVJNTNEMVhyUmEtRVQtWl9JUGtObHZkaURMLUlNVko1MFlKS25YeTRBUVdWV29jZ2FXYW5iOGhwNXAxU1FJekh5QVRveDJneWt1ckdBeXVsUHF1aHJNdXFIcUV6eFd3VmxXazIyVHRkQVRaWUQtVlV6Z0R1bHBGdlVqRVRoNG14eDBzclloSWR6eE1ZTGdwZlJsLUV3YS1wc21KSGlBM1p1Z3hyN2pyVzFabk5YeFNWZWtQU0dnNFRNRk1OaUQ1bkFBOVpMNWkxZ3UyX2Q3NHowMm1LWF9JV2g4UFdvdENWdGYwYnI1cHg1MmxrMXJjVtIBnwJBVV95cUxOX2ZKRG1RTEg2ekx5U0hudmxDQUxPZ25yc1VZNUt4SThSOWJUX3NXVmc1d3ItSWxmRlBjSThQb3lwdXhFYksyRlVHR053b0NuOEZYODk2emxOb3pPUHF6YTBqQ0lkYnRJRFUzRENpUHRNU19ObjVTTlB4VVNNM0dnWGs5aUd1cl9Ebm5tNWp6bjBIMFJUZ25hYUY5aWdCNHlDcGVwYjZ0T2ppXzlmYW1qTTd2WUJSeENPQm9SMG1ELXVFb0NzTllaUFgyQUpmTnByV083dkRENTdNallZWlZrbWc5Z1Q2MFNUTFFSSUVlMEpCV2pZc3EzUXlnSGZsLXMyeGJRc3RCUThxQXVsS3hGRVdSdHpTUFpjVy1Fb2Fibw?oc=5",
+    "published": "2026-04-15"
+   },
+   {
+    "title": "Programa Autonomia e Renda Petrobras abre inscrições para 200 vagas gratuitas no RJ",
+    "source": "Sistema Firjan",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMDNFeWJPUFNOQnBqWjNjcEk0WlBUUHZnd1ozWXdSUW1Zd3c4MjE1blU1Y096QzhIZ3BCVWJOaW9pZUtNZG80TDdBNXhmVWo2dC1TazB3MHdsa0RwajhOMEhyWV8yMGUtTkJ6V1haaGgtekFHUHBhSG96dF9Ja1JkT2F3QU5NZUVoZDFVV2YyQ1Q4RERxdFU0RE91azJ6TElaZ3Fnd1BKWFd6Wi1pOVhLRnEyTDU0dkRTNzRNNXpZNA?oc=5",
+    "published": "2026-04-14"
+   },
+   {
+    "title": "Petrobras (PETR4) despenca mais de 4% com queda do petróleo",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcjRSRmdaeU1QRlM0RkdfMVJUSE1BdG5sNkwzOEtQQ1R1cFdhRFp3MlJfdTFpNVdqYS1JTmdGcXNDSndmY1ZUSjlvVGJ0T3EyRk9FOGh3TlBOMzVHbmd3YTl2RzFYaGZqYWxEbXRTMjlhN19ITXUzQVF2cjNyMXcxQ3Bn0gGHAUFVX3lxTE02eFRQNVQ5MHRlNnRDNm1WREU3QjZtVkgwbVVmam1xb05ad2dubGJyZTlHOHRmWUJWbE9ERXMxVDFVQ1pLQ1lsMkRMbUgtaDV6VFhxTUxGX3JUQllwWVAxREVVUDZPWDhXTl9OQUNHTllPT0VQek1peHVta1l1N0kxZnhtaWdUaw?oc=5",
+    "published": "2026-04-14"
+   },
+   {
+    "title": "Petrobras e SENAI abrem 1,5 mil vagas gratuitas em cursos de qualificação profissional",
+    "source": "Agência de Notícias da Indústria",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVDJVY0JMWHJ2Y28tbWxQbDFyTkVZUGUtVm96WWZCSXlzcHV0aHJjOGhxcE9xYTQ4X2FvWU5LUng2YW51eEg2dENxcVJGMFBubGc3ZDhad19PQ0x4SWdjcGw3Rm9POG5YSjRvYlNvQjBnRFFib3I3dHJBOUkxUDlrXzF5WkZ5TkI2Rlh2V0hmdmxUV29OTFlCa2o0OVNma3czUXkzbklBZnpXTUdVTm54NFBNWDVZeldzeGRkM3c3UjRERkszS051eEo3WlY4alhNV0VUbFJGdTNLLW9fMUxz?oc=5",
+    "published": "2026-04-14"
+   },
+   {
+    "title": "Petrobras (PETR4) dobrou o capital do acionista em 5 anos — mas quadruplicou o dinheiro de quem reinvestiu os dividendos",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQR2xtUmRqYzNFbnU1aFNWaG5ZNFJ4UW5rNnotTG9NbVpzZnhRemJvVGRhVVRzN3hIZE14U3BiVUJQdlQtWjFlRDNWZHJjcF9meWRpdnlMQjZ4eFFKazZWM0doQVRuUXZISzhZM0puTTJJVWx6Nlo3S3J2c0l1VnFZOWVKNmd0bk53eFpYUWRqUmd0SkhZcjUzaElRSEhXcEpQYVdiRXNDSHZoRFhjUnJRUjB5V2czaHJ5a2VEUG1xeVhNNm1FeDlwd3RHV0w0MzZsRGlGajFnaXYyUnl5bGxhMXdWdmEwMmU1Skk0UkdLXzBNSGRRTWxVZWdLbw?oc=5",
+    "published": "2026-04-13"
+   },
+   {
+    "title": "Petrobras (PETR4) dobrou o capital do acionista em 5 | Traders",
+    "source": "Traders Corretora",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQkcwNFRMamloTm5TTEZYZDI1Zm1hYzZrdUxoVk9rYmZhcVhuMC1Ccm9qVm5xMnZpMjllbV9aLV9ZMHk0X0ZUQWZpV3d3c0ZBN1hyVHluWGtZMXdoUmtkVWhxZ0d6Q1BGYWxuMHR2MlNBVWpQdUw4c2J0Y1JoanBSdkFENWJYTjYybUNZUTdCOWlKbTRiMHJzeXNmVUZ1Uk5IY3RweG92Y2M2S0pRYjk4T3FERlRyMmV0RzFOd2pTbVg4N2xHMTlJOUdyZ1NIajVHZTI1QWM5WnpxRDVVcWZKYVBXOFRTTTdUNUE?oc=5",
+    "published": "2026-04-13"
+   },
+   {
+    "title": "As 20 ações que mais subiram no começo de 2026; Petrobras e PetroRio lideram ranking",
+    "source": "Bora Investir",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaWtUV0tUWFJhSFFDNVcwTktfYnNrZ2tKb0hrcWFKQVZaclZHTmtLdE1Xd0R2QXlZUGRpSG5lV3RyLW5MNlQzenZ3UmhxTFh4YzV2RGZ4MGZhXzBnZFpHSjU3eXRweDhnS0dFSG5MS2ZmTG1GREMzaEc2Z1VPU19iZmo3ajg4ZzdWRW82ZkNTN0JCNDhINFpTR2JERUhjVDlhNkdGODJSdC1KOTYwbHhhTFdCZ1NpcklKbmpCaXQ3a29udGNhVUVhSGFJQy1LX3hRanVUeGdjbFEwNUxndXp0aWlTYnJOc1Y0U1lVMUZrVzY?oc=5",
+    "published": "2026-04-15"
+   },
+   {
+    "title": "Perdeu R$ 30 bilhões? Petrobras (PETR3;PETR4) tomba 5% e lidera perdas do Ibovespa",
+    "source": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZjJrZ1pKTnJ3UEdKVUJPRlBhWEN2V0UxVzcwaUNDekI3UW4xV3IyRVBBVEV2Ul94TnYzM0E1MzJPNGMxZ0VDcEZLR1lIYnBrMVZzQmc1UmU0M2ZfWVA4ZU0zRHFCQ0hOZWdpZC1OWmFOZk1pbllYclBuM3ZrRzlUZFZSbEZUSXVlRHJtUnI3V1F6TE9kV1lLNngtcm9nczg5dVpLcGNiRUg0d1QtbjljeVd3?oc=5",
+    "published": "2026-04-14"
+   }
+  ],
+  "ai": {
+   "short_reason": "Queda do petróleo pesa sobre a Petrobras",
+   "explanation": "A Petrobras (PETR4) caiu mais de 4% no dia, segundo a manchete que associa a queda à baixa do petróleo. O movimento foi contra o Ibovespa, que subiu 0,33%, indicando um fator específico do setor de petróleo e não do mercado como um todo.",
+   "type": "sector",
+   "confidence": "medium",
+   "sources": [
+    {
+     "title": "Petrobras (PETR4) despenca mais de 4% com queda do petróleo",
+     "source": "Suno - Investimentos Inteligentes",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcjRSRmdaeU1QRlM0RkdfMVJUSE1BdG5sNkwzOEtQQ1R1cFdhRFp3MlJfdTFpNVdqYS1JTmdGcXNDSndmY1ZUSjlvVGJ0T3EyRk9FOGh3TlBOMzVHbmd3YTl2RzFYaGZqYWxEbXRTMjlhN19ITXUzQVF2cjNyMXcxQ3Bn0gGHAUFVX3lxTE02eFRQNVQ5MHRlNnRDNm1WREU3QjZtVkgwbVVmam1xb05ad2dubGJyZTlHOHRmWUJWbE9ERXMxVDFVQ1pLQ1lsMkRMbUgtaDV6VFhxTUxGX3JUQllwWVAxREVVUDZPWDhXTl9OQUNHTllPT0VQek1peHVta1l1N0kxZnhtaWdUaw?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1529,
+    "output_tokens": 161,
+    "cost_usd": 0.000233,
+    "latency_s": 1.71,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:41:17+00:00"
+ },
+ {
+  "date": "2026-04-17",
+  "prev_date": "2026-04-16",
+  "return": -0.0486,
+  "z": -2.83,
+  "ibov_return": -0.0055,
+  "excess_return": -0.0431,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Petrobras (PETR4) distribui dividendos de R$ 41,2 bilhões: veja quando sai o pagamento",
+    "source": "Bora Investir",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaktySXU2RnQxdEx0WkRwc01FaGVPaGxXVW9fN0UxeEdQTjlKMFo1UWFtTko5MXNVT1dzQ3Y4S0JPVkxaQWJwR2FLeHlLRWNVMUFQTGNpak02aXRKbk9jRDFUb1dobkxvck1GWVpvYnB4UHNVdkhXbl9YRzNFOU5CN1lOU3d2QVU5UlQ4YkFpUVJUZlRiVDNyMWdySGtlT3VkVm1tcnRrRVgwbW5SZkYwWGJxeENSVFMtYnJUX0NkamxUUXRWR0xMbkRoT2o5akU1V0x2akxnUktrbUlsTW5QeVJoZ3RELURmb1o1MkVR?oc=5",
+    "published": "2026-04-17"
+   },
+   {
+    "title": "Petrobras (PETR4) derrete mais de 5% com queda do petróleo; Ibovespa recua",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRFBvdzNtaUU4OW80YWpxMHJFT2xOeHNkUnI5NkZ3RHl6Q3R1SWMwSG5TNy1RX1JQTEVOR05QTnR2Z2w1Ump0d1FXNEloYVFGWHRaM3Z1b0FINV9XS2xIUVE5RzMyRjRtZEM5c1VaZHBYdHpCdzJHY2xOTUdEMnN5WjNzMnJEZkNQT3h6M05pNHdFZE00cUxn0gGcAUFVX3lxTE9Hd1IxZGtNY0hDWDZkNUc5VTRWOWhwQzRYVTg1QmpQVGVheUxKTGF0cndueGRwWVhSRjREdHhQYmlDNTlQQXBxcW0yM0NBMGdLVXRtejZ0TXA5ODZkT0VhRk0yZmJZTkJLMFJjUzg5WGRZaFhSdzhqb1RvWU4wTkI0WXhvSS05M2xKeVd0UEwtQ2pfWDRQQllmOXVuRw?oc=5",
+    "published": "2026-04-17"
+   },
+   {
+    "title": "Petrobras informa sobre remuneração aos acionistas",
+    "source": "Agência Petrobras de Notícias",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQXdFbUsySmw1M1cycGNlMkVUcTFXdTZLNm91ZkplZ0NBSEs2YkFkUzN4ckUwNXcwQXRlaGc2bUpOcDUwNDM0WS1ydFJyRmk1VVEtNlpVZ21jNjR1RFFFelFFRGw1aG9lS0k0U3pHN0o4Mkc4NXpZMHBCblJtaFV4ZDBJRjVzTlZzWWdsc2F5V3ZabUN4N08xWEtNeE13TFZieUJmWm54VUdkS2RZVVFWSVZncEgxQ2tzVHlpOA?oc=5",
+    "published": "2026-04-16"
+   },
+   {
+    "title": "Ações da Petrobras (PETR4) acompanham tombo do petróleo no exterior e caem mais de 4%",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMlBKcHJpNEllS2paSEJvUFV2aWtuaC1qZUVnV3lCbFNRRHpZRW13cGt6eVkyT1g5dGNvSE0tYVpMaXR4RExpbWRuTVdLTGFwX2ZnMkN6QmxrZ3dHTFZuZkhJTlVsenpjOUR5VnZJODZCTG5DOXFodkktS1c4ZDBGMU90Zl9CbU5sZTBweTJ4NTJPOE45WHdkY01rS2otOFQwSHY1bXZNWjQ3OHNfQzdLbFA4NnNoS3BCTEpaUm1DTV9PZjlRdEHSAdQBQVVfeXFMUFZSeHdSXzJlZ2Jyb1hrck5BajEwbF90MXhBODAyck5pUXhPWFFXYzVnNnRWVU1LZ1JDS1lyZ3ZybllwVThsR1dKb2RyaFlNeGpUb0ZZMDltWXk0MVhNaXJDaEFMUEp4VWhkcHJVQ2UwQlg4TGwzSkxvS1kzc1F3Q1NmRHM4THNJUkFqQ1FDV3c1NGdjY2pidnJlVUVtaGMwYTBxcFpnWnNjaDBrd0dqTW1iVzJuZWZVcGRBWnRTZ3J2MUx5MWlZTHRWMmxvcDJHZVBTeXk?oc=5",
+    "published": "2026-04-17"
+   },
+   {
+    "title": "Petrobras (PETR4) aprova R$ 41,2 bilhões em dividendos",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeXlEVWtGMWNIMUZxVFNqTnJzNGg3a1JFOEdud284ZGczRjdLTXpvWjhiSUg3SThYbVpCVmYwbmZma3lvdVpNV2ZoRW1oSk1OaWJGS2swNkFnb3dEdGV5UlhGbEpfM0VBQ2otWFV6WlMwNG1TOW9vWnU1NU1rYXYyNHdKLVNfLVJnUTFiWNIBkgFBVV95cUxPNWNPVkVNRW1uc20wT0FuWERQRE9mTFVzSXpRSHllaXJQV0dIdGxHbU1MNW1wNUp2OFp6OEVwbGRkSWtDVk82RjhBblNNbFJlTDIyMG5Ed3ZIRkNzbG42dEk4RWRXMHRKVW0zUGxlZ0FPQmN2YmtFVzdqLXUyVHljM2xKaXhkWllGTHBTZ29NR2ZDUQ?oc=5",
+    "published": "2026-04-17"
+   },
+   {
+    "title": "Petrobras (PETR4) destrava 'legado de Dilma' com R$ 5 bilhões e coloca outros R$ 60 bilhões em nova fronteira do petróleo",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNFl4Z3g5VF9DdTdodEhBaWFYc1NzSi1Hc0FEeU1hSDVwT2VNUzFBY0ZQVkRYV0wyMDBHazIzbDNXcEV5YnRDVXlwT3NrOFVXdTlqSEtDYVREUFVPTGFoeEpuN0taYndMZ0FmS1Z4SzAxV0lRU1JCdVZkSzlFb2hoR2pwWlltZ01lTGh5dTBpdGZadnNJd05qTHFyRV9rVnhGMzJKUkg5UWtYTGN3Z1FBMl9rMnhDeW5NdVB0Wk1NVThuLVpvdXZmV2laSWJjeWpiS2hQdGhvajhJVlBVRktR?oc=5",
+    "published": "2026-04-16"
+   },
+   {
+    "title": "Dividendo da Petrobras (PETR3; PETR4) vem aí; veja quem recebe e quando",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd0lBbmlFWENMWjgzVkdncFlHdEhlRHBRQzlJRlc4d1BWVHVqTHVJRUNodVNkSGxvRjZaVkNrVFEyek5PUGFiYTFVQWpUZW53NlpUeV9SVHB2cF9FYURDelVTX1VEa0tqUlFPNW4tY29JemFsRUFlRktJYURsdzdnb056Vk9TdWJlaTQ2Wjh0Y1A5RnFQd0VRaXRLS1FBRHpjY2lvLUFmWmJ3MWZlaDcwTG1qSVk2N1dhakNKbEFaMTVZLWlVSVpHQ1dxOHpVMkpJYVM0dHNOd3NablE0SG9lbFVvbmRoV1FLZGtjX9IB-wFBVV95cUxPaktqTUNwWmpCNlZuVEVfZlJDWlVpUnJCMFYtY2dCTEVWOW8wMG04T0RYUFFXYnhpWXRLUDJ1UjFOMFVZUkV2dUh3bTRxSlh4OTZDN2pyakF4eEl5cENEZXItajVPc2RIb1hrOFB6eWNMajFTSXU2N2xGZWN4emI0NHlwNE1QWVIxZk1KWGEzVk5JMHplQVpuOHlPSFRkaGVaWGN3WXFxU2ViZU9TaGpWSGtHVmdqUXRtcUZmcmdZUDBLUUdYVDFlb0JYYlZRNEJzMzlYam5rbTUzVXdSLW4zWkpONGxmSFhZeEE0QzlyZVo5aHZzN3lQYjZ4bw?oc=5",
+    "published": "2026-04-16"
+   },
+   {
+    "title": "Petrobras (PETR4) avança na África e compra bloco estratégico de petróleo",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMUlCNXQ3TjE2ZHdZMHlPRDFUX2pGb3ZrZmNISTZtbW5tcndqTTZqWE50MS0tVjFlQ3FfSDlvMjNHaDBEOHc3bld2djF4bVlGSHdtcmpqdkVPNFliQjFmanZvbUFPbXBGZ3dadEN5NmNlU1loZXIwMFpJZ0M0NmFYNjY4dnZtUmtoci130gGQAUFVX3lxTE1QRFFvSW1WcEE5VzZocEc2UVcxbzFkV1M1Y2J0Z1kyd2Q2VlZjOVV4R3hDRWhtYTNHTWtOcUN0cXNPVXZBT1RzMVFqMno4bkhlUnEwMklHek9zTlBXVEZKV0VLNEVDZ2FKajhQRWVZYmRySlpua2NPTlUzeGl6WEZkQkpHVEsxeU5zX3d2MnR5dw?oc=5",
+    "published": "2026-04-17"
+   }
+  ],
+  "ai": {
+   "short_reason": "Queda do petróleo no exterior pressiona ações da Petrobras",
+   "explanation": "As ações da Petrobras caíram mais de 4% acompanhando o forte recuo do petróleo no mercado externo, movimento que superou em muito a queda do Ibovespa no mesmo dia. Os dividendos de R$ 41,2 bilhões aprovados na mesma data não aparecem como causa da queda nas manchetes.",
+   "type": "sector",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Petrobras (PETR4) derrete mais de 5% com queda do petróleo; Ibovespa recua",
+     "source": "Suno - Investimentos Inteligentes",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRFBvdzNtaUU4OW80YWpxMHJFT2xOeHNkUnI5NkZ3RHl6Q3R1SWMwSG5TNy1RX1JQTEVOR05QTnR2Z2w1Ump0d1FXNEloYVFGWHRaM3Z1b0FINV9XS2xIUVE5RzMyRjRtZEM5c1VaZHBYdHpCdzJHY2xOTUdEMnN5WjNzMnJEZkNQT3h6M05pNHdFZE00cUxn0gGcAUFVX3lxTE9Hd1IxZGtNY0hDWDZkNUc5VTRWOWhwQzRYVTg1QmpQVGVheUxKTGF0cndueGRwWVhSRjREdHhQYmlDNTlQQXBxcW0yM0NBMGdLVXRtejZ0TXA5ODZkT0VhRk0yZmJZTkJLMFJjUzg5WGRZaFhSdzhqb1RvWU4wTkI0WXhvSS05M2xKeVd0UEwtQ2pfWDRQQllmOXVuRw?oc=5"
+    },
+    {
+     "title": "Ações da Petrobras (PETR4) acompanham tombo do petróleo no exterior e caem mais de 4%",
+     "source": "Valor Investe",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMlBKcHJpNEllS2paSEJvUFV2aWtuaC1qZUVnV3lCbFNRRHpZRW13cGt6eVkyT1g5dGNvSE0tYVpMaXR4RExpbWRuTVdLTGFwX2ZnMkN6QmxrZ3dHTFZuZkhJTlVsenpjOUR5VnZJODZCTG5DOXFodkktS1c4ZDBGMU90Zl9CbU5sZTBweTJ4NTJPOE45WHdkY01rS2otOFQwSHY1bXZNWjQ3OHNfQzdLbFA4NnNoS3BCTEpaUm1DTV9PZjlRdEHSAdQBQVVfeXFMUFZSeHdSXzJlZ2Jyb1hrck5BajEwbF90MXhBODAyck5pUXhPWFFXYzVnNnRWVU1LZ1JDS1lyZ3ZybllwVThsR1dKb2RyaFlNeGpUb0ZZMDltWXk0MVhNaXJDaEFMUEp4VWhkcHJVQ2UwQlg4TGwzSkxvS1kzc1F3Q1NmRHM4THNJUkFqQ1FDV3c1NGdjY2pidnJlVUVtaGMwYTBxcFpnWnNjaDBrd0dqTW1iVzJuZWZVcGRBWnRTZ3J2MUx5MWlZTHRWMmxvcDJHZVBTeXk?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1521,
+    "output_tokens": 179,
+    "cost_usd": 0.000242,
+    "latency_s": 1.59,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:41:20+00:00"
+ },
+ {
+  "date": "2026-06-15",
+  "prev_date": "2026-06-12",
+  "return": -0.0515,
+  "z": -2.66,
+  "ibov_return": -0.0042,
+  "excess_return": -0.0473,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Petróleo despencou e Petrobras caiu 5%. É hora de comprar ou vender ações de petroleiras?",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQWTNzMnNKaDRMZDYtd1JDbzBFX1dCU1owSGhfeGx4bUFBNmVJNm9WcmZFQklITThuMW0xcFd0MVBKdmtPYkphSk4wdlhWc3h2WkN2MUJoNjkxNlhOTjdoRTBIQVBtdDJxeWNsOUo5aTBtbXU5X1hpWW8zRkhwUl9tNFZ4eTRGSWdFWDBHRVVqR0NOUG55UHFCMkJUT19kc3U2RWFucXB6cmpyQjNnWDMxeUlqQzVHdjhRQ3VHOG5WOGg4cXN1UlFRdVE2V1V2M2hreXBBa0FOZzAwS1pKcTlCOWdWMTY1amlNNlR4RXJSMlBvTGlNTWtDVjBHUVlrQVM5bXpEYXp1LUc3bmJKMS1lcXhRM0hxUmdrbXc?oc=5",
+    "published": "2026-06-15"
+   },
+   {
+    "title": "Petrobras (PETR4) paga JCP com “bônus” da Selic; veja valor por ação",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSdnlVVjVCVDRreHFEckpFMXNQdElycGM3dUUzalpYRUQyM3pQT0lXWGVGZlM5NnJGcktTMlVtbmpuc3BlUnMtck1YQVRCclpteGJ5bU5TSFJ1QUtXdFlFdFdlME1qSHp2RkR2ZWgtMm41c1E4U2pIVm1Nc0pfQdIBgwFBVV95cUxPTlFoU0FhWkVTYlp5cGREX1Y3eXprRG9iVWt4bVlMYzEzQ0pOU0pGamdEaVJZdTZwT3ZFNzBRc2JROXZuSlVvV3BJU21YRDRtc3JRSkNPSlo1QTVJMWVaemJhNmxkUWljdThYT0llYkNQM1o5VmJBakdvdTlYUlJ2dWVwZw?oc=5",
+    "published": "2026-06-16"
+   },
+   {
+    "title": "Junho Ambiental: MPF e MPSP pedem anulação de nova licença do pré-sal por risco de agravamento da crise climática",
+    "source": "Ministério Público Federal",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMXFycVl3dTFPZFZmR2xibF95eTBGVXJBRHhGOGxPcHdTV2MtWTllcGVSYlY4WWhXWHpiYkJjWnhHaHVWa1ZKbnNMX2ZtNDNVXzFUcFFBendCYzlkaDRET3h5RVpvMzZRbkh0c1dtMkp6NV9GWnNzQ0JBemVmMUU2MGM4c3RPS1Y0bk9JMGpEcFU1dXZxS3V1aVB3LTBjdWZQc2kwZWlXYTdJM2l6VV96QnduYUpLWVVPZl9aY1Q5XzhXS01mQmxTVmE0TnJhMEpkWngxXzU5cW9ETjdFajdoQTVn?oc=5",
+    "published": "2026-06-16"
+   },
+   {
+    "title": "Petróleo em queda, Petrobras (PETR4) e Prio (PRIO3) liderando perdas na bolsa. Por que a XP ainda recomenda compra?",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb0FSTHIyM3V5R2FwZU1MREREUXJKYzduVlpUVFc4YzBsdnpfeEQ5TGZDVUwtaEpqbXJ5NDl4Wm4zcmpGYlpCOEJ5Rlk4cWpCUTZmdmVoOFpUVDlNUG5IVDFSRHYwcXBDZ011R1FteW8yaUlEa3NBVG1qb1lKcklBdjFzTTJIeXYzRHI3bnhJY0tiZk5fa1pNRld0a2lPY1ZYMGJ2Uk45Nkw5ZmJJeWw1OGM3QWdoUU5sczk4bXRlcVV4LUdjNjRlN3RtT0tWRXp6Rnl4UG5uQXRLUQ?oc=5",
+    "published": "2026-06-15"
+   },
+   {
+    "title": "Vale (VALE3); Axia (AXIA3); Petrobras (PETR4): veja os destaques das empresas",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTHZabkxDSXBpdmx5c09RSzZJMzFWdV9PVTBiWk9JeElYUTRFTFlxbjRpbGdxaTdqT0JTUVZxX0szM2dQQkRwWXNpcHpkQW52UG5GcW5KQ1RsaXc0ZUcxSHB6QUlVWkZQbms4akFYRjZjSEpITV9ZMzVuMEtVaGRuWV9mLWhndXdCLTAxREFzUVQ5elNCVHpHbi1ORkEzSF9ZLUZFbHBkaFVXc2ZKblJha1lwcWQyVjk4SnA4MTJJRlgzTFNibWtSbVhtbEdMSnFYaFJQOUY1NnhFRVNtZjc2bjVUU1l5QmhmSUNOVWJn0gH8AUFVX3lxTFBwY2p6SXgzbWVmZ19FTmNEZWkzZDlSUV8xR29naWRTT0cyRVBWYW5ZUzBFNWJKRzN5eEIyMUlHeXgzTWZVU2FqSHhQUVI4MXBCS1RwNWp5amM0d0ZpTklkZW16cTV2cGJPa0JTNmpzVlI2MXpHNWdGRFFRemRIeHlYMWROWnFwaWpFTTRVNlI4Z3NVblBvSTBWT1YwZy13NWdxMXVxWF8ycDU5T1RleWhkTGdpS3poWmt2Z19CVFhWRE5xdTVYRFFKWE1YYnJYZ0g3Rk00S3d0YkphcDlZaV8wQlFac1k1THpnRFNXZy0zaXNHLVM0OS1Wa2tURQ?oc=5",
+    "published": "2026-06-15"
+   },
+   {
+    "title": "Ibovespa cai com tombo da Petrobras (PETR4) e inflação no radar do mercado",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS29lcmFNVE0tU0Z4UkhCWDZNdVVEeFJ3Y1F5eGR4ajhCMk8zRzBUMUZoSnBXdVpOb3VpaHFwRVdQb2M4YlZJQWxkZVlqdmVSWEVhbDAzaXFNZUJFZ2tEOWRscWtmd1VLWDFHNl9wRU9YemJ0S19SZVFpRmxfY0pSRV9VRdIBiAFBVV95cUxOQVo4UXJtYzlIUkZFYTRzVFJRdW80M3dkNHR5aG1haEg2d3Y0X05YUUtMZ3JZYmJWeHdLTmpyNy1GNUhSWFVCalVHMFYyMzdZR3kteUREVTlBZFU0OUZVamtzZkUzcXVKaGJUcE4tbkEtX2lqblMzS3RVbW9zOXFtajVtMkN3YWl6?oc=5",
+    "published": "2026-06-15"
+   },
+   {
+    "title": "Tecnologia em alta e Petrobras em baixa faz Ibovespa cair após acordo EUA-Irã; dólar sobe",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY2Q0cnhLM0NjME14Q1A0dWZ3OWl6TTdhajdwSXFGZTVVUmVZRUNScWhIU1lBVEE1M2twNlBIeGg1dzg3cVNNVW5QdlEyaXpHSDVZaWFiM2FuU3J0aWYwYW96VzRfWHZaSTIwdElBQ2F3ZEsxWk82UVBjVlBNS3VhRzAyTVRtVUFndVdPYWtVZ2FQR0pCWXFRN0M2bU15M1JrN1FVWFZYVm9fTG9ZZ0hBRU9YMTVjaUNrRkRLU3RLcU5PellkNHZIVmFB0gHYAUFVX3lxTFBlS1RMOVB0UHJXVkJNeHlsRlk5LWhaTDRMYXBrNWNTLTgyOUpSc053NzFJdE5XSzhKR0ViTHRoekF0QlF5ME9vTXczVlgzclphMnJkdjFEbE9BaVo5N1JDRVFmOHJlRnhydERVYjhTUTVPOHdMaWNVeFJtd3d1aV83MlhzNTdDaHZSNlB0TnlMekNwbnFRUTd0NlQtZnlGdUdjTDVsdkVWT2M2MGlaZjFOMG5WSzlfcmFrQW9IMTlTQm05TTMtLTI3U2lYZzZnOVFDRjRXUUNZNQ?oc=5",
+    "published": "2026-06-15"
+   }
+  ],
+  "ai": {
+   "short_reason": "Queda do petróleo pressiona ações da Petrobras",
+   "explanation": "A ação da Petrobras caiu 5,15% em 15/06, em um dia em que o Ibovespa recuou 0,42%. Notícias do mesmo dia relatam que o petróleo despencou e que a estatal liderou as perdas do setor, com a Prio também em queda. Uma reportagem associa a baixa ao acordo EUA-Irã, que pesou sobre a commodity e sobre a empresa.",
+   "type": "sector",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Petróleo despencou e Petrobras caiu 5%. É hora de comprar ou vender ações de petroleiras?",
+     "source": "Valor Investe",
+     "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQWTNzMnNKaDRMZDYtd1JDbzBFX1dCU1owSGhfeGx4bUFBNmVJNm9WcmZFQklITThuMW0xcFd0MVBKdmtPYkphSk4wdlhWc3h2WkN2MUJoNjkxNlhOTjdoRTBIQVBtdDJxeWNsOUo5aTBtbXU5X1hpWW8zRkhwUl9tNFZ4eTRGSWdFWDBHRVVqR0NOUG55UHFCMkJUT19kc3U2RWFucXB6cmpyQjNnWDMxeUlqQzVHdjhRQ3VHOG5WOGg4cXN1UlFRdVE2V1V2M2hreXBBa0FOZzAwS1pKcTlCOWdWMTY1amlNNlR4RXJSMlBvTGlNTWtDVjBHUVlrQVM5bXpEYXp1LUc3bmJKMS1lcXhRM0hxUmdrbXc?oc=5"
+    },
+    {
+     "title": "Petróleo em queda, Petrobras (PETR4) e Prio (PRIO3) liderando perdas na bolsa. Por que a XP ainda recomenda compra?",
+     "source": "Seu Dinheiro",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb0FSTHIyM3V5R2FwZU1MREREUXJKYzduVlpUVFc4YzBsdnpfeEQ5TGZDVUwtaEpqbXJ5NDl4Wm4zcmpGYlpCOEJ5Rlk4cWpCUTZmdmVoOFpUVDlNUG5IVDFSRHYwcXBDZ011R1FteW8yaUlEa3NBVG1qb1lKcklBdjFzTTJIeXYzRHI3bnhJY0tiZk5fa1pNRld0a2lPY1ZYMGJ2Uk45Nkw5ZmJJeWw1OGM3QWdoUU5sczk4bXRlcVV4LUdjNjRlN3RtT0tWRXp6Rnl4UG5uQXRLUQ?oc=5"
+    },
+    {
+     "title": "Tecnologia em alta e Petrobras em baixa faz Ibovespa cair após acordo EUA-Irã; dólar sobe",
+     "source": "Valor Investe",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY2Q0cnhLM0NjME14Q1A0dWZ3OWl6TTdhajdwSXFGZTVVUmVZRUNScWhIU1lBVEE1M2twNlBIeGg1dzg3cVNNVW5QdlEyaXpHSDVZaWFiM2FuU3J0aWYwYW96VzRfWHZaSTIwdElBQ2F3ZEsxWk82UVBjVlBNS3VhRzAyTVRtVUFndVdPYWtVZ2FQR0pCWXFRN0M2bU15M1JrN1FVWFZYVm9fTG9ZZ0hBRU9YMTVjaUNrRkRLU3RLcU5PellkNHZIVmFB0gHYAUFVX3lxTFBlS1RMOVB0UHJXVkJNeHlsRlk5LWhaTDRMYXBrNWNTLTgyOUpSc053NzFJdE5XSzhKR0ViTHRoekF0QlF5ME9vTXczVlgzclphMnJkdjFEbE9BaVo5N1JDRVFmOHJlRnhydERVYjhTUTVPOHdMaWNVeFJtd3d1aV83MlhzNTdDaHZSNlB0TnlMekNwbnFRUTd0NlQtZnlGdUdjTDVsdkVWT2M2MGlaZjFOMG5WSzlfcmFrQW9IMTlTQm05TTMtLTI3U2lYZzZnOVFDRjRXUUNZNQ?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1491,
+    "output_tokens": 492,
+    "cost_usd": 0.000395,
+    "latency_s": 3.41,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:41:25+00:00"
+ },
+ {
+  "date": "2026-10-05",
+  "prev_date": "2026-10-02",
+  "return": 0.0819,
+  "z": 4.37,
+  "ibov_return": 0.077,
+  "excess_return": 0.0049,
+  "scope": "market",
+  "news": [
+   {
+    "title": "Petrobras (PETR4/PETR3) acha mais petróleo no Amapá: como isso mexe com as ações?",
+    "source": "InvesTalk",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZmQ5NThHSmk0R19yZ3B4WUZINUtDRUxHQlVwWHllZzFuckRYMkNsMkZETU1RWHZXNEl4eVF6ZFl6MGdDN3NnNnA1amJrbUxubGliYW1zbTJRd2hxOHFVX1NvR2JKUEdtWVI4VjA5NHVjVmxaVDZBZUlNeUhSUG1mdFBxUmhESUowWXBodjVpWDI4dVpBakZsamR1cE5MZ0JFMl9MUnJLX1RBam4zYkotWnNlMW5xNjFDcUZIcGZNcw?oc=5",
+    "published": "2026-10-02"
+   },
+   {
+    "title": "PETR4 salta 8%, bate máxima histórica e mira novos níveis no gráfico",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVFA3dk9fZ0VXVGZMOGpUZUpYSWFYU0R1NGtuUHpRWW1ON3RjR3RxN0lTdjJMY1B2TVdVcEhFWk5vS0dLNGVPZVhqX2RXUTROVnpMZDNCNWZtZFEySnJ5ZjBrNjQ0MDY0WDQwa0NiblUydlJBaVZZX29HTm9tNUdDa2VpRnh0RG1SV2pMLVp30gGTAUFVX3lxTE5aNE5JS0hOVnczclhlOFpuT0tMQ1JCZ0Q0XzNnV1JxR2xabHotOGM1ZWIxcjRrRzFfNDBfeXNTdmJITXZCZTl2QmZwVWdKZi1HcF9mS1paZ0ppZm1xUzFpZWtHZmtDMzk4cmRoZTRyQWwxcTRRYzVKb0FOVUhGa21yZXpRSC15WlIzNFJRQUswdjNBNA?oc=5",
+    "published": "2026-10-05"
+   },
+   {
+    "title": "Com salto nas ações, Petrobras e Banco do Brasil adicionam R$ 59 bilhões em valor de mercado",
+    "source": "O GLOBO",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc0ZRSlo1bTRtbURxSVhLcnc2LVZFV0pkRGNCR3VLM3RIR2xPMTBLM2pjdzFaTGlIbmtTSVdDSmh2b1VaVXl5QlZDaVJMVWVpdDU1Q3lNNkxuYnpNeEM3cWZBc2VUbVdJNnEzOS1OUy1LdDF3MGUyNXNUR2xWd05LN21FVHZNa2ZORTZ2UlNZaGJtSjRMQl9CMGtXdk9vWTE4LTJ6QldZNDJGdjg5NFJjSU5YM2NUbHNRekHSAcgBQVVfeXFMTW9GQjZuRUxtcDhHSTl2Tno5b19ZeU1UREF2b3NpMjhBNVdsdzF2RFVRRFc3cmRHNjZvTVJZX1hNMk45M0JrZnJPMzI1WFd1NC1KQmU3RDBWaVpOU0owaUJDclFCSnRhOVlzWW5qZHRnSlh3bkxKbk9CV0hxR0hqQXVRb21QRzY3aVAzVTZXeHlzTUtKX2ZVdURiX3ZrMVBkeXd5S0ZhenVLb2R2QjlFeFRMTlBVZDUwdlZtUVVoZXBjNkNhX01jcV8?oc=5",
+    "published": "2026-10-05"
+   },
+   {
+    "title": "Bancos \"mexem na calculadora\" e ajustam potencial de valorização de Petrobras, Rede D'Or e outras ações",
+    "source": "NeoFeed",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUHU3ZG9rb1N5OGZ6Y1NNU3c4VHVnNGdIVm52bGF0Z0twTkNlcHZndkNoeXh0SVBSLWp6VU5qU0lRWlV1OW5jZk1VMXRpMFUwa0pIQ3d0bVJZRzcwTUJsX05JWDB0M3c5Um1ZRFRQZUNhZTZsSlhFWkJGUm5wR2pvX3N6UWJINDNFWDdIbGpUZE5ybnBFLTNFbXZGVW5kRzdxWXh3QU5qb2xpOEI3aW4xVjA5b0tjZ3kyMFFCR2NrV0NYU1ZJbUFqVUlfZnA?oc=5",
+    "published": "2026-10-06"
+   },
+   {
+    "title": "Petrobras (PETR4) acompanha euforia do mercado e renova máxima histórica",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMFJQX2VmMFpEV3J3Zmt0MlJIMjcweVZ6WDVHR0pnQURVcjlZVnN5SjhINGFQRUNvT0RXekl1dmpoUERKTzh5RmhuUW5RY0YxSC1xMDh1ZHZxclphQTBxQXM4V0RmbHFzcjVBd0UyWVFCSkhnWHJCVEdvazlZcVZra1dwZm5xUdIBiwFBVV95cUxPMlpURDVnczlTRGdsZlFYZGR1dDB1MzJkeFNqQUVMeE5zdC0zcEVpbFMxNkxydE53TXp6aGdYZ1J0Ni1seVhzTXFXYWEtRnhsUjBiNnJXUjhkSWpHUWxlanVNWWZ6cEVJNGJ6R2pqbDlTa0NneWpQTEdBSWtuVlRhYXZ3MUZ3T1hzTTVr?oc=5",
+    "published": "2026-10-05"
+   },
+   {
+    "title": "Dólar cai a R$ 5, e bolsa sobe quase 8% após primeiro turno",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeG0zZVpfaV9NVG1OM1JoQ3A5Rmk0Zm5ZVDFSUWR0bC1aM3FzaHZGWldWRkxiUlpBRFZKdF9kbFpCMVgtUkVORTNfeFc2aW9rOHNhY2Z4RHFWTEd0cEJJN2JhQm9hOERRTDBRemxmY0xfTzZxUlZ6V3d1SFl5MmlTc3BGNzBocDU5cnY3bGdYNmlPcDdVZGI0LWczc0JDWnI2d1hSS092UVJVV1JZMERmQUR3?oc=5",
+    "published": "2026-10-05"
+   },
+   {
+    "title": "Bolsa sobe, dólar cai: o que está por trás da euforia do mercado com vantagem de Flávio Bolsonaro no 1º turno",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSeWZzYWl1Q2YydHNyLU9QS09nUlladTNPVC0tSllaeWhoU0kzN254QXdHSnZnYzRZbW91cDdWSE84T0MybkNvTVhuR2pJOEdIU1YxellTWnU5Y3l0YzFjT3Z5UdIBaEFVX3lxTE1lQUVNbm04WnJFaXQ4UGhwOUY3eUZ4RHgxa2J5WVEwTkV1a05XLXFvajJXSkxnMG4tR2phV0V5WURkM25zTDBxeHJTNDJHRmRYYW94TERVMHRBZ3Nuc1BGS29KYlQ3cWV3?oc=5",
+    "published": "2026-10-05"
+   },
+   {
+    "title": "Só correção? O que explica queda do Ibovespa nesta terça depois de salto com 1º turno",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWRFSmJYTU9lZ2hzTHdZUnpYc1VNMHRUX2VWM1Q3MnlHNDd0d19KdVBKTS1xWDRmclpvUHQwR3A0Sks4cHUtbGViWE12Zm83YUFpYUdZMUlvWnNDTF8wR1R0RE9wX3UtaUk5R0t2eGVxSUstY0wyMDJpZGJKNFZvU0xoU20zNXBndDRROC03cUMzYkZNMThVbUFqeXozM3VnYWNhek1rbDBnSWtlQ0wzQWNYNjBZcTFJcXF5OFk1R29fM20xS0HSAcsBQVVfeXFMTU95ZWFQU3ZxaDZCR3BIOTY5UWx5TkFCdWw2MjE2d0lZMWtrdXRQRG1BOE1BN2VERHR2Q2hKSUg4ekl5djU4a1pYLWlrV1ZJN2dRcVh1VUx5ejRJelZObFZBMk9UOC1JQkI5SDdyS2Q5NW5DNlRGa3BJMVV2cnBBLVU5Z3lMbE1CWnZRd3dYNnVOMkQ0R0QySlo2S2dkNGV4aGNzYmItcXNrbHR3c3ZGemliN1pjLVFCRDk1bTYzTEd2Ry14RnBqWWxidDQ?oc=5",
+    "published": "2026-10-06"
+   },
+   {
+    "title": "Enfoque - Informações Financeiras",
+    "source": "Enfoque - Informações Financeiras",
+    "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQRHdvaVZZYmxIX3FxaEptYW5CZC1odDRXVTZLM0FuSVR0TC1oaElkSzk5SjJva3oxRGs1N0hQYXJFTHZZeEk5V1JBWmc3Z2ZkMldvNUJGbC02WldVV2xCVXFlRTFZc0pqVGhaQW4wc3NtM2h4VjdYQWs5aldSbGVnNHVOZmhjd2pwakpZNlJyMjFRYl91UHNNOVgtcXFSdnlnSDRTbElETlZBRF84N1dLemdiVW9KU2JmM1FQWFhKOHVMSWEwWlgtdm5VczNxUm5qaVVEOGtwbG5tZ2pFZnFlRVU2MUZPT1ZqSTBCUGZpaEJGUEZCRF9OdDNhT0hJSFdnSUFacVdINHRXbVN6dVg2UmxqTnNRQm10emtYSTExSjVxM2JoREUxWFNVWU5LU19GWmgxeFpjZlBPSEN0OWF4cXctTTZud1hXS1lnR1V6MHdrWHpMd0h4OVpXQjFMZ1kxWVdGaWdHS0FKdkxFTi1wUTZGdmRtQUw0TlVmcFRjU0t4YjV2elViVTJ2WXdPZWR1c0lodFl5MklWa0o3TGMwLVVoTzB3dDdYSWl6LThNX1ZTb2JIVl9XdzhYUF9XVFlPVFdKUGFKSFlhZ0VRZ3RwcmZLZjRieDIySlpiNlFvOW1fR2ozZ3kybTJFbm1SR1N6UHoybGRodk1CZ2s?oc=5",
+    "published": "2026-10-02"
+   },
+   {
+    "title": "Ibovespa dispara e dólar cai após 1º turno: por que a vantagem de Flávio sobre Lula animou o mercado",
+    "source": "G1",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNHJuOVBldFVGVnlrbFgxd1g4VHUwMGNybkZTb2xZOTJjUFl1VjBmVXhNQ3ZrNG1Eb1NkUnk1U2J0cHZMWFRCUDJkSVhRemhqZjJMeTB2a3NiLW1UTHRURmpDbjBvbi1yaFpuMWJKYm1WUTZRWFJQMkVMdHB5VHQ2QWNNQjVoS25rWFk2WGZXdncxVlhrMk5mVk05YWJpcy1yTmcwVkxWcE9jWlZtZ285em4xR0lQVGl5QXc2Z0xPcE9peUN2T24ybTZldDZ5ajdQN2ZBSWt2aFJRaXpQOE1HZ3F4QmdDWFBBSkHSAfgBQVVfeXFMT3ByVHRWMkgtTkRJTFoxRXQ4WU1NMjVDRDFNZEl6OGpBdjZhNzU0c0RpTFBMNGNUX1I0cnU2Ync2bFV5dUFqMXlMNExnWW5jVEY2a1AzeVFuRWJzOGEyUFUtOUh1X2NFOHpYdGxPUE1jeUJrenJ6T2VMV3VlYnphOFBvM2IzVkF0Z3A2cXJSY2FSQW4tY21BQk5WcUJXeTBoZTQ2RkNWSU9TUVhoRzFwSlB5dkozRnZtd3AyMmEyQXBxY0xkZW5KUUZYYWtVazB1TUN4TmljdGFMT3E0bVlSWnZfWGF2MVJ2S2FIcjlCdXRseW93ckxKTzI?oc=5",
+    "published": "2026-10-06"
+   }
+  ],
+  "ai": {
+   "short_reason": "Euforia com resultado do 1º turno eleitoral",
+   "explanation": "A alta de PETR4 foi acompanhada por um salto de todo o Ibovespa (+7,70%) e queda do dólar, com o mercado reagindo à vantagem de Flávio Bolsonaro no primeiro turno. Como o movimento foi generalizado, a causa é macroeconômica e não específica da Petrobras.",
+   "type": "macro",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Dólar cai a R$ 5, e bolsa sobe quase 8% após primeiro turno",
+     "source": "Agência Brasil",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeG0zZVpfaV9NVG1OM1JoQ3A5Rmk0Zm5ZVDFSUWR0bC1aM3FzaHZGWldWRkxiUlpBRFZKdF9kbFpCMVgtUkVORTNfeFc2aW9rOHNhY2Z4RHFWTEd0cEJJN2JhQm9hOERRTDBRemxmY0xfTzZxUlZ6V3d1SFl5MmlTc3BGNzBocDU5cnY3bGdYNmlPcDdVZGI0LWczc0JDWnI2d1hSS092UVJVV1JZMERmQUR3?oc=5"
+    },
+    {
+     "title": "Bolsa sobe, dólar cai: o que está por trás da euforia do mercado com vantagem de Flávio Bolsonaro no 1º turno",
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSeWZzYWl1Q2YydHNyLU9QS09nUlladTNPVC0tSllaeWhoU0kzN254QXdHSnZnYzRZbW91cDdWSE84T0MybkNvTVhuR2pJOEdIU1YxellTWnU5Y3l0YzFjT3Z5UdIBaEFVX3lxTE1lQUVNbm04WnJFaXQ4UGhwOUY3eUZ4RHgxa2J5WVEwTkV1a05XLXFvajJXSkxnMG4tR2phV0V5WURkM25zTDBxeHJTNDJHRmRYYW94TERVMHRBZ3Nuc1BGS29KYlQ3cWV3?oc=5"
+    },
+    {
+     "title": "Ibovespa dispara e dólar cai após 1º turno: por que a vantagem de Flávio sobre Lula animou o mercado",
+     "source": "G1",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNHJuOVBldFVGVnlrbFgxd1g4VHUwMGNybkZTb2xZOTJjUFl1VjBmVXhNQ3ZrNG1Eb1NkUnk1U2J0cHZMWFRCUDJkSVhRemhqZjJMeTB2a3NiLW1UTHRURmpDbjBvbi1yaFpuMWJKYm1WUTZRWFJQMkVMdHB5VHQ2QWNNQjVoS25rWFk2WGZXdncxVlhrMk5mVk05YWJpcy1yTmcwVkxWcE9jWlZtZ285em4xR0lQVGl5QXc2Z0xPcE9peUN2T24ybTZldDZ5ajdQN2ZBSWt2aFJRaXpQOE1HZ3F4QmdDWFBBSkHSAfgBQVVfeXFMT3ByVHRWMkgtTkRJTFoxRXQ4WU1NMjVDRDFNZEl6OGpBdjZhNzU0c0RpTFBMNGNUX1I0cnU2Ync2bFV5dUFqMXlMNExnWW5jVEY2a1AzeVFuRWJzOGEyUFUtOUh1X2NFOHpYdGxPUE1jeUJrenJ6T2VMV3VlYnphOFBvM2IzVkF0Z3A2cXJSY2FSQW4tY21BQk5WcUJXeTBoZTQ2RkNWSU9TUVhoRzFwSlB5dkozRnZtd3AyMmEyQXBxY0xkZW5KUUZYYWtVazB1TUN4TmljdGFMT3E0bVlSWnZfWGF2MVJ2S2FIcjlCdXRseW93ckxKTzI?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1602,
+    "output_tokens": 175,
+    "cost_usd": 0.000248,
+    "latency_s": 1.66,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-20T03:21:27+00:00"
+ },
+ {
+  "date": "2026-10-26",
+  "prev_date": "2026-10-23",
+  "return": -0.0818,
+  "z": -4.27,
+  "ibov_return": -0.1388,
+  "excess_return": 0.057,
+  "scope": "market",
+  "news": [
+   {
+    "title": "Banco do Brasil (BBAS3) e Petrobras (PETR4) desabam e perdem R$ 100 bilhões em valor de mercado",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZDNoRlQyU3l1dDhUb3Ezc2ZBWGZNd1Jyai1DNmdDTDNFWnlHa2FidDRYd2VYOFBWNGJjdGJDTk9lYTJMb0drSERlVkJyZUZmV0dvOThXaGxHZjNWbk1STEtyX1ZsR2xveGY4cldvaTdrZ1NHVmJMd29iQndoWUxESTdXbU1mM3RJWU9NNmtzYXlyRkRXUTRERFJ6MFhNTWx1UDlpQnRZT21YN0xMb0NFQ0ZNalFkV1ZQRGtWZVRkanNVSnZRX09ET2d4aTBoMXMtSTZwNWI3NTBITEnSAeoBQVVfeXFMUERVcVNOVXYtOUxXTHVOSS1DZmdRQ0Fxa3oyZ2lGM1ZnS0gyU2JRc0R6NmVDNzZRYWRoZWdIYzh5Tmt0cWRoLWNvY0lpZ2RFb0JONkRSTTNxUXdYU1ZXcEdiaGFOM3dKZ2lvcl9xck1iUWhNeEZNWVFDNy10SkIwUTdPTFFMYjE5ckdhMzlwSWtFMG5JcFg3Ymllak9heDZQa0dyeEFFTmN4blZkamhiaW00bnJwZ2k2TndHWkZEal9tYl83ZXlQcE52SXAyLXl3bW5rVklyV25aVXNpazJxN1BIcEVBX1h4RDR3?oc=5",
+    "published": "2026-10-26"
+   },
+   {
+    "title": "Como a Petrobras se comporta em anos eleitorais? Veja desempenho nas últimas eleições",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGFoTmdrSDRFQkZqT3EtRElpZXVIRmxFNUlheHRGZktzbHNQZzd6MTlHX3RmckRlSDl4bTVMWkxid1FhTDI1NkVIdUlhbjNjRzhhdE5hZ2JYRFBraXFDMjVZMmtNejlDOTljMEhfejMxZk1jZy0xbjhmRnlUSlY5LWJNd0Q2V0QwMVNiMDAybHdxT0dzNklMMnNXYktSeVQ1WVRpTmw3WFdLbnNhMFUzdEtRTTFwNVpBNXRzUDhxSFbSAcYBQVVfeXFMTmExcDhLa3VwSFZIMFp5VEpPcnBCWjZfVEQ4eWU2cVNmUDFvWjhfY0libmItNjBYWFJxOFNzOXd3QU1Ga1BlREJlNXZiaW8xRllJbGwzRWlOZzExOUl1NE9MR20xLVZkQ3ROY1Y0UFNpenZ3cndEQWMtaTlFd0FrMWZPQldjOGI5SzBjTld6YTd3NnBZLVlaeU9qaDhuQ0F1RlFMUll0cTVyejJ3ZU11OHM0Tk13MlpHY1g5TE1kMmtBUXhqcld3?oc=5",
+    "published": "2026-10-23"
+   },
+   {
+    "title": "Projeto InspirAção: CNPq e Petrobras oferecem 1.500 bolsas para alunas negras do ensino médio; inscrições até 08/12",
+    "source": "GOV.BR",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYk5fTDh3RUJqZ2VGN3BUbXFHQkUyaFRMeUprU0tWSWVJN3d2Sy1ubzUwRUhiMHhWaWVkZ0lMeFVQWGc5ZDRJV1Q5bkVYV285alhOOVVIbEN4OFFvVEp1UHRQSWRfZTRPc2JxTjA2NG95T2dBRlpjWXFyY3ZJTFFnb3B6SmpMS1Q3eUZiWjd1TDQyMHYxNFlULUN4bF9jbHdGeGJyQjhvMWtfS0FnUjdxVFhGNklXeWwwckVHUXZLZGFoODNMTkh1ZXctdWRqUGNMNUJSYXJrZl9BLW1kS1VkN1k3ZHVORWJJVGhkUkxDbGt2N080UFBDak9B?oc=5",
+    "published": "2026-10-26"
+   },
+   {
+    "title": "Bolsa perde \"uma Petrobras\" em valor de mercado em um único pregão",
+    "source": "CNN Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjNUd3NxUUczTl9GczJOazhjcklqZkpqenN4WGFEWVUzRURidC1OSDJEc2FzZkdCZDJ0dVhUNlV0X29lN29mTkJTVDJGUVBxTFpqV3c0ekhjNnBIVlZJZW5nZEdWTWs2aUs5Y0ljQzd4YWQtaERiOVIzQjhJUzFqeDJNcGtCYU16dTExWW9VdXdDOWNVLXIzcl92RnNJSjd4aFI3U2J3UE9Yekdtd1NZSTJTb0VLUWtS?oc=5",
+    "published": "2026-10-27"
+   },
+   {
+    "title": "Petrobras (PETR4) lidera 4 perfis de investidores; veja as 10 ações mais negociadas da B3",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd1hEMFJiVUVHcUhzUzk5S1J5LWtndlJTN00tS2M3LUJHdTJFYmVubjRjcjR0ZFJlNm5nUzFBeHkwM19PZUVpeGEzVFFGbFFxS3A0Sk5NSDJWSGg5b0pmMXVnZ21DZnhPdloyT1RKVEJuQ2Ewc2JJbThsamZZdDhaLTVGbFl3M19mVkHSAY8BQVVfeXFMTS0tMktGTlVPNm0zekM5NzJPNEE5OXZLaV80ajJmRFh5RnBmTTVDTDVDMURmRzVlU1VmVU04UDUtaUNqRXpLQnZqbUlrZUNDYldadl9BVVkxQ3FsVHgzcUFPeVVONUN0RmFaU0V3cHhkR2RCMUdWeHA2cnEyNndLZ3FmTDVOWUQ1NGdMNDlYY1k?oc=5",
+    "published": "2026-10-23"
+   },
+   {
+    "title": "Dólar cai quase 1%, e Ibovespa recua após tombo eleitoral",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcW81N09vSURHdzdyclV3eWxGakV2M0ZZNmtoeFVIYUhfWjZPXzhqRE1hajRTX05wX3A3TEZ5X0lIYXU2QzFBS2JaOXJybngzR2dVaTRMblk4Qm5Ja0dJVWNfTkFJV01PVUtOYVI4MUd2RE04ZFlQNklPR242cU50OFJ4Qm9nTlNjWnR3QWRVUndQNHhTSWNQbTBib1hHYVJ2czdKWHg1TW1YcDk3VXdsOWgxMA?oc=5",
+    "published": "2026-10-27"
+   },
+   {
+    "title": "Dólar fecha a R$ 5,40, Bolsa despenca 13,8%; BC e Tesouro atuam no mercado",
+    "source": "O GLOBO",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0w0Q2hNYjZ0dDM2bEY1Ujd2VGhFX2tmUGNOT2prdmxyNEY3NExubTZGdUo5YVhiX3pPNGxxWGMtZ2hEbnBCaDhmQmZxUFUyUHZXNEczMVBKYl93emlXNHNOWDJiWUUxUm1EcnJxOFhiVVZmd0s1dS11Y0hwT1o3UG5CeUxjMlJnQWhQSENxS0F1dkc0ZEt0bHZUaFFjNjFlaW9LVDJGQklIMmpKWU1fblc2aVpQdlhPc18zTU4wZzh0dmxSSGhJ0gHWAUFVX3lxTE00cXZqcmtUTk1jSDFUT2JlcHJmZ24wMVB4UEhCRURmQUdWekk3TzRDUDRJVWptcFhmTE9BU3QzNmRMWnlTSlRDTHp6aEFMY3ZMVjhxVkFDbkxCWUdRQlJMUVJOcEc3bk9EMzQ3OWRENWJJQ25wYjdZSzFzZUdOUDQwcXlCQmg2OWNWRWZERWJxSEFfRENSLTQ0LVBzQVlEQ0k3X1NjbWRmX1JGWHJQR2hUVmoySTRHMHV5X0VKUHRKRWRkZWtkUjNjcC1TeExLTURFbGl4c1E?oc=5",
+    "published": "2026-10-26"
+   },
+   {
+    "title": "QUEDA DA BOLSA 📉 O Ibovespa inicia, nesta segunda-feira, 26, uma semana sob forte pressão após a reeleição do presidente Luiz Inácio Lula da Silva (PT) no segundo turno das eleições presidenciais de 2026.⁣ ⁣ Logo no início do pregão, a B3 acionou",
+    "source": "Instagram",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XOHZyeHVpZFBEc2lTRmhfUTBZYzgxaXlfZURSUXdhc25oajc2c25iNXRndWxFUEpaeXpYWXIyaHkwR084SEdyVVZBS05za0ZYdGc?oc=5",
+    "published": "2026-10-26"
+   },
+   {
+    "title": "Bolsa despenca com vitória de Lula, mas passado mostra que ressaca eleitoral pode ser curta",
+    "source": "NeoFeed",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2w1aFJlVjZWSzBzNE9FeVlMWGIxd3N3T21FREN1MGEyRUpISndVR1l4NktDSElwMjVmU1JjYU45M29lZVVobGVwTjNSSG1JUE9wTjJKSkJWS1RMX0FvNjZJNW5WSWltZHB4cUNGMEZ1ZnQxaWx6MFRLZl93cU5ZWG44R2ZDUHVwQ09NMTIxLXh0b3RPaWhNeTNVbTJhZnI1UnlmTTdKN3Q4ekRqYXZ0NjBFYnpuY3hyd1YwRHZkWUI?oc=5",
+    "published": "2026-10-26"
+   },
+   {
+    "title": "Queda da bolsa pós-eleição reflete especulação e perda de lucros privatistas, analisa economista",
+    "source": "Brasil de Fato",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb19MQVhCZHozX3RNRWxjRDhpRXMydXJvemRYSmNDRnJrNVQtOFpjRC1oQW5oWW53eVVhRHBWQnYybS1QR3UyQk5yN3hnSzkxTnlhLUR2RWJNVzktY2hsdGdyeHRVdnBuQUNuN0tRcmNFMy1JaHhLdGM1ME5VaFphZVZQSUV3empzWUtjQXBkZ1Q0Xy1jTldFOVdlLWdsLVgwYXNTVmVfWXdsOExvenZQeGVySzA0b3JqU05XdDB1U1FRVVFtVnBxcmFrN2ZxTzFWc3o3V1VR?oc=5",
+    "published": "2026-10-27"
+   }
+  ],
+  "ai": {
+   "short_reason": "Queda generalizada da bolsa após eleição",
+   "explanation": "O Ibovespa caiu cerca de 13,9% no dia, com a reação ao resultado eleitoral (reeleição de Lula) pesando sobre todo o mercado. A Petrobras acompanhou a queda, com perda de cerca de 8,2% no pregão, em um movimento descrito como tombo eleitoral.",
+   "type": "macro",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Banco do Brasil (BBAS3) e Petrobras (PETR4) desabam e perdem R$ 100 bilhões em valor de mercado",
+     "source": "Valor Investe",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZDNoRlQyU3l1dDhUb3Ezc2ZBWGZNd1Jyai1DNmdDTDNFWnlHa2FidDRYd2VYOFBWNGJjdGJDTk9lYTJMb0drSERlVkJyZUZmV0dvOThXaGxHZjNWbk1STEtyX1ZsR2xveGY4cldvaTdrZ1NHVmJMd29iQndoWUxESTdXbU1mM3RJWU9NNmtzYXlyRkRXUTRERFJ6MFhNTWx1UDlpQnRZT21YN0xMb0NFQ0ZNalFkV1ZQRGtWZVRkanNVSnZRX09ET2d4aTBoMXMtSTZwNWI3NTBITEnSAeoBQVVfeXFMUERVcVNOVXYtOUxXTHVOSS1DZmdRQ0Fxa3oyZ2lGM1ZnS0gyU2JRc0R6NmVDNzZRYWRoZWdIYzh5Tmt0cWRoLWNvY0lpZ2RFb0JONkRSTTNxUXdYU1ZXcEdiaGFOM3dKZ2lvcl9xck1iUWhNeEZNWVFDNy10SkIwUTdPTFFMYjE5ckdhMzlwSWtFMG5JcFg3Ymllak9heDZQa0dyeEFFTmN4blZkamhiaW00bnJwZ2k2TndHWkZEal9tYl83ZXlQcE52SXAyLXl3bW5rVklyV25aVXNpazJxN1BIcEVBX1h4RDR3?oc=5"
+    },
+    {
+     "title": "Dólar cai quase 1%, e Ibovespa recua após tombo eleitoral",
+     "source": "Agência Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcW81N09vSURHdzdyclV3eWxGakV2M0ZZNmtoeFVIYUhfWjZPXzhqRE1hajRTX05wX3A3TEZ5X0lIYXU2QzFBS2JaOXJybngzR2dVaTRMblk4Qm5Ja0dJVWNfTkFJV01PVUtOYVI4MUd2RE04ZFlQNklPR242cU50OFJ4Qm9nTlNjWnR3QWRVUndQNHhTSWNQbTBib1hHYVJ2czdKWHg1TW1YcDk3VXdsOWgxMA?oc=5"
+    },
+    {
+     "title": "Dólar fecha a R$ 5,40, Bolsa despenca 13,8%; BC e Tesouro atuam no mercado",
+     "source": "O GLOBO",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0w0Q2hNYjZ0dDM2bEY1Ujd2VGhFX2tmUGNOT2prdmxyNEY3NExubTZGdUo5YVhiX3pPNGxxWGMtZ2hEbnBCaDhmQmZxUFUyUHZXNEczMVBKYl93emlXNHNOWDJiWUUxUm1EcnJxOFhiVVZmd0s1dS11Y0hwT1o3UG5CeUxjMlJnQWhQSENxS0F1dkc0ZEt0bHZUaFFjNjFlaW9LVDJGQklIMmpKWU1fblc2aVpQdlhPc18zTU4wZzh0dmxSSGhJ0gHWAUFVX3lxTE00cXZqcmtUTk1jSDFUT2JlcHJmZ24wMVB4UEhCRURmQUdWekk3TzRDUDRJVWptcFhmTE9BU3QzNmRMWnlTSlRDTHp6aEFMY3ZMVjhxVkFDbkxCWUdRQlJMUVJOcEc3bk9EMzQ3OWRENWJJQ25wYjdZSzFzZUdOUDQwcXlCQmg2OWNWRWZERWJxSEFfRENSLTQ0LVBzQVlEQ0k3X1NjbWRmX1JGWHJQR2hUVmoySTRHMHV5X0VKUHRKRWRkZWtkUjNjcC1TeExLTURFbGl4c1E?oc=5"
+    },
+    {
+     "title": "QUEDA DA BOLSA 📉 O Ibovespa inicia, nesta segunda-feira, 26, uma semana sob forte pressão após a reeleição do presidente Luiz Inácio Lula da Silva (PT) no segundo turno das eleições presidenciais de 2026.⁣ ⁣ Logo no início do pregão, a B3 acionou",
+     "source": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XOHZyeHVpZFBEc2lTRmhfUTBZYzgxaXlfZURSUXdhc25oajc2c25iNXRndWxFUEpaeXpYWXIyaHkwR084SEdyVVZBS05za0ZYdGc?oc=5"
+    },
+    {
+     "title": "Bolsa despenca com vitória de Lula, mas passado mostra que ressaca eleitoral pode ser curta",
+     "source": "NeoFeed",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2w1aFJlVjZWSzBzNE9FeVlMWGIxd3N3T21FREN1MGEyRUpISndVR1l4NktDSElwMjVmU1JjYU45M29lZVVobGVwTjNSSG1JUE9wTjJKSkJWS1RMX0FvNjZJNW5WSWltZHB4cUNGMEZ1ZnQxaWx6MFRLZl93cU5ZWG44R2ZDUHVwQ09NMTIxLXh0b3RPaWhNeTNVbTJhZnI1UnlmTTdKN3Q4ekRqYXZ0NjBFYnpuY3hyd1YwRHZkWUI?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1721,
+    "output_tokens": 174,
+    "cost_usd": 0.000259,
+    "latency_s": 1.78,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-20T03:21:33+00:00"
+ },
+ {
+  "date": "2026-11-04",
+  "prev_date": "2026-11-03",
+  "return": -0.0708,
+  "z": -3.1,
+  "ibov_return": 0.0123,
+  "excess_return": -0.0831,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Petróleo cai 8% e derruba ações de Petrobras, PRIO e Brava",
+    "source": "UOL Economia",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWdXZHppU0NpTWI0MjJSUFZ3S2duRm4yaVRwMHhJMGpwQkNnVVJ0Wm5YR1ZrYmQ2ZEtEbGY4TUxoMGlxMU1rd0p4aklYMWFsaVFiZkVjaGpmaGZGa01JSzdqN1VOQk1hZUM2NWtRWFlfU2F4ZVdHUG9oQm5DaUk3Zk9VOUk3T29lYlAzcVh5bjVNNDBzYnlvRW1xSWxmak5XZnVrWG9XbzJmOHJrWWRidXl0Yy1qeE91RGxGWE02Mnctdmxm?oc=5",
+    "published": "2026-11-04"
+   },
+   {
+    "title": "Petrobras (PETR4) tomba com queda do petróleo e risco fiscal",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRmo4T3JhaUFnYlFlZGdkeGdXSTl4WnFNb0l0bUE1UDVSQ2g1N0k2cHZxaDl2OE1OdTM0Ulh4ZzZwMXM0NDloR2EzZHF1RUdGSlBmcXRHWDNuakRwTTM3MG51UHlNOVF3WDFUU3M4NzA1bHBjNUNZZUthNnF1TEtlTzN4NGlGYlZxMUZkLUgxX0lxT29lSHd5TjJUdnVBSmY2aHQzV3lSUnFaQ1FuQjdSVVZRS1IzZzh2elpha3NsaUd2UDJLS2xaSEphU0NxQjZ3UVdPWUZLb3R5NjN5Mk0zaHBR0gHwAUFVX3lxTE1wYlphc2xSWi1BWGQ4NTc4enZWRXBuMExyM3FTMDlFYldpTGk3azVZbndZTnNheUp5dTI4Tmtxd2R4cjhXelBQd1ZHNzJpSnpTdmZManVtYVlxSUNJWHNwaGFPbXF1VVE0ZU9qOUttdjRLQjdKVk5Wa1BBNi0xc1h3Rkp0d3NkMEpwaHh5cmltRXUtSTVtdTc0VXRRQ01mR0JkVEc1RDBjOFp2aXN0c2ZQanREcEM5Ym5MeDhldldMQkgtN1M1Y3JCdi1HT0tFRVMtTkFHci1STmV0NUVGRTFmRDBVNWZ2Umo2WldhZ2lkTw?oc=5",
+    "published": "2026-11-03"
+   },
+   {
+    "title": "Ações de Petrobras, PRIO e de mais petroleiras perdem até 9% com queda do petróleo",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYmxtM0hISTVablpRajVaVW43VEYzcFJJSUNEUThRZEpnYjBSSFlZeXlwWjFwcVdJQ0QxdGl0ejRPTm1LaHBoN1lQOVB2OHZ2ekpLS0NZRzFUaVhyVFpzUjRQZlJ4R0Qta0hnQmdMT0dyTlZmYS16Y0Q3czhBN1NEckRVa1ktNGR0UmdUR010Snd6Wk05NlNBQnM0a09sMTY1LWhZdV9najA5RmZtbUFF0gG0AUFVX3lxTE9yazFJOUlfN0U2SllOMUIwdTRoWkJnZEwzQklTTmdPQ1p4TEpVc0JON0ZxdGRuNXJCVWVHVEI1UUZoMGVQQVJwekg0ZHRwdVp3Rk9PMjhsQmZ0UC1QVWlFNDB2VlJxMWhVaTd6ZHZtN1FLNnJHb2hnMEEtOE9XX1lXVzBOcmVER2Z3ODNzbTdpczBIWFJBeWlIazdrZ2R6SkIzYzg1QkNEN0JHVDRPc1NTOUJGRw?oc=5",
+    "published": "2026-11-04"
+   },
+   {
+    "title": "Petrobras (PETR4): Fitch eleva perfil de crédito individual da estatal",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY3pHem5BR2NFMjBuc0R1M1lkUlV1UDBJLTI4ZVpFNmZKSnlKajNKWkVNMTgxOWRXek9QWnh3WlVBbTRWSEtYb1l6Z0tvZDBKNjJDTGlOS1VBRWtBSEJMSllLbFF3Z29SYXI5djNHYUFRSU9EWWktZ2VfQ3FIRmhiV24yN05Wa3FEdjYxWGNBTW7SAZYBQVVfeXFMT2liWWJ3VzRtbXFZM1dWeW1DNW04U2I5elN1VDBKekNqRzkzSFdkVkppZThnWEZWbDFCSTNOTWk5b0hEZUZuLXhBcGRPS2t2SUU3UFRDVF9XOTlOWnVnYk1nbnZXbnhTZlJhTzgtWW5RVmFuU1NlQXZQN1dSZHNpdzRRQ2pRLWJOMDZrWUtMdkNDVDVJdTB3?oc=5",
+    "published": "2026-11-04"
+   },
+   {
+    "title": "Ibovespa cai mais de 1,4% antes do Copom; dólar fecha no maior patamar do ano, a R$ 5,48",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPXzZUV2tWVUVpdGdsSFI2R0NCd0VibFVmZzg4cDIycUZLZ0Mwb0lnamdJYmxsTUk4c285R242cTVTbjU2UnAxckdmNXgzSThMQTVVMF91T0MxTTBuekdzMXFqWno3aHMtdDJSa002dTNWR0FjNDQtZXpHM2lrOUd4SWdFRGFYMXN5UE9qM2dWcTBlRkItMUFVMVM1akJWQUMwa1p6RFVFTDliYTdaN0Z6RVJyM2FPV18zSFVqMFdEeGsxdlAtc19zU210b29zRFRqUFRqdVZXQy1yV0lidFV6NTFjR2NVQ3ppcHJhX2ZB0gHzAUFVX3lxTE1lNmszMUZvMnJ0Z29tUEh5dmFRRWRaSklGUTJ6ZjdhcXhXNWctYmlITzBWOWhBWVRndlpWcVJ2ekphNzZGcUtQUlVqVEsxb2R5b1c1S2ZsVGxKQlB2cVh4NS1BcnJrRDdaNUNLT21oamowRGVTNUlTV1FXZ3hSRHpnTUpWbWs4MmQ2SV9YRmk4dHdjT3BkZ2JoTUIyY3ZCUkZNQkZfOVZuSUhybnRNWV9JdGZxdTdDaGR0SmloVUdGaHJTLUg3bWFsM0VQdnhpckVEYnd2RHh6OExPVnBiYVZhOUlJZGRSUF8tbktUNE80TUQ3bw?oc=5",
+    "published": "2026-11-03"
+   },
+   {
+    "title": "Ibovespa B3 recua 1,42% puxado por Petrobras com petróleo em baixa; dólar vai a R$ 5,48",
+    "source": "Bora Investir",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONUVFN0gxZjd2Xy1mSzhzWnhiVFRyWkVUdUU3aUdUX1lRb1FWclpTemw4TUxvaU9oYTZ3bTB5VmxYQkM3RU83RnZGUkxVYUU0dHRrU3pKbzdFNWlCc2JuWXY2U3pBREVQVi1HMnJMVjBhcUg1VjNpQ1JiVzk2bi1JYllGYnRldThWVHNRMlRJUlJkWW1Zd0lCUldWSHVlMmhHOWJIMWJ2dFZTREg1VEN6NU9KWkxDU0tqcWd4LUpXazdOeWtNVzFYLWpZdw?oc=5",
+    "published": "2026-11-03"
+   },
+   {
+    "title": "Com 'onda azul' nos EUA, petróleo fecha abaixo de US$ 100 pela 1º vez desde setembro; Petrobras tomba 7%",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONV9IVU1MOE5hMGlJMVRIak1obXdXaEVQVUhWQmtwVUVWaFNzb2FQY200RnNwdnpENkNSUnBiTERPUlZhdW5zQV9hS3dyTklESWNNM3J5Qy16WEFrUFJIcnFoY0MtZjFLUDFkQTRoOHltZWNaZ3JpejNoc3puci1XQ21GQmNnZEM5OERsMFJsVEVzZHlUWjdVWnlUdHIzOElZM2JuRHpocUlnVnEtdzlqdGRMNkhSQW1FZFozUS1FZndydkVyRUo2Q1B0UFBNdlRsbEwxRUYzNFVlQkRoQWZfaWFnUjkwMklZZGdYM2RrX1o5TldQVEJvdjNhSC14TDRPQ2NyVDVxRUs0UG_SAZoCQVVfeXFMT1NpcXdHOFROZUw1RVNianN2WEpFQ29yVWgyekU1OGVxN0xWY3lhNEZpUW9FdVZ5a0pwSXpZNGlLSjRrSFpNTWNwX0I5TkFSelg2a1RDQmhpU2V5VHhkODNjblMtMnRUcTRfUHRJOFEtcWxlbVBaSEZHZm9ldUt4R2p1TVV3SHgtU0NMTUR1OXFaZ1cyeVRyeGZ6QVpKLXl0dDRocU5ybGVyc3J4WGVWUHlyZUxqZUZjM2RWU3c3MnRHRHAwWFNmNlFMXzc3UGVHQUc3Mkc4VDF6b3V6NzJXUC1VZGJ5MlZOTU0tRkdLUzRZcmhfRk9vVHZhTkpGUDg0N1ZjQW9vM0FlQnBhM0Z1LWJ1Sk13dDZUVkV3?oc=5",
+    "published": "2026-11-04"
+   },
+   {
+    "title": "Ibovespa finalmente reage após seis quedas; Itaú (ITUB4) sobe e Petrobras (PETR4) despenca 7%",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FYlQ5b3hZbV82ZFdlSVo3Z0YwRi1vSjJabUxLX1I2UmdZcGtPUnJ5b2hJYVBqMEY2NllhLW5sbGhzbVdFQ20zblJHekNKaktzNE84aHdiNy1DUGpaaW0tdXhZRWdYWDVZTkNsU1RkTEt2VnBYRGFTT9IBfkFVX3lxTE1Db0pJVDVDMW5nclhsNjJQelJoYU13dTNmY0tJUmVuZzBhQWtPY3QxbVNCVHFONGYtVndUMHJNVUlLcWwzeVVwcGpDazQwNWlLV0VHd0kzc0FWZVV4V011T2pIc0swS01lalNfSkVrelRacVZXM1Z0dWdDMHFaUQ?oc=5",
+    "published": "2026-11-04"
+   }
+  ],
+  "ai": {
+   "short_reason": "Queda forte do petróleo derruba ações da Petrobras",
+   "explanation": "O petróleo caiu cerca de 8% no dia, arrastando as ações da Petrobras e de outras petroleiras, e a estatal foi uma das que mais perderam no Ibovespa, que subiu 1,23%. A queda do petróleo abaixo de US$ 100, atribuída à 'onda azul' nos EUA, explica diretamente o movimento da PETR4.",
+   "type": "sector",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Petróleo cai 8% e derruba ações de Petrobras, PRIO e Brava",
+     "source": "UOL Economia",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWdXZHppU0NpTWI0MjJSUFZ3S2duRm4yaVRwMHhJMGpwQkNnVVJ0Wm5YR1ZrYmQ2ZEtEbGY4TUxoMGlxMU1rd0p4aklYMWFsaVFiZkVjaGpmaGZGa01JSzdqN1VOQk1hZUM2NWtRWFlfU2F4ZVdHUG9oQm5DaUk3Zk9VOUk3T29lYlAzcVh5bjVNNDBzYnlvRW1xSWxmak5XZnVrWG9XbzJmOHJrWWRidXl0Yy1qeE91RGxGWE02Mnctdmxm?oc=5"
+    },
+    {
+     "title": "Ações de Petrobras, PRIO e de mais petroleiras perdem até 9% com queda do petróleo",
+     "source": "InfoMoney",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYmxtM0hISTVablpRajVaVW43VEYzcFJJSUNEUThRZEpnYjBSSFlZeXlwWjFwcVdJQ0QxdGl0ejRPTm1LaHBoN1lQOVB2OHZ2ekpLS0NZRzFUaVhyVFpzUjRQZlJ4R0Qta0hnQmdMT0dyTlZmYS16Y0Q3czhBN1NEckRVa1ktNGR0UmdUR010Snd6Wk05NlNBQnM0a09sMTY1LWhZdV9najA5RmZtbUFF0gG0AUFVX3lxTE9yazFJOUlfN0U2SllOMUIwdTRoWkJnZEwzQklTTmdPQ1p4TEpVc0JON0ZxdGRuNXJCVWVHVEI1UUZoMGVQQVJwekg0ZHRwdVp3Rk9PMjhsQmZ0UC1QVWlFNDB2VlJxMWhVaTd6ZHZtN1FLNnJHb2hnMEEtOE9XX1lXVzBOcmVER2Z3ODNzbTdpczBIWFJBeWlIazdrZ2R6SkIzYzg1QkNEN0JHVDRPc1NTOUJGRw?oc=5"
+    },
+    {
+     "title": "Com 'onda azul' nos EUA, petróleo fecha abaixo de US$ 100 pela 1º vez desde setembro; Petrobras tomba 7%",
+     "source": "Valor Investe",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONV9IVU1MOE5hMGlJMVRIak1obXdXaEVQVUhWQmtwVUVWaFNzb2FQY200RnNwdnpENkNSUnBiTERPUlZhdW5zQV9hS3dyTklESWNNM3J5Qy16WEFrUFJIcnFoY0MtZjFLUDFkQTRoOHltZWNaZ3JpejNoc3puci1XQ21GQmNnZEM5OERsMFJsVEVzZHlUWjdVWnlUdHIzOElZM2JuRHpocUlnVnEtdzlqdGRMNkhSQW1FZFozUS1FZndydkVyRUo2Q1B0UFBNdlRsbEwxRUYzNFVlQkRoQWZfaWFnUjkwMklZZGdYM2RrX1o5TldQVEJvdjNhSC14TDRPQ2NyVDVxRUs0UG_SAZoCQVVfeXFMT1NpcXdHOFROZUw1RVNianN2WEpFQ29yVWgyekU1OGVxN0xWY3lhNEZpUW9FdVZ5a0pwSXpZNGlLSjRrSFpNTWNwX0I5TkFSelg2a1RDQmhpU2V5VHhkODNjblMtMnRUcTRfUHRJOFEtcWxlbVBaSEZHZm9ldUt4R2p1TVV3SHgtU0NMTUR1OXFaZ1cyeVRyeGZ6QVpKLXl0dDRocU5ybGVyc3J4WGVWUHlyZUxqZUZjM2RWU3c3MnRHRHAwWFNmNlFMXzc3UGVHQUc3Mkc4VDF6b3V6NzJXUC1VZGJ5MlZOTU0tRkdLUzRZcmhfRk9vVHZhTkpGUDg0N1ZjQW9vM0FlQnBhM0Z1LWJ1Sk13dDZUVkV3?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1531,
+    "output_tokens": 193,
+    "cost_usd": 0.00025,
+    "latency_s": 1.8,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:41:40+00:00"
+ }
+]

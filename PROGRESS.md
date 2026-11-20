@@ -2,26 +2,33 @@
 
 ## Done
 - [x] 1. Setup: folders, requirements, .env.example, config
-- [x] 2. Prices: `python -m src.prices` -> data/prices/*.json (248 days each)
-- [x] 3. Detection: `python -m src.detect` -> 53 events (z>=2.5, 60d window)
-- [x] 4. News: `python -m src.news` -> Google News RSS, up to 8 deduped articles/event
-- [x] 5. AI explanation: `python -m src.explain` -> 3/3 sample events correct type, valid sources, ~$0.0004/event
+- [x] 2. Prices: `python -m src.prices` -> data/prices/*.json (+100 warm-up days)
+- [x] 3. Detection: `python -m src.detect` -> 53 events (|z| >= 2.5, 60-day window)
+- [x] 4. News: `python -m src.news` -> Google News RSS, up to 10 deduped headlines/event
+- [x] 5. AI explanation: `python -m src.explain` -> Claude Haiku 5.5, structured output, ~$0.0004/event
+- [x] 6. Cache + backfill: `python -m src.pipeline` -> 53 events in data/events,
+  9 "no clear explanation" after 3 retrieval iterations, $0.035 total spend
 
 ## Current step
-- 1. Setup — waiting for local confirmation (venv + install)
+- 7. Mini eval
 
 ## Next
-2. Prices · 3. Detection · 4. News · 5. AI explanation · 6. Cache + backfill
-7. Eval · 8. Site · 9. GitHub Actions · 10. README
+8. Site · 9. GitHub Actions · 10. README
 
 ## Open issues
 - ~~MGLU3 2026-10-26 -58%: data error?~~ Resolved: real move, "biggest daily
   drop since 1994 after Lula's reelection" (Valor). Retail stocks crashed.
+- Incident: API key was pasted into .env.example and committed locally
+  (never pushed). Commit rewritten, objects purged, history scanned clean.
+  TODO (optional): local pre-commit hook that blocks `sk-ant-` strings.
 - Fixed: VS Code injected an empty ANTHROPIC_API_KEY into the terminal;
   `load_dotenv(override=True)` makes .env win locally.
+- Fixed: Yahoo returns NaN prices for the latest day around midnight ->
+  rows dropped + `allow_nan=False`. Schedule CI in the evening (step 9).
 - Google News links are news.google.com redirect URLs (open fine in a
   browser, but are not the publisher URL).
-- Some articles in the list are context, not cause (e.g. "Petrobras in
-  Genial's portfolio"); the model must pick the relevant ones.
+- Results are non-deterministic (Google results vary per call; model may
+  label borderline days differently). Eval must use the stored news.
+- 8 stock-specific events remain unexplained: few/irrelevant headlines.
 - Real outliers (election days, |z| up to 9) inflate the rolling std for the
   next 60 days, making the detector less sensitive right after a crash.

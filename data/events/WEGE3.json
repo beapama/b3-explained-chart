@@ -1,0 +1,624 @@
+[
+ {
+  "date": "2026-01-08",
+  "prev_date": "2026-01-07",
+  "return": -0.0417,
+  "z": -3.02,
+  "ibov_return": 0.0059,
+  "excess_return": -0.0477,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "WEG (WEGE3): depois de um 2025 turbulento, o que esperar para ações em 2026?",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVEViOC1OMkY1YlRHSWhfQXhNRkhLTDU2SDVEaUVhaW1yQkF0bEdLZk1hQjdqOWp5Z3Rib2VZNTk0Qk90cmRQd2U2NGpkRUtRbGFoX1dPSDRMUUVFUnZTQVl2Mk1XN2FSRFQyRFYyWDNvMDZ4VnV2NGhWeXRjc0ZCYktuaGc5enk0U2RQdGhHbFIyMExkR2Q1RS1JTFlJQjdYOWlfOUpSakRuc0pUMEhz0gG0AUFVX3lxTFBlMmlBVnZlSDBVMjdUUzdoMHk5WVBGcEtGUjA3UkxCNEtsYzlsOGlFQ3lWOTBWUzN0cExiak8wSE5UZF91YmowR1JsTTBIRkU3bkVuMGo0dzVUemF4SkFyUjNlOFRtaHVoaXlfb0YzRDdvUUk3Zlp4ZnViLV9TeUE2SHgwUzJMZEdvUDNpT3Rxb1c5RWVBLWxHZHdmQVltVTRGa09CMHk0MUxiMUJWcWRzdjFrNw?oc=5",
+    "published": "2026-01-08"
+   },
+   {
+    "title": "Após turbulência das ações da C&A, Bradesco BBI faz um alerta para Lojas Renner",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRVc5THZpeU1zelVReVhPWWlhTVpXcHdBNHlRRmpua25UbV9tR1RSNEFqMTFGMDFfdy1fU3lsRFBzWGc1c184eTJiSEFNX041ZjdNS3dBTmx6Y2FjMjhzeXhkTmJENnlkLTMyT29DY1NnemRrYjRrRDB1WnNvYy1RbEpIUi0taXRWZzBMR0xtZ3VuM1JjbWtBamt5dXcxZmFMWHFjR3IxcXhaUk93SlBSYnRPUUNpcUXSAbwBQVVfeXFMT0twZ1dpbGFoWWl4Qmw1bDh2TEk2MzRPMGNucFVfYnFDUldjMzhTQ1JaZEhiM1drM3hxTnBieGNrQkhaVlJ2dW43UzlrSFQtVDluUzNYdEZCNjBjQ3UwTW9oY2lWaV83MUU3WmZkc1E0NFR3cmhlRXNSX0s3bVNEcEJQVmhCM1dYZUI4cDVMbmN0dlplU2dRRnRQcE51TkhvWXV3OTVPNm9uUVRiWlozZnVabl9iSl96bUZsZng?oc=5",
+    "published": "2026-01-08"
+   },
+   {
+    "title": "Quais empresas ganham e perdem com o acordo Mercosul-União Europeia?",
+    "source": "Investidor10",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUW5TYjdnRFo0RDRKcU9SWmVBRUxhSHNpTV9mcmNwaEZSbXlTT0xUWVFnNWtWWjR5NWVIUUhtQWpGQmJ5NHM3N24zYTBzajNoeFdFQU9DMTI1dWg3QS02MDZjbVRUNy1leXl3aGRTQjFlZE5ncV9YMVdMOG5feU9GU1JYUll0TFNWYWd1VGRLMGdDTk5oMm5GWWFuTVkwTXJ6elJEeGU2S2RsRF9nVzVzWVpB0gG3AUFVX3lxTE9WSWo4ZDZwdFVhT3JhNVR4dXppRVhwVjJjdWY3TmlKckNkaXFycy1FeFl5cmdGQklVeVkxTlR4N2lfWDhFUk9Mb0tlcks0YmFzRmRjdlFTSWRMemtCSjFxR0x5b2tycV9NZFN0WTdjR3RObldTdFVaS08tVVpmT09fVFJqVFVYdzBQdmpsRjAtOFlqQURrTHdEa2lmZWlQSFdRcjZQOWQ2eTdXUTg5UlNFRlE2S1dfcw?oc=5",
+    "published": "2026-01-09"
+   },
+   {
+    "title": "Carteiras recomendadas para janeiro de 2026 mostram como bancos equilibram oportunidades e risco eleitoral",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWHlyVFV6YmNFclpwVFRZY3BMUEVxZmRTdHNEZ09qZ0Q3bk1GZTN5Z2V5c2l6WDlmZGdBdzR1R1dYUjNVYUQ3TWxpTUJyNWxFWVhYQUt3S09TcVVMU0JoWmZvSmhsV01VQWxNbFlCQlRxSHR2NVNqY0RJY3NWVjA2Y0JycWE1bjcwVHBEZDVzc2ZiN2liOW1jVGR1ZDBncVJfa3gxYVZtZGxjS3PSAbABQVVfeXFMTUVjTk5zQkxnRl9lZnpIZUMteGZJLURBX0lJWGhZVTlXc1pEX1p3b1RLeVM4X2owSW01cTM0dkhVUUJ4R2NyV1NhV25QXy1fbUk4UUI0eER6VDVhVzdIOVFJRXdYY0JtMEt0QW9YcHJ1U0JmZXFvbGJremNsTm0tcXdCc0FIMjlrcS1MdmwxSG92dml2UE1QZkVZckhrVjI2bmNKYUNlUHhZZWRmRjI4RXQ?oc=5",
+    "published": "2026-01-08"
+   },
+   {
+    "title": "A dura vida do gestor de ações: melhor retorno do ano, mas com a pior captação da série histórica",
+    "source": "NeoFeed",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMDA4VDktR0lWSWpQWHNNMjhxaWpHV0ZCblVJcm9aS0dTWXNCNWFXOE5WNk1RLWwzODlGT20xb3R5by1HZ0kwUnJ5WU5yMTFKbnpiRklOVEE3dFIydldjY3hYb3U1Y3J2SC1UV0l5Z2tBRmtEaFB0QWgtTVR0Wml6YXJBY2ZpNC1xYWtoUGljakp3TDh3a0NSUWtpdVRpQUVfZkhkTFpzQUJxYjY4S2xfNEFRYkFkWlRuUHlFM1ZrT1dlRjdBSlJRdS0wd3laeWNlT3Vv?oc=5",
+    "published": "2026-01-08"
+   },
+   {
+    "title": "Renda fixa no Brasil é quase imbatível: Só 15% das empresas desde 2010 superam o IPCA+ 3%",
+    "source": "Investidor10",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWTZ0allzdHgwLXQ3Z0dTeXBOa0Z2VzBGTWxFQnZ4dEo3VXlDa3lMdVFjcTM3azZfbWJCaUlMTVRrSU84cXl2ZWNuc013amo5cTNJSVlfTGdoaV92a05LVUZrdmJyUHNlOUhnQWlBREQzMm5lYzZKQ3Vzc19qaEp4djliQXE1bUVoX0ZBV2JhckhFekRxcVNpalpUWGpxVVE5NGZmUzFIa3dHUTdGNEdWVVVwYWZWMXVkYlpwMTlSZHVHWEg5cV9wMTFXMDF2U2fSAdQBQVVfeXFMUENiQ0s0bkltTlhhQ0thVkJJbm5mNi16VHFBeHFNVVBINUFBX0JvY3BsRE1DOUE0YkZiMEhUTGRveHBlV2s1OUhkT1RsOUlVY1U1ZUw0NEVFcC1OQjZjdHdIT3RhVnd5c2hadDJYRGhhOUVram1hbTVXa2N1M0NpMGZySEFkR2RnNTZDZndzMXpycThabzVXT0RXODk5dEZnZk12aWtLNTk3aERSQ0Z2elZZa0RMUW01SHN1bE9NQ2tTc1FKNkEyaHZJbEN2aHdRbFV0SnE?oc=5",
+    "published": "2026-01-08"
+   },
+   {
+    "title": "Estratégia do Bradesco fere retorno, vê JPMorgan; “valor patrimonial poderia dobrar”",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN0g3V2t5NVU1Qk0tSkFnWWl2QVhic1l5Wm9GZkdNemlvN2pFeE5OYi1XZlZRck9CZ01LQ2pxbnlxT3ctdmNCRTlnNHc1QzlsaG40U0dxaWlFMFdVQm1ZUGtMdkt4d2s0UUtMQWprekw2aWFKUi02N1pXcXVvQUxpckg5bXp0Ui1NUk5VbnZRaGlHZDNmR1BrLUk4RVgtbUZnWk05Y1YwYlc4dHBVR0FnSWJYY2hMd0F2NktBbERB0gHDAUFVX3lxTE1NUE1FaWdSVUNKdW1fVWkyUE5DYjJ4cjZINk03ak9tQ0ZaODNmaE5SSnVjLVlHSnVoWEFDczdFWV9fczRETDNvT3lfRXh0TEhjcWVLcGlJZldqS3BXVHo1aDN0dl91V1MyX0hLVWVZZFhJLUxtZm44WGwzbE00THA2a3dVU0NBc1QwRTZtNlJHdG9wcnlZLXEzZHUwdTBqWDF5VW5oQ01EdDEyeXJoZ1lGZkhYdDdFR0NESm16SDVfMjh6VQ?oc=5",
+    "published": "2026-01-08"
+   },
+   {
+    "title": "O que esperar do Itaú (ITUB4) em 2026?",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1adHNLX3kxM2Z2LVNZcXFndk45YzhnZUVkUEpXdmt4TElZWDFxMVNVY0tSNlhvX1JwalJ6MFVSby1vNkZIQ3dYX3NCbDZRdkhWRnNZSkRWTVRRLXhTaW9pMVpnNWc3ZkFVOVd4eVZBVHR5M0k3RmpUOFZKMUpVUFXSAYQBQVVfeXFMUGxvQlZxXzlJWHJON1BEUmNSSERwQTF6dXUwLXdpY2VOdDl2YWlBVkNPVEc4QjVldW4wNVF2NFhlSXUyQ19jbUhmZ2hCY1hPZUkxODVfaktKS3FwcF8wb3JMX0ZMQ05IUEd2dnZ2emhFY3B1b01qTXl3M2xsZ094ODZTRC1Y?oc=5",
+    "published": "2026-01-08"
+   }
+  ],
+  "ai": {
+   "short_reason": "no clear explanation",
+   "explanation": "As manchetes disponíveis não trazem um fato específico da WEG no dia 8 de janeiro de 2026 que explique a queda de 4,17%. A única notícia sobre a empresa é uma perspectiva geral para 2026, sem gatilho para o movimento.",
+   "type": "unknown",
+   "confidence": "low",
+   "sources": [],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1470,
+    "output_tokens": 254,
+    "cost_usd": 0.000274,
+    "latency_s": 2.06,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:44:37+00:00"
+ },
+ {
+  "date": "2026-02-04",
+  "prev_date": "2026-02-03",
+  "return": -0.0481,
+  "z": -3.38,
+  "ibov_return": -0.0214,
+  "excess_return": -0.0268,
+  "scope": "market",
+  "news": [
+   {
+    "title": "Weg (WEGE3) vai construir mais uma fábrica em SC, com investimento de R$ 280 mi",
+    "source": "Investidor10",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNUhsODNVTmJzZm05a3cxTUlTUG9nY092Yl9ib05wSG1ZM2VDZVBzOU1NU3NGalBtQW1fMkhldDlEVVNkdjRwdnc1NXVXZEVVSnR4QXlWM25uVHJWYzNGdW9BRTN3WHlTekxleU9KUkRyV1FWWGNNeDc1SjRmVHJibFd1TkdjbWhCYmtxTkxOLU5wZE9NZTNoUDNzYTlObXRWMlBxZkNWMVlwdFFpQjhsZDA3TGxkX3F5RmpHQ9IBwgFBVV95cUxNang4ajYwQkxxTUNZWnl3TTc2TFFXTUd4MUZvUFYxbTdpd2xRZXlRRHZQWUNsQ1BCWWxiRlM1dkhoUDZ4LTZIeWVVLWxKR21Iamc2VV80MXJ1ZjM4d1dFdXV0VWR5TzJVU3JhdlRXTGQxLVhRRUhfbWlTYkEwbjZlZlJoTF84VDdMclpQOFVkZ0kzbi1VVy1ERUh5T01zbXl2SXJHMmdvcUFtcVZzY01USjFSazhsUDcyZXlmTkc3MmFzUQ?oc=5",
+    "published": "2026-02-04"
+   },
+   {
+    "title": "WEG (WEGE3) implementa ajustes no formato da estrutura da diretoria estatutária",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTGtfdUo4SWFlLXpaaGg2dHcwSnRPOHVJWXN6T2lIX3JfT0NXZHh6WlByQ2tHYWluYzM3RDFIZWFyeUhmQS1scmRxMVBTaHlJdkRhZVNWT2E5Z0tyZ3V1VHhmQzhWamc3NnNkYXFOdXNQbWFFU3oxMnR0SUN6ODBiYXJERDB2WUpYS25FU3d1THkwdm5HVEJsRm1iWWx3TVJqeDV6Q09aUWw1ZWVGeHhCbzBSM28zbk3SAbwBQVVfeXFMT1d1dEJVRnRPa0szXzUtSTJKdTN2ZVpWaWlyTEJHaDlGellPQUpVd01WNmcxVkhRT2NlYUVheE44V04zMjlybFNMNDRaMjhwc2xKMTVmeGtDR3N4VGNOMXFtOXFyRE9KaDFkcFZrYWRmaElvYi1RQkttSHE4d0otNl9nemhfR1ZabjBWWTFtMG13ekRqVXIySXlFeFZFNjBhQ2NxNVdwTUN0by0xcDhaUzM4a0JvTm9EMm5GUjM?oc=5",
+    "published": "2026-02-05"
+   },
+   {
+    "title": "WEG (WEGE3) anuncia fábrica de baterias em SC para impulsionar expansão em energias renováveis; confira os detalhes",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdzFZaG9LLW5MbWQ4QnB1SURuZV9HeklnaVVUUXdYVmhwMXM3czNZYkFwenA4bnlTMmZKc3I5TjJHWXRNc3Y4TjNwSURnU0pKR1F2anBIdkNfeVp6NHlINVFfc1gxMDNfcll5YURrazF4MkJXdnYwTEVra2dEckhhNWxfSGtDMVY4QVk2NjdNRHk4dWRIa2luYURkbFlabzBDNm9wOVBadzNFaWw2dk9r?oc=5",
+    "published": "2026-02-04"
+   },
+   {
+    "title": "Weg acerta com nova fábrica de BESS, mas China assusta",
+    "source": "EuQueroInvestir",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQVNibXFEMTdESjhQTzNNTVRYMFNiNlBPaFRpVUpjcUl0dGREemduS1FmTkM5VG02aGwzZ3NjT0RoajNuWllWNVlJQ1UtY2tzRlltakYyNW80Q1k1ajhTSjI3NkhRNjloNFp0NGs0YnQ3RUZxYnNsbm9YTDJDRm9sVC1IOGJvV0w0VU00bDlBcWs?oc=5",
+    "published": "2026-02-04"
+   },
+   {
+    "title": "Ibovespa recua com dados dos EUA e balanços no radar",
+    "source": "TradeMap",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53ZmJ2WEVPd2xHc2dYMzlfSWRUSklGWjROMnp3bFVmckZGbWdxRkRlRUpxQkdHUk9QekdtMFl5TXljSk9JVkpUQTNCS29mUUVoLWJHcThLV2I?oc=5",
+    "published": "2026-02-04"
+   },
+   {
+    "title": "Bolsa cai mais de 2% em dia de forte correção no mercado",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSEpXMTlGX0xDbTBjeWRvZ0RpMVY3X25aUkNtXzlBMnFRLU9iRXJiZ1o1X3J3UDgwU2FKTUFkektwRTV3ZXBEaUFQb1BfWHVHNTBCMEVPNl91Zjk2YWQ5SjRzNDdiTXRTNUo2THRpYktaOUVMVEVPZzZESW10ck85N19uM3Z5M3dNSDlWemgwVHdGSmdzQk9GV1NxMjdEMzdxX19WR2prTkhmbE1fWGYySlZkSQ?oc=5",
+    "published": "2026-02-04"
+   },
+   {
+    "title": "Ibovespa despenca mais de 2% com cautela no exterior e correção após recordes",
+    "source": "G1",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xRnBIbmZIT3JVR2tTdzlyeXhPaS1ibVJDU3RJbXkwMnFVaEpidWlqd3VlUmdBMXlFMXNoaTNPclI0ZnlsZnlGb1FQdExTc0xXbjZodmEzOUVMUTNFSDVoYkx0SlZKWVdlakFUZ2laS2YyV2xFTFlic9IBhwFBVV95cUxNcXN2WUFpZkhFQUdpVDZ4cjNwamx1blRodVJ6cHN4bTd4MEg5SFZ1bGYtSXZkVXBjZzJ3b1cxdG90Q0Rjb01JbV9kU0R1LWUwa21LZVBuZjVIeVJuY2ZqdHY1STFqYWhneGpkQWpZNXZfQWRKWkljdTA3YWxIX0xQQ1V3LWl6dFk?oc=5",
+    "published": "2026-02-04"
+   },
+   {
+    "title": "Cai o número de beneficiários do Bolsa Família no Município",
+    "source": "Prefeitura de Jaraguá do Sul",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2xGWEJWNks1ZjN2THRjR2x6NUYwRXZXT2ZmT0hCTk9Hb3VrVXBBYm5TU29KSUg4RjZNMXF2SUlVODZVb1daaFBnOXAtdGZZc1JRLUlmeXJ1LUFkMExUTGlWSzFVSl9HMmpURjRTUk02Q3VRRVg1VVlXVW0tTXhDZ2VqVDRYSVJ1RWVfb3dZRzVOT29QenhDQlZiR1hBLUg4em9LalpR?oc=5",
+    "published": "2026-02-03"
+   },
+   {
+    "title": "Emprego em alta, inflação em queda e Bolsa recorde redesenham o cenário econômico",
+    "source": "Fundação Perseu Abramo",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS1BibVZCWmZyUXI5ek1kTC1JaXhoNUJpTzZvaVA4OGxoUGNXa1h6SkdyRzl0TjNHNXh1UVpjUnhxc0xJcFZ6U2FzdFRsd1FXUjJZZWxvSEZHOTlDLVJ6eFBfQ0dxRTFnRFd1VmxCM3hQMWg5S2dScWhISVJlWFZQbmNhaTBERjF0UjZ3LTJndGIya0IxZmtvX2ZWSldMc2V6T1NlTWtOSUI?oc=5",
+    "published": "2026-02-03"
+   },
+   {
+    "title": "Dólar cai, e Bolsa sobe após Ata do Copom reforçar corte de juros em março",
+    "source": "UOL Economia",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmZETlpnU2R0cEtTOE5jR3E5eWZhbEdlaWpTd2lBWTlER0piQno2WGhwMDZSOWZUeGU0TmNWclNSYThiVzFFSnRoVHV4UkdMbFk2dzBYOWZkRzNDN3NSRDZqVVQwMVNiUjhOZGpXTkJNTmhTbFREZkpEalYtSzNQS3VaOHVYSkROVy1pS1RaSHpuYzVlVm1ZQTdhTzgxWTlz?oc=5",
+    "published": "2026-02-03"
+   }
+  ],
+  "ai": {
+   "short_reason": "Queda do Ibovespa com cautela no exterior",
+   "explanation": "O Ibovespa caiu mais de 2% em um dia de correção após recordes, com cautela no exterior, o que arrastou o mercado. A WEG caiu mais que o índice, e os títulos não explicam claramente esse excesso de queda, apenas mencionam preocupação com a China no negócio de baterias (BESS).",
+   "type": "macro",
+   "confidence": "medium",
+   "sources": [
+    {
+     "title": "Bolsa cai mais de 2% em dia de forte correção no mercado",
+     "source": "Agência Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSEpXMTlGX0xDbTBjeWRvZ0RpMVY3X25aUkNtXzlBMnFRLU9iRXJiZ1o1X3J3UDgwU2FKTUFkektwRTV3ZXBEaUFQb1BfWHVHNTBCMEVPNl91Zjk2YWQ5SjRzNDdiTXRTNUo2THRpYktaOUVMVEVPZzZESW10ck85N19uM3Z5M3dNSDlWemgwVHdGSmdzQk9GV1NxMjdEMzdxX19WR2prTkhmbE1fWGYySlZkSQ?oc=5"
+    },
+    {
+     "title": "Ibovespa despenca mais de 2% com cautela no exterior e correção após recordes",
+     "source": "G1",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xRnBIbmZIT3JVR2tTdzlyeXhPaS1ibVJDU3RJbXkwMnFVaEpidWlqd3VlUmdBMXlFMXNoaTNPclI0ZnlsZnlGb1FQdExTc0xXbjZodmEzOUVMUTNFSDVoYkx0SlZKWVdlakFUZ2laS2YyV2xFTFlic9IBhwFBVV95cUxNcXN2WUFpZkhFQUdpVDZ4cjNwamx1blRodVJ6cHN4bTd4MEg5SFZ1bGYtSXZkVXBjZzJ3b1cxdG90Q0Rjb01JbV9kU0R1LWUwa21LZVBuZjVIeVJuY2ZqdHY1STFqYWhneGpkQWpZNXZfQWRKWkljdTA3YWxIX0xQQ1V3LWl6dFk?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1551,
+    "output_tokens": 640,
+    "cost_usd": 0.000475,
+    "latency_s": 3.93,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-20T03:23:05+00:00"
+ },
+ {
+  "date": "2026-04-29",
+  "prev_date": "2026-04-28",
+  "return": -0.0675,
+  "z": -3.39,
+  "ibov_return": -0.0205,
+  "excess_return": -0.0469,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Weg (WEGE3) tem 1T26 negativo, segundo BB-BI",
+    "source": "InvesTalk",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qdWxpT0ZQSEhEWmNwamdHcC03cXNwcTJrSFdlRC1CMERMRWFGaUNIS2VjcmpkZUdGSVFXbmVsMXpNemxTZVFhMGVzUnBiMTJvMXR3MlVjVnVrZmUzMWFrZ2hrWUs?oc=5",
+    "published": "2026-04-29"
+   },
+   {
+    "title": "WEG (WEGE3) decepciona no 1T26: Brasil pesa e crescimento perde força",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcUw0VjJvaVNnQUZTLVJhRE5feGJrOE4zLTgtNmhjTjA3S1NKLXRIVnY1Vm02X1FiVVN1WVpyVllQYTN4MGhSNWNwR1ItZmNsWU1vM2RwREpqZ1VWUVRRSEpDUWJMWjdyYmZJZTdHc3djdXB4cjBBdnBFWDhfbGxVQ1VLaWFZWmtJSVhHaWM0cE15M29rTHlOUWtiRnNpMjRmbElKcW54dFNlZ2k0NmRlalhmbFRPYXNDcHZV0gHAAUFVX3lxTE9RZml1Z0gxeVZRRmpGTzIyYmliUGNrTEQxVEl1QVBqdDhjcUpxN2JRcW9DazRPa0RDd2hvTHBheUZiQ2xXbS1UNWVjczNvWVhycS1nTXJ6UDVOLV9hamFOMmZ0QXpiUEdsZFBqZXhWcFVhX1ZLWVc3TlNMOUJicmJzQkFlWVl4Sl9SQmR1bmVOS3BqOE5xQ0lVWXRiaWJvSmlXMDJqMFZNS0x1ZEVrZnZwQ29Na2xxWURhdFdkMzNIZg?oc=5",
+    "published": "2026-04-29"
+   },
+   {
+    "title": "WEG (WEGE3) despenca mais de 6% após resultados do 1T; entenda",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yazAtR3EwWkFnVXhZd1djVURoMVhkSU5qZzg3YlAzd0Fta19pUHV1eU9MYmlKb1FHUHpXNmQtQk5xVUtFUGkydm9FcjBuaFFpRVJvTzJjblA1Q0pJRXRLLWhDWlNSRkNxQlNhOTZncUpMWlp20gF6QVVfeXFMUGhCNDNXU2M3ZVh6REFWNVBrUTVmaWE5a0E0NkJhUm9tRGZCS01HOXVXOFYzcmpYQjlYUkY0WHg2ZFVHQU9PVWd3UnFpT0NoanIzQlB0cklkYnd4aHkzMU4xeUZnVkNPVVNra25LVS1ySTgwVTh1enpBc0E?oc=5",
+    "published": "2026-04-29"
+   },
+   {
+    "title": "WEG (WEGE3) cai forte após resultado decepcionar, e mercado já vê risco de novas quedas",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPa1V1RzR3MDgyWHZJZi12VW1pQ2NxekNaSHk0ajdzRUxSYXhlUzc1cloySkJLTEFPUEdNdFlxcjIxV1BPQW91U3NlakN1UGYzYjFOdmZpZmwxcjBLUTRDRzVONDEzR0RZUGswSUVZLXRXaDJ3OVBYY1YteTlkRmlLWnhlT0x5RFlLb1dwR1JET0NnWmtWVnhqSU9HU24wM0FpNGRjOWFoNWstbU9GTXdTRHVrSU1VOHJFY3RndzUxekFtV0VubVFBbFpmN2pGR3VzTDh4d0dvdndpVFFwYmhWc3VNOEt4ZjU4MU1uZFlVeDVwWXFlX0g4VldvWGlFWUstNXpZ0gGSAkFVX3lxTFBpWnlLQmJSZ056REQ4bEZuR2lzc1lUcUxNTkp4bFdTZkw0M2NBMjA3cWFsdlVlQlZ3elh0S3JzaEEzbGpEa1MwMEUxVzdycm41aFhUTVFWREtmdXF6QVNWaHlSQV9qRFdaVVVvMzNhMWFBZzdveXI1bDJYUjNKZ0V2WVV5OHRpOW1SUXBhcnNpVUxTME5TMnpDOGZ2Vm54WmM1TjlKTVZJQlg2TXBxUFlDTVZRZlVTNzJ4NmkyOW1vMlFkb2JPcmRiR1Z5U2lSQWF6WjRUdkxRTUFMVXd6dU42a2p0UWs5T080ekRTeHByLW0zNVJIU0U1TDVVWnp4aERkWG5Ocl9tbDg2YmVrVFhLbHc?oc=5",
+    "published": "2026-04-29"
+   },
+   {
+    "title": "WEG (WEGE3) acelera movimento de correção técnica após balanço do 1º trimestre",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUV6RndXUGNDR1RwWDFsLTBIUklzNnVQbjRFWkNGWGxWWXdDS2RkcGNXMnpzcFpOQVZUM2plbk5aTC1vNTFZX3JTRmt5TEdsRjRnT1M1eVMxUXZOLW5YcW11dDZKWE1HVHVFN1NGMjBCcHcxU3R5SFFiNEQ3WDZXUmJQeUZMa3JyVXR1MXdxRDhYMzN5aTBOUnhJVWp2RmRQRGp1TGxfT2loMWV4Q3plYmlEVFF1UdIBuwFBVV95cUxOeDlBaEt3M3o4MWFDMk9ydUNxSjJ0cXhRTEVvbXp6YnNweDltVGRkMF9nQUxzeVAwVWZYdVhVQkY4aFFlZGwyaUhmOFZ2MldQZlhPYmV2N0wwc2lyOGJUcWdiSUhOV3RqMVNjR2NwbDNQVlN0aVBDcFlZNUQ3QnRGU3liWkRxbUpaemU1VFZkUGtUSXBtNlFIZ2pQbW5JeHdnbWVFcFUtNnBCU0xUakxpZXZyenZxcW9vbVpV?oc=5",
+    "published": "2026-04-29"
+   },
+   {
+    "title": "Ação da WEG fecha em queda de 6% após divulgação de balanço trimestral",
+    "source": "CNN Brasil",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzFwS2Vuc2pCZXpONXFtNXM3NzdIU2NET3YzS3lOZ2psUnhjNDBtTUQwQWNBQXozM2Z0bUJpbFQ3eE1KYWpUaGROUkpqQlhhV0JJNnl5X0dlTk1DRmRmdXhicHZqU2doQndIVjl0MndQbjVELWw4c2R1d1JaR1lDYU9JRS1HSmNEZ3ZzWTBiUF8zNUtiaF9vbzdqUllvTFV6Y1Y5UGFyUUVIRGRPWjlzTHVFUjlQWjF2eXhkcUM1WQ?oc=5",
+    "published": "2026-04-29"
+   },
+   {
+    "title": "4 pontos do balanço da WEG no 1º tri para o investidor ficar de olho",
+    "source": "Exame",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0did3FBVVFERXNGaXRiMkFRc3dsWkpvSlUwY0F0aXFBdkpSNnV6OTl6eHJKbFRUd2ZyenZwYm80OThrWHpRaG5TMUN1eGVjeWRvWEtIbW9hM1ZGbzE1cGVFX2hLbEFhMlVtR2hDdDBIQjVnSFJKZ09GWV9wS2JCLTRtUzlzb01KVjZxN3BqNHoxNmNqcWVQVmF2a1Z5eE9OWFFHeTNR?oc=5",
+    "published": "2026-04-29"
+   },
+   {
+    "title": "WEG (WEGE3) entrega lucro bilionário, mas queda de receita acende alerta; entenda o que aconteceu",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44YXlDejd0bFJjcjhJM2t6N0h2Q2RIdy1tRDJPQmtPSFZTeWNFa2VIMUFJVktSYm0tc1FHbGZPX0VLTVhKUXZOZkhKMkgyNXk3UllWMTlvb3BnY2hDaU5DelRMWHhCVjRjdkV4X28zdHFSeEtWa3fSAXtBVV95cUxPNEdpZ3hKYkxsZmJmb29aZ291ckw1QWE5RE1fWW9CMXRleUFmMkRwUC1zVDB0ZThzTWQ5eFc0RlNCRDZVc2xjWW9pNTRGWDVBNnYxZWRIUjFramZ6VlNaUFZWZHN2b0hVdVF4Tkxab3hyMWViLVVYUy1DMkU?oc=5",
+    "published": "2026-04-29"
+   }
+  ],
+  "ai": {
+   "short_reason": "Balanço do 1T26 decepciona e ações caem",
+   "explanation": "A WEG divulgou resultados do primeiro trimestre de 2026 abaixo do esperado, com crescimento perdendo força e queda de receita, segundo as manchetes. O mercado reagiu com forte queda da ação no dia, bem acima da queda do Ibovespa (-2,05%).",
+   "type": "company",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Weg (WEGE3) tem 1T26 negativo, segundo BB-BI",
+     "source": "InvesTalk",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qdWxpT0ZQSEhEWmNwamdHcC03cXNwcTJrSFdlRC1CMERMRWFGaUNIS2VjcmpkZUdGSVFXbmVsMXpNemxTZVFhMGVzUnBiMTJvMXR3MlVjVnVrZmUzMWFrZ2hrWUs?oc=5"
+    },
+    {
+     "title": "WEG (WEGE3) decepciona no 1T26: Brasil pesa e crescimento perde força",
+     "source": "Estadão",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcUw0VjJvaVNnQUZTLVJhRE5feGJrOE4zLTgtNmhjTjA3S1NKLXRIVnY1Vm02X1FiVVN1WVpyVllQYTN4MGhSNWNwR1ItZmNsWU1vM2RwREpqZ1VWUVRRSEpDUWJMWjdyYmZJZTdHc3djdXB4cjBBdnBFWDhfbGxVQ1VLaWFZWmtJSVhHaWM0cE15M29rTHlOUWtiRnNpMjRmbElKcW54dFNlZ2k0NmRlalhmbFRPYXNDcHZV0gHAAUFVX3lxTE9RZml1Z0gxeVZRRmpGTzIyYmliUGNrTEQxVEl1QVBqdDhjcUpxN2JRcW9DazRPa0RDd2hvTHBheUZiQ2xXbS1UNWVjczNvWVhycS1nTXJ6UDVOLV9hamFOMmZ0QXpiUEdsZFBqZXhWcFVhX1ZLWVc3TlNMOUJicmJzQkFlWVl4Sl9SQmR1bmVOS3BqOE5xQ0lVWXRiaWJvSmlXMDJqMFZNS0x1ZEVrZnZwQ29Na2xxWURhdFdkMzNIZg?oc=5"
+    },
+    {
+     "title": "WEG (WEGE3) despenca mais de 6% após resultados do 1T; entenda",
+     "source": "Suno - Investimentos Inteligentes",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yazAtR3EwWkFnVXhZd1djVURoMVhkSU5qZzg3YlAzd0Fta19pUHV1eU9MYmlKb1FHUHpXNmQtQk5xVUtFUGkydm9FcjBuaFFpRVJvTzJjblA1Q0pJRXRLLWhDWlNSRkNxQlNhOTZncUpMWlp20gF6QVVfeXFMUGhCNDNXU2M3ZVh6REFWNVBrUTVmaWE5a0E0NkJhUm9tRGZCS01HOXVXOFYzcmpYQjlYUkY0WHg2ZFVHQU9PVWd3UnFpT0NoanIzQlB0cklkYnd4aHkzMU4xeUZnVkNPVVNra25LVS1ySTgwVTh1enpBc0E?oc=5"
+    },
+    {
+     "title": "WEG (WEGE3) cai forte após resultado decepcionar, e mercado já vê risco de novas quedas",
+     "source": "Valor Investe",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPa1V1RzR3MDgyWHZJZi12VW1pQ2NxekNaSHk0ajdzRUxSYXhlUzc1cloySkJLTEFPUEdNdFlxcjIxV1BPQW91U3NlakN1UGYzYjFOdmZpZmwxcjBLUTRDRzVONDEzR0RZUGswSUVZLXRXaDJ3OVBYY1YteTlkRmlLWnhlT0x5RFlLb1dwR1JET0NnWmtWVnhqSU9HU24wM0FpNGRjOWFoNWstbU9GTXdTRHVrSU1VOHJFY3RndzUxekFtV0VubVFBbFpmN2pGR3VzTDh4d0dvdndpVFFwYmhWc3VNOEt4ZjU4MU1uZFlVeDVwWXFlX0g4VldvWGlFWUstNXpZ0gGSAkFVX3lxTFBpWnlLQmJSZ056REQ4bEZuR2lzc1lUcUxNTkp4bFdTZkw0M2NBMjA3cWFsdlVlQlZ3elh0S3JzaEEzbGpEa1MwMEUxVzdycm41aFhUTVFWREtmdXF6QVNWaHlSQV9qRFdaVVVvMzNhMWFBZzdveXI1bDJYUjNKZ0V2WVV5OHRpOW1SUXBhcnNpVUxTME5TMnpDOGZ2Vm54WmM1TjlKTVZJQlg2TXBxUFlDTVZRZlVTNzJ4NmkyOW1vMlFkb2JPcmRiR1Z5U2lSQWF6WjRUdkxRTUFMVXd6dU42a2p0UWs5T080ekRTeHByLW0zNVJIU0U1TDVVWnp4aERkWG5Ocl9tbDg2YmVrVFhLbHc?oc=5"
+    },
+    {
+     "title": "Ação da WEG fecha em queda de 6% após divulgação de balanço trimestral",
+     "source": "CNN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzFwS2Vuc2pCZXpONXFtNXM3NzdIU2NET3YzS3lOZ2psUnhjNDBtTUQwQWNBQXozM2Z0bUJpbFQ3eE1KYWpUaGROUkpqQlhhV0JJNnl5X0dlTk1DRmRmdXhicHZqU2doQndIVjl0MndQbjVELWw4c2R1d1JaR1lDYU9JRS1HSmNEZ3ZzWTBiUF8zNUtiaF9vbzdqUllvTFV6Y1Y5UGFyUUVIRGRPWjlzTHVFUjlQWjF2eXhkcUM1WQ?oc=5"
+    },
+    {
+     "title": "WEG (WEGE3) entrega lucro bilionário, mas queda de receita acende alerta; entenda o que aconteceu",
+     "source": "Suno - Investimentos Inteligentes",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44YXlDejd0bFJjcjhJM2t6N0h2Q2RIdy1tRDJPQmtPSFZTeWNFa2VIMUFJVktSYm0tc1FHbGZPX0VLTVhKUXZOZkhKMkgyNXk3UllWMTlvb3BnY2hDaU5DelRMWHhCVjRjdkV4X28zdHFSeEtWa3fSAXtBVV95cUxPNEdpZ3hKYkxsZmJmb29aZ291ckw1QWE5RE1fWW9CMXRleUFmMkRwUC1zVDB0ZThzTWQ5eFc0RlNCRDZVc2xjWW9pNTRGWDVBNnYxZWRIUjFramZ6VlNaUFZWZHN2b0hVdVF4Tkxab3hyMWViLVVYUy1DMkU?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1469,
+    "output_tokens": 168,
+    "cost_usd": 0.000231,
+    "latency_s": 1.89,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:44:47+00:00"
+ },
+ {
+  "date": "2026-07-22",
+  "prev_date": "2026-07-21",
+  "return": 0.1005,
+  "z": 5.46,
+  "ibov_return": 0.0244,
+  "excess_return": 0.0762,
+  "scope": "market",
+  "news": [
+   {
+    "title": "WEG (WEGE3) explode após balanço; entenda o que animou a Bolsa",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nYWRBM0l0QVN6XzlzZFBRM3FfU3EyRjFvelBYeGo0SEFqS2dWVllxVFVMV0JoYVpNQmlJaTJIOXJtai0xRmtVN3VjV3dXX3hUS0NrRHlQYnlSbmtXNW1ZaExadHRUZnBUYzlFMUhrcUtPWWxQdWRFN0oybHjSAYIBQVVfeXFMT3NhbEJUNm1xQXBLMm8xSUJhajdSMmZHUlRta01DU0FkUW1HUkNIbHlnbVJWRUpKU2NpQkhSTjZiS0swSllVVklCZmY4Q29sTmdBYTRfTWJlc2NOSVJPdHBxOHYwV01TQjI5cllGMlRFc0QxNExIMnNHQ0cxa2hWTWdwQQ?oc=5",
+    "published": "2026-07-22"
+   },
+   {
+    "title": "Ações da WEG sobem quase 10% na Bolsa após balanço do 2º trimestre",
+    "source": "UOL Economia",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTW1VQXdDRTBtaXMxZ0NDc2NRalRQcGpKUlZpbVVLVk1ibEFrUVFSOUtsRFhHOEt1MU5tTU50ckVWTDB1UGZPMnVsbE8zMThPdG5FUzhwR1hpbUN0cnlVOUwzX1M2UHhPN0FKdGVzM05RLWNmSjZXWjVtUlR6V0lRYlBjb0liZ1p3VXh0cHZPNjV5NjVBUUo1RWxwcS0yQWxGNHktTUFR?oc=5",
+    "published": "2026-07-22"
+   },
+   {
+    "title": "Ibovespa hoje sobe mais de 2%, com alta das ações da Vale, Petrobras e WEG; dólar cai",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeDA4NmxOdVI0UDF0X0syRlZVbWtXT0VRYjRtR3BmSU04TjRxRDVGeHN4RlFoaHF5OXppR1ROS0cxUVlzeUNycTRVTklwOC0teFAwSjBCZ1dfQjV2Ukw1VDM0VVY3ZFZpellqelVSZlh6ekprYnFMNGo0N1p6T1h3NkNBcE1Ca0duUEREZnlYUElIR0I1TWdKSkNrVFdpRVNYcUNRNjZoLTBjWlVXWGdOYXQxSkE1NklVMVVCT0ZsVjZhR210TTRUQlFoVDhVOEs2THFtY1I3VjZjTDR2V2pBTzZFT3VVUdIB6wFBVV95cUxQWGtQcU9wYkk5N1NIUG5VSkd0OG01ZnJ4UjBTZDhJUTNETXQ2NklSQmd4MXNqYTNOeFdLTS1qa2JoMFlqY2dQYzRoLUJaZlpmblRmd0ltVDU2WWNoUHIwZTJ0YTZTbjZpMFIzMFhWMHhDSWRGWWVqYjQ5SzdkSVhnbGZhNkJpMndoOWlqR1JXRWJZWTQwQXhQQWxUMFNPeFhsTHBnbGJPVDNDV1hOaW9idkc1SkRwZnBPTlpLeFFTS21PQnZUS1RldDlxaDlJSTY0bU54RDNVMEVNbXZHWHJtMHVsekJ5a0F2bEw0?oc=5",
+    "published": "2026-07-22"
+   },
+   {
+    "title": "O que esperar do resultado da Weg (WEGE3) no 2º trimestre? Demanda por IA pode ser surpresa positiva",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxORDJaWEpEaGpFUDdsd0ZEbUpJLTU4Vkt3eHY3S2FEZTFFamZ0ajF5XzRVV3lLSG8xamJyVDZZYTNZVlJvXzhMcDlsYkZ1NEp3RU5NWjJUd054cVVIM3FTOG1xam0tOURJX3hVLW5TMzFVbXBncldSWjFTb25uSnRGQnFlTUtEcTN5OGVRU2tCblhqZDJ1TnJDOU9qRWp6Mm9tdlFQa3o3cnAzeklaS3oyV3FKbllZU3hKUTRfMDcwRDNsZktfcFlYS3lkd0pWTmhBV0ZqSjBuSnMzNWMwVVA3Z09EQzFlY3ItVjdiYnRnc3VqbDE5b3hsQ3dySDQ0c3pjdFJRZlZMX2R6VTJQbXFjeUYxdG95emxCOG43UUFSWdIBrgJBVV95cUxORFR2a2d4TXZIckNmYXpfTWh5empMVmhEZmJwbFQ4Umw3bUQydVFaYThfN0RabTRDbkxJWkVyX1o0S1RRTnRpeWxEU21DUkM0ME8yZ1o2T0R0WHpRaHI2WHhlM0JVNDViRXk5bWhHRGdCNHpsamo3NnJMQWkzOE9WOUFjSDlCVWlmZE9BWXNSQ0puMldtV0xobnlvV0c2dGN3Z2htMkYtTzh6c2dCZzNUamc4U0VOejJFREZpNVVWVXN2SGZ2WjlYTFdDM0hpTnMwaDRld1UyN1pBZnhlUU5qTDVzeXczcWF3V00wVVpQNi1MdWtybmQ3UWlNaUVSQTBFWUFER1U5SXE5RGZWZTFpaXVKbnF1eGQxRHhDdnBjVGZSOUVreENhQ3Y0dnY4QQ?oc=5",
+    "published": "2026-07-21"
+   },
+   {
+    "title": "WEG (WEGE3) pode voltar a subir? Veja os gatilhos da análise técnica",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRzY5U1otZlVzRWVQV0VDbkxGM1otV3Q4ZjYzR0YwenFMRkE2QXd4TGdoMkRtSHZ6ZWp4RjRJMUVMa3JoM2QtcHVaQmhPNWFxYldaREN4UldtYkdZLUpQZVN5MEVkSnlUckdseUhTRUNsUEZrU3AwajludWR0d2F5WEc2SzFfNGpIT3pHeUpYVzF4bXpsV0p6SEZTdzYwamJvXzE0SnlZSdIBrAFBVV95cUxQaFZhT0psSVdvQzJFdjBDeDVEUDc5endVVDdJdjlZRmFBd0FpY2lsQkR5akhINUZOWXM5UVEzNWVoRF93elVub3hwc0pIYUFtSjI0MmJFT3BOUXJZdEdILVpyYldSTmhtd0NndFVqTXFfRDN6cDdRc2h5LVRLVjRSVVNQTkZSMmtKanZqTmdhZWdiejR3TEhYTXN3SmlJWXd1STZndWRTSkZULU9J?oc=5",
+    "published": "2026-07-21"
+   },
+   {
+    "title": "Dólar cai para R$ 5,07, menor nível em um mês; bolsa fica estável",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRko5blF2b19obl9FdGM3RmdZOGpUNWFreGhNdW1lMkFlakw2YVU0Tk40QWNVNWpXRXppS3F4WU52UVI0XzVvYktyMTA0U29LTzBlQktfc1A0WHhLc0ctS2FDTFRmSkhTQ3lFY0g5VEFmVENacUhTeEZEaWdZV2N6aUp5RFJRaFhXT0dkTEJ3OUt5ZVBraGpHWndpVTl5eG9NV0stcWpnYTVYaXJpdnN4Rkl1aUYyb2h5RU1J?oc=5",
+    "published": "2026-07-21"
+   },
+   {
+    "title": "Ibovespa B3 sobe 2,44%, mesmo em dia que tarifaço passou a valer; dólar cai a R$ 5,05",
+    "source": "Bora Investir",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSDNzMWR0NGZFX1B6Qmc1YkZYbmN6U1dCTTRrbFBzTzhQcGFTUEJ1YWI0UEFkOXJxZEVmWEI1a0M4T29ZY200b0VHUTh3cW5nb2pxVmg1NzVhTFRqRWkyU0paaE0wLUZ5UlhXX214cm1xaGJ5aHU5d2NBR2w5dld6UF83RGQ1SjUtaWFldnJXdzROekVXN2VVVjJUSDNWR2xGSEhJTlZZWV9vYU9mcjZlYTBDV2VUQ0tVZ041d0NqS0lRRDRackxz?oc=5",
+    "published": "2026-07-22"
+   },
+   {
+    "title": "Dólar cai a R$ 5,05, e Bolsa sobe com nova alta do petróleo",
+    "source": "UOL Economia",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbEFLcktHU1doZVFMeVVYcHhnNU1aUk12YVlwejJUcEdYWVhxczc0dmM4dGg2VGRPY1JvVGozUFRlTE4wU1E4WE8xVkVVLW9LSGZJWjFEWHhaWXRWWVdZUmpSZjdtRkR3Y1Q1U3NXTGZHSmd2NDFIWk44Yzk5anZwdHhWU1kxbDBKb25XMlA4LVBLWlJrWTY1QlF0a2dZSEhaM0VzWEhDXzdqSGJz?oc=5",
+    "published": "2026-07-22"
+   },
+   {
+    "title": "Ibovespa sobe 2,4% com impulso da Vale após prévia acima do esperado",
+    "source": "Bloomberg Línea Brasil",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRFhSWGUzMXZLRHZOSTJFZ3Q3UG0yY2RvSEV1YWdmTWhadlNNV2NrUUJwNU1xLXp2X3p2OGhsTVdpMlBSMzhNLWc2VUh4WXhxZnhpcjI2MXRvdHpsNVhUR1FXaHNGelF1TGFfNXdGQVNVaTdLaTFid1N0S2tEckNaVmJ3OUpOZkJ2MEY4Mno0Q2xLWklvT3RjRmtoRllLS0NPQmIza0hPX2ROT2RHYmJV0gHDAUFVX3lxTFBkblY2WjU0SmU3dVRFOWJOY1NEc1A2MzRKYmFzNHg0WkllQkg5TVNRMy1iT0JmdjVnamlLeXpodExvZTNUczVBRmdia0xjQ1ZDdnE3dUxLc0Jhbk5OZ3RkdXFaRXlvTzVQRzBXY2hJTEhrQjQzY0ZJaG50YVk4MVdvRXc0ZUxLeU1ySjEwb2EwdWdxV19ZbjVDa0E4eFRpMFJpYllCRDhTVk1DVFBQSzZfSHN5SjdydnRlcUNlUi1GSVBxdw?oc=5",
+    "published": "2026-07-22"
+   },
+   {
+    "title": "Dólar cai ao menor valor desde junho com alta do petróleo",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVlZPbzFiSzZrWHd6c2piUThaV25MQ2QweDJxYk9ZbXk0aTlJdTd6T3BEUFNmMUpzcGtzdTR5UUcwTHVJSU5jOVRzTGZ2d1g1dmlSZWZVOU9ydDk1NHVGRDNDMmdUSnc0NmJFQS1uVkk5cGxLSGlzQThucDA0T0lQUlBQS3I1Wnp5cl9Pd2dRUGd0UnhZbHRxTnZWQzJQUFhycENHQ0ctdGhpLUt5dkdydElZSDBpUQ?oc=5",
+    "published": "2026-07-22"
+   }
+  ],
+  "ai": {
+   "short_reason": "Balanço do 2º trimestre animou investidores",
+   "explanation": "As ações da WEG dispararam cerca de 10% após a divulgação do balanço do 2º trimestre, segundo as manchetes de 22/07. O movimento ocorreu em um dia de alta forte do Ibovespa (+2,44%), que também teve contribuição de Vale e Petrobras, e por isso parte da alta é atribuída ao cenário geral de mercado.",
+   "type": "company",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "WEG (WEGE3) explode após balanço; entenda o que animou a Bolsa",
+     "source": "Suno - Investimentos Inteligentes",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nYWRBM0l0QVN6XzlzZFBRM3FfU3EyRjFvelBYeGo0SEFqS2dWVllxVFVMV0JoYVpNQmlJaTJIOXJtai0xRmtVN3VjV3dXX3hUS0NrRHlQYnlSbmtXNW1ZaExadHRUZnBUYzlFMUhrcUtPWWxQdWRFN0oybHjSAYIBQVVfeXFMT3NhbEJUNm1xQXBLMm8xSUJhajdSMmZHUlRta01DU0FkUW1HUkNIbHlnbVJWRUpKU2NpQkhSTjZiS0swSllVVklCZmY4Q29sTmdBYTRfTWJlc2NOSVJPdHBxOHYwV01TQjI5cllGMlRFc0QxNExIMnNHQ0cxa2hWTWdwQQ?oc=5"
+    },
+    {
+     "title": "Ações da WEG sobem quase 10% na Bolsa após balanço do 2º trimestre",
+     "source": "UOL Economia",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTW1VQXdDRTBtaXMxZ0NDc2NRalRQcGpKUlZpbVVLVk1ibEFrUVFSOUtsRFhHOEt1MU5tTU50ckVWTDB1UGZPMnVsbE8zMThPdG5FUzhwR1hpbUN0cnlVOUwzX1M2UHhPN0FKdGVzM05RLWNmSjZXWjVtUlR6V0lRYlBjb0liZ1p3VXh0cHZPNjV5NjVBUUo1RWxwcS0yQWxGNHktTUFR?oc=5"
+    },
+    {
+     "title": "Ibovespa hoje sobe mais de 2%, com alta das ações da Vale, Petrobras e WEG; dólar cai",
+     "source": "Estadão",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeDA4NmxOdVI0UDF0X0syRlZVbWtXT0VRYjRtR3BmSU04TjRxRDVGeHN4RlFoaHF5OXppR1ROS0cxUVlzeUNycTRVTklwOC0teFAwSjBCZ1dfQjV2Ukw1VDM0VVY3ZFZpellqelVSZlh6ekprYnFMNGo0N1p6T1h3NkNBcE1Ca0duUEREZnlYUElIR0I1TWdKSkNrVFdpRVNYcUNRNjZoLTBjWlVXWGdOYXQxSkE1NklVMVVCT0ZsVjZhR210TTRUQlFoVDhVOEs2THFtY1I3VjZjTDR2V2pBTzZFT3VVUdIB6wFBVV95cUxQWGtQcU9wYkk5N1NIUG5VSkd0OG01ZnJ4UjBTZDhJUTNETXQ2NklSQmd4MXNqYTNOeFdLTS1qa2JoMFlqY2dQYzRoLUJaZlpmblRmd0ltVDU2WWNoUHIwZTJ0YTZTbjZpMFIzMFhWMHhDSWRGWWVqYjQ5SzdkSVhnbGZhNkJpMndoOWlqR1JXRWJZWTQwQXhQQWxUMFNPeFhsTHBnbGJPVDNDV1hOaW9idkc1SkRwZnBPTlpLeFFTS21PQnZUS1RldDlxaDlJSTY0bU54RDNVMEVNbXZHWHJtMHVsekJ5a0F2bEw0?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1595,
+    "output_tokens": 187,
+    "cost_usd": 0.000253,
+    "latency_s": 1.9,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-20T03:23:10+00:00"
+ },
+ {
+  "date": "2026-10-21",
+  "prev_date": "2026-10-20",
+  "return": -0.0734,
+  "z": -5.45,
+  "ibov_return": -0.0086,
+  "excess_return": -0.0647,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Ações da WEG (WEGE3) tombam 7% após resultado no 3º trimestre; vale investir?",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbXlBUkd4TFZTVkh2OHZBbm05MGUwNWNHUjlETndGdldYS015bnU0Qk9PZVFtcVNLcW50S282VElicjJqckt0bUpKWHk2OEdCcnBTeGc4dXZSZkMtX3I0QUN1Q015VHBkT1l5Q3BMcktiWUlSR0ZDWE9jUXg1c2JOV1hsWnd5cW5rWXFydHkwNl9SeFkxT3lIQkRDU2tHcEE2SGZGenBILVl3ZmRMa0FJVnA4RENWcjZ2WXJrM0pFNlJzbTBRNlA5TmFUa2lHelJEN2xYOTBtdEVVVWlzZHNFUlNIYzhibXJ3WmpCRUpNdWNEaEFYYnFNenVWY0ZzakhN0gGPAkFVX3lxTE1fQTJ3Q2s5MkR4WVpqRWItVnB4VGNjUnpQM29WVjNLMi1JdnJsZVdWemtuMWxkVERyekZyLTdlWl8tYmVwN1hwNTgyajQzMG9qbHFyNG81RTVwdm4xX3RDVVJQUTZTQ3ljVkFYeFdtUzFMYWhHQTdTOEc0WFFaRXd3eGRHTkozdFJjSjJ5T3p1WHd3MDkyUXdNY1dDWFd5NmZWemFBV3g4OXlYdjRkbjBVbExWZ3lpYnlTdGpzNzNSQllkNHVJNVlpVkF3Q2ExWC13akhVWllMWEZQTlplTzRGSks0QWVoNXFJSXlLdGMwbXNpN21Uc3ZaX1h1UTRhUWZZWkRBU3htdmQxclZvcEE?oc=5",
+    "published": "2026-10-21"
+   },
+   {
+    "title": "WEG (WEGE3): margens decepcionam, expõem pressão de custos e ações caem 7% após 3T",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakI2N2NZNnFCa3piSGlwakM4YWJnakpHSjRXTU5EeVZEcEdnWEJleUR2dXBxeUhDQ2hPOHJXZjNFR1lfQUpSeUloaW9XUUVRSEc4bDlvYWRzX0plTDhOclpVTjVwMDRwYU16SmVKTmpITXdpUFJDRWFqZEx2cml3SmJwTUp6R3NLNVRDMklreUZMNlJGdXhWem01OHFCMUtqcU9BdkI0VnBncWYzXzk1ald4dXRaZ9IBuwFBVV95cUxNUHZza01hbjh5Z1lOUW8tdGYwU0NkRFZZN3BQQ3NuVnhobENqVzFGQ0pjQmJsNWF4RU5GY21kYU16eXlyMEVZZnFoalBDbFd1YjlLMGZzdnBGU3FVV01mbzd1RENnZjk1YmlsaUxGbjZzeGxqLWppMmFNOGhuMkdGRzd1RUdGUEw4QTEyVWpncUZaRUJEaVNYb2dKekhxVlJzMHJ4endnRmZ1c1g3SHVRUmk1WWtkTE1vTEhz?oc=5",
+    "published": "2026-10-21"
+   },
+   {
+    "title": "WEG cai mais de 4% após balanço e analistas falam em pressão sobre margens",
+    "source": "UOL Economia",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTnJCNFlMVmo4bFdQU1RrT3FFdVR1T25RYWJTWVREd2VwRElfQTc3V1dPRnc5c0RNTFdQSWdoMW1vTVhqTi1YTGIwcWZxYW1SclNtYnlyNjlmZ21JZjhYc3BMbXByOENmQTRxZmtYMVpfQ1VWSVhUVll0VlZoRTNuTk1vQjc1WTBUWjVjVTFHeXY1NHNfdzROa2lwVXo4UGlaS21ubGFOSWs4SlJsbndkTFotZWtCcXNLZ0lIQTdjZTVBZlhfemFtR0pFMVZZTTZUOGlwUGx5c0wxdw?oc=5",
+    "published": "2026-10-21"
+   },
+   {
+    "title": "Ibovespa sente o peso das pesquisas; WEG (WEGE3) despenca 7% e Magazine Luiza (MGLU3) recua",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQREw2clNINWN4WDZZQnlNWnBubU9HbnZ0aEJUYmxOTWVSMlJfc1prSTQxRmM4S0dDand4TU9ZdWo1aVJ0d2g0ZGthaDBmNzNZWXZqdGoxNXdZdGZzVEtmUzBfcmVVUkNxRjhteHRXM09pMTF5cGhKa21ra25NdDl5b0Fnd9IBiAFBVV95cUxPcmNFalNzQzdPRHcyUlc0RndycEd3Z2cwRkU2bTFZakthdWJISHBKREhkaEsyMmFST213WGRXZWNyVjBjczRXSDVKZ2hpdVAwNjZHaXo1WlpvSjBmVFFDQXE4enByZng3eXBXbTlMYW5seGxHdU15Vlo5T1BUak9BbGx4V1dSRmJm?oc=5",
+    "published": "2026-10-21"
+   },
+   {
+    "title": "Ibovespa Tem Ajuste Negativo com Pesquisa e WEG sob Holofote",
+    "source": "Forbes Brasil",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZUZ4c2tZTzdmRHV0c1p6bDhtdkQ3WGRGaFZ2UUhGa2QwS2pUS3Q0QWhORmRTdU5kd2pKckpDbFlVQXd5dWt1OFhoTWdDMGlWVzZpcDdBWEJidTdsWE5Ga2RZbUNLTlAya0tYanJaWTBYeUdJTmlPejQ2azdrMlVPOWxNU3QtUjViTEpsbTJTeDVJNnZBaFg4X3RhUTkwQQ?oc=5",
+    "published": "2026-10-21"
+   },
+   {
+    "title": "Weg (WEGE3) cresce no exterior e lucro chega a R$ 1,6 bilhão no 3T26",
+    "source": "Investidor10",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNREpDN2JPUkZERzBneFRPd0hpOXRMdE8wU2ZpeURPS1o1eENiU0w0aV92bmRDMlZJcjhOU09CZlpiRkZwVEpiT1FjNGdmTVRqUzR0NWY4Z1pDRWdOSUUxTG1WdzVGNVFVTFF3dlliZkdWVERDdWVYRlcyMy11bXNJS3V3cTV0ZVcwM3dndGxxZHNTR3BHekdTaHE2ZXFMZFBQNV9NcUNQZEtEVzlPanE40gG0AUFVX3lxTE90bUl6a2hkRmZsNlZfZGlZVFctZlpYN01QbnFsOW5NcFczeGJMVUpkNGF0UVdSQzkzX3ZkejNXSDA2WmEyd0ZWN3NaeTNYMDlHOUFVR0ZOOFU1ZWk3RUdlT1FZaUxuMU04ZlZyekluQVNjTi1Vb1FCSUYybjhabTBkS3I0WXZTYXhtMjJ4US1HSXhQLTFpV21yUkhXdnl6YmhNczJmYjhna3lycU0xOGkyWUZkMQ?oc=5",
+    "published": "2026-10-21"
+   },
+   {
+    "title": "WEG (WEGE3): vice-presidente revela o item que pesou sobre a margem no balanço do 3T26",
+    "source": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVGJuUFltVXdZNTNPSERmVG9lVThQMnlMVjRrMDJOMXBnN3dMN1BmandPcXpSUml1WF8wa0hEc09tRGNyNjJkdkFBWTkyZmhnOUx6SlVvQVl1VnpQdGRKaGRGTGZxRjlQWG1DaGpmWWQ5R2phVS0yTVh6MFlHUXpXdnNveW5TOTRHaTFyb213RGpTaHJnenI2Vmc5c3lfbW8?oc=5",
+    "published": "2026-10-22"
+   },
+   {
+    "title": "Lucro de R$ 1,7 bi: WEG (WEGE3) registra resultado do 3T26",
+    "source": "Visno Invest",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVmE4NFgyWkh1aDJEdVVhd2xtZW5vdV9GcDA0ZF84dmUyYkp3b3hkNHl1SGxLLUlZZUYzdWx0NDFHdWhhMjNCZUl0V0ZNR2FzVHhOcF9vMzRmVDRWbjNPQm5Id3FZQzVQR2R0ZUw2dFJzZUxlNnVBREpkLURMeU85MzdSaTJPcGREZEwydFlmZ2JQb3h2LWc?oc=5",
+    "published": "2026-10-21"
+   }
+  ],
+  "ai": {
+   "short_reason": "Margens abaixo do esperado no 3T26",
+   "explanation": "As ações da WEG caíram cerca de 7% após o balanço do terceiro trimestre, com analistas apontando margens decepcionantes e pressão de custos. O Ibovespa também recuou, mas de forma bem menor, o que indica que a queda foi concentrada na companhia.",
+   "type": "company",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Ações da WEG (WEGE3) tombam 7% após resultado no 3º trimestre; vale investir?",
+     "source": "Valor Investe",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbXlBUkd4TFZTVkh2OHZBbm05MGUwNWNHUjlETndGdldYS015bnU0Qk9PZVFtcVNLcW50S282VElicjJqckt0bUpKWHk2OEdCcnBTeGc4dXZSZkMtX3I0QUN1Q015VHBkT1l5Q3BMcktiWUlSR0ZDWE9jUXg1c2JOV1hsWnd5cW5rWXFydHkwNl9SeFkxT3lIQkRDU2tHcEE2SGZGenBILVl3ZmRMa0FJVnA4RENWcjZ2WXJrM0pFNlJzbTBRNlA5TmFUa2lHelJEN2xYOTBtdEVVVWlzZHNFUlNIYzhibXJ3WmpCRUpNdWNEaEFYYnFNenVWY0ZzakhN0gGPAkFVX3lxTE1fQTJ3Q2s5MkR4WVpqRWItVnB4VGNjUnpQM29WVjNLMi1JdnJsZVdWemtuMWxkVERyekZyLTdlWl8tYmVwN1hwNTgyajQzMG9qbHFyNG81RTVwdm4xX3RDVVJQUTZTQ3ljVkFYeFdtUzFMYWhHQTdTOEc0WFFaRXd3eGRHTkozdFJjSjJ5T3p1WHd3MDkyUXdNY1dDWFd5NmZWemFBV3g4OXlYdjRkbjBVbExWZ3lpYnlTdGpzNzNSQllkNHVJNVlpVkF3Q2ExWC13akhVWllMWEZQTlplTzRGSks0QWVoNXFJSXlLdGMwbXNpN21Uc3ZaX1h1UTRhUWZZWkRBU3htdmQxclZvcEE?oc=5"
+    },
+    {
+     "title": "WEG (WEGE3): margens decepcionam, expõem pressão de custos e ações caem 7% após 3T",
+     "source": "InfoMoney",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakI2N2NZNnFCa3piSGlwakM4YWJnakpHSjRXTU5EeVZEcEdnWEJleUR2dXBxeUhDQ2hPOHJXZjNFR1lfQUpSeUloaW9XUUVRSEc4bDlvYWRzX0plTDhOclpVTjVwMDRwYU16SmVKTmpITXdpUFJDRWFqZEx2cml3SmJwTUp6R3NLNVRDMklreUZMNlJGdXhWem01OHFCMUtqcU9BdkI0VnBncWYzXzk1ald4dXRaZ9IBuwFBVV95cUxNUHZza01hbjh5Z1lOUW8tdGYwU0NkRFZZN3BQQ3NuVnhobENqVzFGQ0pjQmJsNWF4RU5GY21kYU16eXlyMEVZZnFoalBDbFd1YjlLMGZzdnBGU3FVV01mbzd1RENnZjk1YmlsaUxGbjZzeGxqLWppMmFNOGhuMkdGRzd1RUdGUEw4QTEyVWpncUZaRUJEaVNYb2dKekhxVlJzMHJ4endnRmZ1c1g3SHVRUmk1WWtkTE1vTEhz?oc=5"
+    },
+    {
+     "title": "WEG cai mais de 4% após balanço e analistas falam em pressão sobre margens",
+     "source": "UOL Economia",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTnJCNFlMVmo4bFdQU1RrT3FFdVR1T25RYWJTWVREd2VwRElfQTc3V1dPRnc5c0RNTFdQSWdoMW1vTVhqTi1YTGIwcWZxYW1SclNtYnlyNjlmZ21JZjhYc3BMbXByOENmQTRxZmtYMVpfQ1VWSVhUVll0VlZoRTNuTk1vQjc1WTBUWjVjVTFHeXY1NHNfdzROa2lwVXo4UGlaS21ubGFOSWs4SlJsbndkTFotZWtCcXNLZ0lIQTdjZTVBZlhfemFtR0pFMVZZTTZUOGlwUGx5c0wxdw?oc=5"
+    },
+    {
+     "title": "WEG (WEGE3): vice-presidente revela o item que pesou sobre a margem no balanço do 3T26",
+     "source": "Money Times",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVGJuUFltVXdZNTNPSERmVG9lVThQMnlMVjRrMDJOMXBnN3dMN1BmandPcXpSUml1WF8wa0hEc09tRGNyNjJkdkFBWTkyZmhnOUx6SlVvQVl1VnpQdGRKaGRGTGZxRjlQWG1DaGpmWWQ5R2phVS0yTVh6MFlHUXpXdnNveW5TOTRHaTFyb213RGpTaHJnenI2Vmc5c3lfbW8?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1500,
+    "output_tokens": 156,
+    "cost_usd": 0.000228,
+    "latency_s": 1.61,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:44:57+00:00"
+ },
+ {
+  "date": "2026-10-26",
+  "prev_date": "2026-10-23",
+  "return": 0.0421,
+  "z": 2.51,
+  "ibov_return": -0.1388,
+  "excess_return": 0.181,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Compra de Weg (WEGE3)",
+    "source": "Banco Inter",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01Mk9mTVJEWHlnV1pNZUZ2YjBIZEZ1N1pLR0IzUHVDemUzbzIxd2ZmMVhTQkpoaVVTWkQ0ZnNrNUNCZWMxLU9EQ2lvRWZMUllZQ0NFeEY4UE81cS1BOVlleFF4TjRYa0d6NEhyOUpnLTlCcTN4ZHpoWS1jYw?oc=5",
+    "published": "2026-10-26"
+   },
+   {
+    "title": "Weg (WEGE3) lidera perdas do IBOV na semana do balanço: O que pesou no 3T26?",
+    "source": "Investidor10",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1RCaFc3aHpiLVZxZElvcnk2QkRORks0bzY4R21WcGtyWE5CN3BZcFBwV0x5czItZ3N2dm9kbkFCemhSNnJQUDItMXg3b2ZUakFjeG9SWWhrVHJZTVVwS1ZDTUc0di0xeVVnY2dXRnlQLWR4a2UzM0d6QkhhYnFWVlBkNndNVk9KY1JoMWpMemcwZGo2R1J1WXhCaDlLTlhpeUljYnVHSzRoNlhHQk9BOGVTamYzWWFY0gG-AUFVX3lxTFB0bklhMFdxRTdSczRZSlBPOW9FRkVab1hWc2FpTk5DTldSWk5pWnpTWmpkbmFOXzRWbkhaNHF0QTdBSWRMRmpoV3B2dm1yTmVaRDFHMVd6MTBacGZ0RURnU3ZmdE9tM25fSnBlSHRPRENRR1VCQnhDZDA4cnNsNTcyTTVaQnVRNlh6QjZWQUs4ZUF1MEx5dWtzaGh5cE5TVVZPQnI4c3UtQ2hxc1N3enUtdF9vYzFzVGNiOFZZa2c?oc=5",
+    "published": "2026-10-24"
+   },
+   {
+    "title": "WEG (WEGE3) anuncia aquisição de negócio da L&S Electric nos EUA",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14QUJJeHZtc0JRdzBERFJGVENPUzl6R3g0X2dvQUdhQ2FVa0pJSm9zeEFibVBZemhZbHZqLVlMV0xVUjFrOW1iNzE1dFg3N01lSG53dG9qUlVmTDliUW14S0NtZmdLQ2hJRVlKdmM3d2N2aWs0U1HSAXtBVV95cUxQeHI1eVMyb1MyQlQ4T0FuaUlCRjBJRWxMcHZiOHVobFZaejlWSmJrOGNpS3ZNVVR1SUJoeGdhVko4TThFcUhtWVdZaUVjZ01Bdlc1X0hWaGgwSWZROVI1ekJGZ1ZORkYybEpiRS1ZYkhYbHBxMUJVWm9PUVU?oc=5",
+    "published": "2026-10-27"
+   },
+   {
+    "title": "WEGE3: Itaú BBA eleva preço-alvo de Weg e vê oportunidade após queda da ação",
+    "source": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNzJVaXA1eW1NRlRJaGN2ZnhuYmdSOHU1cFhPbEVJejNrWEU5OWFqWThPckk4YzhLSEJ0LWJaaEpQVlVCODYtNmtzcWpjWUY3bFo2c2l6OHJJRXUxb3Z5MVZyLVhsZGFTR0o4b1o4SDc3TksyeGtIUGVOZ1lHTG9BeXlXUDAxb01hTXZKOHZJdXNIM1plQ0ZGekN4YnF1U1NFdUt1R0hYU3ZKak12QUdTOHNSWFlrQTh0ZDhyUTlwNHFiSm8?oc=5",
+    "published": "2026-10-27"
+   },
+   {
+    "title": "WEG enfrenta custos mais altos, mas demanda nos EUA surpreende analistas do Citi",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOGY3ZlF2WDV0VHZjTkZpeHhnSEpwRWhCcG9DR2t2MHN4aHdYQ3h2QTI1SjJ0NzJMQ1pTejA1UmtqOUc0ZVRSdDZPbG5LRDBOX1JSTnM2SkNPRGIydzhfbXU3SHFoUHNjRXRORzJQY1NFdktxdHBsdE1TRlQtUVliV3NzVmZORlpGRl9qaTFfOXR1a1ZGZlo2dEpuX0RUWWZ0bEhFVDBYNzFEYzFCREV3S01XZ0k2Q25kVDIwMmZwcmxVa0R5V2VzU2U1a0RxbGRad0RmUNIB2gFBVV95cUxOWUFXM2ZyMWctaW9tVVBObHQ4QlNYWGY0MGV0TER4ZllkS01acjM2Mnl1eWYzTmIweGM2a0dpdHMtUmhXWVYxX1Z6ZWYwZmY3ZDluRWZjY3g1RE9kUE9BdVFuNWozUzRNWF9ucGtpRy1OR0U4OE1UWWRiQ0V6YUxiazQ5NTZKT2ktdnBtMXViYnNUalJYZnhGNnBwUG5IaDlObE5BSHBlcUQ2VTBQMnJjY2wzNzFZd2JwbnZDa0ZkYVVkd2U1alB3ZWtZa3g4QTE1V2JlTWFGNnZqdw?oc=5",
+    "published": "2026-10-23"
+   },
+   {
+    "title": "WEG (WEGE3) oferece raro ponto de entrada para o Itaú BBA",
+    "source": "EuQueroInvestir",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sZTN4ZjZGMVE5dFgxc2hHZ09Ma0FteXAtcVM0X3hQY1h3STFIRUZsYUpDaWdiV2sxS0hQS2ZuOUg3VC1BQjA1QjFlM3ZDUUlaMUs5ZTlQVjRFVFFQZ2ZjaC0wWHRfRUlBLXNsQw?oc=5",
+    "published": "2026-10-27"
+   },
+   {
+    "title": "WEG vai às compras nos EUA e firma negócio de R$ 55 milhões",
+    "source": "O GLOBO",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMUtQUHFOTXI2YWpxUDdvV0o5dFBIa0NkQ1dILW5VR1dCUFo5eTNvc21QUXVVcnFpT2ZET3pTOXRYYWtFWFZsVmRHZ25sSWk0UjdQa24wYm1nZWFJTktQMXo2WllWR3MwRl9SSVd6WEdQdTNFWW92Zmt2QUFhWTRnMUttMlY4OEM2Sjh4RXdKZDQ2dGNfVVFxVEZBc1B0ZWYyT1JfcXNnUGZGeHpLLXdIWE1zWHMxZGfSAcYBQVVfeXFMTk1CZ2VKYlpUM1FUWFd0bGtndFRMSUtES2NvQmZOLXktOFdNeHAyR3Jxb1hvaVp1cjN2VXFRRmZ2ck0yODZFaXZKYjd5RGtWbFRoZFQzd2c4NlJ6STQ3Ykk3aF9UelVXTGR2dl96MnVuWXJZNjJ2dlJYaG1hdzExTHlPQWlFZEtuaURGclhHX3NJNDU3VWNOUkVwWUdxWjlOWWdSVC04cmV5amFQTnlXNnYyVXhwa3ZaNXI0ZFVDUDVTRVNWZUNR?oc=5",
+    "published": "2026-10-26"
+   },
+   {
+    "title": "A bolsa tem bons motivos para continuar subindo, mas a WEG (WEGE3) serve como alerta",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaXVfa0tOTWJDY0M4S1dkZGZDRWpLNm8yU2pyeVpPWWxjUnlzdkdOSnNmbWdBbG5yeDEzc2g5SGVfRU9rY251Qk8xY1lSNmRRdWtxalJzc3VybGF2R1dfVm9aamxVclRfUzZqbUpHak1QaGRkRkozbEJxYWwydnhWNjhfaDJjY082RzFTT0tRdnVMazdrRnZScldoNjhxNnRoTEQ0N3BmWGNkTW9OV1NBVlJaU3lYT3ZQZE1DM2FLeVdjQmlOdGllVlJlMA?oc=5",
+    "published": "2026-10-23"
+   }
+  ],
+  "ai": {
+   "short_reason": "Aquisição nos EUA de R$ 55 milhões",
+   "explanation": "A WEG anunciou no mesmo dia a compra de um negócio nos Estados Unidos por cerca de R$ 55 milhões, o que pode ter motivado a alta da ação. Como o Ibovespa caiu com força no período, a valorização parece ser específica da empresa, mas as manchetes não confirmam diretamente a relação causal.",
+   "type": "company",
+   "confidence": "medium",
+   "sources": [
+    {
+     "title": "WEG vai às compras nos EUA e firma negócio de R$ 55 milhões",
+     "source": "O GLOBO",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMUtQUHFOTXI2YWpxUDdvV0o5dFBIa0NkQ1dILW5VR1dCUFo5eTNvc21QUXVVcnFpT2ZET3pTOXRYYWtFWFZsVmRHZ25sSWk0UjdQa24wYm1nZWFJTktQMXo2WllWR3MwRl9SSVd6WEdQdTNFWW92Zmt2QUFhWTRnMUttMlY4OEM2Sjh4RXdKZDQ2dGNfVVFxVEZBc1B0ZWYyT1JfcXNnUGZGeHpLLXdIWE1zWHMxZGfSAcYBQVVfeXFMTk1CZ2VKYlpUM1FUWFd0bGtndFRMSUtES2NvQmZOLXktOFdNeHAyR3Jxb1hvaVp1cjN2VXFRRmZ2ck0yODZFaXZKYjd5RGtWbFRoZFQzd2c4NlJ6STQ3Ykk3aF9UelVXTGR2dl96MnVuWXJZNjJ2dlJYaG1hdzExTHlPQWlFZEtuaURGclhHX3NJNDU3VWNOUkVwWUdxWjlOWWdSVC04cmV5amFQTnlXNnYyVXhwa3ZaNXI0ZFVDUDVTRVNWZUNR?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1477,
+    "output_tokens": 703,
+    "cost_usd": 0.000499,
+    "latency_s": 4.14,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:45:03+00:00"
+ },
+ {
+  "date": "2026-11-09",
+  "prev_date": "2026-11-06",
+  "return": 0.0529,
+  "z": 2.64,
+  "ibov_return": 0.0222,
+  "excess_return": 0.0307,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "BBA: WEG (WEGE3) pode ganhar com desenvolvimento de data centers no Brasil",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWThhYmUyRXZsUWxMWHhkal90S2pRVTRXSC1CT21wTGJWMUZqMVJBZEVnclFIcDBzSGRkTkc3dmh2dlhoYXJEWmVWbVVkaTQweTV0bFUyQ1VhVnlWbHZGWTNodU9VRlJNSURPc0NIV2ozVjNGWjlFUHZwT1gtakpKMzJDMFljamdhT2FEQk1MVWZfMzZNLWk3YzhKMjlBNWpVTGpyYmRkQ2s3SlpsbG1z0gG0AUFVX3lxTE5lX2VLR2dIU1dTYnpzRWJJbWc5MnRMQ1E0TlVtTWVKeF9YMENPeXVVdUFuVTdSekZfVmJWb25laHI5aVhvbEZVN3lTSGJZdlllU0d6WEpGWHRXeFZSLWFvWjExcmtxcTFHMk9Zc1pSV1M4SDFrOTl2OHQ4ZkdrZ2kzUHNSYmNIdkNHNXBHN2hZaDJ6MDlxbk5qcXFrMHlVUjdubGNmcGV0cE9uNlhLT0R2d25sYQ?oc=5",
+    "published": "2026-11-10"
+   },
+   {
+    "title": "WEG (WEGE3) e FPT fazem parceria para motor elétrico com gerador a bordo de caminhão e ônibus",
+    "source": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZGpkdXNxMzZPMmdGZU5mQWR3S3pkVUl6Rks2TUVrR09GYnluWG5PZnVkSXpobXRUS0t4NDFybmV3UjZrZ0Z2dFYwaHEzd3RhNk9mV0NZR0M0Q1pVX0xaZ290eTcyOGh0QmxzZmxON1RBRmhyN1dxZENJWGM0VVBET3RFaThRektyZ0FxLWd1MDY0RVFYSnF4Z2F0T0lzOHhCMEtPUG9IN1plbkNfd2JDQ0d4LUJiUzI0QUlCTC1BajhNSnVLN0E?oc=5",
+    "published": "2026-11-09"
+   },
+   {
+    "title": "WEG investe US$ 8 milhões na Índia: 400 mil m² e o que muda na WEGE3",
+    "source": "ativovirtual.com.br",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUTB4SXpWaU9NSWFpalRzam1CdkN4QlVmRnlLU09BU3duejU0WlZOMGNxX1VqUGNTb0czMEswOGJUQXNBU2xyVno1djdrU1JqY19ZQTdrdGdId1A2TGZNNEZoN1ZZS1JmVnZXMkVBQVlTVnhfazZLRk5EQXdOYmpCYWZkRFdCeXNNQmYxUFlZcThCQzN3Zm13X210QnpERnlVME9faUxvVVY2b1N0SVZzckhR?oc=5",
+    "published": "2026-11-10"
+   },
+   {
+    "title": "Itaú BBA vê WEG em posição favorável com a corrida de data centers no Brasil",
+    "source": "BPMoney",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLUZFa3hxWnRBak9NMHAtR2VpdnBzUUxLc2dtQUlyYVNMaE44ZFBwVjBaVUE1QjlRNzF4UUlmMDBJUmFXakxxVTVFMklIb1RUR2ZGSWN6b3ZNTEJ6S3gzSTBlSWFLbFVWVktCZ2Q1Y1pEX1RqWVR1OVExdXp2QmtvaUExbw?oc=5",
+    "published": "2026-11-10"
+   },
+   {
+    "title": "XP tira bancos da carteira e reforça carteira ‘defensiva’ para novembro; confira as ações",
+    "source": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR0NjLTAwcThJSktUM0xERUNJTkVZTm1lRTFibFBtWGxJMXB1cnJaZ0dIdkNBaFA5N1pzbm9JSW1xSHB3bEpSa2k4a0FrYlpTdGdaa1VJX3dSVjlxREJmekRXdjFNSHNSSC00Qng5aFJBdDJCZkdVd2JhVlNQcWg2TXNkZmpNdWFCR2M5bzJodDdscURaSDdqVExYQjNjLVllX3EyRDRJTFo0SjBETnhVcjF1cUJHNjZvaFV2ak9TOA?oc=5",
+    "published": "2026-11-07"
+   }
+  ],
+  "ai": {
+   "short_reason": "Parceria com FPT para motor elétrico",
+   "explanation": "A WEG anunciou em 09/11 uma parceria com a FPT para desenvolver um motor elétrico com gerador embarcado para caminhões e ônibus, um anúncio específico da companhia. A alta de 5,29% no dia, acima do Ibovespa (+2,22%), pode refletir essa notícia, mas os textos disponíveis não confirmam a relação de causa e efeito.",
+   "type": "company",
+   "confidence": "medium",
+   "sources": [
+    {
+     "title": "WEG (WEGE3) e FPT fazem parceria para motor elétrico com gerador a bordo de caminhão e ônibus",
+     "source": "Money Times",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZGpkdXNxMzZPMmdGZU5mQWR3S3pkVUl6Rks2TUVrR09GYnluWG5PZnVkSXpobXRUS0t4NDFybmV3UjZrZ0Z2dFYwaHEzd3RhNk9mV0NZR0M0Q1pVX0xaZ290eTcyOGh0QmxzZmxON1RBRmhyN1dxZENJWGM0VVBET3RFaThRektyZ0FxLWd1MDY0RVFYSnF4Z2F0T0lzOHhCMEtPUG9IN1plbkNfd2JDQ0d4LUJiUzI0QUlCTC1BajhNSnVLN0E?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1312,
+    "output_tokens": 421,
+    "cost_usd": 0.000342,
+    "latency_s": 2.84,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:45:07+00:00"
+ }
+]

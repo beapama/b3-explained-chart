@@ -1,0 +1,925 @@
+[
+ {
+  "date": "2025-12-05",
+  "prev_date": "2025-12-04",
+  "return": -0.0462,
+  "z": -4.48,
+  "ibov_return": -0.0431,
+  "excess_return": -0.0031,
+  "scope": "market",
+  "news": [
+   {
+    "title": "Edital de pesquisa - Ciência da Implementação na Educação Brasileira",
+    "source": "Todos Pela Educação",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVDJrTDA2OE5VaGVzVWpydXZFUExlcGp2UW1wSU16SU9kWHEzTTRHdldIM0c1Y0ZDNlZ2WGFWaS01azQtOVd2VzlrQm9WQngwbzNoZ2dhNUNZa2EtYlhCOE1XVjdQWFdWbVNMeFNpZnB4TTd3NlFWam83YVFUUzh2YzNuM19NODY1MWQwNWJJWEstcXVsNTAxb0ttd2MtUDUxR2tEbWl3LUNTZ2I2dEpNUXEzMzVUQmN4SWtTUHZQUzlTQkRUSUVNTmZuQjVXNTdoUmRiVGtXUXhiSFR3dkJzdU9lRFc3cUk1NTNudUtUNA?oc=5",
+    "published": "2025-12-04"
+   },
+   {
+    "title": "Itaú (ITUB4): Revisão de Preço - Dezembro 2025",
+    "source": "InvesTalk",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NZUZydjF0cGRuYWJHaThiX2ZEa0o2a1NHVkpTSDJSRnd2VFkzNW1KX3lUaDNQRTc1SkdUQVE5NldOWnVZS0hMd3FjMHlTMzhLV3NudmxWUGs3YW9PU1FqX3YwTkVNbnc?oc=5",
+    "published": "2025-12-05"
+   },
+   {
+    "title": "Itaú ultrapassa a Petrobras e se torna a empresa mais valiosa da bolsa brasileira",
+    "source": "G1",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT2t0Zm8yNGx5QXpzR2ZCM2VIc1Uya2ZUMXUxY2hyV2xjODkyZ2J6akY4MDRXUWFSb3Nob0V1OHZNQ256NGJSRUR1cVdzLUJRMXJzS054cGtWdjR1aUlJYUtiVW1aLURzX2ZiNkt2cUJGN2VLZjM0NnVQa0k5d1JKY0xsQkHSAZMBQVVfeXFMTzJSSmFrb0FBelFSRl9RRndfNjVPVkdUQ2ZlTXFDWWFQZUMwQzBhNUxUUVlmQUIwRUl3TmxuR2kxZk80cFNKZ3EwU2ZvbXJ2bWJocHdCb1VyU0h3VU9oeGxfeks1LUptWEpUNnRfMld0V1RmQ0FnVC1jTTVzalhxYVI2RXN2YnA1OFVvLURvd29NMGFN?oc=5",
+    "published": "2025-12-05"
+   },
+   {
+    "title": "Itaú ganha R$ 162 bi no ano em valor de mercado, passa Petrobras e assume o 1º lugar na bolsa brasileira",
+    "source": "Bora Investir",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWXV6Q2JZSHEzQzRjR1FXNERxRnpYMEQ1WF8wRzA5ZVN2RWJtWUZXQUJlbC1CY29EaWktaGd3MFZRSWxrR0pSQm9kRGstSXhtTFZQWmdQMWVtQ3hNRGkweFhJWjB0M0xqNHRsajAzallZVzdNTEszLUJCU0RNQ0RNV2pCS2NZV3RhZlVFUWl6ZUlUVDdNbDcxSURwS2FoTi1wREcxbnByQ0wzM2Z0U0VsYWVvbVk2dEh6Qi04STloYWpmdkY3VUlVSmhXcHlfd3kzb0puUEpwOTdEX3Z6aVBHdC1jcjZOZVU?oc=5",
+    "published": "2025-12-05"
+   },
+   {
+    "title": "Bolsa perdeu R$ 183 bilhões em um único dia; Itaú Unibanco (ITUB4) teve maiores perdas",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONjY0aGM1ZUEydTdjaGszeTR2T3c2U0ZiVWFSY3J4Vi1HUTRFWXdxSmY0WkhNVnNaTjIyMi1VWFYwTEl5blVCNzdxU2l0Vktqb3lTZFluQ1ZmZXhPRjRNZDE0ckpHak5OeVZERTlTeTFhNGR1d1o0ZlNpS196dmtkam4yY1YzVVlxTDk0SHlWU2ROY0N0UXNtMmszeDRkNVBFMHZQYWltUVFOcTd2aF9pZGVXdHBDbzhnSjFVRE14WFJMN1NORmFBNE9NdkZCdw?oc=5",
+    "published": "2025-12-06"
+   },
+   {
+    "title": "Bolsa cai 4,31% em dia tenso e reverte início positivo de mês",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT2Y0WTRjblNESWN5NjlVOElGSWctc25DS0FSMDFSX1IzZVlDR0R4MURFTXlad3NKUGRmYy1xN3haV3d0WGpnNkdrVEIxZUxVcVF1WjdMSzM0R1VBcFZYUEROSnY0Z0FpN2ZwQW55Vk5MX2hiQTRDRTAteThqV19ZSEdIb29DenlZQ1g2ZEM2cjYzeU1KVDNGeUhJX0wxd3A5RGhnelFpOHc2dHgtRkNkcFhtYzc4d1dx?oc=5",
+    "published": "2025-12-05"
+   },
+   {
+    "title": "Após recordes, Ibovespa B3 vira e tem queda de mais de 4%; entenda",
+    "source": "Bora Investir",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYTM1X0dobDUxSUk0dVE1RkFuMDBpLXpxRTYycFFVbDlDaXE2YjBiMTNkNV9fNVRGb2RVVmpORE9JYmx3VVJKYlBWNHB0bE16cUlZWndmMHY3Z2tQSVBsNzlucEZ0TllIYU5nWHRreVRsRVJQbDNVVVFaRmtyRC03ZkNzUVk2SmUzTk5oNXV0TXY3UWJMbzVYZ25MTXFEZnVBbmw4WEYyQkF4eC1ZcmJrM1Z3?oc=5",
+    "published": "2025-12-05"
+   },
+   {
+    "title": "Dólar dispara a R$ 5,43 e bolsa cai mais de 4%, após pré-candidatura de Flávio Bolsonaro",
+    "source": "G1",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yMnoxNHgwMUNZQjV0MXp5TlJ3UThGaTN1bDJiZlhDeXlsM2V5RnFVOVZkVEFEcXZoZmNXOEdNQUZWWmFOaGRYU3U0bmx5NzNNMXo3c3FFcmVLUDE4SFU2MzF6V1FWaWx0dEQ0SVNoc2JuOTl2SkFxUtIBhwFBVV95cUxOUnNHTlNuUmYzQ3MzR1Q3RTdNWC1HQW9CTW84SlU0cWJ2ZUdMV21qSG8zN2x0UkE1QkF4TENVVnNWaTlYWVRiMDJlX0hHckF2QWk0czk5ZGNDWkpPVjRjV09nMGMwbUtXWXFXNFdEdFB2SXFBc1Bocm9FM1laY1haSDZNYmNmNEU?oc=5",
+    "published": "2025-12-05"
+   },
+   {
+    "title": "Por que a Bolsa sobe tanto? Índice alcançou os 164 mil pontos pela 1ª vez",
+    "source": "Exame",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS2dPRHo1eEx2bDEwZzVuNHlkaWpSWXYyTDVCN1NzTDFCcndONVJhRGRZdEt5cC1RM2pNaWhKdzdqZXMzQVgtNF9XcHMwZHVPMGpBdGcyWDFVOWpBNThseUswWXRNMVh5eWR3dk5tQVNBamUyNUd2dGpnb1pYZEgyWEEtT0VEa05iREdaREdaQm9maF9jTTlVaUFhbVFtUmRMQ3FGTXM1eV9qRHM?oc=5",
+    "published": "2025-12-04"
+   },
+   {
+    "title": "Ibovespa tem a maior queda em quatro anos após Flávio Bolsonaro indicar candidatura",
+    "source": "Bloomberg Línea Brasil",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONm5BUXhVbnJzNjBBQVZCTWd0Q1pyR1BLbVdka0E0TW5rbHNPMmZzSEdvNktOeHZPbFBZVHBmZk9WRkNTQjVIc0syM0hZNFhydXg3bnBIWkZ0clFRd3FQVzQyR3RHeGppa3g4UG9Pd00zYzFpS2JRY2JQUk1LTW81bWhseWl0RkFKek5NWFNzR0ZKbml1VmVIUVowb2FFYTM4VmdKWlZFWm54S3R6OEhlaTJLaG90SVk2UFJPNTZhTF9QQjU4UkHSAdoBQVVfeXFMTkNvOFV5Z0Y5OEhoLVNLbFhpSjB1Vzg4WWRaSG1tX21SUXVCUXgzLWg2M3dqaUJMa1BsYlFUUlhlem5GLUlUX19nQW5RX3dqRlhSTkxkcGhKYVJMQ2ZNaVc3UlExM1NLeWF0MG5VVmh5T0M5QzFGZHNIRE1lOWxUdktOenQ0ZXFqZm00c1REUmFaaFlzbk9zclBSNWlOaEZoN0Q4OTNsY3c0MGtuVTVvSklKS0plcEZhVkRweDFQY3RuN3p5LTA0anJCVFJmLTlTeHE1cVV1TlViR1E?oc=5",
+    "published": "2025-12-05"
+   }
+  ],
+  "ai": {
+   "short_reason": "Queda da bolsa após pré-candidatura de Flávio Bolsonaro",
+   "explanation": "A queda foi generalizada no mercado, com o Ibovespa recuando 4,31% após a indicação de Flávio Bolsonaro como pré-candidato, e o dólar disparou para R$ 5,43. O Itaú (ITUB4) esteve entre as maiores perdas do dia, acompanhando o movimento de aversão ao risco do mercado.",
+   "type": "macro",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Bolsa perdeu R$ 183 bilhões em um único dia; Itaú Unibanco (ITUB4) teve maiores perdas",
+     "source": "Seu Dinheiro",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONjY0aGM1ZUEydTdjaGszeTR2T3c2U0ZiVWFSY3J4Vi1HUTRFWXdxSmY0WkhNVnNaTjIyMi1VWFYwTEl5blVCNzdxU2l0Vktqb3lTZFluQ1ZmZXhPRjRNZDE0ckpHak5OeVZERTlTeTFhNGR1d1o0ZlNpS196dmtkam4yY1YzVVlxTDk0SHlWU2ROY0N0UXNtMmszeDRkNVBFMHZQYWltUVFOcTd2aF9pZGVXdHBDbzhnSjFVRE14WFJMN1NORmFBNE9NdkZCdw?oc=5"
+    },
+    {
+     "title": "Bolsa cai 4,31% em dia tenso e reverte início positivo de mês",
+     "source": "Agência Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT2Y0WTRjblNESWN5NjlVOElGSWctc25DS0FSMDFSX1IzZVlDR0R4MURFTXlad3NKUGRmYy1xN3haV3d0WGpnNkdrVEIxZUxVcVF1WjdMSzM0R1VBcFZYUEROSnY0Z0FpN2ZwQW55Vk5MX2hiQTRDRTAteThqV19ZSEdIb29DenlZQ1g2ZEM2cjYzeU1KVDNGeUhJX0wxd3A5RGhnelFpOHc2dHgtRkNkcFhtYzc4d1dx?oc=5"
+    },
+    {
+     "title": "Dólar dispara a R$ 5,43 e bolsa cai mais de 4%, após pré-candidatura de Flávio Bolsonaro",
+     "source": "G1",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yMnoxNHgwMUNZQjV0MXp5TlJ3UThGaTN1bDJiZlhDeXlsM2V5RnFVOVZkVEFEcXZoZmNXOEdNQUZWWmFOaGRYU3U0bmx5NzNNMXo3c3FFcmVLUDE4SFU2MzF6V1FWaWx0dEQ0SVNoc2JuOTl2SkFxUtIBhwFBVV95cUxOUnNHTlNuUmYzQ3MzR1Q3RTdNWC1HQW9CTW84SlU0cWJ2ZUdMV21qSG8zN2x0UkE1QkF4TENVVnNWaTlYWVRiMDJlX0hHckF2QWk0czk5ZGNDWkpPVjRjV09nMGMwbUtXWXFXNFdEdFB2SXFBc1Bocm9FM1laY1haSDZNYmNmNEU?oc=5"
+    },
+    {
+     "title": "Ibovespa tem a maior queda em quatro anos após Flávio Bolsonaro indicar candidatura",
+     "source": "Bloomberg Línea Brasil",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONm5BUXhVbnJzNjBBQVZCTWd0Q1pyR1BLbVdka0E0TW5rbHNPMmZzSEdvNktOeHZPbFBZVHBmZk9WRkNTQjVIc0syM0hZNFhydXg3bnBIWkZ0clFRd3FQVzQyR3RHeGppa3g4UG9Pd00zYzFpS2JRY2JQUk1LTW81bWhseWl0RkFKek5NWFNzR0ZKbml1VmVIUVowb2FFYTM4VmdKWlZFWm54S3R6OEhlaTJLaG90SVk2UFJPNTZhTF9QQjU4UkHSAdoBQVVfeXFMTkNvOFV5Z0Y5OEhoLVNLbFhpSjB1Vzg4WWRaSG1tX21SUXVCUXgzLWg2M3dqaUJMa1BsYlFUUlhlem5GLUlUX19nQW5RX3dqRlhSTkxkcGhKYVJMQ2ZNaVc3UlExM1NLeWF0MG5VVmh5T0M5QzFGZHNIRE1lOWxUdktOenQ0ZXFqZm00c1REUmFaaFlzbk9zclBSNWlOaEZoN0Q4OTNsY3c0MGtuVTVvSklKS0plcEZhVkRweDFQY3RuN3p5LTA0anJCVFJmLTlTeHE1cVV1TlViR1E?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1608,
+    "output_tokens": 641,
+    "cost_usd": 0.000481,
+    "latency_s": 3.65,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-20T03:21:50+00:00"
+ },
+ {
+  "date": "2026-01-21",
+  "prev_date": "2026-01-20",
+  "return": 0.0438,
+  "z": 3.36,
+  "ibov_return": 0.0333,
+  "excess_return": 0.0105,
+  "scope": "market",
+  "news": [
+   {
+    "title": "Após negociação com o Sindicato, Itaú abre inscrições para bolsa auxílio educação",
+    "source": "Sindicato dos Bancários",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWW9PbVNDdGxSWG1DVU8weUNISUhZZmdKQ0k5U3VTRVFRZjMyTWpRZmpaTnlzY3VpYkZoX0dmWnJ3WkZpaXJCR3dwUm52UVVhN2ZQQm9pdXdrcEVNN21CMl9rS0RqbVFmZ0t6MEUzcHJ3Rm5ibFlncFFISk9sSTNESmdXRXdXY0djaUZiRnMzcTRfV2R3NDN1REY0TU1feVRjTmJ0RmdjWUFYX0dVdUc1ZjlsT3lVdw?oc=5",
+    "published": "2026-01-22"
+   },
+   {
+    "title": "Itaú abre inscrições para Auxílio Bolsa Educação 2026",
+    "source": "Sindicato dos Bancários de Campinas e Região",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRTRQdFdkOWcwNHJnSzY4OHRrbEtWM1pjMkpUWUVWckQxSk82MVdwZGxCbXZGUHJDZW1jNWZFbWljMjY2UmRUWWhKelJxUFJlV2wzT3F4R2NWX0gzbzJSLXd4by1KbFAzR0M1LW5MMUx3dkVtMTdjelY1ZGE5OWJjMTZYWHZQYmtEZlVvOHQ5dVFDRTdmWTU0?oc=5",
+    "published": "2026-01-22"
+   },
+   {
+    "title": "Vale, Petrobras e Itaú são ações mais negociadas por estrangeiros no Brasil",
+    "source": "UOL Economia",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRnBEVkllUE9xcFVXRkhVNlk1aFFiZFhGa3FsN1R1MUpkTW1PNHBxN05EZ3pNV2I2Tjh1S0trSko4ZG9nNU9NcFFWM0IzMGRiN29MaU5tdlRHZU1hN3ZhRXp4aGVUZFJQV1hqZjYxdTVWMmpkQVZ0SjYzNGRaNDRGRUJ3MlE0UFJmVUJsYXE3Tk1lRWVMWkpDMDVvMmRTTEdQZEROV1JmMTJQYkhwRmFXMUUxNWxMWVZGQ0JmY0RuMHZPWFFxVDJj?oc=5",
+    "published": "2026-01-20"
+   },
+   {
+    "title": "Em quais ações da Bolsa brasileira investir em 2026? Analista recomenda Itaú (ITUB4), Nubank (ROXO34), Rede D’Or (RDOR3) e mais",
+    "source": "Empiricus",
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxORUN4YnN1NGV0UDBYdjVFcnI3TlU4QVdoQWhCLVZyakoxTVJZVndSZVNVQTZPcG1VWjgtVmRGUXR4a1lZRkY4LW9tZ2N0ODV5N0NzNkNqSFNTUWZaREVUUWEyelFpbEI1alMtbzZtVndlSEtiMk14Z1dMWElzNEE4RGMtdjlQVlVEYmRfVUdqdi1IVHozd1RlQ05KaFU3SE1wbjdLMmJOXzhPN2lIWExqTzlLTFhiY29WVDhHSWNjTVhUQjNpYjBFdE5vcW1pYmkxWVNMdjNnSEJaQ2ZIYU85QUwyLTI0NFZEdm4xSDJhWkJsOHp6WllsdFJzeURULXhFY1JteWRGVHRjeFU?oc=5",
+    "published": "2026-01-21"
+   },
+   {
+    "title": "Itaú se torna a única empresa brasileira entre as 500 marcas mais valiosas do mundo — e um concorrente se desvaloriza e perde o posto",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONkVaNWhMUVRPdHh2aV9hN01xcmdFdC1RUVFrUFUxaGlUNFhUNTdYcVpRUENqOE15S1kwVm5IY3RZWHlKVVNqOVRybzJxeVlROEZHWGtZdzNSTkVoazR0SWlyVlprM0hqdW9XMkxkNGg1dWpEWk1iTEtMNHJkcnM1VlowMWk0ejh5OXBDdGl6YksyYzVPbW95c3dKdU5TYndGdXBzTjRkNk9uM2FCN09kRjlyZFFSb21hRG1qaDdlRmVJM2M2cW15cjVyRkpRdXB6MEZpSlJ5dzFfQ1hhSDVlRUVlSTNlYlUxTk5vcjBNaTVqM2hNWlBScUZyYVN2NUZ0TXdsa2ZURFcwbVU?oc=5",
+    "published": "2026-01-20"
+   },
+   {
+    "title": "Bolsa sobe mais de 3% e encosta nos 172 mil pontos com recuos de Trump",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQXFfMFBGeHVHMnk3aDZTeF9KWFB5eXFDNW83blZXc19nbGlVYk1KaVkwRE1aQ0dzcjJQWGg2WDRnSmVMakk5cHdnRXdUTE9QMHJ6Y1ROeGpQRjNHVmR3bUU2WEJIRXJ0dDRLdkVaUGFkWmllcXh4Ym1zNXc2b2NqME82T3h5NU5YcURabHB5SndLLUU4ZjA2Z2s0U3VuTDBsNUJTM0l5N2FZT0M4RlhrUU1pWV9ZRC1ReTYzejZwM3g0eWhkM1E?oc=5",
+    "published": "2026-01-21"
+   },
+   {
+    "title": "Bolsa opera em alta histórica por dois dias consecutivos",
+    "source": "Fundação Perseu Abramo",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZFFzdFc2dTExWG8xc01WMWg3cmFHd3I0amxhbk5FY0I0YjlaTU1yd3dTY3hZTzJSdWhRSVVkYzR3ZWNJV3NVYTVxalF2aW5vaG1pa1JJTnRLVHJZbnpkZ0h3ZDVMT0ttcGo0amNyblFuQ1doWkQ4eGxyemRTRGIzQlNyM2V3eW1q?oc=5",
+    "published": "2026-01-22"
+   },
+   {
+    "title": "Às 17h, o Ibovespa avançava 2,07%, a 175.377 pontos, a caminho de renovar o recorde histórico pelo quarto dia consecutivo. Na máxima da sessão, chegou a 177.741 pontos. Na quarta, o principal índice do mercado acionário do país superou pela primeira",
+    "source": "Instagram",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpVEdOWGFiaG84ampyTE54bkJBLUR2TGVjUDhyb0JsMW5obS1lbjhseHFxRFlqLWh3Nnd2eFpkVzdCRUhoYllaYWJ2SmFIRnFReVE?oc=5",
+    "published": "2026-01-22"
+   },
+   {
+    "title": "Ibovespa B3 sobe 3,33% e fecha nos 171 mil pontos, em recorde histórico; dólar cai a R$ 5,32",
+    "source": "Bora Investir",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWV4UnJTWVp3cXJDV2FtcmNMRGIxWWRNdTJTeWdrZDRpbnpwWmdZY3pqM0tPLWVPdi0ydTdjNkh2dDZHeEZpckIyM0dCZER3SjE5U3JveEc4WWZoa0xuNkxzVEc2OVpXdGNtWjRmcUJzVEE1YVJmbExsLVR0UHZCVVJfc2toMFhDNGFSNW1hVURRZ1VwbEhkS3Q0QXE1a196R0xEVnQyT1NhNkhNdUU4NHNjZGtkZXM0aE5tMmFwZ3NNc1lNalhWamZra1dxYlFn?oc=5",
+    "published": "2026-01-21"
+   },
+   {
+    "title": "Ibovespa dispara e fecha em patamar histórico acima dos 171 mil pontos",
+    "source": "CNN Brasil",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSU94b2JYSnBXN2V3dk9CVUlqSV82M3NoaWRrUzB0Z21jN3FzQWg2ZzN2akpCOGhjZThLVUgwT1Y2Yl9GbkRfdkI2VnB3ZEpfdkxOcm84eXU0WW41YngzX0JnS2loUzdSRTFtS0hfLU9Hdk5fN25mTzNYQUJGNmoyekpXcmZiN0hIbUxVTm11cV9NRGdkX3JWOWlYcUZfMzBONHJOMw?oc=5",
+    "published": "2026-01-21"
+   }
+  ],
+  "ai": {
+   "short_reason": "Alta generalizada da bolsa com recuo de Trump",
+   "explanation": "O Ibovespa subiu 3,33% em 21/01/2026 e fechou em recorde histórico, com a bolsa sendo impulsionada por recuos de Trump citados nas notícias. Como o movimento foi de mercado amplo, a alta de 4,38% do ITUB4 acompanhou o otimismo geral, sem notícia específica sobre o banco no dia.",
+   "type": "macro",
+   "confidence": "medium",
+   "sources": [
+    {
+     "title": "Bolsa sobe mais de 3% e encosta nos 172 mil pontos com recuos de Trump",
+     "source": "Agência Brasil",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQXFfMFBGeHVHMnk3aDZTeF9KWFB5eXFDNW83blZXc19nbGlVYk1KaVkwRE1aQ0dzcjJQWGg2WDRnSmVMakk5cHdnRXdUTE9QMHJ6Y1ROeGpQRjNHVmR3bUU2WEJIRXJ0dDRLdkVaUGFkWmllcXh4Ym1zNXc2b2NqME82T3h5NU5YcURabHB5SndLLUU4ZjA2Z2s0U3VuTDBsNUJTM0l5N2FZT0M4RlhrUU1pWV9ZRC1ReTYzejZwM3g0eWhkM1E?oc=5"
+    },
+    {
+     "title": "Ibovespa B3 sobe 3,33% e fecha nos 171 mil pontos, em recorde histórico; dólar cai a R$ 5,32",
+     "source": "Bora Investir",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWV4UnJTWVp3cXJDV2FtcmNMRGIxWWRNdTJTeWdrZDRpbnpwWmdZY3pqM0tPLWVPdi0ydTdjNkh2dDZHeEZpckIyM0dCZER3SjE5U3JveEc4WWZoa0xuNkxzVEc2OVpXdGNtWjRmcUJzVEE1YVJmbExsLVR0UHZCVVJfc2toMFhDNGFSNW1hVURRZ1VwbEhkS3Q0QXE1a196R0xEVnQyT1NhNkhNdUU4NHNjZGtkZXM0aE5tMmFwZ3NNc1lNalhWamZra1dxYlFn?oc=5"
+    },
+    {
+     "title": "Ibovespa dispara e fecha em patamar histórico acima dos 171 mil pontos",
+     "source": "CNN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSU94b2JYSnBXN2V3dk9CVUlqSV82M3NoaWRrUzB0Z21jN3FzQWg2ZzN2akpCOGhjZThLVUgwT1Y2Yl9GbkRfdkI2VnB3ZEpfdkxOcm84eXU0WW41YngzX0JnS2loUzdSRTFtS0hfLU9Hdk5fN25mTzNYQUJGNmoyekpXcmZiN0hIbUxVTm11cV9NRGdkX3JWOWlYcUZfMzBONHJOMw?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1720,
+    "output_tokens": 192,
+    "cost_usd": 0.000268,
+    "latency_s": 1.8,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-20T03:21:55+00:00"
+ },
+ {
+  "date": "2026-02-04",
+  "prev_date": "2026-02-03",
+  "return": -0.0329,
+  "z": -2.55,
+  "ibov_return": -0.0214,
+  "excess_return": -0.0116,
+  "scope": "market",
+  "news": [
+   {
+    "title": "Itaú (ITUB4) 4T25: encerrando um ano de consistência e rentabilidade",
+    "source": "InvesTalk",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VRFZKZWMzc08yTExmYzJNNGxaUEZFQTRRd29CbGhEcUxzRFA3T25BODl5eXpMblVtZFY2b0hJQk9WWDVqdnFOQ2RBblhicVdOWmRFWHJiTlpLcjRsdXJQMjlDdw?oc=5",
+    "published": "2026-02-05"
+   },
+   {
+    "title": "Itaú (ITUB4): lucro sobe 13,2% no 4T25 e alcança R$ 12,3 bi",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV09PVUE2b3lzT3pDS2trcURrd05iR2xyblFuSWtGcjdUV0hmdDA3UjYtNFlmUHpGR0VISU5ncEZGOTRqal85MVoxZ3lYY1FPMjNYYlFtZXF2VFZ1eXhpSWEzYlNQVDAyeWZCQ3FFWVBTa1I4bnIwaktHZk0wdEd1NjNDcHktQlBCZ3ZqVmJGRnVKZENXS0lsZDhnM180OFlPdXBlN0cwQldhc0nSAbABQVVfeXFMTmxJVTN1R3JhY3J3TkJ5M21hbUVYeXp2TklvRW9aX2didGhES3JuVjRkVUpKMlZMTkZRWEhSOUVfYnhGV3EwNXpGU3VoZUxiVjhfV1NqVEhlS0Jac1BQdlpiaWtMaVk4TkFIS1oteGEtVXlUMTZDTmlOLWJEa2hpVW9TTjlDRTBSQU1WN0toN0prb3g4blc3ak03NVNja2xiaS14NFBYQmhpckI3Ylo2bFg?oc=5",
+    "published": "2026-02-04"
+   },
+   {
+    "title": "Itaú lucra R$ 46,8 bilhões em 2025, valor 13,1% acima do ano anterior",
+    "source": "Safra",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zZGJGaHNCckpwTW9sajJSenNraEY2bTROTnlkNXdnZFItbldHZlF4cEQ1VDNqQnczd0FPYlpOVWY2QVdNekxkbGZqME9sU3lwc21WRWVKeUJuazllRXU5d2pGQkNZT01jaFRZ?oc=5",
+    "published": "2026-02-05"
+   },
+   {
+    "title": "Itaú (ITUB4): projeções “conservadoras” podem ser revistas ao longo do ano, diz CEO",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdkNKWnpqZHNHWkZlWDluZWNYTkp5NmZiNXI0UFFMMWZJSjhOY3Z5MmJfY3VGaG1MSlhUaFNZRlRDdDF0cy0yNEw5NF9XZHd5M1lLb3Y3b1VwTTQ2Z1Z0TnRlSjNxd3RjU3JFVEpGMGE5R29PRGZpYmxRaDE2ZXI0TGVzMHpXSGNYckdZakV6dGNKZk5jTTVNaDlfb3UtbER0UlAzUG5teVhWNk1LbTc0VF9VSGF0SHPSAbwBQVVfeXFMUEdHMGcwVW8zc0xGMThwQkx6NDlYVFFhTTFVM0NMdkxkMklLblJkMWNHM043TnlCdURIc2JDTGdpQ0FlRXFrcWw5TjVocEZFU2FLQzZqd2JhajR2NzkxckNKeVlqcU53RDMtcjZvU3RBYUlybkJVTDBDNnZrRUtsY3dSOWZMTGVfaDhPd3dsMWQwUHg5dFZuaUUtaVVRTk9naEVLcUFPaDVjdVVCa1lLSnRKS2s0QWlHekc4WXM?oc=5",
+    "published": "2026-02-05"
+   },
+   {
+    "title": "Ações do Itaú (ITUB4) sobem firme após balanço considerado 'robusto e consistente'",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMTNvVjdJU0x0UmlqQ3IyTUNjcmFRX1RyLU4xSmlvdWdTWTdSSHl6WG9aSWxpNFpZU0V1M2k0cHNCMzlmbllycjhsOF9zZGJ4MXhuTndsWi1wMlRFUEM1ZTJ4OTNtVEREbjVBclc3NFRhVXRlQngwanhNd2tuX3BuVzdhQmJlcXFvQ1FwS1l2QUZIWVQ2TUdrM1VSZVRxck5pZUxveTZleS1EVjlCNjIzRDFTWi0yRmZNajlqNF9LUl96X0dYRG4yLTJ4aEpCRi1UcUdydjZ0R3hlN0pBbnhfbEVjbEjSAfMBQVVfeXFMT3hRVnRpVUhEenBjYmFzOWxkeUtmRjctVVpoTG1tcndyU1pHRk5rU0pDdm9zak9HMnBBZXpZNnA4blRNaUNEcXN0OExjRHlEM0VzVmJzd2ZPVVRjMEFnRGg0dDhncFhPTDdZNmplcTZnMjJYOXRPNlVEZGxGOElTT1NBN0x4UkphT2dSNV9QV0RjdjBpNk9PRzNJRUpNU2FZTjdmdE9yVm9ZMmNOSVFHMHRORjUwVGZVRENXc3ctNjg0UjYxZnNmTmx0UnpWNTE2UWE5WFR2LUFDMWZkbGF2VVVnbGRLcnZRZ2c0X0FwVDlRWUg0?oc=5",
+    "published": "2026-02-05"
+   },
+   {
+    "title": "Bolsa cai mais de 2% em dia de forte correção no mercado",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSEpXMTlGX0xDbTBjeWRvZ0RpMVY3X25aUkNtXzlBMnFRLU9iRXJiZ1o1X3J3UDgwU2FKTUFkektwRTV3ZXBEaUFQb1BfWHVHNTBCMEVPNl91Zjk2YWQ5SjRzNDdiTXRTNUo2THRpYktaOUVMVEVPZzZESW10ck85N19uM3Z5M3dNSDlWemgwVHdGSmdzQk9GV1NxMjdEMzdxX19WR2prTkhmbE1fWGYySlZkSQ?oc=5",
+    "published": "2026-02-04"
+   },
+   {
+    "title": "Ibovespa despenca mais de 2% com cautela no exterior e correção após recordes",
+    "source": "G1",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xRnBIbmZIT3JVR2tTdzlyeXhPaS1ibVJDU3RJbXkwMnFVaEpidWlqd3VlUmdBMXlFMXNoaTNPclI0ZnlsZnlGb1FQdExTc0xXbjZodmEzOUVMUTNFSDVoYkx0SlZKWVdlakFUZ2laS2YyV2xFTFlic9IBhwFBVV95cUxNcXN2WUFpZkhFQUdpVDZ4cjNwamx1blRodVJ6cHN4bTd4MEg5SFZ1bGYtSXZkVXBjZzJ3b1cxdG90Q0Rjb01JbV9kU0R1LWUwa21LZVBuZjVIeVJuY2ZqdHY1STFqYWhneGpkQWpZNXZfQWRKWkljdTA3YWxIX0xQQ1V3LWl6dFk?oc=5",
+    "published": "2026-02-04"
+   },
+   {
+    "title": "Cai o número de beneficiários do Bolsa Família no Município",
+    "source": "Prefeitura de Jaraguá do Sul",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2xGWEJWNks1ZjN2THRjR2x6NUYwRXZXT2ZmT0hCTk9Hb3VrVXBBYm5TU29KSUg4RjZNMXF2SUlVODZVb1daaFBnOXAtdGZZc1JRLUlmeXJ1LUFkMExUTGlWSzFVSl9HMmpURjRTUk02Q3VRRVg1VVlXVW0tTXhDZ2VqVDRYSVJ1RWVfb3dZRzVOT29QenhDQlZiR1hBLUg4em9LalpR?oc=5",
+    "published": "2026-02-03"
+   },
+   {
+    "title": "Emprego em alta, inflação em queda e Bolsa recorde redesenham o cenário econômico",
+    "source": "Fundação Perseu Abramo",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS1BibVZCWmZyUXI5ek1kTC1JaXhoNUJpTzZvaVA4OGxoUGNXa1h6SkdyRzl0TjNHNXh1UVpjUnhxc0xJcFZ6U2FzdFRsd1FXUjJZZWxvSEZHOTlDLVJ6eFBfQ0dxRTFnRFd1VmxCM3hQMWg5S2dScWhISVJlWFZQbmNhaTBERjF0UjZ3LTJndGIya0IxZmtvX2ZWSldMc2V6T1NlTWtOSUI?oc=5",
+    "published": "2026-02-03"
+   },
+   {
+    "title": "Dólar cai, e Bolsa sobe após Ata do Copom reforçar corte de juros em março",
+    "source": "UOL Economia",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmZETlpnU2R0cEtTOE5jR3E5eWZhbEdlaWpTd2lBWTlER0piQno2WGhwMDZSOWZUeGU0TmNWclNSYThiVzFFSnRoVHV4UkdMbFk2dzBYOWZkRzNDN3NSRDZqVVQwMVNiUjhOZGpXTkJNTmhTbFREZkpEalYtSzNQS3VaOHVYSkROVy1pS1RaSHpuYzVlVm1ZQTdhTzgxWTlz?oc=5",
+    "published": "2026-02-03"
+   }
+  ],
+  "ai": {
+   "short_reason": "Queda generalizada da Bolsa com cautela no exterior",
+   "explanation": "O Ibovespa caiu mais de 2% em 4 de fevereiro, com cautela no exterior e correção após recordes, segundo as notícias do dia. A queda do ITUB4 (-3,29%) acompanhou o movimento de mercado, embora tenha sido mais intensa que a do índice. O balanço do 4T25, divulgado nesse mesmo dia, não aparece como causa da queda.",
+   "type": "macro",
+   "confidence": "medium",
+   "sources": [
+    {
+     "title": "Bolsa cai mais de 2% em dia de forte correção no mercado",
+     "source": "Agência Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSEpXMTlGX0xDbTBjeWRvZ0RpMVY3X25aUkNtXzlBMnFRLU9iRXJiZ1o1X3J3UDgwU2FKTUFkektwRTV3ZXBEaUFQb1BfWHVHNTBCMEVPNl91Zjk2YWQ5SjRzNDdiTXRTNUo2THRpYktaOUVMVEVPZzZESW10ck85N19uM3Z5M3dNSDlWemgwVHdGSmdzQk9GV1NxMjdEMzdxX19WR2prTkhmbE1fWGYySlZkSQ?oc=5"
+    },
+    {
+     "title": "Ibovespa despenca mais de 2% com cautela no exterior e correção após recordes",
+     "source": "G1",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xRnBIbmZIT3JVR2tTdzlyeXhPaS1ibVJDU3RJbXkwMnFVaEpidWlqd3VlUmdBMXlFMXNoaTNPclI0ZnlsZnlGb1FQdExTc0xXbjZodmEzOUVMUTNFSDVoYkx0SlZKWVdlakFUZ2laS2YyV2xFTFlic9IBhwFBVV95cUxNcXN2WUFpZkhFQUdpVDZ4cjNwamx1blRodVJ6cHN4bTd4MEg5SFZ1bGYtSXZkVXBjZzJ3b1cxdG90Q0Rjb01JbV9kU0R1LWUwa21LZVBuZjVIeVJuY2ZqdHY1STFqYWhneGpkQWpZNXZfQWRKWkljdTA3YWxIX0xQQ1V3LWl6dFk?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1567,
+    "output_tokens": 497,
+    "cost_usd": 0.000405,
+    "latency_s": 3.45,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-20T03:22:01+00:00"
+ },
+ {
+  "date": "2026-02-23",
+  "prev_date": "2026-02-20",
+  "return": -0.0362,
+  "z": -2.56,
+  "ibov_return": -0.0088,
+  "excess_return": -0.0273,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Por que o Itaú (ITUB4) caiu mais de 3% hoje? Ações de outros bancos também sofreram",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObzR2X0tSV2pweUlkdG1EMmtJMzFvR01ucEVuS3ZCWE1FeC1YaGhSaW5jdXNLRWlLTm9Ed0YzT1ZDY0lreVZsTmxmNGMzSzdraXVkWnRQRXN5Nm5qYmx0NW1kTXFzakRGLWdrUXdyaUVqNUF2TWVOUEhJT0Nhcy1za1R3SmI0aGdzNDhHMThyc0tpd9IBlwFBVV95cUxObEpzcDZLYzd4Y3BjdTBtSFV5RUdlNWpmNUl4VmxFUHd5V3lWOVhCVFdhcDBJNUQ5Z1kyalU5SnFrV19CZnFUVUYxSEFWVVl1R0ktcUVFS1FhM29lQ2FaLWhfUVhFNWNCUFVYOXhrOWFNa1c0ZWVKOGswcXMzVEZITWVRZUJMVUlKWVRHNmVsZVlrVHJwOUpF?oc=5",
+    "published": "2026-02-23"
+   },
+   {
+    "title": "Itaú indenizará trabalhadora por cobranças abusivas e danças no TikTok",
+    "source": "Migalhas",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc1FsaE1zVmt1MU51cVRQc0pRa2VsQ2FuSkN6UnF2MUFESTRCZTdFc0NpOWxLYVgxMWNkNkYwcmcyLUJ0RmVHZ21fT3BYZkx4Y3h2blRxVUc5U0JIMHZnUURDeU9zV28xeTlvcjZrOG9qZktKa2xLcTRjZmdLcV9iU3ZHb3JsbnZfZXNVNm1IR1EyR3UwS3Y5RTJZRU1SZXV0VUx4QnJ3QWhkM1YzS1hqVm5hNA?oc=5",
+    "published": "2026-02-23"
+   }
+  ],
+  "ai": {
+   "short_reason": "Queda acompanha setor bancário; causa específica não clara",
+   "explanation": "A manchete principal indica que o Itaú caiu mais de 3% no dia e que ações de outros bancos também recuaram, sugerindo um movimento setorial. A notícia sobre indenização a uma trabalhadora não parece ter relação direta com a oscilação de preço.",
+   "type": "sector",
+   "confidence": "low",
+   "sources": [
+    {
+     "title": "Por que o Itaú (ITUB4) caiu mais de 3% hoje? Ações de outros bancos também sofreram",
+     "source": "Estadão",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObzR2X0tSV2pweUlkdG1EMmtJMzFvR01ucEVuS3ZCWE1FeC1YaGhSaW5jdXNLRWlLTm9Ed0YzT1ZDY0lreVZsTmxmNGMzSzdraXVkWnRQRXN5Nm5qYmx0NW1kTXFzakRGLWdrUXdyaUVqNUF2TWVOUEhJT0Nhcy1za1R3SmI0aGdzNDhHMThyc0tpd9IBlwFBVV95cUxObEpzcDZLYzd4Y3BjdTBtSFV5RUdlNWpmNUl4VmxFUHd5V3lWOVhCVFdhcDBJNUQ5Z1kyalU5SnFrV19CZnFUVUYxSEFWVVl1R0ktcUVFS1FhM29lQ2FaLWhfUVhFNWNCUFVYOXhrOWFNa1c0ZWVKOGswcXMzVEZITWVRZUJMVUlKWVRHNmVsZVlrVHJwOUpF?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1139,
+    "output_tokens": 152,
+    "cost_usd": 0.00019,
+    "latency_s": 1.85,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:42:54+00:00"
+ },
+ {
+  "date": "2026-07-10",
+  "prev_date": "2026-07-09",
+  "return": 0.0402,
+  "z": 2.98,
+  "ibov_return": 0.0297,
+  "excess_return": 0.0105,
+  "scope": "market",
+  "news": [
+   {
+    "title": "Carf permite que Itaú deduza perdas após cinco anos sem ação judicial",
+    "source": "JOTA Info",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSlNuVEZCcGRwUGtRd3Q1S0pLN0Y4dDZiRTh3eHZXMFdCQ1VPa0J6Qi1ndVN3RDgxckJfU2FKMC1vTWlOOFdtUXkzZnlkRkpFcjRjNUV5ZkhVQ2llLXFnV1JxejdqejRNLTlIdzJWS3VJcXBZOHpDU2xzQUxqanI2ZXBsTzVTc0RsVlg4bDdxMlJyRnpoNjNfX0lqRQ?oc=5",
+    "published": "2026-07-10"
+   },
+   {
+    "title": "Banco Master: Daniel Vorcaro encomendou dossiê sobre o CEO do Itaú (ITUB4)",
+    "source": "Investidor10",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVdxeGc5aEZLdmVXbHhmdThGNmM1M3BLZ01KX083eTNqeW8zMGQwUVp6V2VjalpZaVQ2NEhvRGR5OTc2cGU4eC13anMyVURpbDRwSUNHVGVfa0ZoVTY2X19BX1VLelFMOGxsa25RdFZqYkMyRXdJTW40RDhaNFBVenJsS3BHZGJCZmNNY3U3cUpzUElJYkdOdm9GRC1UQnlvcFJtSnVqaEdRelJyQnFRek1oY25OYWPSAbwBQVVfeXFMT1RoVUtiSWd3cnVjcEpiS0VaSzh4U0h1VzVHaHZnY3o0X185UWdNNVExaXdoVWF3ZWxRTk9Qc3dKWnVqSzdnZTRkZVNZSV90MEYwTkgweG5ZZEZXV1NuWDBld212V2pKb2NmTk0yMzRJQUpURks0ci1oMVE3WERJOVAxTm1DaTFqN0RQMU5FU1pFcjVrUFBaRUI4bVg3Q0ViWVU1UTRlaTlna0Jvd1ZBZTRScU92U3BfY3hUTDg?oc=5",
+    "published": "2026-07-10"
+   },
+   {
+    "title": "Balanços 2T26: veja quando saem os resultados de Vale (VALE3), Itaú (ITUB4) e Petrobras (PETR4)",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0d5U25UT1JnOWFodHd4a1puYlJtMXNiTHhzdUtOdFYtZ0YzVzhsak5DV0RqbV91cnNUdFlLcXltdGw2bmtsNWs0TUwtaWZ1ZkJBZjg3UTZFTkVtT2NyQ0NmQXpXd1RwVXRoTEpmRFJUX0hqQVIzNUd0aVlRMjJzYW5qRHdGajRk0gGOAUFVX3lxTE9zT1h4LWFKZXpIamdLWTJoQ0VDSkxUTU5yTVdoaVRSTzBheEdrY2E0WXlKYlZZOVRjOWxGVzZlNFJWSkNvX0RtMzdkZG5HRXF3MW5XSDdvNkRGZ25nYUNfOTlKa3JTMnNvWHljSHNVNEFTcmVIaXg2X1lKVUV6YlFLMmpESV91ekN2Ykl5V3c?oc=5",
+    "published": "2026-07-10"
+   },
+   {
+    "title": "Ibovespa e dólar hoje, BTG (BPAC11), Itaú (ITUB4) e mais: Giro de gráficos",
+    "source": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN3FkdWI1QUhfV3FVU2VDZU1YR2ZCTE5GaDdrQUxMaHpIdUFieXd1V3huMUVPdVhWOUU5TWM3eU9JM0hkNTV6ZEhkcXdWVzJhRWVHc0pyNERWb3NQR0V5SGZPOGNMbS1pNTY0cGVncXhQWUwwaGdPZ1UyVHdUWC1JaFRGMzJrb0dPUWk5ZlI4MF9HTGtEVDhuazM0Zl9ZMlczbEpXM3ZKS0oxSkgtQUQ0bA?oc=5",
+    "published": "2026-07-10"
+   },
+   {
+    "title": "Itaú (ITUB4) flerta com os R$ 500 bilhões em valor de mercado em dia de ganha-ganha para os bancos brasileiros",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNa0pGVTdsLTR1ME5xanlPUGprYm9jd0k4eTlOa21WUFNKeHJkLVZQOEk3VjhNa1F6YnZaaVdXMS1nV0VnTmVfUnE4THF3SjlSRzNSQW1oTVppMExaSVNOekRYUlRONHZmQ0hVUjQta0FodThqbUw1WGVRbzI2MTFBUmRFS2NPdjhyTjJZTWFsQW0xYWd0M25uelZuUTVuYmxlRm5LZWRHUEs0TFppMC1OX05jdFpCbHc5QldmUlVtcml1YzN2X2thSzdZN2llRkVtc3l5cElOR2syYk0wVlAtN0toV2ZxaU10UlBj?oc=5",
+    "published": "2026-07-10"
+   },
+   {
+    "title": "Bolsa sobe quase 3% e fecha no maior nível desde maio",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONmU1bkJMS0tlZEJicXlrRndLM3poTTRsUms0UHQ5eVhrQTBQOXRub05lemZyRUVGYTlWT054OHp1R05zMGxwNFRnYWxuOEpoRTQtWG1yanNZd0dEOHBtYkxRcXBfLTk2SkI4TGdQWkZmMmdTYnVKbGV4NWpQY0tHUTB0TUM3dk44S2pvN2ktTGZ2Z205Y08zeE1tYUM3WjZacUpHRWgyUmdjNk1kdG9B?oc=5",
+    "published": "2026-07-10"
+   },
+   {
+    "title": "Fechamento (10/07) | Bolsa tem forte alta de quase 3%, contagiada por IPCA e expectativa de corte da Selic",
+    "source": "InvesTalk",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zc1NtTy1wNkJfNnBVekhtNEZKb3RqOU1SQ0hJdjVGbHAwYWRTcklzOElTTnpabVg2cWFrUklnV2drQk03RndhQ0lQN2lqOS1fY1RiSkFzYWhraXl3Mk9vemZZeXBxWlUyS2dhemt1bDlJWDBBOEE?oc=5",
+    "published": "2026-07-10"
+   },
+   {
+    "title": "Ibovespa B3 sobe quase 3% e vira semana para o azul, com IPCA no foco; dólar cai a R$ 5,10",
+    "source": "Bora Investir",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOUtIdDhMNzdyejJHR0U4dXNfcm5ta3FUNHB5a1M2UjZ5M0pCblhlTE52TjRYeUlZNDNURFFvYVotTG9GWWRCODR2cE5iamdVWWt3enNobTRJSnVFZnN2eXR5VHNWWkZvYkN5SE1ENHZPdXRiVnMtRzZRS2R4YlVRUnBOU0RuT04wdDRsY2VGdjlpSTh0M01INzNtSC1Oa3BFTXNHSnBlZHFzbnA5VTJ2a0xfallraENRc0FHdDltclAyVGpSR0hvcDVrWjI0NHM?oc=5",
+    "published": "2026-07-10"
+   },
+   {
+    "title": "Ibovespa dispara após queda forte da inflação e retoma patamar dos 177.000 pontos; dólar recua",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQXU5MkQtVHd1OXZuai1oUmJTUUI2Z19BMVppX1lESzFvZ3BmaV9Fb0JmckRGZks1cDdGZDRoeVV2NWJHZGszbTU1ZGVYVVZyUFpnZFJXakpNNENXc01NRUhkTmNwRTc1TUdhSEhLWkZqb2IzNUt5Wm1ubmxra1d2RUxkeU9Tbk5ERlhRNzQxMGg1VFFjY1J5VDIzMXV5TzMtTzlaNE92bzdGb2ozSVowVW1sd1I5dkI2UzNEbC1WNFpyYjdxSEhVbF9DX3dsS3k4ay1WX0E5X3N6dE5TaTJkbmF3RFA2RUxUcWJFS9IB-wFBVV95cUxQVVZqaWI4Uzdlakc3c3JNZ3VJeWRBbzhLRDRTTk5heEJwQXpwdnhDem1aQTNYRWxJWDVLUGMwa3VKV2pfcldGUkg1NE1BRlhScDlWX0R5Um9Gc2o3MXRpSHRJOXhXU2xuUWN5R2w1aXVXWmUzb2NCOWs2Q0NzdjlLbGFsWkJMd1NCSW8zMUxiUHA2RTE3TnNLbExFbmU3RHMtbWZBcy1UZDBJN0ZyNVRYTXpsWkxaZVVrYkZDeGhIYjA0WC1jUkQ4T29taFJNNm9ZZjlpeVVvZlVBRkpZTXlEQWQyNzdLV2dtV1hWRnloeXlNMVRvcU1ITDBtVQ?oc=5",
+    "published": "2026-07-10"
+   },
+   {
+    "title": "Ibovespa sobe com NY e recupera parte de quedas recentes, mas geopolítica pede cautela",
+    "source": "UOL Economia",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYkNnWTdKWmRzckpGZ2s3ZWRCZzJQNFNYR21DLUdLR2hqcWFUa2R6SUdVNFBBQktCMERSVFo1U2d0VnFuV3RpU1NENHdKMjFsR0s5WktHUWZXTGxsX3UwRmlkTVpNRUlZbDBfZ2tOaWR1Vzk0dzNPc1dvZGVWSGluYVJ0THNRRWR4OHZMN1V4dFRNV1A4Tm9md2s5M1FEUE42bTBPYUlpdEQ0SGRPV0ZOd2NsYU90SmVIcUhUenZHWEVjUUdhbmQwaVBSN1JSZE9EM1gwZkRJM2laUnVha2lLZFhBYVNoNzFOREE?oc=5",
+    "published": "2026-07-09"
+   }
+  ],
+  "ai": {
+   "short_reason": "Alta generalizada da Bolsa após IPCA e expectativa de corte da Selic",
+   "explanation": "O Ibovespa subiu quase 3% no dia, impulsionado por inflação abaixo do esperado e expectativa de corte da Selic, o que favorece bancos. O Itaú acompanhou o movimento de mercado com alta de cerca de 4%, em um dia descrito como positivo para o setor bancário.",
+   "type": "macro",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Fechamento (10/07) | Bolsa tem forte alta de quase 3%, contagiada por IPCA e expectativa de corte da Selic",
+     "source": "InvesTalk",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zc1NtTy1wNkJfNnBVekhtNEZKb3RqOU1SQ0hJdjVGbHAwYWRTcklzOElTTnpabVg2cWFrUklnV2drQk03RndhQ0lQN2lqOS1fY1RiSkFzYWhraXl3Mk9vemZZeXBxWlUyS2dhemt1bDlJWDBBOEE?oc=5"
+    },
+    {
+     "title": "Ibovespa B3 sobe quase 3% e vira semana para o azul, com IPCA no foco; dólar cai a R$ 5,10",
+     "source": "Bora Investir",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOUtIdDhMNzdyejJHR0U4dXNfcm5ta3FUNHB5a1M2UjZ5M0pCblhlTE52TjRYeUlZNDNURFFvYVotTG9GWWRCODR2cE5iamdVWWt3enNobTRJSnVFZnN2eXR5VHNWWkZvYkN5SE1ENHZPdXRiVnMtRzZRS2R4YlVRUnBOU0RuT04wdDRsY2VGdjlpSTh0M01INzNtSC1Oa3BFTXNHSnBlZHFzbnA5VTJ2a0xfallraENRc0FHdDltclAyVGpSR0hvcDVrWjI0NHM?oc=5"
+    },
+    {
+     "title": "Ibovespa dispara após queda forte da inflação e retoma patamar dos 177.000 pontos; dólar recua",
+     "source": "Valor Investe",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQXU5MkQtVHd1OXZuai1oUmJTUUI2Z19BMVppX1lESzFvZ3BmaV9Fb0JmckRGZks1cDdGZDRoeVV2NWJHZGszbTU1ZGVYVVZyUFpnZFJXakpNNENXc01NRUhkTmNwRTc1TUdhSEhLWkZqb2IzNUt5Wm1ubmxra1d2RUxkeU9Tbk5ERlhRNzQxMGg1VFFjY1J5VDIzMXV5TzMtTzlaNE92bzdGb2ozSVowVW1sd1I5dkI2UzNEbC1WNFpyYjdxSEhVbF9DX3dsS3k4ay1WX0E5X3N6dE5TaTJkbmF3RFA2RUxUcWJFS9IB-wFBVV95cUxQVVZqaWI4Uzdlakc3c3JNZ3VJeWRBbzhLRDRTTk5heEJwQXpwdnhDem1aQTNYRWxJWDVLUGMwa3VKV2pfcldGUkg1NE1BRlhScDlWX0R5Um9Gc2o3MXRpSHRJOXhXU2xuUWN5R2w1aXVXWmUzb2NCOWs2Q0NzdjlLbGFsWkJMd1NCSW8zMUxiUHA2RTE3TnNLbExFbmU3RHMtbWZBcy1UZDBJN0ZyNVRYTXpsWkxaZVVrYkZDeGhIYjA0WC1jUkQ4T29taFJNNm9ZZjlpeVVvZlVBRkpZTXlEQWQyNzdLV2dtV1hWRnloeXlNMVRvcU1ITDBtVQ?oc=5"
+    },
+    {
+     "title": "Itaú (ITUB4) flerta com os R$ 500 bilhões em valor de mercado em dia de ganha-ganha para os bancos brasileiros",
+     "source": "Seu Dinheiro",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNa0pGVTdsLTR1ME5xanlPUGprYm9jd0k4eTlOa21WUFNKeHJkLVZQOEk3VjhNa1F6YnZaaVdXMS1nV0VnTmVfUnE4THF3SjlSRzNSQW1oTVppMExaSVNOekRYUlRONHZmQ0hVUjQta0FodThqbUw1WGVRbzI2MTFBUmRFS2NPdjhyTjJZTWFsQW0xYWd0M25uelZuUTVuYmxlRm5LZWRHUEs0TFppMC1OX05jdFpCbHc5QldmUlVtcml1YzN2X2thSzdZN2llRkVtc3l5cElOR2syYk0wVlAtN0toV2ZxaU10UlBj?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1680,
+    "output_tokens": 182,
+    "cost_usd": 0.000259,
+    "latency_s": 1.71,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-20T03:22:06+00:00"
+ },
+ {
+  "date": "2026-08-11",
+  "prev_date": "2026-08-10",
+  "return": -0.0351,
+  "z": -2.53,
+  "ibov_return": -0.025,
+  "excess_return": -0.0101,
+  "scope": "market",
+  "news": [
+   {
+    "title": "Recessão à frente? Os alertas de CEO de controladora do Itaú (ITUB4) para a economia; 'ambiente pouco propício'",
+    "source": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYjk2S2twSDRzbzB4aE92VkxlY29kNnFPR0tYMzhlQ3FCdkpKUk5FLVJUSTFDblRwRmplaGc0TUwtaklHM3Ztd3l5amFfNENoei13NmRjS1JRb1dHeXdfMmFYdmgxY3M3bzlWdzAxWVQyVUFNR1VJYTk0YXNzVHVRbkZ5TWZYdUxiaGloX1Z2VjBNVnZQMzFVTExCMWRTb3NqQm9PbWpCUVpsRUk1bmxSWG90RmhvNF9ETnBBaXR6eXRTSG50SjQwUGF4SFFWWDd0UGtJNzBR?oc=5",
+    "published": "2026-08-12"
+   },
+   {
+    "title": "Temporada de balanços: Marcopolo (POMO4) fraca, Itaú (ITUB4) e Meta (META) se destacam; veja recomendações da semana no Money Picks",
+    "source": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZlRXTDNNUDNudERzUS1TSDV6VGxyT2lWc185Mk5SS0lBVk9iV2tLZHR5VU54SXlodXkzTzZWTnhLQzhlODlXalhrRE9hVXg3QWoyOUxabHIxbklocWdKSUpoZF9qMDcxMUtjeVUyWEVfYUhDTTctQnMydmNGUm5YQVFxVTg3VjFzT09VRjZqSzFPdnpkQk5vZkdROWhXMGhUWXdaSmxIeWpGVy02TEd3WmtFYVNoZWRYSFl3c0lzN0hETWZRR3FWeWNlNHBJNGxOcDhZ?oc=5",
+    "published": "2026-08-10"
+   },
+   {
+    "title": "Fechamento (11/08) | Bolsa cai 2,50%, com IPCA, ata do Copom e relatório do JPMorgan; dólar vai a R$ 5,16",
+    "source": "InvesTalk",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IVFExLW9fcVBZUFFyWENhQm9aOFpWV2VkZVhELXhHLXR6NjI5d0M0M096NUNrQTFDXzBaQnpxcU9idW9fX095bmNwd3NoTl94eWNGODh1UlVyblYtSzh0RjJhSHNMemVtaXBteVpjcjc0THlqOEE?oc=5",
+    "published": "2026-08-11"
+   },
+   {
+    "title": "Ibovespa cai 2,5%, maior queda em cinco meses, com cenário eleitoral e juros; dólar sobe a R$ 5,16",
+    "source": "G1",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wNUlwV3lpNnBrRExoTFJHY2lHWVNXSjdZaWVoMFhJN1cxd3BPX3RwRnlObzh1YkVkdGhMZ1duSE56dnRIYnYwWXVqeXpHN2pxNWhYbVVZMVV3N1plRVNOYTc4R3QxaEprV3BoRGd6RmQ4YXROXzR5TtIBhwFBVV95cUxNbGtHTERiX2d0OHktci1CSWE4X0VLNHlDa3ZvaEZuTUhUeFBpM3lxNEhpRlpUeG1UODZxMFh5MjgwWWVzYVVOWEtGSnB2bVlUeDB1RkhzNV9PWXlldkY4SEdPRV8wbWpoN1QtUHNUQWlNMWhCSVUyUVlKcjZScllrNlgwaFI1Ym8?oc=5",
+    "published": "2026-08-11"
+   },
+   {
+    "title": "Ibovespa Tem Queda Discreta em Dia de Vencimentos e Balanços; Embraer Atenua Perda",
+    "source": "Forbes Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWVJSWmFQU1ljOUZfSjVwbU5ycVdabFF4UXpXNWo5MzVqTWpGMExLU0NjS1ZWYnQ1UjJISE5GZGs5cHZ5S2xEbXB0Q05ObVlsU0dpdEJYdHo5bW5jem5UcjIyb3hQZXlsMFQ4Rl9kM205Sl9qWGxjYUV3RDNKU25oUTVsNlhQdGljM2F2aWpONVNuc0JmUjdWWWNZRFRHXzl2ekRqZWRrTkd6WnRPTHhYVjRPeVBqTFhrakVpRzU3bjJlaG8?oc=5",
+    "published": "2026-08-12"
+   },
+   {
+    "title": "Ibovespa Despenca e Dólar Sobe para R$ 5,16",
+    "source": "Forbes Brasil",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYVUyZlo5WV90Qmh0MHNUdDZPSGVwODlQTVNxR0JiVFZ4TWRrbEptbmdDWXc4Z0RSMG42Q1J0WVA1VmhWaE55bVdZdWpNN1lfVThvWTFTZnhCVW1CdGlQRkRaUjAwVFZ5VnZPNi1SWmdwU2RZN3JaYkxVQWhTcnFYQWVfNHFRX3N1bmc1eGFn?oc=5",
+    "published": "2026-08-11"
+   },
+   {
+    "title": "AO VIVO: ATA do COPOM preocupa, INFLAÇÃO em 12 MESES vem dentro da META e BTG tem LUCRO RECORDE",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSEpXWE5DU0ktdDE2X0pjdWFWYm9xdW9NaE1HdmFnUW9rTzVBMjJJaDM1cVdvV2JhYWZQMi1WUkNtWFIzNkJNSnZNQlZsa3lZaEJmY3Z6Zko3RFJZdU9KZEVMaTZBbjRJbGxiQnhjMFFvNTVvSTFGUXE0SWNjVTBUc2Y5dndsWk13cHRNaFlhYU0zZE81N2d0U19iZXlIeHdfY0w3eENLa0NjbkN6OVBMSHIwbVU4b1NiMmJZVFBoTGNUaFh3cFJnXw?oc=5",
+    "published": "2026-08-11"
+   }
+  ],
+  "ai": {
+   "short_reason": "Queda generalizada da bolsa com juros e eleição",
+   "explanation": "O Ibovespa caiu 2,5% em 11/08, sua maior queda em cinco meses, em um dia marcado pelo cenário eleitoral, pela ata do Copom, pelo IPCA e por um relatório do JPMorgan, com o dólar subindo para R$ 5,16. A ação do Itaú recuou 3,51%, acima da queda do índice, o que indica um movimento de venda generalizada no mercado.",
+   "type": "macro",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Fechamento (11/08) | Bolsa cai 2,50%, com IPCA, ata do Copom e relatório do JPMorgan; dólar vai a R$ 5,16",
+     "source": "InvesTalk",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IVFExLW9fcVBZUFFyWENhQm9aOFpWV2VkZVhELXhHLXR6NjI5d0M0M096NUNrQTFDXzBaQnpxcU9idW9fX095bmNwd3NoTl94eWNGODh1UlVyblYtSzh0RjJhSHNMemVtaXBteVpjcjc0THlqOEE?oc=5"
+    },
+    {
+     "title": "Ibovespa cai 2,5%, maior queda em cinco meses, com cenário eleitoral e juros; dólar sobe a R$ 5,16",
+     "source": "G1",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wNUlwV3lpNnBrRExoTFJHY2lHWVNXSjdZaWVoMFhJN1cxd3BPX3RwRnlObzh1YkVkdGhMZ1duSE56dnRIYnYwWXVqeXpHN2pxNWhYbVVZMVV3N1plRVNOYTc4R3QxaEprV3BoRGd6RmQ4YXROXzR5TtIBhwFBVV95cUxNbGtHTERiX2d0OHktci1CSWE4X0VLNHlDa3ZvaEZuTUhUeFBpM3lxNEhpRlpUeG1UODZxMFh5MjgwWWVzYVVOWEtGSnB2bVlUeDB1RkhzNV9PWXlldkY4SEdPRV8wbWpoN1QtUHNUQWlNMWhCSVUyUVlKcjZScllrNlgwaFI1Ym8?oc=5"
+    },
+    {
+     "title": "Ibovespa Despenca e Dólar Sobe para R$ 5,16",
+     "source": "Forbes Brasil",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYVUyZlo5WV90Qmh0MHNUdDZPSGVwODlQTVNxR0JiVFZ4TWRrbEptbmdDWXc4Z0RSMG42Q1J0WVA1VmhWaE55bVdZdWpNN1lfVThvWTFTZnhCVW1CdGlQRkRaUjAwVFZ5VnZPNi1SWmdwU2RZN3JaYkxVQWhTcnFYQWVfNHFRX3N1bmc1eGFn?oc=5"
+    },
+    {
+     "title": "AO VIVO: ATA do COPOM preocupa, INFLAÇÃO em 12 MESES vem dentro da META e BTG tem LUCRO RECORDE",
+     "source": "Seu Dinheiro",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSEpXWE5DU0ktdDE2X0pjdWFWYm9xdW9NaE1HdmFnUW9rTzVBMjJJaDM1cVdvV2JhYWZQMi1WUkNtWFIzNkJNSnZNQlZsa3lZaEJmY3Z6Zko3RFJZdU9KZEVMaTZBbjRJbGxiQnhjMFFvNTVvSTFGUXE0SWNjVTBUc2Y5dndsWk13cHRNaFlhYU0zZE81N2d0U19iZXlIeHdfY0w3eENLa0NjbkN6OVBMSHIwbVU4b1NiMmJZVFBoTGNUaFh3cFJnXw?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1517,
+    "output_tokens": 613,
+    "cost_usd": 0.000458,
+    "latency_s": 3.36,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-20T03:22:12+00:00"
+ },
+ {
+  "date": "2026-09-02",
+  "prev_date": "2026-09-01",
+  "return": 0.0384,
+  "z": 2.59,
+  "ibov_return": 0.0305,
+  "excess_return": 0.0079,
+  "scope": "market",
+  "news": [
+   {
+    "title": "Bradesco (BBDC4) e Itaú (ITUB4) pagam dividendos nesta terça; saiba mais",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORzVzY1BubjVXQVlJbjloMy10UU9FWEt5WndMQllLWERzdWZ3VEtkMmt4blVQV1QwTW1CV1NjMG9wMVJ0NnlXMkFSYnRpUTI1Z2R5c2lSMDR2dlVZYUkwcmh5dlBDOGdnOUcyYmpjdkJpUFAyRE1rbG03aHkzcGY3X25QSdIBiAFBVV95cUxPd3gzWHFOcGZNNlJxS05POGo1bkpPMVhqazRLNlZfSHR3T2ZVNV9saHBrTktJblVFZTc0Wi1ybVBEVW03NjROUkJBUEY2RVRVZWV1QldvQmhTWjF5WEN0UXhIUTZmaXJFb0xSTGx6cldwRTFDbkhxaEhJaV9Fc09IajRLal92M2s2?oc=5",
+    "published": "2026-09-01"
+   },
+   {
+    "title": "Dividendos de até 13%: Itaú (ITUB4), Petrobras (PETR4) e outras ações selecionadas pelo BTG para setembro",
+    "source": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdVFpYUVlcUo5MzNoVWNSSjRaTzZfTjQ4NGE5VWlUMHZwMDRfY3VSZnVHZ2owODNpbmgyWTNUUENmU2ZZOEZRNnlqbS0zdkZPbEVnV25lY3pEaGN0WG1HbnNPVXJzdUlOMTlyOVg3MVRqX1ZUVHhxZmltWmRadURfejJnb0l0RUUzX0xIWkM3bVFWcGtXY01lQnF1YTY3UkdpYjE1ZkNudHVZSnVIQWRsYVBiVVhhcWpJazFqOXdNd3JDUzZzQWctVEViVmFfbTg?oc=5",
+    "published": "2026-09-02"
+   },
+   {
+    "title": "Sai Itaúsa (ITSA4), entra Itaú (ITUB4): veja as mudanças da carteira mensal da Planner para setembro",
+    "source": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMnJEVUdQZXdKS0pLdjd4SzlucU1oY1phVFhWV2NBVG5hbDZuOE5sb2U1bE5EUmpxNXM5TTh5b1Zvdl9vUzN6bWhVVG9zQS02cGxwYXhQZUNBUDBybG1laHpVSjNMWFdZd3BIUk5TN2pzN3kydl9oQ0VHQUlDLWM1NnowdUpFdzNXQ0VTMTI5WUJnX3F1YVl1a1dFaFNfeGhhZV9lamEzajVjanVsSVhsXzdIYmtYSWg1OG16MkRacVFoNFFWTTdCc3dn?oc=5",
+    "published": "2026-09-03"
+   },
+   {
+    "title": "Bolsa dispara 3% e atinge o maior nível desde maio",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNREtJYTNSUHpNRHFxRllLRERIX0I2SHJvSnJVVG92N042amFnaEp1UTZrQ2EwUTFMT0pOSDd3NDZXQzhKM0dfdk9MLXJjQjJFRjdzYUpWTWxhQnhTSm4tb3lWS1VaMzhGbmJSMGZaay1MWVVwbXlKdUwyMkVzcGJRT0NOTExEOFZxLUVyVVBtcEoyYzdrSjByT1NZT09lT2hST3FRYnc1UW8wRHc?oc=5",
+    "published": "2026-09-02"
+   },
+   {
+    "title": "Ibovespa sobe 3%, na 11ª alta seguida, e dólar cai para R$ 5,10",
+    "source": "O GLOBO",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXdEd19KQ2pZaGxkbWtld29DajdBOXliZXlWWW1nanRiNkhuS1NRMERUQUNOWkh1NGhwVEdDbGZFcG0zbFRibDFtNFZ1cHBycDlnOEF5QWFOYXptd3RQcXZMTlh3QUIzX3BlRFFmZkhwMy1lUXIxTHFLVmV0X3VZUFktZmtOb1hGTmlnakVieDd3RUJ0WUN6bWZvU2xwS0pOZGfSAbABQVVfeXFMUFJOZTN6VlRjcXk2bjJVVFFSUXc4dERNazNQS2VxQ0tBZGpuMmExb1Y0QmhXMEZaUWtENWR1QWpOdC1GR083ZzFxNmtwU2NhRThJYk5DbVlKS2RLbmoyUzZ5bnNiTTVKdzdkb2tBY0hfRl9YamJhbjNndWZNYVQ0LWw4TzB4NHBSUkRrQTM5Snhlak5nNTRoYjJiQ1BfQXd3UkZFc1Q4N2Z1MzlKRGtEeXU?oc=5",
+    "published": "2026-09-02"
+   },
+   {
+    "title": "Ibovespa B3 sobe mais de 3%, em 11ª alta consecutiva; dólar cai a R$ 5,10",
+    "source": "Bora Investir",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd080WGdLTkdLaW5DSGhHOE5WaExyRXVjNFpZVThZbWRnV1UzcnlxYnVHTlE2RXB6TUt4bmFOZWVrdlhVUE4zQ19MT0tUcmZLUUdSVWFDSnZoZWs3R0dRNTl4RFZabnprRUlxeHI1MmdPWW5yQ3dKNFFGOVZDS2hnVlQ3clZWTktEQzNHX2t4WVJqdlE3b2lQT24wOEFoRVBVNFZQdGZZNGx6ZVVoV2c1RDdHeDNia3cz?oc=5",
+    "published": "2026-09-02"
+   },
+   {
+    "title": "Fechamento (01/09) | 10ª alta seguida: Ibovespa avança 1,30%, sustentado por petroleiras e bancos",
+    "source": "InvesTalk",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3WkxvZkhRb1JNMEdfcmZtdWlGaUw4Nnl2NU9BdTdWOU9lT2RtNXhCRVJrb2tMT2lHUEZNVERxWGpMNXhTWXRQekFlQ2JWUmduUHZfb2J4ZlphUXQyOTNMRGlxTUhvc1Jqejh4TGhvM3hLWjBWWWc?oc=5",
+    "published": "2026-09-01"
+   },
+   {
+    "title": "Ibovespa sobe 1,30% e atinge o maior nível desde maio; dólar cai a R$ 5,16",
+    "source": "Bloomberg Línea Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2xOSm5CejBuc2Q2RTFHdl81MXc5UTJKUmYtN2ZKOXpfYlE5RnFzbk9rbTV5YVRISjJ6TU5hM1dtLS1RLWJqY1FVSkIyWDI2TFppRnlIeC1DWW9DQ3RrMlVROV9IOU9VM1ZpMVpoZWdDNEl5ZGwtMW5zZl9CcTFJRFJ3X1owUWMzTHdmTV9BMXRaUmctS3NlcTJUVlVfaEtNWFZOZzRDTTJuUHNJbDI2OUh6RdIBxwFBVV95cUxNMjZWSjFhWlJUWXZnQmd4TEtCanFBdHFLYWNacE9DcW9YbFNxYWUwMUNKVmgzWTEwODh1XzlUVWdUWEhmRHRZMGtlMDFkYkJybUctTkZzc1VGbGJDbFl5WUVyQUtNbkd1M1JqWXBxV1lNTDVjQkVaYTdRUmZHMlBPMkZ0X3BDczFRRmFkSl8tOGFsa0JhcEctZ3hxSDVld251OUJsQmp6NllKcW9teGhLWG9YT05zcEg5RHY4c0M0SHNJLUJQa3Vj?oc=5",
+    "published": "2026-09-01"
+   }
+  ],
+  "ai": {
+   "short_reason": "no clear explanation",
+   "explanation": "As manchetes disponíveis descrevem a alta do Ibovespa de cerca de 3% e a queda do dólar, mas não informam a causa do movimento. Os textos sobre dividendos do Itaú não explicam uma alta no dia 2 de setembro.",
+   "type": "unknown",
+   "confidence": "low",
+   "sources": [],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1537,
+    "output_tokens": 550,
+    "cost_usd": 0.000429,
+    "latency_s": 3.46,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-20T03:22:19+00:00"
+ },
+ {
+  "date": "2026-09-30",
+  "prev_date": "2026-09-29",
+  "return": 0.0468,
+  "z": 3.03,
+  "ibov_return": 0.0137,
+  "excess_return": 0.0331,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Itaú BBA lança carteira de ações globais só com ETFs e exposição a 'temas seculares'",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZ1FHMU9kRUxod3h4c0hZcENkanQzVU91TE8tOEpINmpOZm55cXU0Zk5mM2doOVlVelpFWVNfakZIM3hFaXAyamV4MVpqWHVycDhDZTZvT19FRDdobUExZHN3LUxzNXhQM1YyMFZaN1BkV0l1TFlpQkNJTy1YUU5fUEVLYzZvcTQxcGNGZEtuRVU4VEFHMHNDUHZzV3FQRFFBQmtMRHZBU2x4M1Nhb3VIZkU0Z3BZRm95dzZGM3h2SEJXaVVWbV9UaFZpRnVXQjdteE4yS0ZOUTMyS3RJX3pCRjIybVFOVUd3SThsbTctOTdrd9IBgAJBVV95cUxQVWtBZnoxcTNqakIzWnJSaG9GaTUycEJpU1VxTFpqNXNjTVIxelY2YlByTVFsVjJqZ1JVcVA4WC1Rb1ZvWDhNaGtwbmdKaEtLY0hZcThMYVY2b09GcXc4VVY2M2lnREhpYWk1ODJITi1xVUFTUkpJd2wxbENxTkZyX1VpakhPcXVZOTRFdUJSeDVDOGI1X09NaG1RZVEzeHJtdnB2TmVMWWIyWEo4dWhybEpIWmszNHZLRHRJREhyZWN3UWJmckhEZmxCYWp4SlZRNnVxdUdhd0xHNDdGdFE2cElPMWpULXdyWDJnelZSVF9UNERFbFBRNk5fV3dCYi1E?oc=5",
+    "published": "2026-09-29"
+   },
+   {
+    "title": "Itaú oferece 15 mil bolsas gratuitas para formação em Java e IA",
+    "source": "IT Forum",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTzBzSi1CbkJrb0RXbjhFYjdKRnRFRlRPNUhFOWJaNDlYNUVLa2VfUDNZclBOdFFUdnFaUC11d3BHeWZsaGs1TkNjZHY1ZWI1LXR6X3dtbGY0aEdicTV6bmRoSmpRcUhYV2hPSi1uM0x6bEZlVlFrU19BVVRnazlMcy1ycDUwNTjSAYwBQVVfeXFMTmpmajNaLXVtTWtvMmZobUMwclg4WDhFU09ZOURXVlJzWW1DY2RicTRYc0tsNnlaZXBZQWJCUUpxVmdvME13VzhGTGJIbFhDOVlYMlFpZEF6ekxEY1VTQ1ZVNzFWaUo2eVVOQUtPQXVaZXhJRDdad3FZSWtpR3BKT1V2ejNJc09Ub1o2RXA?oc=5",
+    "published": "2026-10-01"
+   },
+   {
+    "title": "Dólar perde força com 'Sell America' e incertezas geradas por governo Trump, diz Itaú",
+    "source": "Folha de S.Paulo",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMEUwZUFlWXViSlk0d1N4TTEwcUFrem5ZbGtUUTlIdXYzQ3lYcHZpb3Mzb3p5UHZSclNfSDdwMnlGN1B4WDBodjhyZVVzQkp0dWxPOE9sSDg5M2xBS3Bqa1N4RFhYeHlVSldDU1hOV0VTRnFYb0hPOW9fMXpsUjB5R1ZYWkZDVUVKS0VPY1hqVXdYN0Z3WXhvanBrQmltbzBCNExWdHhmRGRRbG4wVFNOUV9oY0VKeFRrWkRPS2l3Q0VvTzVuN01DUkFtMEN6SXc?oc=5",
+    "published": "2026-09-29"
+   },
+   {
+    "title": "Itaú BBA aponta ações para ganhar com queda dos juros; veja as favoritas",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaTc0ZHVwUWJyQVNNQ0piT0ljRUJaQmtiek5BUU55ck55NHlBNjFxeDJlZW0tSHJITUtIV3RrelJEeWptUEFWdzN5QWhQNFpGWEFBNXZvUmhoX1hWUjVWbUFMNE50VUpFTVV3NTdxVmxvVnVVUFlDS05SUW5yejdCX3JxZFRvVTU1aWltYWlLcUxJOEQ1TzVVQUluRTdhZnpCWUx5SHFJM09YYVNxZVBZ0gG0AUFVX3lxTFBqNndPN1VIZlhoZzk4dU93Wmg5cS1CS25DVWlOc3dHekd5cjF1cXpjNkJVVF9XN2JWeG4tampIcllpb2FmVnVpLTZzNVh1ck9LZXhseG5EaHhLRkdrV1A1S3VtYWFBczhrOUs4VHBKUWEtTGY2bHY4UUwweG1uZFVZRko2UmdzWEwtYzZCS2x4aTZiZU96amJzYy1oRjItNHRaVnpJQWNaa3EtdXNYTm9XRFljWg?oc=5",
+    "published": "2026-09-29"
+   },
+   {
+    "title": "Itaú distribui 15 mil bolsas gratuitas para formação em Java e Inteligência Artificial",
+    "source": "ConvergenciaDigital",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONE5SSGxueGFqU0hqWUNnQnl5YkI3V0tIbFZpR3B1N21BaHJLOFoxdkVfYk1zN0ZERWZUZnVsRWdOMUFweHVaOU1FUFpsTGhRSXFUckhJYUhPTFlCTzhBdWJyc3BrU3YxTElaMHRzb19GRnJiandtWm9Ka20wZERTVmxwdi1DTEoxTldROHJWSEFzby0tcUlwWkp3ekt0UnNYXy1LdWlKQUgxMkdSQUxCZ0ZTV0UyOW93dVg1aVNWM3JIMWI2c09vMTdVcw?oc=5",
+    "published": "2026-10-01"
+   },
+   {
+    "title": "É hora das empresas betas? Itaú BBA monta lista com ações prontas para Selic menor",
+    "source": "Investidor10",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSWRrb1h0VjFkMFFhd25BS1NoSXA5Z004dWU4bVRXeU4weTFwMzlwVVpfbEhxNzVPMW1JcU1MR3pLNTBrYlVtd0UteVZJd2VMM2o5UjVBUnZjODVWeVJaWlRucnBVdTlLOTNIV2E1QzlBZzJaWndmaE4wRDA4ZHpmRmtKRjJyZ2JGV3pncmpZbjR4V1YwM28xY09hcEVRbEk4OW1TYjlnUmJFVEQ0MXpqR2FjTmtXSnFUcjNQODJQaWhYZ9IBxwFBVV95cUxOZ3B4UmZob3N2cUhpRW0wbE03VURMZzZla2pBancyN0ZiUlp0UnJPX0lxdUNkQzhST19Fbl91dlRrVVFzc1dJM200SEJsLVRXUEY0OW53XzA1RWlvTEpyWjZmSXNScFZfdEZQU09Vc0VkS3JBcjFEbUJHNGttSFk0RnJURWI0Q0VfN1FLcWZUN1V2TlFlTUNaTEhtaWJFSkdIbl9jU1BPaGQ2UXhqM1V5d1dmWkVuejYzT0draUExM2x2Y2ZPa3hV?oc=5",
+    "published": "2026-09-29"
+   },
+   {
+    "title": "IBOV, WINV26, WDOX26, PETR4, VALE3 e mais. Itaú (ITUB4) +4,68%",
+    "source": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOF8xLXdiWTRjbXB5dDlHUk04LW05b1JzUjhTYWxhQVZKbHBTdEpPRm9yNzdSZ18xM3N4VXN2Vk9TX3FaLUhpM05Oc25Mek96MXN1ZEJGSlREcnBfUDdoOW9Gb1pJVW4wT3dLd1Y4b2NFTUFQWXlxS0dJN2pkTDFLQjNUanNkR0F6THpaU1kyaklHR0pSMWpOc0FsclM?oc=5",
+    "published": "2026-09-30"
+   },
+   {
+    "title": "Itaú abre inscrições para 15 mil bolsas gratuitas para formação em Java e Inteligência Artificial",
+    "source": "Extra online",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMVNDTm1sckFPX21mZ05GZ25QN3E1TmdlcEVzck42SlFDc1pKQzhnOUxvNVB0bUhqRUJwNlpraWp3aHk3UER6SXdjbzc4WnR1b1JoMXVVaVRNRFhYekNGRTF4UV9QMGNqblVQX19TY0c3bjh6Y3BQeGdsWk5SMGJDMFltQTgxb0FneDBZNGRRNWJjX1JRQkNvSHNUZl9pTDVnSHV3ZVhWWTJPZlBHQVR2b1hPRFp1cWd5My15UVJGLXFyVDAwbFBpU3VzdmlwMEVNLVBic3d1clpFMHJiRmdtTVpBU0lLQlnSAfYBQVVfeXFMUEx5SnY2VkNLbG1td2dUSC1qZXhsSHhSalFfUzlXSXFQOTQxc3g4TjUxX3V4WUp0bVMzTWZWS1pUMjkyc1pkWkpGUjZIdDBqeDJzQmFZc0Y5NURjWjRDWU1vbnNFLUdkZFRHZHllZVdDY0RzREpOU2x4SXBFM1g3ZXFtRVhtOUdjV2dpY0JDQWlzN2FHUXNKbnBMMmFGVy1oNldmQnV3c3VjTVI4OTJPMVI1a2FDTVhPNVQzakM5WER4eWg4ekpPeWRTcWxiMXRsRFVkQ091R1dlQ0l1dFNzbC1fY2N5NF96c3EyOEtBaC1OUEprYnN3?oc=5",
+    "published": "2026-10-01"
+   }
+  ],
+  "ai": {
+   "short_reason": "no clear explanation",
+   "explanation": "As manchetes disponíveis não explicam a alta de 4,68% do ITUB4 em 30/09/2026. A notícia [7] apenas registra o movimento, e as demais tratam de carteiras recomendadas, câmbio e programas de formação, sem relação direta com o preço da ação nesse dia.",
+   "type": "unknown",
+   "confidence": "low",
+   "sources": [],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1498,
+    "output_tokens": 330,
+    "cost_usd": 0.000315,
+    "latency_s": 2.6,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:43:18+00:00"
+ },
+ {
+  "date": "2026-10-05",
+  "prev_date": "2026-10-02",
+  "return": 0.1037,
+  "z": 6.24,
+  "ibov_return": 0.077,
+  "excess_return": 0.0267,
+  "scope": "market",
+  "news": [
+   {
+    "title": "Itaú (ITUB4) dispara quase 12% e B3 (B3SA3) salta 25%; o que explica a alta?",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01V0dma0hqRUFUMVBBVnFXdnhXTzBJbWR6aUdaZWk0M3NVTUNSVUd5SlQzbnM1c1U2aVl3ODRaRjB1QTZhclh4cFlXaDl0NUZ6Wk4zZi1pQW5HdnhrUjhwSFFxR2I3M1VpeXZYaHV6c1dzUdIBd0FVX3lxTE40dVJlUHhDU3F6NGJMcUNjeTRfVGpKWXNfSDlLSGlKTXFpMHNXRDRoUlEtOTNROF9NMUVnX1cxX3R3Uk9HYlJxWFZnWVdNX190Q0dJU1dvWFh6dVNnX3hXbE9udThNcEtqaDBKUlQzbVp0OHJ2SnNV?oc=5",
+    "published": "2026-10-05"
+   },
+   {
+    "title": "ITUB4 passa de R$ 50 pela 1ª vez; até onde ação do Itaú pode subir?",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGxBYmVxSTFRUWY3OThNTGZ3RFFFVXNTWkNHQlhpOHRPMWtJMHhtWV9TSzRfRG1teHJaVFFkTnlvQ3EwWEt4ZHpnNi1IMVY3dGM3MHY5NG9sV3FCTXE3RTQ4bzlMYWFsTVVzdWFubnBVOHMyWWpEeGREUGVHLTRoejc4SlJzVm5rOGpBRGlkNFdhNzVIeXlIeWpR0gGfAUFVX3lxTE5WbzgwQzhsSVBjOHpjWmhlN09tMGlPODNTVkR1NGxlZ24zNlg5VDcxbWFodGNQWHpoX2Q1ZHNBamUxZXdvaDdib1ByWVo2dEUyQmxoQ2hMNXZKRGhPNEt0YVNVcWxidkQ2OUZWaTdHQWlGT25JQmhIYnU4b0JYZ0FiUkRrOVpuVkNUanNzdmxTZFpNX0lkc0V2elFYcmVXRQ?oc=5",
+    "published": "2026-10-05"
+   },
+   {
+    "title": "Mais de 8% em dividendos: BTG inclui B3 e reforça apostas em Itaú e Petrobras na carteira de outubro",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRWJ2UzJSaHNYdUJBN0VWdEJuTFJWYkQ3XzdLRUZabXhPMEhNRFhVT25HY1A0VW9qQUtzSFlDLWVhZFdJQmg1dHBVdHpZNlUySTltREFIbnpiNmdVUzBTRWFMN0NjRkR3endYQjZrbm9NbDlSZUU5SnVBeVpMVDhCYkU3UU45dHZfMWFSTE42WDBzQ2EzOE5oUDdTMnFVMHZaOVNQVkVLaHBEdFhtemthMDVsYV84eVQzalM2QzIxaXBlM1NXa3B0bk1mVlNDbnfSAdQBQVVfeXFMTjFiZGtNWTdHLW9XNEZEWllHVkVEUFhBaEpZalRzNkQzNnpreE5TbldXb1R5QUtUU01xREVfSkpGeVFVdlBLcW9KcFNtV2JPWjRRZWJuMTI1VzBtWWhtQ1EybnpMN3ZBNkRVU2FSOWgwdjZnaXFQTW01djdzTUxPOVd6M1hSTnJLT2xVYWV0WTBCUlFLV3JrQ3d6aWR6b0xsQ2U3VGNKV1JBN1lONDhZazI3UWQ0QWJyeUprVjRmN1ZIczhTM0poV1NzdjBvNzBqRXNCTF8?oc=5",
+    "published": "2026-10-02"
+   },
+   {
+    "title": "Por que as ações do Itaú Unibanco estão disparando hoje?",
+    "source": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDM2aTlva3A3c3lLU1JvTnplTF9hak9yRDQ2akc2Mi05MVZmMHRLQm5PcUoyZGlPVlFVOVNmQVphb0FyLW5EalU4Q1ZpXzJ1RkpoNUdNbjdZMWxmZ3ZIdXBTbUpISzhpeXJaX3ZuQXp1RDBMWmhGMExYU01ZTU1EeTVickg0SHNoM1BXaW5pZkpoWmhsQk5HMGdQVmI1UTl4dXNwSFJYb2ZYTVIwbm9JMi13bFdMLVk?oc=5",
+    "published": "2026-10-05"
+   },
+   {
+    "title": "Petrobras (PBR) e Itaú (ITUB) disparam nos EUA após resultado do 1º turno",
+    "source": "Investidor10",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONXV3bVAtbVFTVERaelZya0JtcXBrTm9qU2Vjek8xUTlpWVZGWG4tUjdpNWJER2szS1RSMGIzajBMbVdjVlNwanJUQ3FHQjBaSmVaNW91bDVvNnNmZmJLYXZ0T0dVTzctX3BkUDk3bkJmSWl6b0UyeVAySURiSjdKXzVVTVpMMlVhNzNIVzNGV0VxaWJFTXdXN1lZWTd3eHlhZHhNb3o1MGRzSjFtalp3SEZGNNIBuAFBVV95cUxOSDdnZXFwLWNxVm0tSDEzV1BhUjMzUFctaEx1aHJKY2xBYTEyMV9Zbzlzdk1Mb1hmaXB2RXlTek9ydXVjQzR1c0YxUkUzNkRfOUJ5ZHg0OThGaFRTRVg2Vjhud0RwaFB5TEJ3MXNJMzNHamtHdTJxTG0tbTJHSTZubzBTS0dPWDJXY0pIU1l2dGx4blVCSXc5UDJweC13UGI4alhWZkw4eHlmeFJaQk82UWJPSnU3NTBL?oc=5",
+    "published": "2026-10-05"
+   },
+   {
+    "title": "Dólar cai a R$ 5, e bolsa sobe quase 8% após primeiro turno",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeG0zZVpfaV9NVG1OM1JoQ3A5Rmk0Zm5ZVDFSUWR0bC1aM3FzaHZGWldWRkxiUlpBRFZKdF9kbFpCMVgtUkVORTNfeFc2aW9rOHNhY2Z4RHFWTEd0cEJJN2JhQm9hOERRTDBRemxmY0xfTzZxUlZ6V3d1SFl5MmlTc3BGNzBocDU5cnY3bGdYNmlPcDdVZGI0LWczc0JDWnI2d1hSS092UVJVV1JZMERmQUR3?oc=5",
+    "published": "2026-10-05"
+   },
+   {
+    "title": "Bolsa sobe, dólar cai: o que está por trás da euforia do mercado com vantagem de Flávio Bolsonaro no 1º turno",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSeWZzYWl1Q2YydHNyLU9QS09nUlladTNPVC0tSllaeWhoU0kzN254QXdHSnZnYzRZbW91cDdWSE84T0MybkNvTVhuR2pJOEdIU1YxellTWnU5Y3l0YzFjT3Z5UdIBaEFVX3lxTE1lQUVNbm04WnJFaXQ4UGhwOUY3eUZ4RHgxa2J5WVEwTkV1a05XLXFvajJXSkxnMG4tR2phV0V5WURkM25zTDBxeHJTNDJHRmRYYW94TERVMHRBZ3Nuc1BGS29KYlQ3cWV3?oc=5",
+    "published": "2026-10-05"
+   },
+   {
+    "title": "Só correção? O que explica queda do Ibovespa nesta terça depois de salto com 1º turno",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWRFSmJYTU9lZ2hzTHdZUnpYc1VNMHRUX2VWM1Q3MnlHNDd0d19KdVBKTS1xWDRmclpvUHQwR3A0Sks4cHUtbGViWE12Zm83YUFpYUdZMUlvWnNDTF8wR1R0RE9wX3UtaUk5R0t2eGVxSUstY0wyMDJpZGJKNFZvU0xoU20zNXBndDRROC03cUMzYkZNMThVbUFqeXozM3VnYWNhek1rbDBnSWtlQ0wzQWNYNjBZcTFJcXF5OFk1R29fM20xS0HSAcsBQVVfeXFMTU95ZWFQU3ZxaDZCR3BIOTY5UWx5TkFCdWw2MjE2d0lZMWtrdXRQRG1BOE1BN2VERHR2Q2hKSUg4ekl5djU4a1pYLWlrV1ZJN2dRcVh1VUx5ejRJelZObFZBMk9UOC1JQkI5SDdyS2Q5NW5DNlRGa3BJMVV2cnBBLVU5Z3lMbE1CWnZRd3dYNnVOMkQ0R0QySlo2S2dkNGV4aGNzYmItcXNrbHR3c3ZGemliN1pjLVFCRDk1bTYzTEd2Ry14RnBqWWxidDQ?oc=5",
+    "published": "2026-10-06"
+   },
+   {
+    "title": "Enfoque - Informações Financeiras",
+    "source": "Enfoque - Informações Financeiras",
+    "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQRHdvaVZZYmxIX3FxaEptYW5CZC1odDRXVTZLM0FuSVR0TC1oaElkSzk5SjJva3oxRGs1N0hQYXJFTHZZeEk5V1JBWmc3Z2ZkMldvNUJGbC02WldVV2xCVXFlRTFZc0pqVGhaQW4wc3NtM2h4VjdYQWs5aldSbGVnNHVOZmhjd2pwakpZNlJyMjFRYl91UHNNOVgtcXFSdnlnSDRTbElETlZBRF84N1dLemdiVW9KU2JmM1FQWFhKOHVMSWEwWlgtdm5VczNxUm5qaVVEOGtwbG5tZ2pFZnFlRVU2MUZPT1ZqSTBCUGZpaEJGUEZCRF9OdDNhT0hJSFdnSUFacVdINHRXbVN6dVg2UmxqTnNRQm10emtYSTExSjVxM2JoREUxWFNVWU5LU19GWmgxeFpjZlBPSEN0OWF4cXctTTZud1hXS1lnR1V6MHdrWHpMd0h4OVpXQjFMZ1kxWVdGaWdHS0FKdkxFTi1wUTZGdmRtQUw0TlVmcFRjU0t4YjV2elViVTJ2WXdPZWR1c0lodFl5MklWa0o3TGMwLVVoTzB3dDdYSWl6LThNX1ZTb2JIVl9XdzhYUF9XVFlPVFdKUGFKSFlhZ0VRZ3RwcmZLZjRieDIySlpiNlFvOW1fR2ozZ3kybTJFbm1SR1N6UHoybGRodk1CZ2s?oc=5",
+    "published": "2026-10-02"
+   },
+   {
+    "title": "Ibovespa dispara e dólar cai após 1º turno: por que a vantagem de Flávio sobre Lula animou o mercado",
+    "source": "G1",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNHJuOVBldFVGVnlrbFgxd1g4VHUwMGNybkZTb2xZOTJjUFl1VjBmVXhNQ3ZrNG1Eb1NkUnk1U2J0cHZMWFRCUDJkSVhRemhqZjJMeTB2a3NiLW1UTHRURmpDbjBvbi1yaFpuMWJKYm1WUTZRWFJQMkVMdHB5VHQ2QWNNQjVoS25rWFk2WGZXdncxVlhrMk5mVk05YWJpcy1yTmcwVkxWcE9jWlZtZ285em4xR0lQVGl5QXc2Z0xPcE9peUN2T24ybTZldDZ5ajdQN2ZBSWt2aFJRaXpQOE1HZ3F4QmdDWFBBSkHSAfgBQVVfeXFMT3ByVHRWMkgtTkRJTFoxRXQ4WU1NMjVDRDFNZEl6OGpBdjZhNzU0c0RpTFBMNGNUX1I0cnU2Ync2bFV5dUFqMXlMNExnWW5jVEY2a1AzeVFuRWJzOGEyUFUtOUh1X2NFOHpYdGxPUE1jeUJrenJ6T2VMV3VlYnphOFBvM2IzVkF0Z3A2cXJSY2FSQW4tY21BQk5WcUJXeTBoZTQ2RkNWSU9TUVhoRzFwSlB5dkozRnZtd3AyMmEyQXBxY0xkZW5KUUZYYWtVazB1TUN4TmljdGFMT3E0bVlSWnZfWGF2MVJ2S2FIcjlCdXRseW93ckxKTzI?oc=5",
+    "published": "2026-10-06"
+   }
+  ],
+  "ai": {
+   "short_reason": "Resultado do 1º turno eleitoral anima mercado",
+   "explanation": "O Ibovespa subiu cerca de 7,7% no dia, com o dólar em queda, após o resultado do primeiro turno da eleição presidencial que deu vantagem a Flávio Bolsonaro, segundo as manchetes. Como o movimento foi de mercado inteiro, a alta do Itaú (ITUB4) acompanhou a euforia geral, e não uma notícia específica da empresa.",
+   "type": "macro",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Dólar cai a R$ 5, e bolsa sobe quase 8% após primeiro turno",
+     "source": "Agência Brasil",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeG0zZVpfaV9NVG1OM1JoQ3A5Rmk0Zm5ZVDFSUWR0bC1aM3FzaHZGWldWRkxiUlpBRFZKdF9kbFpCMVgtUkVORTNfeFc2aW9rOHNhY2Z4RHFWTEd0cEJJN2JhQm9hOERRTDBRemxmY0xfTzZxUlZ6V3d1SFl5MmlTc3BGNzBocDU5cnY3bGdYNmlPcDdVZGI0LWczc0JDWnI2d1hSS092UVJVV1JZMERmQUR3?oc=5"
+    },
+    {
+     "title": "Bolsa sobe, dólar cai: o que está por trás da euforia do mercado com vantagem de Flávio Bolsonaro no 1º turno",
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSeWZzYWl1Q2YydHNyLU9QS09nUlladTNPVC0tSllaeWhoU0kzN254QXdHSnZnYzRZbW91cDdWSE84T0MybkNvTVhuR2pJOEdIU1YxellTWnU5Y3l0YzFjT3Z5UdIBaEFVX3lxTE1lQUVNbm04WnJFaXQ4UGhwOUY3eUZ4RHgxa2J5WVEwTkV1a05XLXFvajJXSkxnMG4tR2phV0V5WURkM25zTDBxeHJTNDJHRmRYYW94TERVMHRBZ3Nuc1BGS29KYlQ3cWV3?oc=5"
+    },
+    {
+     "title": "Ibovespa dispara e dólar cai após 1º turno: por que a vantagem de Flávio sobre Lula animou o mercado",
+     "source": "G1",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNHJuOVBldFVGVnlrbFgxd1g4VHUwMGNybkZTb2xZOTJjUFl1VjBmVXhNQ3ZrNG1Eb1NkUnk1U2J0cHZMWFRCUDJkSVhRemhqZjJMeTB2a3NiLW1UTHRURmpDbjBvbi1yaFpuMWJKYm1WUTZRWFJQMkVMdHB5VHQ2QWNNQjVoS25rWFk2WGZXdncxVlhrMk5mVk05YWJpcy1yTmcwVkxWcE9jWlZtZ285em4xR0lQVGl5QXc2Z0xPcE9peUN2T24ybTZldDZ5ajdQN2ZBSWt2aFJRaXpQOE1HZ3F4QmdDWFBBSkHSAfgBQVVfeXFMT3ByVHRWMkgtTkRJTFoxRXQ4WU1NMjVDRDFNZEl6OGpBdjZhNzU0c0RpTFBMNGNUX1I0cnU2Ync2bFV5dUFqMXlMNExnWW5jVEY2a1AzeVFuRWJzOGEyUFUtOUh1X2NFOHpYdGxPUE1jeUJrenJ6T2VMV3VlYnphOFBvM2IzVkF0Z3A2cXJSY2FSQW4tY21BQk5WcUJXeTBoZTQ2RkNWSU9TUVhoRzFwSlB5dkozRnZtd3AyMmEyQXBxY0xkZW5KUUZYYWtVazB1TUN4TmljdGFMT3E0bVlSWnZfWGF2MVJ2S2FIcjlCdXRseW93ckxKTzI?oc=5"
+    },
+    {
+     "title": "Petrobras (PBR) e Itaú (ITUB) disparam nos EUA após resultado do 1º turno",
+     "source": "Investidor10",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONXV3bVAtbVFTVERaelZya0JtcXBrTm9qU2Vjek8xUTlpWVZGWG4tUjdpNWJER2szS1RSMGIzajBMbVdjVlNwanJUQ3FHQjBaSmVaNW91bDVvNnNmZmJLYXZ0T0dVTzctX3BkUDk3bkJmSWl6b0UyeVAySURiSjdKXzVVTVpMMlVhNzNIVzNGV0VxaWJFTXdXN1lZWTd3eHlhZHhNb3o1MGRzSjFtalp3SEZGNNIBuAFBVV95cUxOSDdnZXFwLWNxVm0tSDEzV1BhUjMzUFctaEx1aHJKY2xBYTEyMV9Zbzlzdk1Mb1hmaXB2RXlTek9ydXVjQzR1c0YxUkUzNkRfOUJ5ZHg0OThGaFRTRVg2Vjhud0RwaFB5TEJ3MXNJMzNHamtHdTJxTG0tbTJHSTZubzBTS0dPWDJXY0pIU1l2dGx4blVCSXc5UDJweC13UGI4alhWZkw4eHlmeFJaQk82UWJPSnU3NTBL?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1621,
+    "output_tokens": 204,
+    "cost_usd": 0.000264,
+    "latency_s": 2.06,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-20T03:22:24+00:00"
+ },
+ {
+  "date": "2026-10-26",
+  "prev_date": "2026-10-23",
+  "return": -0.1366,
+  "z": -6.66,
+  "ibov_return": -0.1388,
+  "excess_return": 0.0022,
+  "scope": "market",
+  "news": [
+   {
+    "title": "Bolsa derrete 13,88%; Itaú BBA põe 7 ações no radar após o tombo",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeUwzRF9kT2JZQ1hGQ2NDWkNqLXpldTFLeEE3b1d4d2xBN184M18xQ28tM2F0NEkwdTNZbWw0RVdrTTF3TXJtUXQyR1Z5RVhQeTFIU2FYYndVZHlYbGxVbTlpZExXTnNfcHd0MUduUHktRWgxMmhtRk9DaWNmU0xvVGtn0gGHAUFVX3lxTE5vd2tub1JZRDdacDgzYmNvaEFGNkhYcUs2N3dJcU5hcGVJQlprYW5lQzlyYzhQTGphMTJTQ2M3OTNZZ1poS2RkUndYbEVzMUM0ZDZtNUxnWjJnOEhtRFpBeUFuZ19pb1hqVjBiWVZpZ3J2cWZsMXZBWmxjWEdQYmRjZnFpTkNvTQ?oc=5",
+    "published": "2026-10-27"
+   },
+   {
+    "title": "Itaú (ITUB4) fecha acordo para comprar startup brasileira de IA; veja valor",
+    "source": "Investidor10",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSUIxMF9sd0kxbzFkMl91cVhYTzJGX0JiYjZnUHZJWS1NcUttRzdpZ3lWLXQ4S0JmcDlCY2RnUk1pUjB6Ym9icjgyRHhTc2VCZHRyWi1lMElEUGE3WEwtVHlkR0swSlNrUUVwcUU5Mkg4QjR2bjFhaTFqU3ZDNGZITUUwNWRjNlEtWXJ4WkgycHB3aTdsc1JSNG9fLVRwSGh0QjZuaklKa2FoSkR4SlNUbmh1WWpmNTl50gG-AUFVX3lxTE9ZSGkwYUh5VHM0MS04d3NfazdfQ2F3bDk5c1dZMXVjTm1IZXZ5RExTTi1DaG44X1RvRnZyZ2I4V0R6OG1LeG5hcWIxTUV0SWxHRUEwMnlhMzlSUWkxa2xFTGF0WkNPNGhpVVlXUEtmd1FaM0swNmdtMWVxQUxLQ2NGSDl1Wk9GaHlFaklzTnRUT0hhS1h1MVlnUjJCSTBuTVFfZHNTS1hyN2NOSWItdjZrS0hDTDlDNDhpNVRoclE?oc=5",
+    "published": "2026-10-26"
+   },
+   {
+    "title": "Itaú (ITUB4) compra NeoSpace por R$ 2,9 bi, Braskem (BRKM5) segue sem acordo e Azul (AZUL3) capta R$ 2 bi",
+    "source": "TradeMap",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zU2otN2NOUHIweGtFUDNNNUxELXpzRHItNVQwVEp2Y2hqQzJ4YTNxRVZDSkQwbGxYZG9CWFAzN200b0xwOFZRWUlqZVpkLWlhZWVISTZNU2k?oc=5",
+    "published": "2026-10-26"
+   },
+   {
+    "title": "Bradesco e Itaú desabam quase 30% na pré-abertura de NY; Petrobras cai 23%",
+    "source": "UOL Economia",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNXzM5a0VqZGNweld4em43TEZ0TTktNGkwMVdueXhwVjc2elVKeXpHdFp0SDZvN0E0OV9VdXdxMGZtbEVPV0x4SXBnQ29MR0tja2pEb2dQc2RCV2w5dDBFREJyRnRaWFcyNld0b2ZKVGc1T3BMOEc5ajgyNHdlcExONG1GMnFSNWpyRVB4Mmo5U0VFeFZQSmNONWh4OXRTZTZL?oc=5",
+    "published": "2026-10-26"
+   },
+   {
+    "title": "Itaú (ITUB4) desembolsa R$ 2,925 bilhões para comprar NeoSpace e fortalecer operação de inteligência artificial",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeFZvQ21xMVFaQnpBeWtSZWJuTTZDek9idW1VSjhTLTlzUGdadUtuMHAyNGlwajdyZnAwWHNtNWwzd1R2c0k0NzVNdE5EZE9iaG9YRV8yMjRZUEUyeE1XOExsWVI0WFU4WmRMUkdFNjVBUEZpOWlJZDVqWHF0ZzhBWEtFSnFPZHRPaE95TGtKeWJjVVJCYVI3bDNPQm9YQUk3UlRtY2c0SXcwOFJQcUw4MmppM1c1TFNXdll2cDJZWjk1UWZ0LUdsNXFTcw?oc=5",
+    "published": "2026-10-26"
+   },
+   {
+    "title": "Dólar cai quase 1%, e Ibovespa recua após tombo eleitoral",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcW81N09vSURHdzdyclV3eWxGakV2M0ZZNmtoeFVIYUhfWjZPXzhqRE1hajRTX05wX3A3TEZ5X0lIYXU2QzFBS2JaOXJybngzR2dVaTRMblk4Qm5Ja0dJVWNfTkFJV01PVUtOYVI4MUd2RE04ZFlQNklPR242cU50OFJ4Qm9nTlNjWnR3QWRVUndQNHhTSWNQbTBib1hHYVJ2czdKWHg1TW1YcDk3VXdsOWgxMA?oc=5",
+    "published": "2026-10-27"
+   },
+   {
+    "title": "Dólar fecha a R$ 5,40, Bolsa despenca 13,8%; BC e Tesouro atuam no mercado",
+    "source": "O GLOBO",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0w0Q2hNYjZ0dDM2bEY1Ujd2VGhFX2tmUGNOT2prdmxyNEY3NExubTZGdUo5YVhiX3pPNGxxWGMtZ2hEbnBCaDhmQmZxUFUyUHZXNEczMVBKYl93emlXNHNOWDJiWUUxUm1EcnJxOFhiVVZmd0s1dS11Y0hwT1o3UG5CeUxjMlJnQWhQSENxS0F1dkc0ZEt0bHZUaFFjNjFlaW9LVDJGQklIMmpKWU1fblc2aVpQdlhPc18zTU4wZzh0dmxSSGhJ0gHWAUFVX3lxTE00cXZqcmtUTk1jSDFUT2JlcHJmZ24wMVB4UEhCRURmQUdWekk3TzRDUDRJVWptcFhmTE9BU3QzNmRMWnlTSlRDTHp6aEFMY3ZMVjhxVkFDbkxCWUdRQlJMUVJOcEc3bk9EMzQ3OWRENWJJQ25wYjdZSzFzZUdOUDQwcXlCQmg2OWNWRWZERWJxSEFfRENSLTQ0LVBzQVlEQ0k3X1NjbWRmX1JGWHJQR2hUVmoySTRHMHV5X0VKUHRKRWRkZWtkUjNjcC1TeExLTURFbGl4c1E?oc=5",
+    "published": "2026-10-26"
+   },
+   {
+    "title": "QUEDA DA BOLSA 📉 O Ibovespa inicia, nesta segunda-feira, 26, uma semana sob forte pressão após a reeleição do presidente Luiz Inácio Lula da Silva (PT) no segundo turno das eleições presidenciais de 2026.⁣ ⁣ Logo no início do pregão, a B3 acionou",
+    "source": "Instagram",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XOHZyeHVpZFBEc2lTRmhfUTBZYzgxaXlfZURSUXdhc25oajc2c25iNXRndWxFUEpaeXpYWXIyaHkwR084SEdyVVZBS05za0ZYdGc?oc=5",
+    "published": "2026-10-26"
+   },
+   {
+    "title": "Bolsa despenca com vitória de Lula, mas passado mostra que ressaca eleitoral pode ser curta",
+    "source": "NeoFeed",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2w1aFJlVjZWSzBzNE9FeVlMWGIxd3N3T21FREN1MGEyRUpISndVR1l4NktDSElwMjVmU1JjYU45M29lZVVobGVwTjNSSG1JUE9wTjJKSkJWS1RMX0FvNjZJNW5WSWltZHB4cUNGMEZ1ZnQxaWx6MFRLZl93cU5ZWG44R2ZDUHVwQ09NMTIxLXh0b3RPaWhNeTNVbTJhZnI1UnlmTTdKN3Q4ekRqYXZ0NjBFYnpuY3hyd1YwRHZkWUI?oc=5",
+    "published": "2026-10-26"
+   },
+   {
+    "title": "Queda da bolsa pós-eleição reflete especulação e perda de lucros privatistas, analisa economista",
+    "source": "Brasil de Fato",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb19MQVhCZHozX3RNRWxjRDhpRXMydXJvemRYSmNDRnJrNVQtOFpjRC1oQW5oWW53eVVhRHBWQnYybS1QR3UyQk5yN3hnSzkxTnlhLUR2RWJNVzktY2hsdGdyeHRVdnBuQUNuN0tRcmNFMy1JaHhLdGM1ME5VaFphZVZQSUV3empzWUtjQXBkZ1Q0Xy1jTldFOVdlLWdsLVgwYXNTVmVfWXdsOExvenZQeGVySzA0b3JqU05XdDB1U1FRVVFtVnBxcmFrN2ZxTzFWc3o3V1VR?oc=5",
+    "published": "2026-10-27"
+   }
+  ],
+  "ai": {
+   "short_reason": "Queda generalizada da bolsa após reeleição de Lula",
+   "explanation": "O Ibovespa caiu 13,88% no mesmo dia, e o ITUB4 acompanhou o movimento de mercado. As notícias associam o tombo ao resultado do segundo turno das eleições presidenciais, com a reeleição de Lula, e apontam que a queda foi um reflexo do cenário político e não de um fato específico do Itaú.",
+   "type": "macro",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Dólar cai quase 1%, e Ibovespa recua após tombo eleitoral",
+     "source": "Agência Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcW81N09vSURHdzdyclV3eWxGakV2M0ZZNmtoeFVIYUhfWjZPXzhqRE1hajRTX05wX3A3TEZ5X0lIYXU2QzFBS2JaOXJybngzR2dVaTRMblk4Qm5Ja0dJVWNfTkFJV01PVUtOYVI4MUd2RE04ZFlQNklPR242cU50OFJ4Qm9nTlNjWnR3QWRVUndQNHhTSWNQbTBib1hHYVJ2czdKWHg1TW1YcDk3VXdsOWgxMA?oc=5"
+    },
+    {
+     "title": "Dólar fecha a R$ 5,40, Bolsa despenca 13,8%; BC e Tesouro atuam no mercado",
+     "source": "O GLOBO",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0w0Q2hNYjZ0dDM2bEY1Ujd2VGhFX2tmUGNOT2prdmxyNEY3NExubTZGdUo5YVhiX3pPNGxxWGMtZ2hEbnBCaDhmQmZxUFUyUHZXNEczMVBKYl93emlXNHNOWDJiWUUxUm1EcnJxOFhiVVZmd0s1dS11Y0hwT1o3UG5CeUxjMlJnQWhQSENxS0F1dkc0ZEt0bHZUaFFjNjFlaW9LVDJGQklIMmpKWU1fblc2aVpQdlhPc18zTU4wZzh0dmxSSGhJ0gHWAUFVX3lxTE00cXZqcmtUTk1jSDFUT2JlcHJmZ24wMVB4UEhCRURmQUdWekk3TzRDUDRJVWptcFhmTE9BU3QzNmRMWnlTSlRDTHp6aEFMY3ZMVjhxVkFDbkxCWUdRQlJMUVJOcEc3bk9EMzQ3OWRENWJJQ25wYjdZSzFzZUdOUDQwcXlCQmg2OWNWRWZERWJxSEFfRENSLTQ0LVBzQVlEQ0k3X1NjbWRmX1JGWHJQR2hUVmoySTRHMHV5X0VKUHRKRWRkZWtkUjNjcC1TeExLTURFbGl4c1E?oc=5"
+    },
+    {
+     "title": "QUEDA DA BOLSA 📉 O Ibovespa inicia, nesta segunda-feira, 26, uma semana sob forte pressão após a reeleição do presidente Luiz Inácio Lula da Silva (PT) no segundo turno das eleições presidenciais de 2026.⁣ ⁣ Logo no início do pregão, a B3 acionou",
+     "source": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XOHZyeHVpZFBEc2lTRmhfUTBZYzgxaXlfZURSUXdhc25oajc2c25iNXRndWxFUEpaeXpYWXIyaHkwR084SEdyVVZBS05za0ZYdGc?oc=5"
+    },
+    {
+     "title": "Bolsa despenca com vitória de Lula, mas passado mostra que ressaca eleitoral pode ser curta",
+     "source": "NeoFeed",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2w1aFJlVjZWSzBzNE9FeVlMWGIxd3N3T21FREN1MGEyRUpISndVR1l4NktDSElwMjVmU1JjYU45M29lZVVobGVwTjNSSG1JUE9wTjJKSkJWS1RMX0FvNjZJNW5WSWltZHB4cUNGMEZ1ZnQxaWx6MFRLZl93cU5ZWG44R2ZDUHVwQ09NMTIxLXh0b3RPaWhNeTNVbTJhZnI1UnlmTTdKN3Q4ekRqYXZ0NjBFYnpuY3hyd1YwRHZkWUI?oc=5"
+    },
+    {
+     "title": "Queda da bolsa pós-eleição reflete especulação e perda de lucros privatistas, analisa economista",
+     "source": "Brasil de Fato",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb19MQVhCZHozX3RNRWxjRDhpRXMydXJvemRYSmNDRnJrNVQtOFpjRC1oQW5oWW53eVVhRHBWQnYybS1QR3UyQk5yN3hnSzkxTnlhLUR2RWJNVzktY2hsdGdyeHRVdnBuQUNuN0tRcmNFMy1JaHhLdGM1ME5VaFphZVZQSUV3empzWUtjQXBkZ1Q0Xy1jTldFOVdlLWdsLVgwYXNTVmVfWXdsOExvenZQeGVySzA0b3JqU05XdDB1U1FRVVFtVnBxcmFrN2ZxTzFWc3o3V1VR?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1742,
+    "output_tokens": 570,
+    "cost_usd": 0.000459,
+    "latency_s": 3.44,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-20T03:22:30+00:00"
+ }
+]

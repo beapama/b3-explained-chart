@@ -1,0 +1,890 @@
+[
+ {
+  "date": "2025-12-03",
+  "prev_date": "2025-12-02",
+  "return": 0.0323,
+  "z": 3.34,
+  "ibov_return": 0.0041,
+  "excess_return": 0.0282,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Vale (VALE3) anuncia pacote de investimentos: como isso pode mexer com os dividendos?",
+    "source": "InvesTalk",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQllZWTE4NzBVblMxZklzSHJSSDkwT0RZNENxUzVTU1MxRmE3eXoyRVRWQl9CcmQ1d3V5eElfZFc1NENVMjN3b2NOckwxdHZSOHFtaGczRUZKcVlxRF9xbDZDT1hZSV9ZRWZNV0lUT2V2V1lxNVVwOGt6bHdUdkxqdjhUREZwc2d3ZGFZTEx4ODhGWUFQc3ZRT1JJMmtYN0tYaE83T0llU1JOMTRXSlJCazRqc2swYTI3Uk41N3lpOGF3VWs3?oc=5",
+    "published": "2025-12-02"
+   },
+   {
+    "title": "Vale (VALE3) pode reforçar recompra de ações após taxação de dividendos",
+    "source": "Investidor10",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUWQ4ZmoxWmlIOWhZaVFTTGdvWnRDd291cTlvQ1VFZC1IWUJ0b251TDlXcDVHT3RWRk5CYXRFbnVldEZnd2dsdDlJNnRRWW5qQzdJSUJwWkV5clRDMVVTZHZleTJsVDE1T3RrUFlZUjNtR3VCaW1YdVdNMGVCVmh5QmVnLWR4eVhfYThhcDJKOUJfYXNZRWd5ZVVtMVhRSkphcG1xcUJXNUM1MktTMmRzbmlzVDXSAboBQVVfeXFMUGs5UDZZdlFaWmJTcW5ZTWQ4S1VkZV9DNnV4WGJxSXpmUVUxZGZCV1Jkb2NJM2hVWnl4SGVudjI1b1N2TVplb1lvNUhXalNDNXZSR1I0RGNOajV3SllodTlLVTlmMEo4YTRwVzBRYlB1N0dMandDd1lUWTlBdjljY243Ri1oT3ZldDkyVXZ0VW16Z0ZvM05ZeVRCTzJKMHVhaTFrTDBKWnhfS0pFeF9BVGlpa2poN0hDc3R3?oc=5",
+    "published": "2025-12-02"
+   },
+   {
+    "title": "Bolsa brasileira não para de bater recordes: ainda vale comprar ações ou oportunidade já passou? Analistas respondem",
+    "source": "O GLOBO",
+    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQMFlvQWFKODFxeTN0WHNWak5GMmkzNTF0Sm1hallqbi1RdWx3bEdfSTJMdVp3amhyeGdWVjRxOUpXR2JndDYwYVp6MGt6c0RGMkJyNjhFbmdhTG9YTVhwRENFSXRkbTNjS2pDQkFWRWxOMzhrVlJMSjZVa3F0eFVIaFo1ZXZ2YWZobVVRa1hkVzA4QUhzNWQ3ZnI3NDJldDFlbkhtblFuTXN0Q2RLRUFIOWxiNm9PSEFGcDM1NW42UzFLM3NZT281WjRnWVVCQldrWlE2LVZ1bXhDZHdvYUhBWnNVb21DdXBnSXNSb2lBNkxyVXg1azF2aGpZUW9PdlpIWVFGUEl0bVlFMXBET19n0gGeAkFVX3lxTE15dmtLenZSYVc4S25wWkotSXRocElkZE5iX1NqYVJCRURCM01uQWlZZXVQREE3Mkk3VEx0RHg3clJuaFpjMmJaUktnb2IxQ0tiNjdrQjhFeGgzOVk4eUhmWTJWbWxEWXFUR3Vjdk5YUUlLZ3dsZFlja3oxbWRCN3FvRVhBaUF4TTBpbHFWdk9sNFRldU4wOU4tQ0M5N3QyVzNodHZ6aHdmZXFQOGpXLVpnMV9CUktka1ZEOFB6NHNMTXRsaG92QVpxU0Q3Y0VVV3owTUwybTlvdmRQZUUySzdKaXRRTXZJMG1lRko5dklldXRvRDEydGlaVUhGSVNFM2Q2RVFZM1psNDZpQi1zVmY5Nno1RlZOWUZpdFhMWmc?oc=5",
+    "published": "2025-12-04"
+   },
+   {
+    "title": "Vale (VALE3) reforça espaço para dividendos consistentes, avalia Ativa",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORmVYSXVrLWtOU1JFUnNQUGktRHFTSUNHNEFJTUVBbXJsd1hHN0NjN3BPV2lsY0xuS0gyQ2FlNW1fYzJlU25ZdWxReEZNZ3U1M3NKdkd5a3hQRV9GNFJ4akE5TjkwYUxhR1lIeDdmdzFJV2cxLXZYdUJxZDlkZUt1cG83ZktLSEpLOTRMQkhUblhCTjRzajNlbENKMldVVkEzaXfSAacBQVVfeXFMTkExV3E4SU5BeGRPT1pGWVZ1WWhtbkplVlhVOGg2SnlTZHI5RUtxTmdOem1BMld1cTh5WkE3cl9QcFViOUVWbWVsd25xcW1Qd2prYVREdWszbkU0VEt1bm92dUxSa19tX1lObTdlWjJhbjNKT3IwZ3VYc1RuUkpsOHFsd1ZUSXlNVk1YUXlrVVBvenY5ekZlaHVwa19paGtOVEVCU2FQV2c?oc=5",
+    "published": "2025-12-04"
+   },
+   {
+    "title": "Vale (VALE3) leva novo plano de produção à AGE e projeta salto em minério, cobre e níquel",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZNGExMXVhazlpQ0NVc2FJdmJqdjV2dGw5dzJMaFdSa0xTcGRWMVhFNDF6NVhtakdNQkFoZV9xMkJmM2lOUFhfRFppNHk2TXg4TGJabUE4c09xRlRFSHZnZXdVbkZialdmYW1JckZvMENCeVhUcFRWQdIBfkFVX3lxTE11M0J2dGRjMFBjcXJ5VzdLcXMxS2w3ckh2VElfUWY2VExoeVNTWXlvTzVFanNYNy1UOE5nQloxeG9FOVB4YWdKWkk2amxtcjdEaGR1ZEdXVnNqQ2MtQ3M1Tzg1N3RCQkNpQzJwSHNfeV9RT1gwaDhLQTdOLTl5dw?oc=5",
+    "published": "2025-12-02"
+   },
+   {
+    "title": "Para Vale, futuro tem protagonismo em cobre e mais produção de minério de ferro",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVnlIb2wtM040V2ZUcFVhT1BNQ1JZcXZmZFJoRDFFUTRvRlRfYWdUTmY4bm84WnEwV2RtcW1IS3d0a0xWZ0FXY3Q3TlV0Qzl4TTk4TTFNRnJtT1JteTBweC1RclpqS1RMMHdFbTVQbk9LaTlGaHJaZ01DTFU2U3Ntc2YxOGRaV3B1dVFySjk4NWZueW1xeXRjdmF6Y0VZYTFydUNtRnR5cnU4RGJ1OUFQMF9DWdIBuAFBVV95cUxPMFZqQXZwTGxZWW1udGcxUl9oaEdtSjJlNVZ4bUVfcXo5eFI3RjNGRjhkS3htRlozYUIxdkxRa3FRa05uMGdMVVIwT1B3djhxU0JsWWJpQzJYRlRIaHYyRHZUT3k1aHd1eUo3VTQteG1ULU1nR2RIeDMzY2pFZmVkN1JFbzFFdEtiVHRLNUtxRmZqZ2lVc2MtUW5zOUFpUlZscnB4T3Axay1vbE56WTBpS00wTUI3aUJo?oc=5",
+    "published": "2025-12-02"
+   },
+   {
+    "title": "Vale (VALE3) fecha acima de R$ 70 pela primeira vez em mais de 2 anos e ganha R$ 10 bilhões a mais em valor de mercado",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObzNKUHFKc19xMUoyeHdEWDBuY0F5UEhweG5sZTdTcjBNWU5lY1JqTE01bHAzS1NJM2VMd1dyY1Z2YkdvSHlFaGFRQWU0ZjA5WkZBXy16bzhHM2hfMkE0M1RuWmRVY0NnNzk1bGxzTXFJNjFkVXg3aS0tSHRUX1hEbG83cnZNbjhBOU1tWUR6WWdDejhsbWtTQUlGSWhVQ0dqV2lmVVFoSnhIOXc5VjkwRUY1bVkzOXdwRWVvaFRWbDhncXJPUi1KbEJHcWF1MmI5bnVTSko5QVdkOC1iUnkwc1c0ZHgyWXdXUjZyeHl6MVNFdGdl?oc=5",
+    "published": "2025-12-03"
+   },
+   {
+    "title": "Vale (VALE3) reduz meta de produção para 2026, veja novo guidance",
+    "source": "Investidor10",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObndOdDJFakRuZVFRM2JCdXhMYm1aV1Q1bG80ZGVwak9SVm1OVjVqbFVfZXBsRkxITm1KQlNTd1hEcUlxbUNOOXBLMWk1RUFsR0w5ZF9xS3NObk1UVlJVR0llSlQyd2NUeDJlZDBVeGJSUG5JTWZWbjhrdTlka2NFaVVib2ctd3cyaENqYndicThySlFucDB2UThiNF9ZUnMyVE4yUjFFNGhNRTjSAbABQVVfeXFMTW1NdDhnRGx3OVY0WXdUdHJlU1phT0hsNUYwN3c0Q2VpeWd1cHR2cWRZYkVOTndtTm05MERuTERHd2o3M0Zidm5sellkaFNGa1lxRklQc2s0SW9fcmI5S1o1MUtkVVo5UHlKbnpWZExUMVNEdTBkRjhJMno0QXBqU3ZPQlJPWk00aXdXMjZKeHlrTUszbnB1QzBsTlFkOWtfMUVSRGpBSzhFQ3B6V18zUWU?oc=5",
+    "published": "2025-12-02"
+   }
+  ],
+  "ai": {
+   "short_reason": "Ação fecha acima de R$ 70 com anúncios de Vale",
+   "explanation": "A VALE3 subiu 3,23% em 3 de dezembro e fechou acima de R$ 70 pela primeira vez em mais de dois anos, somando cerca de R$ 10 bilhões em valor de mercado. A alta acompanha os anúncios do dia anterior sobre pacote de investimentos e possível reforço da recompra de ações, o que pode ter animado os investidores, embora as notícias não confirmem uma relação direta de causa e efeito.",
+   "type": "company",
+   "confidence": "medium",
+   "sources": [
+    {
+     "title": "Vale (VALE3) fecha acima de R$ 70 pela primeira vez em mais de 2 anos e ganha R$ 10 bilhões a mais em valor de mercado",
+     "source": "Seu Dinheiro",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObzNKUHFKc19xMUoyeHdEWDBuY0F5UEhweG5sZTdTcjBNWU5lY1JqTE01bHAzS1NJM2VMd1dyY1Z2YkdvSHlFaGFRQWU0ZjA5WkZBXy16bzhHM2hfMkE0M1RuWmRVY0NnNzk1bGxzTXFJNjFkVXg3aS0tSHRUX1hEbG83cnZNbjhBOU1tWUR6WWdDejhsbWtTQUlGSWhVQ0dqV2lmVVFoSnhIOXc5VjkwRUY1bVkzOXdwRWVvaFRWbDhncXJPUi1KbEJHcWF1MmI5bnVTSko5QVdkOC1iUnkwc1c0ZHgyWXdXUjZyeHl6MVNFdGdl?oc=5"
+    },
+    {
+     "title": "Vale (VALE3) pode reforçar recompra de ações após taxação de dividendos",
+     "source": "Investidor10",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUWQ4ZmoxWmlIOWhZaVFTTGdvWnRDd291cTlvQ1VFZC1IWUJ0b251TDlXcDVHT3RWRk5CYXRFbnVldEZnd2dsdDlJNnRRWW5qQzdJSUJwWkV5clRDMVVTZHZleTJsVDE1T3RrUFlZUjNtR3VCaW1YdVdNMGVCVmh5QmVnLWR4eVhfYThhcDJKOUJfYXNZRWd5ZVVtMVhRSkphcG1xcUJXNUM1MktTMmRzbmlzVDXSAboBQVVfeXFMUGs5UDZZdlFaWmJTcW5ZTWQ4S1VkZV9DNnV4WGJxSXpmUVUxZGZCV1Jkb2NJM2hVWnl4SGVudjI1b1N2TVplb1lvNUhXalNDNXZSR1I0RGNOajV3SllodTlLVTlmMEo4YTRwVzBRYlB1N0dMandDd1lUWTlBdjljY243Ri1oT3ZldDkyVXZ0VW16Z0ZvM05ZeVRCTzJKMHVhaTFrTDBKWnhfS0pFeF9BVGlpa2poN0hDc3R3?oc=5"
+    },
+    {
+     "title": "Vale (VALE3) anuncia pacote de investimentos: como isso pode mexer com os dividendos?",
+     "source": "InvesTalk",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQllZWTE4NzBVblMxZklzSHJSSDkwT0RZNENxUzVTU1MxRmE3eXoyRVRWQl9CcmQ1d3V5eElfZFc1NENVMjN3b2NOckwxdHZSOHFtaGczRUZKcVlxRF9xbDZDT1hZSV9ZRWZNV0lUT2V2V1lxNVVwOGt6bHdUdkxqdjhUREZwc2d3ZGFZTEx4ODhGWUFQc3ZRT1JJMmtYN0tYaE83T0llU1JOMTRXSlJCazRqc2swYTI3Uk41N3lpOGF3VWs3?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1495,
+    "output_tokens": 489,
+    "cost_usd": 0.000394,
+    "latency_s": 3.22,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:41:45+00:00"
+ },
+ {
+  "date": "2025-12-05",
+  "prev_date": "2025-12-04",
+  "return": -0.0236,
+  "z": -2.89,
+  "ibov_return": -0.0431,
+  "excess_return": 0.0195,
+  "scope": "market",
+  "news": [
+   {
+    "title": "Bolsa brasileira não para de bater recordes: ainda vale comprar ações ou oportunidade já passou? Analistas respondem",
+    "source": "O GLOBO",
+    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQMFlvQWFKODFxeTN0WHNWak5GMmkzNTF0Sm1hallqbi1RdWx3bEdfSTJMdVp3amhyeGdWVjRxOUpXR2JndDYwYVp6MGt6c0RGMkJyNjhFbmdhTG9YTVhwRENFSXRkbTNjS2pDQkFWRWxOMzhrVlJMSjZVa3F0eFVIaFo1ZXZ2YWZobVVRa1hkVzA4QUhzNWQ3ZnI3NDJldDFlbkhtblFuTXN0Q2RLRUFIOWxiNm9PSEFGcDM1NW42UzFLM3NZT281WjRnWVVCQldrWlE2LVZ1bXhDZHdvYUhBWnNVb21DdXBnSXNSb2lBNkxyVXg1azF2aGpZUW9PdlpIWVFGUEl0bVlFMXBET19n0gGeAkFVX3lxTE15dmtLenZSYVc4S25wWkotSXRocElkZE5iX1NqYVJCRURCM01uQWlZZXVQREE3Mkk3VEx0RHg3clJuaFpjMmJaUktnb2IxQ0tiNjdrQjhFeGgzOVk4eUhmWTJWbWxEWXFUR3Vjdk5YUUlLZ3dsZFlja3oxbWRCN3FvRVhBaUF4TTBpbHFWdk9sNFRldU4wOU4tQ0M5N3QyVzNodHZ6aHdmZXFQOGpXLVpnMV9CUktka1ZEOFB6NHNMTXRsaG92QVpxU0Q3Y0VVV3owTUwybTlvdmRQZUUySzdKaXRRTXZJMG1lRko5dklldXRvRDEydGlaVUhGSVNFM2Q2RVFZM1psNDZpQi1zVmY5Nno1RlZOWUZpdFhMWmc?oc=5",
+    "published": "2025-12-04"
+   },
+   {
+    "title": "Vale (VALE3) reforça espaço para dividendos consistentes, avalia Ativa",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORmVYSXVrLWtOU1JFUnNQUGktRHFTSUNHNEFJTUVBbXJsd1hHN0NjN3BPV2lsY0xuS0gyQ2FlNW1fYzJlU25ZdWxReEZNZ3U1M3NKdkd5a3hQRV9GNFJ4akE5TjkwYUxhR1lIeDdmdzFJV2cxLXZYdUJxZDlkZUt1cG83ZktLSEpLOTRMQkhUblhCTjRzajNlbENKMldVVkEzaXfSAacBQVVfeXFMTkExV3E4SU5BeGRPT1pGWVZ1WWhtbkplVlhVOGg2SnlTZHI5RUtxTmdOem1BMld1cTh5WkE3cl9QcFViOUVWbWVsd25xcW1Qd2prYVREdWszbkU0VEt1bm92dUxSa19tX1lObTdlWjJhbjNKT3IwZ3VYc1RuUkpsOHFsd1ZUSXlNVk1YUXlrVVBvenY5ekZlaHVwa19paGtOVEVCU2FQV2c?oc=5",
+    "published": "2025-12-04"
+   },
+   {
+    "title": "Dividendos à vista: além da Petrobras, saiba quem pagará proventos após balanços do 3T",
+    "source": "InvesTalk",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQanpHUDRib01tYTJMRlFEVFoxWDYteXduSUwxRkhzWHBUR0h0SHMwUHllNFFCNHVXLVdKOXBRdjNidVRrRjlnODRuUEtzQU4wVDNhSHozWUk5My1RYjFWWFlPUmE1alVuVkY1T1hNelc1TW9ZRDg3d1ZUZ1N0bzUzZWNfV0pTQXRadW5jVmYwNVVPMHg3V3pZSmliNmFhVUNVRktkY0oyQzJFNmFHRXVuZmt5eDV4LS1od3Q0QVA3RTNVeWNWVVBhcQ?oc=5",
+    "published": "2025-12-05"
+   },
+   {
+    "title": "Eletrobras (ELET3) vai virar Axia: por que as empresas da Bolsa mudam de nome?",
+    "source": "InvesTalk",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONmRhSVZxaEI0WDJxUEl1SF9laGVrSElOWEZmRWk4MjE0VVVxc1lTQXZLQ0N1RkF6SkhDMjlnd1dXNngxblpmVUx5ZVl3eWN4eEdvWGtaT2NGWnlwbTgtSUw1YjZ5TUdEbVpXa00zeElaa2tEd19KXzRqT203eXJtN1JmbFFoQjAwdkd2WTNLc1lnVFJ3UUZJcVV4M01NZnI2bHpjN3ZSUTBQNTdlX0FKeWt6OFpEYlZ3Wmln?oc=5",
+    "published": "2025-12-05"
+   },
+   {
+    "title": "Aposentado por doença psiquiátrica terá restabelecidos os pagamentos de vale-alimentação e PLR",
+    "source": "TST",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMjM3eEpnLUJKRG00ejBCemlQa0RRTG9tUy00ZmtyeXRJTjB3U3Z4MGl5ZnlMZVUyb0hTd0RpaEpRc2U0czAyOVZuRlRzNHU1YlNrUTVjUWVteWV2MURiVzBiQWJYRmNBb0JsYlk3d29vWFp4b05lNE14R3lwM2FrQzZnNlVsSllZT2ZhRldyNmh6SDV3VXB2YTFRaVBPOGo1MXQ1TWp1NHZYbFVkVG1kMkFxeUNieFRhalZj?oc=5",
+    "published": "2025-12-04"
+   },
+   {
+    "title": "Bolsa cai 4,31% em dia tenso e reverte início positivo de mês",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT2Y0WTRjblNESWN5NjlVOElGSWctc25DS0FSMDFSX1IzZVlDR0R4MURFTXlad3NKUGRmYy1xN3haV3d0WGpnNkdrVEIxZUxVcVF1WjdMSzM0R1VBcFZYUEROSnY0Z0FpN2ZwQW55Vk5MX2hiQTRDRTAteThqV19ZSEdIb29DenlZQ1g2ZEM2cjYzeU1KVDNGeUhJX0wxd3A5RGhnelFpOHc2dHgtRkNkcFhtYzc4d1dx?oc=5",
+    "published": "2025-12-05"
+   },
+   {
+    "title": "Após recordes, Ibovespa B3 vira e tem queda de mais de 4%; entenda",
+    "source": "Bora Investir",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYTM1X0dobDUxSUk0dVE1RkFuMDBpLXpxRTYycFFVbDlDaXE2YjBiMTNkNV9fNVRGb2RVVmpORE9JYmx3VVJKYlBWNHB0bE16cUlZWndmMHY3Z2tQSVBsNzlucEZ0TllIYU5nWHRreVRsRVJQbDNVVVFaRmtyRC03ZkNzUVk2SmUzTk5oNXV0TXY3UWJMbzVYZ25MTXFEZnVBbmw4WEYyQkF4eC1ZcmJrM1Z3?oc=5",
+    "published": "2025-12-05"
+   },
+   {
+    "title": "Dólar dispara a R$ 5,43 e bolsa cai mais de 4%, após pré-candidatura de Flávio Bolsonaro",
+    "source": "G1",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yMnoxNHgwMUNZQjV0MXp5TlJ3UThGaTN1bDJiZlhDeXlsM2V5RnFVOVZkVEFEcXZoZmNXOEdNQUZWWmFOaGRYU3U0bmx5NzNNMXo3c3FFcmVLUDE4SFU2MzF6V1FWaWx0dEQ0SVNoc2JuOTl2SkFxUtIBhwFBVV95cUxOUnNHTlNuUmYzQ3MzR1Q3RTdNWC1HQW9CTW84SlU0cWJ2ZUdMV21qSG8zN2x0UkE1QkF4TENVVnNWaTlYWVRiMDJlX0hHckF2QWk0czk5ZGNDWkpPVjRjV09nMGMwbUtXWXFXNFdEdFB2SXFBc1Bocm9FM1laY1haSDZNYmNmNEU?oc=5",
+    "published": "2025-12-05"
+   },
+   {
+    "title": "Por que a Bolsa sobe tanto? Índice alcançou os 164 mil pontos pela 1ª vez",
+    "source": "Exame",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS2dPRHo1eEx2bDEwZzVuNHlkaWpSWXYyTDVCN1NzTDFCcndONVJhRGRZdEt5cC1RM2pNaWhKdzdqZXMzQVgtNF9XcHMwZHVPMGpBdGcyWDFVOWpBNThseUswWXRNMVh5eWR3dk5tQVNBamUyNUd2dGpnb1pYZEgyWEEtT0VEa05iREdaREdaQm9maF9jTTlVaUFhbVFtUmRMQ3FGTXM1eV9qRHM?oc=5",
+    "published": "2025-12-04"
+   },
+   {
+    "title": "Ibovespa tem a maior queda em quatro anos após Flávio Bolsonaro indicar candidatura",
+    "source": "Bloomberg Línea Brasil",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONm5BUXhVbnJzNjBBQVZCTWd0Q1pyR1BLbVdka0E0TW5rbHNPMmZzSEdvNktOeHZPbFBZVHBmZk9WRkNTQjVIc0syM0hZNFhydXg3bnBIWkZ0clFRd3FQVzQyR3RHeGppa3g4UG9Pd00zYzFpS2JRY2JQUk1LTW81bWhseWl0RkFKek5NWFNzR0ZKbml1VmVIUVowb2FFYTM4VmdKWlZFWm54S3R6OEhlaTJLaG90SVk2UFJPNTZhTF9QQjU4UkHSAdoBQVVfeXFMTkNvOFV5Z0Y5OEhoLVNLbFhpSjB1Vzg4WWRaSG1tX21SUXVCUXgzLWg2M3dqaUJMa1BsYlFUUlhlem5GLUlUX19nQW5RX3dqRlhSTkxkcGhKYVJMQ2ZNaVc3UlExM1NLeWF0MG5VVmh5T0M5QzFGZHNIRE1lOWxUdktOenQ0ZXFqZm00c1REUmFaaFlzbk9zclBSNWlOaEZoN0Q4OTNsY3c0MGtuVTVvSklKS0plcEZhVkRweDFQY3RuN3p5LTA0anJCVFJmLTlTeHE1cVV1TlViR1E?oc=5",
+    "published": "2025-12-05"
+   }
+  ],
+  "ai": {
+   "short_reason": "Queda generalizada da Bolsa após pré-candidatura política",
+   "explanation": "O Ibovespa caiu 4,31% no dia, com a queda atribuída à pré-candidatura de Flávio Bolsonaro e à alta do dólar. A VALE3 recuou 2,36%, menos que o índice, sem notícia específica da companhia nos títulos disponíveis.",
+   "type": "macro",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Bolsa cai 4,31% em dia tenso e reverte início positivo de mês",
+     "source": "Agência Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT2Y0WTRjblNESWN5NjlVOElGSWctc25DS0FSMDFSX1IzZVlDR0R4MURFTXlad3NKUGRmYy1xN3haV3d0WGpnNkdrVEIxZUxVcVF1WjdMSzM0R1VBcFZYUEROSnY0Z0FpN2ZwQW55Vk5MX2hiQTRDRTAteThqV19ZSEdIb29DenlZQ1g2ZEM2cjYzeU1KVDNGeUhJX0wxd3A5RGhnelFpOHc2dHgtRkNkcFhtYzc4d1dx?oc=5"
+    },
+    {
+     "title": "Dólar dispara a R$ 5,43 e bolsa cai mais de 4%, após pré-candidatura de Flávio Bolsonaro",
+     "source": "G1",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yMnoxNHgwMUNZQjV0MXp5TlJ3UThGaTN1bDJiZlhDeXlsM2V5RnFVOVZkVEFEcXZoZmNXOEdNQUZWWmFOaGRYU3U0bmx5NzNNMXo3c3FFcmVLUDE4SFU2MzF6V1FWaWx0dEQ0SVNoc2JuOTl2SkFxUtIBhwFBVV95cUxOUnNHTlNuUmYzQ3MzR1Q3RTdNWC1HQW9CTW84SlU0cWJ2ZUdMV21qSG8zN2x0UkE1QkF4TENVVnNWaTlYWVRiMDJlX0hHckF2QWk0czk5ZGNDWkpPVjRjV09nMGMwbUtXWXFXNFdEdFB2SXFBc1Bocm9FM1laY1haSDZNYmNmNEU?oc=5"
+    },
+    {
+     "title": "Ibovespa tem a maior queda em quatro anos após Flávio Bolsonaro indicar candidatura",
+     "source": "Bloomberg Línea Brasil",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONm5BUXhVbnJzNjBBQVZCTWd0Q1pyR1BLbVdka0E0TW5rbHNPMmZzSEdvNktOeHZPbFBZVHBmZk9WRkNTQjVIc0syM0hZNFhydXg3bnBIWkZ0clFRd3FQVzQyR3RHeGppa3g4UG9Pd00zYzFpS2JRY2JQUk1LTW81bWhseWl0RkFKek5NWFNzR0ZKbml1VmVIUVowb2FFYTM4VmdKWlZFWm54S3R6OEhlaTJLaG90SVk2UFJPNTZhTF9QQjU4UkHSAdoBQVVfeXFMTkNvOFV5Z0Y5OEhoLVNLbFhpSjB1Vzg4WWRaSG1tX21SUXVCUXgzLWg2M3dqaUJMa1BsYlFUUlhlem5GLUlUX19nQW5RX3dqRlhSTkxkcGhKYVJMQ2ZNaVc3UlExM1NLeWF0MG5VVmh5T0M5QzFGZHNIRE1lOWxUdktOenQ0ZXFqZm00c1REUmFaaFlzbk9zclBSNWlOaEZoN0Q4OTNsY3c0MGtuVTVvSklKS0plcEZhVkRweDFQY3RuN3p5LTA0anJCVFJmLTlTeHE1cVV1TlViR1E?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1596,
+    "output_tokens": 165,
+    "cost_usd": 0.000242,
+    "latency_s": 1.61,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-20T03:21:38+00:00"
+ },
+ {
+  "date": "2026-01-06",
+  "prev_date": "2026-01-05",
+  "return": 0.0376,
+  "z": 3.13,
+  "ibov_return": 0.0111,
+  "excess_return": 0.0265,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Vale (VALE3) dispara em 2026: O que explica a alta das ações?",
+    "source": "Investidor10",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdEhIa25wdWI2ay14TzdQVzJQQkU3SmRucE42MWNEbUZEdkZSTW14dWlFQVVpNFFzNHZfeS1wRkcwYWplT0RNNy1VbTBaQ21ZY3RlQjJMaUpEMEFDaTd6QTIyMHVJUkowa0M4M2pnLXo0cTlyY2JXVGxvT3hnQmNKVkRsQXEwekdLTXNXczdORGZRUDBoZ3pFUTZ0M2NOeVNiQU00dtIBqgFBVV95cUxQZmpoYjFSSUZlRV9tVjdsNjRGUXpBelBveEVFQmg4U3dmX1VIRk1NUnVra2M2cFZvRE9sTE5XYVFCLXJFMEtKSVNTdHpmbkdTWUUzYk5JeEhhNFh2TGVHV2lDWTVaVUxjOVEzRHA5b2R4cFRzamd1ZW5XREVYRThCS3duTmZfVkZ1UzFBdzJqWlhHS3k4dEJfRHZxWGh6VW1mLWNvV2t0UE5Tdw?oc=5",
+    "published": "2026-01-07"
+   },
+   {
+    "title": "Vale (VALE3) além do minério: novo vento favorável eleva otimismo com ações",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUlJxeUNoZG16cDdnczlMV3ZpSHAtLVhwcF9BZkVXUWkxTnZLR2k2WU1Ha3NTbVhGVkRpTGxldVpXdjQ4N3FJVFhkb3ROa3JyaFJzbjB6aGgtcEtzb2prR0I0RU9ZajVxX0JoQkpEbXU2dkNfUmRjaWZ1ZnlYQThYMVUzRS12akZlQnF4Z0pLLXNJNmFjWjhYVXQ5REZwZUN5eGlHR0RlMlgtMzlHSTZGUNIBtgFBVV95cUxON1dTNEo3ZlZ6ZF83dVVUdjhjZERJQU0xcVhKSC1zcGRWMXU2SE1vYm50dklvUElzajdnYUo0VDB6c3EzTi1nRlBMc25qd3N1djRCR1djeW1vb0x2emFqbHlPdkF2WXhlaWVlV09ZcHNXMGtxc1ZySXUzcnZyTVF4RWZ4UXUwU1pVa3hOR0xQbUFVbzFRWkdxSXcyV3U4T2Z5T1R5Z0stZGhMdm5tc0dULUFEZDczdw?oc=5",
+    "published": "2026-01-07"
+   },
+   {
+    "title": "Vale (VALE3) paga dividendos hoje; veja quem tem direito",
+    "source": "Exame",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYmhGQU5DelhrVzBGaE43UHllU1d2UV9YdWp4NWRGWEFrNGo0ZUd1ZmZaR280RFJIaXZuSDdDNVlTMm1wQUFlU2FDYW9uVnFOVEY0bHI2OXVPYnJFQ3VIaWVNeXpaUTEtWEdvSGFrQmN3cXhBdlBCMXpfbnkxRUl4ZkwwbGViUjNablVzN1ZsdWUyUQ?oc=5",
+    "published": "2026-01-07"
+   },
+   {
+    "title": "Vale (VALE3) rompe máximas históricas: é hora de cautela ou compra?",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX1hlcDkxazFPemdTdmZsYnVXNmlHMTNtOG1UYWRnSXVlZ3BSZndpS2RmMHVBZ2dmWFhkWUV5UkJfVHBPTG1aVVBwb1ltQU1kbndFN3Y1WmdxaHh2RmtZaXkwanRyWmNkRE9MdUZFWU9Fay1JQmRkSlVTbUlGNThzQjcxMnIxWDlPNkJKN3hPaUE1LU5TRGp5YzdyRGtxZmMtRHhFUNIBqgFBVV95cUxOcGpKa0h4LW9JVUMteC12QTN6VVp1dmdJb1ZLMHV1ajl6bElMbU1ULUhVeTN2Nzl5ZWhsVjFFZUoyZm1DUERuMEJEM1Fackg2MmVPZm9MSEJDZVJUNU9hbmF0ZWg5UXlqMl9NWm4tYl9IRjFFRC16WUEwVzBmdWNEWk9WaXJfZGtjRmpyWl9neEEtYlJhRnF3ZnVISVM0VHVXNEJGMWE0b0gyQQ?oc=5",
+    "published": "2026-01-07"
+   }
+  ],
+  "ai": {
+   "short_reason": "Otimismo com novo vento favorável além do minério",
+   "explanation": "Manchete da InfoMoney aponta um novo vento favorável para a Vale além do minério de ferro, o que elevou o otimismo com as ações. As notícias não detalham qual seria esse fator, então a causa específica da alta de 6 de janeiro não é confirmada.",
+   "type": "company",
+   "confidence": "low",
+   "sources": [
+    {
+     "title": "Vale (VALE3) além do minério: novo vento favorável eleva otimismo com ações",
+     "source": "InfoMoney",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUlJxeUNoZG16cDdnczlMV3ZpSHAtLVhwcF9BZkVXUWkxTnZLR2k2WU1Ha3NTbVhGVkRpTGxldVpXdjQ4N3FJVFhkb3ROa3JyaFJzbjB6aGgtcEtzb2prR0I0RU9ZajVxX0JoQkpEbXU2dkNfUmRjaWZ1ZnlYQThYMVUzRS12akZlQnF4Z0pLLXNJNmFjWjhYVXQ5REZwZUN5eGlHR0RlMlgtMzlHSTZGUNIBtgFBVV95cUxON1dTNEo3ZlZ6ZF83dVVUdjhjZERJQU0xcVhKSC1zcGRWMXU2SE1vYm50dklvUElzajdnYUo0VDB6c3EzTi1nRlBMc25qd3N1djRCR1djeW1vb0x2emFqbHlPdkF2WXhlaWVlV09ZcHNXMGtxc1ZySXUzcnZyTVF4RWZ4UXUwU1pVa3hOR0xQbUFVbzFRWkdxSXcyV3U4T2Z5T1R5Z0stZGhMdm5tc0dULUFEZDczdw?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1218,
+    "output_tokens": 593,
+    "cost_usd": 0.000418,
+    "latency_s": 4.1,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:41:56+00:00"
+ },
+ {
+  "date": "2026-01-14",
+  "prev_date": "2026-01-13",
+  "return": 0.0474,
+  "z": 3.73,
+  "ibov_return": 0.0196,
+  "excess_return": 0.0278,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "O que pode levar a Vale (VALE3) a novas máximas em 2026 após ação subir 40%?",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU1NIV1RfRExYT3FYcEJtT2laYTJDU0xDeTJJOWVoUlJoeDdTS1U4c3lPN1ZwLXZLRG1sQ0ozUnVmRFg3bVFHcUF6Y0I0dGcyWkJXaVhQQUlaNXlkbWsyamlGQ1M0U1lVLURtWW5sZVIyNWY4T0JPbFYwOGF5Um9Wa0RGMm1ZQnJQU3Ric195QzE4WEswa3gwZzFjZ9IBoAFBVV95cUxPckdybU9BVTQxTHg1dzl6OHJUa3VXQW5JYWFQM3MtNk1PVl9DWWNWVTA0SVZmV1BwM3hSZlpYVENnR3ZiTXJHTUtFSENYMnE4ZFNzMHY2MUJTVkhhNzlaUWE5QjNiWG5IUTFDa2gyTnNDTFFEdUpUaDdEaXhHcDByYVFMcUpaWGtwWlkyUnBNSF9pcG9KNDVnTHVJdjdqZ2d1?oc=5",
+    "published": "2026-01-13"
+   },
+   {
+    "title": "Vale (VALE3) inicia 2026 pagando até R$ 686 por título de renda fixa",
+    "source": "Investidor10",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcWRvdjVWT3A3NUNXcEo3dE5vVXZYLW04cVc1QlFmNXhwazlidXFnOWp6LUttd3F3RmlJYXhVdUZyRHRFbXdTSjdIN3ZPU0ZLblVSSFY5Tm53bWtYeVZieFpUTFh5LWFQQldNNGlyTi1NekdMNVdjWm1aam5EVjB6SndvN0Fva3M1T2VzR1dvdVEwUVJ1M205N1dkM2s0SjNvN3l1ODJNNFRsSjJhd0JB0gG0AUFVX3lxTE5ia0l4MU9jX1hHYjgzZXJZckZ2MDhpUF9FQzVYamxkcjE5M2FyX1Yxa051cGxsb29HcTBOenFjclcxUC1yendVSm5jRVFiRVp2RlprblBJNEVaQi1hN1MtTzhVQ2xTZ255dTJhNTZxNTBTREZCTUlyX2MycVlONDU3T2I0bDNKYWszOUI5azQtcmhhN2V2MlBIWlY5OFJVTmRpRmdVekk2VWUwMWFHVHhrRmtWRA?oc=5",
+    "published": "2026-01-15"
+   },
+   {
+    "title": "Vale (VALE3) rompe recorde histórico. Ainda vale a pena entrar?",
+    "source": "Nord Investimentos",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWUGx3OTRRbVRyLWJXclp6Vl9XdUloQl9rQzF6cHViRFhKMHg0bUtMSHdsNkpIeXNFRHVsZjZTZm5KemZkNkg5OGNocXF2RUdpeUNjTmt6UHdxREFmWGUzaFRjZWlOYk1UWVB6MzZJakpIZ0UtTkHSAXtBVV95cUxOdTB6UVZSZ0NfcTktSGg1Zkp1QWVRbjNJeXFUWmNGbHMyQ01Db1lLOGl4ZDVuNVJrbS05dWRaM1V4V1ZQVm80M09za2tLaVptUkxIeWtGbmplWjNBYlN6WXNITjVGRWFaTWhJVjJmV2JNeFhEdUU2djVnLWM?oc=5",
+    "published": "2026-01-14"
+   },
+   {
+    "title": "Vale (VALE3): Capital World Investors eleva participação acionária na mineradora",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNUlaWUw2LXN5Y3YwZHFrWmcxTEdRUjZRcXk1OXFTbnY2QTVZMmFIQzZDXzJISnRvbWs2Znhud05rUXFadWVMQk01WUpDN21nUk9oZG1mYTNldllQeUZOSy1nOFMxOG9QLXREbFZaZTJxN1NMN0JVRVN5MjVLOUtIODRoand6bXB6eklxSjMxTFo3TDRFVnhNVnF4dTQtZW9tVHhiS0lTclRTNHpXNGJva3pESWRSbm_SAbwBQVVfeXFMTzVyakl4TWE5QmgtZ3hFVng1MkN1SGtSZDkxRVRHT3ZKTFFHWjZFSElLUUtPVU81cE02RDZJSHh3a1l6bUtfdkpXLUo4dGplUDNqQXpUZWhacDIxdmU3WHk3ZHh5bEI0YjZkRWxQTGdvQmtkOG83NXJqLVNfSnJUeHRzdVFsbkFqSFJ1d21QclNKNVlPa1lMdjV6TEdKWDdHY3NXUFg2UUlhZjdlcTlQQndSUDdkajl2cjJDOEI?oc=5",
+    "published": "2026-01-13"
+   },
+   {
+    "title": "Vale (VALE3) já tem data marcada para divulgar números da prévia e balanço do 4T25; confira",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbjNNN3hGdnhrVlVQRXpsd3hfaG50eWQybzNGZ25GdXBUdVdkbDlVMEZnWUF5Ums3cHJEUzFQQ3RZaExkV1V6em14UkZPZTB5b0xVa3FaelFBRy1VOTBmZG5IM1pWUXI1WXREWk5XODE0b09DT3JwWUYyOGNHRktTQVhvamx5SWtVYk5kUG9UdE1MNWFEN3liTExnMDZ2ei0z0gGmAUFVX3lxTE5lUklxei1TWDFRWEo4UlRUbkRneFU1cVFhenNiZU9lZVd4U0k0dXpvOUlsQi1nVFJRTmFDVGdvWmtfejBQUWt4Xzl5anY1bWZPVElNclJ3cWRoVDVLU1RLUlZfNnFyOUVmbGNGbjYtTHkzYmI0S2RVSFJVQ2hNYUoxWTMzZDlnbV80SzR0RmNUYlFLeG42RUlBQmdTS3UtanR6MEVmd0E?oc=5",
+    "published": "2026-01-13"
+   }
+  ],
+  "ai": {
+   "short_reason": "Investidor estrangeiro ampliou participação na Vale",
+   "explanation": "A Vale subiu 4,74% num dia em que o Ibovespa avançou 1,96%, e as manchetes apenas registram a alta para novas máximas, sem apontar um fato específico. A notícia de que a Capital World Investors elevou sua participação na mineradora sugere demanda institucional por ações da empresa, mas é uma inferência fraca, pois foi publicada no dia anterior e não trata da movimentação do dia 14.",
+   "type": "company",
+   "confidence": "low",
+   "sources": [
+    {
+     "title": "Vale (VALE3): Capital World Investors eleva participação acionária na mineradora",
+     "source": "InfoMoney",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNUlaWUw2LXN5Y3YwZHFrWmcxTEdRUjZRcXk1OXFTbnY2QTVZMmFIQzZDXzJISnRvbWs2Znhud05rUXFadWVMQk01WUpDN21nUk9oZG1mYTNldllQeUZOSy1nOFMxOG9QLXREbFZaZTJxN1NMN0JVRVN5MjVLOUtIODRoand6bXB6eklxSjMxTFo3TDRFVnhNVnF4dTQtZW9tVHhiS0lTclRTNHpXNGJva3pESWRSbm_SAbwBQVVfeXFMTzVyakl4TWE5QmgtZ3hFVng1MkN1SGtSZDkxRVRHT3ZKTFFHWjZFSElLUUtPVU81cE02RDZJSHh3a1l6bUtfdkpXLUo4dGplUDNqQXpUZWhacDIxdmU3WHk3ZHh5bEI0YjZkRWxQTGdvQmtkOG83NXJqLVNfSnJUeHRzdVFsbkFqSFJ1d21QclNKNVlPa1lMdjV6TEdKWDdHY3NXUFg2UUlhZjdlcTlQQndSUDdkajl2cjJDOEI?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1290,
+    "output_tokens": 625,
+    "cost_usd": 0.000441,
+    "latency_s": 4.24,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:42:02+00:00"
+ },
+ {
+  "date": "2026-01-30",
+  "prev_date": "2026-01-29",
+  "return": -0.0354,
+  "z": -3.02,
+  "ibov_return": -0.0097,
+  "excess_return": -0.0257,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Vale (VALE3) em alta com valorização do minério de ferro segura tombo do Ibovespa",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaWtiakM0aGl6Y25qTnQ2NHRJdEEyME81X3BJdklKdUZZRExZTU91MWtOZjJuOG1yUTQ1WFUzbS1QRVczbG1DbG9Pa1EzalJxQy1qVm5mZXFoY3ZvZG1ncTRaYjhOSFVPQ29BSkxGbndrckJXem5YMTc5UFRVWE91MWI4MHFkcFQtOFQwQXFudFN6VUhlZXdvYzhENVotS2JoakZ3Z3htU2Q4ZlhGMDlXRXJRcWFVd09hNl9lcFpqelczQjlGckczd2ZyUEVNTndZZ1NWbzBub2lqTTFaUUZrODRycnFQZkxI0gH3AUFVX3lxTE1YQnNta29PbTNXRnltUlJKRC05YnVnNjl6OVJfM3EwcUFYZ0o3ckg1VDNycEg4Rk94M1pTdFU2RUJxU0EzMzZkZ0o0TEE1Y0RzZTJ0b29ONEN0RGRyd3dZa29ZQkZQZjJoSlgwUE5EdXlUMHJpNDFLaFR0eENubHlza3BSVUVFamZnUXVNblhyakdIRFpaNjZLLUlxR0s0MWtLb3FiQTNmSXFNYVdId05fY3NGb0I2WFZxNTFqWFZKUzhGQVRkc201M19DOGhRcFdzdUN5Sy1NdmkwWndoWFlnY3pqbmNRUXNkbVpwbGphaWpEank3WDA?oc=5",
+    "published": "2026-01-29"
+   },
+   {
+    "title": "Vale (VALE3): 6 fatores que podem sustentar a alta das ações, segundo o Goldman Sachs",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbmxIMkRPX2JHS0U5TXRERmdoUFZXTURoTGJjTWZhajZ5YkVrb3VRMjdXLUN0VDNJTWdLQ3lsa3loUTlMX2lqSF9YVkdNTXluN0lkZWpqYWV5T24yQ0w3UmdHQnJtX2FmSzFGdlVwejk4X3hDLTlUWjhKbzQtY0tGaG9aOEI2NTJVTGdtN3N2TS1FeDYzYWlEM3d6OFZMeDJCV0ItR2I2ZTNsZC1leF9BeFVrZTJxVGIyU0dn0gHAAUFVX3lxTE5Pdm5UQVh3Mkw1ZzVPcVdFU0paU210UXVEYXJZdzA1N09nc0JPZmREb2VWbXhqWDcxNFQ1dEMzX3gwOWVVNEdpN0VIWXVPWWNHR1dCRjNxcXlYWGFpdFFsZHZvMXBtdWtKckdEVFUycjFxdjA0NzdLQzVidF8yV2FVN1Y2RGdTc2pGNnNNeXJrekFZRm5MZWdoMGlTUlNRRGpwdzdWUHlRRk43ZnZtUE5Rd2gwTkdsMUY2R19mbGg4Zg?oc=5",
+    "published": "2026-01-30"
+   },
+   {
+    "title": "Ranking de investimentos de janeiro de 2026",
+    "source": "TradeMap",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iX0wxVFhaaFdubUQtazZPQk5OREZkRVBtSmpTdHVvYWp3OWZ0VXdkaF91d0Vick1ueC1Rd2lnTmNLaHp4TmNyVjl0WVFSUDhOU3VmMlBHMkU?oc=5",
+    "published": "2026-01-30"
+   }
+  ],
+  "ai": {
+   "short_reason": "no clear explanation",
+   "explanation": "Os títulos disponíveis não explicam a queda de 3,54% da VALE3 em 30/01/2026. A notícia de 29/01 descreve alta da ação ligada ao minério de ferro, no sentido oposto ao movimento, e a análise do Goldman Sachs sobre fatores de alta também não justifica uma queda.",
+   "type": "unknown",
+   "confidence": "low",
+   "sources": [],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1179,
+    "output_tokens": 298,
+    "cost_usd": 0.000267,
+    "latency_s": 2.14,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:42:05+00:00"
+ },
+ {
+  "date": "2026-02-03",
+  "prev_date": "2026-02-02",
+  "return": 0.0492,
+  "z": 3.01,
+  "ibov_return": 0.0158,
+  "excess_return": 0.0334,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Investimentos institucionais em ações foram de R$ 1,7 trilhão em 2025",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWXczeFIyV2dDWWFpc1FFaTlqeW9KbDJWeVBWVUR2a2V4bUtVWjc0UlAxMTR0WUlIRnE5TGo5Y3hFWU1IaGZscUZkdGpUUHg0dUpLbDVCa05lNGdaLVNTVEJ3TDJRQU45NmtMWHhEdmU5eFRqSzNERmRCUFl2bWxwVkJjTFd3d3ZpS0V1a3pPWThfMmM5R3VVVDY5NDlHVmJpTjd6amlkM2FBbl9YS1BsNDZKLTVHeUpyd0VFbE84dlM4TWs?oc=5",
+    "published": "2026-02-04"
+   },
+   {
+    "title": "Vale (VALE3) vai disparar neste ano? Itaú BBA eleva preço-alvo das ações",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZzRCeDc3VWZCZHZTdTFGNHBUeFhmcXl6dkstLWpqWWtpOERnMjdidXN1azRtMG43Y0htY2NTd2s5RGlOR1o0azVwdEFTejhJZ2NCb2VSOTBWRTVvZHd4OEIxRHFneTFfOG90TUdtTmduSGVIblBXekFjaUthZngxMElPTHliSHFHNEh1cWdXRTF3bkw00gGeAkFVX3lxTE5QSW4xY3FIUWJ5LUdiMndlRmwwNmxQekx3LTZaM1kwaXR6MVZueUg3X01PZmZKY2kwV05FcGk4ZlNOV1BmOURHY0o5a3lRaUFpeWM0aTVjU1drSU52ZHdzZm5WMm5YZ3FOQ1g5bkJ4TWUtYWV4Nld4N1lOZnluZ0ZaaWlzazlEOWFmemVhQVR4NHNiVE9PeVN2eXJNSDhiOVJJenNzSnZpZlpiSVZqNFVfU3Jsdl9Tam9qQjBQc3c4bVZIbHZrZ0dEUzJlUm43aUFRdnVsa25VMnJkNzRpR01uelBJbmtKRXdaX3kwbkh1Z3NTMEVFRVBMUWdCUW5wVDUyUDZQcV9JR3ZnYmh6ZE82QVVkWFM4SExWU2lfc1E?oc=5",
+    "published": "2026-02-03"
+   },
+   {
+    "title": "MPF pede novo bloqueio, de R$ 200 milhões, da Vale após vazamento na Mina de Viga (MG)",
+    "source": "Ministério Público Federal",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONHl5dFhJRURRT1JWeU5aTnJ1LVFxVkJaUGNDa01BMkhOYzBuMnFFaUVnYzN6bWNEYThHYk1STmFjVkY0LThDbHdWLW0xdDBJV1gtYy13dmVtdEN1eHRudlJtamRqRkt2M1hrTi1QVlJpOXE2X2NKVFlNVElZQXZnU1NyNjdWZ25YdDJsRUg3LTdZcm9XRXZwZjdaX1JqNl9UM0lleEx3Vjl1Z0lJVFhZc3Myc3dWWHhwYndveUVZaHV0ZVhhYzlsRlpaUlNSdw?oc=5",
+    "published": "2026-02-03"
+   },
+   {
+    "title": "Vale (VALE3) divide analistas após rali: momento de otimismo ou de cautela?",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ3lrdHRHa29aS1JlY0x4RURScTBTdWpIUHpYY0s1LXc4eUpsRnVDeFBvZTZpdHhiWEpaYjlPN1cwcVl3TkVJdWVuOVRiY3ZuOU9GRlp0QVBGV041eVJ1eFMxVFNNaU5XOWViLXlMbklzZ1U0S2M4Y3VwZXRoay1aQXNnTXBheGNWWEswdHpyZEpqQTNHZmE0ZVY3c21yYkYxcjk2emFEMmVnSzh3MUdR0gG0AUFVX3lxTE9MX3Y0WG9RcldGY1lEcTNjNUVramNTcV9YYS0teGU5NEdNSHlXSy16b3BRdVB4WGhyUVV1YjVISU8yY1RheURLZHQ5dlhvbjFjbGpJRUFlczN0akNIaDVOV1dMVkZvUVEtbVdlZEI0RGtXSENuT0FlUHFOY09Kd3A5VlJHMmlvWDFNd3dpQlJkc2pRMl9lVTE3Q1pwbFdPbTJ0SThPR0d5aVVJVHlHbXdPTFliQg?oc=5",
+    "published": "2026-02-04"
+   },
+   {
+    "title": "Tchau, Vale (VALE3): BTG escolhe nova \"vaca leiteira\" para sua carteira de dividendos — saiba qual é a ação escolhida para renda passiva",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc3BFbnpFVHA5R3Z4QkRrX0NUeU9WSzJ3aDVLbXRYYW5fSFBiQkFya01Qc2tzZGZzS1RXS2tLeTd1Q3FkSHhZY2tnZVNWbHZBRVZlV21IcGpDSk9IUHg5aEpxN0VndnRuaG5DcmFFT1lscnlMaEpTX1R1LWhldTI0YjZrTW5SR0xyZU5fNkFtTG4tSmVLZ1FEazQ0YXQxenZEdlIwdDEtR1lmdDYydlFRWmV5UmUxekZOclZoT0VCRTUwUUl6REE0a2Fjb2ktWVVZS3lxekhGV1dXQQ?oc=5",
+    "published": "2026-02-03"
+   },
+   {
+    "title": "MPF pede bloqueio de R$ 1 bi da Vale (VALE3) após vazamento de mina em MG e poluição de rio",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOFBOT2ktZE9NRkdLUFFORVB2OXZnbFFtUDZLc084T05LbWdaRm43aE5qMDgyM1ZNbklBZmVNMzd0UmtBMW1nT1dnT19ocDM4S1NlbWxwMV8xZE5GdFc2OW5kdHAtb3dObjBMd01yZ1piY2ZuYVRXamF5Q250c3prdi1Ka0ZCX0dUd0g4Y0ItakFqTjJ6YmRTTHpjTkZtaDRhcjJWZ0NzWFhDVDRBaTdRazloYl8tRDAyYWc?oc=5",
+    "published": "2026-02-02"
+   }
+  ],
+  "ai": {
+   "short_reason": "Itaú BBA eleva preço-alvo da ação",
+   "explanation": "O Itaú BBA elevou o preço-alvo de VALE3, o que costuma impulsionar a confiança dos investidores e pode explicar a alta de quase 5% no dia. As notícias do período também mostram que o papel vinha em rali, mas os analistas estavam divididos sobre o cenário. Não há uma notícia que atribua o movimento diretamente a essa recomendação.",
+   "type": "company",
+   "confidence": "medium",
+   "sources": [
+    {
+     "title": "Vale (VALE3) vai disparar neste ano? Itaú BBA eleva preço-alvo das ações",
+     "source": "Suno - Investimentos Inteligentes",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZzRCeDc3VWZCZHZTdTFGNHBUeFhmcXl6dkstLWpqWWtpOERnMjdidXN1azRtMG43Y0htY2NTd2s5RGlOR1o0azVwdEFTejhJZ2NCb2VSOTBWRTVvZHd4OEIxRHFneTFfOG90TUdtTmduSGVIblBXekFjaUthZngxMElPTHliSHFHNEh1cWdXRTF3bkw00gGeAkFVX3lxTE5QSW4xY3FIUWJ5LUdiMndlRmwwNmxQekx3LTZaM1kwaXR6MVZueUg3X01PZmZKY2kwV05FcGk4ZlNOV1BmOURHY0o5a3lRaUFpeWM0aTVjU1drSU52ZHdzZm5WMm5YZ3FOQ1g5bkJ4TWUtYWV4Nld4N1lOZnluZ0ZaaWlzazlEOWFmemVhQVR4NHNiVE9PeVN2eXJNSDhiOVJJenNzSnZpZlpiSVZqNFVfU3Jsdl9Tam9qQjBQc3c4bVZIbHZrZ0dEUzJlUm43aUFRdnVsa25VMnJkNzRpR01uelBJbmtKRXdaX3kwbkh1Z3NTMEVFRVBMUWdCUW5wVDUyUDZQcV9JR3ZnYmh6ZE82QVVkWFM4SExWU2lfc1E?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1418,
+    "output_tokens": 482,
+    "cost_usd": 0.000383,
+    "latency_s": 3.07,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:42:10+00:00"
+ },
+ {
+  "date": "2026-02-05",
+  "prev_date": "2026-02-04",
+  "return": -0.0333,
+  "z": -2.56,
+  "ibov_return": 0.0023,
+  "excess_return": -0.0356,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Investimentos institucionais em ações foram de R$ 1,7 trilhão em 2025",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWXczeFIyV2dDWWFpc1FFaTlqeW9KbDJWeVBWVUR2a2V4bUtVWjc0UlAxMTR0WUlIRnE5TGo5Y3hFWU1IaGZscUZkdGpUUHg0dUpLbDVCa05lNGdaLVNTVEJ3TDJRQU45NmtMWHhEdmU5eFRqSzNERmRCUFl2bWxwVkJjTFd3d3ZpS0V1a3pPWThfMmM5R3VVVDY5NDlHVmJpTjd6amlkM2FBbl9YS1BsNDZKLTVHeUpyd0VFbE84dlM4TWs?oc=5",
+    "published": "2026-02-04"
+   },
+   {
+    "title": "Ações da Vale (VALE3) despencam após recuo do minério de ferro no exterior",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQenc5UndfZ0ZIOXdaeUI5a1VpeHpqd1VzNUoxRFhOUWQ4M1ExMG1kc1c1YXVwQ3Zsb0FCUXQ1MEtxaGZyMG0wNm1ESWRxNS1seGprVFJjWFdQMk9XbGhFRkRNTmppcG5ySUZnZ0JURC02M2J0STQtbGUtbUdrUVlFNzRQb2pEUlBON29FaWEwZ0wtOFNJc3ZlZVh4VGpvUDk4LXNTRXBUZEwwVDU3QWtBWXVFTFc5RGNJYUs4NjVIYm9YX1hOcFFIUFhPUnZEcUhQeW5LaFpNQ1paelRRWG1v0gHuAUFVX3lxTE5CUWg3cF9NSTNQdTNaLXBWUFA3NXpBMUptTnk3S0plNVRlUU5yLUVtV1laeUU3VlZaWU95cTNRWHJnLXRyWmRiLVhZdFQ3UEpxdjRvWHlObF8wazVIZFNZUGNxcEFWdHp4eHl5UVBZVnZpZmY3Q0hoaW43TTlEM2xCVGx6b3cwdnhnRHg4cnJnZmxNTUYtbVJDal9VbXJ0LTRoTXZBLVFPV1J0NUQ2bHRMdGhvMWM3bVBYbXFIaHRETXkxbnFZNEFITEJTZWpJemFuMlBOSElsZzdMNVp4OWlOdjg3OEJ1NDMtRmJ4anc?oc=5",
+    "published": "2026-02-05"
+   },
+   {
+    "title": "Vale (VALE3) some das carteiras de dividendos em fevereiro, enquanto Caixa Seguridade, Itaúsa e Petrobras ganham peso; veja as recomendações",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdHVxMWZEVFR5ajI0bmxhVjJyTXhUNER5N1JvUDhwUmdZcEVjaTRfSGprSXR6NnlCb0lRRmYwSEVZejBRVERZczgzLWwtMTlER3oyeFYtd1FFWG15Y3RwRjJBZU5LVjN1eXoxVkIxQU56cUJuOVZ6RExNRTRhT2ZTcHhOT1lOOFdsZnZvVjVYcmxxTTc0V2hOTmNMTHVpdXN6U3NaY19XdjF4bUdEZ2FNeEZKZ29aNGYtbHpCRTNxeXnSAcYBQVVfeXFMUDlTQ2xLUTh5X0tyYjZUNlJGY2I1andIelZJMXM5bVBpcFpxZU1TRXNleHBGcXRVMk1GZ1g4MVN2REdxUmRxQm5kR0UwZTBOQ2JkVzBLcUNtMTJRM2Z5NXpYRTZMZDV3NUhBSlpuTGk4LXdYOXRObzhPcXFSbUlfbGpETTh1MnR5MDM3Mnl0QUk1Qk1rdUhBeEwyNmV5MVlqUE95R1cxcHl3NURuNFpJaldRRDliWFJPYy1Wd2YzMWpILWtWOUV3?oc=5",
+    "published": "2026-02-05"
+   },
+   {
+    "title": "Vale (VALE3) divide analistas após rali: momento de otimismo ou de cautela?",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ3lrdHRHa29aS1JlY0x4RURScTBTdWpIUHpYY0s1LXc4eUpsRnVDeFBvZTZpdHhiWEpaYjlPN1cwcVl3TkVJdWVuOVRiY3ZuOU9GRlp0QVBGV041eVJ1eFMxVFNNaU5XOWViLXlMbklzZ1U0S2M4Y3VwZXRoay1aQXNnTXBheGNWWEswdHpyZEpqQTNHZmE0ZVY3c21yYkYxcjk2emFEMmVnSzh3MUdR0gG0AUFVX3lxTE9MX3Y0WG9RcldGY1lEcTNjNUVramNTcV9YYS0teGU5NEdNSHlXSy16b3BRdVB4WGhyUVV1YjVISU8yY1RheURLZHQ5dlhvbjFjbGpJRUFlczN0akNIaDVOV1dMVkZvUVEtbVdlZEI0RGtXSENuT0FlUHFOY09Kd3A5VlJHMmlvWDFNd3dpQlJkc2pRMl9lVTE3Q1pwbFdPbTJ0SThPR0d5aVVJVHlHbXdPTFliQg?oc=5",
+    "published": "2026-02-04"
+   },
+   {
+    "title": "Bolsa fecha com leve alta, puxada por Itaú, apesar de queda forte da Vale",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdWFOZHNtTllneEZWQ0ZpbDA3N0NESmhHRFdzX3R4QUwtTEVVWjZYQjgwM21sZllvMG1RVURKdDNIRlhHWFFBR0xxTVY0anRDSWVUaHpBbDdPWXZfUUJiOEdXS1VwdUl0YWNuUkFwZXRkZHRSMjNpUGVwUTN5SGtrUzdoNGpvWXhXd1pwV2RqUQ?oc=5",
+    "published": "2026-02-05"
+   },
+   {
+    "title": "Rio Tinto desiste de fusão com Glencore e Vale (VALE3) mantém trono do minério",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPal81THAyOHliY1lrZGRuWldySmtjVXMxbnF4SnFENG13WlFEZm9GRmZvOTBZTGQ1elQ5NGUwMDFhNG9rSHJ3dWZvTGtLUDR2Wk8zNkw4X1V4Y1hfN19QdU1rS3o4QjlPc1Y1UFlQaFhJS2F1R1p4ZnprYmF4SjhuSC1iRmlYbnB5LTRhTGFxdzNNV0tCdEpxbGg4WlVlWWd3UGlscFU1dFEyWDR0azlmeDVtQm1YY0pWekpBajMzcDlwUQ?oc=5",
+    "published": "2026-02-05"
+   },
+   {
+    "title": "R$ 2 bilhões ‘a menos’ para a Vale (VALE3)? Autoridades querem bloqueio de patrimônio depois de extravasamentos em Minas Gerais",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRXFRaUNwbXRtcmdTNEdNdDVmMkNmZkNKTFZsM09ONnhWTzc4YWhLMTdvMThnNFViU1ExS1BYYkdfSENjNU9XVW1EczY1YW1aQkZiMGhaVVAzeE5kT2pJU3c4aUtCRENjSnYwOHQ2d3dUSGQtNk1wLTk0aVVTV1IwSUFCQTlOY2ZpZUZ0UWYzRkg1SWpIZnBQLWJZVFUzd0xjM3hveDdlMEMzSzAtWldlRkEtaEMyRFc3Z0lBOEtWTTVXTEFvd0VHZFREQVlJMG5FWEl6SUpEajduU3lXWTdkRk5USmo0MTFTbHpWX0V2bUxzemMyQzkzelFPb2Qtdw?oc=5",
+    "published": "2026-02-06"
+   }
+  ],
+  "ai": {
+   "short_reason": "Queda do minério de ferro no exterior pesa sobre a Vale",
+   "explanation": "As ações da Vale caíram cerca de 3,3% em 5 de fevereiro, enquanto o Ibovespa subiu 0,23%, segundo manchete que atribui a queda ao recuo do minério de ferro no exterior. Como a Vale é muito sensível ao preço do minério, a movimentação indica um efeito setorial, embora as manchetes não detalhem a magnitude da queda do minério.",
+   "type": "sector",
+   "confidence": "medium",
+   "sources": [
+    {
+     "title": "Ações da Vale (VALE3) despencam após recuo do minério de ferro no exterior",
+     "source": "Valor Investe",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQenc5UndfZ0ZIOXdaeUI5a1VpeHpqd1VzNUoxRFhOUWQ4M1ExMG1kc1c1YXVwQ3Zsb0FCUXQ1MEtxaGZyMG0wNm1ESWRxNS1seGprVFJjWFdQMk9XbGhFRkRNTmppcG5ySUZnZ0JURC02M2J0STQtbGUtbUdrUVlFNzRQb2pEUlBON29FaWEwZ0wtOFNJc3ZlZVh4VGpvUDk4LXNTRXBUZEwwVDU3QWtBWXVFTFc5RGNJYUs4NjVIYm9YX1hOcFFIUFhPUnZEcUhQeW5LaFpNQ1paelRRWG1v0gHuAUFVX3lxTE5CUWg3cF9NSTNQdTNaLXBWUFA3NXpBMUptTnk3S0plNVRlUU5yLUVtV1laeUU3VlZaWU95cTNRWHJnLXRyWmRiLVhZdFQ3UEpxdjRvWHlObF8wazVIZFNZUGNxcEFWdHp4eHl5UVBZVnZpZmY3Q0hoaW43TTlEM2xCVGx6b3cwdnhnRHg4cnJnZmxNTUYtbVJDal9VbXJ0LTRoTXZBLVFPV1J0NUQ2bHRMdGhvMWM3bVBYbXFIaHRETXkxbnFZNEFITEJTZWpJemFuMlBOSElsZzdMNVp4OWlOdjg3OEJ1NDMtRmJ4anc?oc=5"
+    },
+    {
+     "title": "Bolsa fecha com leve alta, puxada por Itaú, apesar de queda forte da Vale",
+     "source": "InfoMoney",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdWFOZHNtTllneEZWQ0ZpbDA3N0NESmhHRFdzX3R4QUwtTEVVWjZYQjgwM21sZllvMG1RVURKdDNIRlhHWFFBR0xxTVY0anRDSWVUaHpBbDdPWXZfUUJiOEdXS1VwdUl0YWNuUkFwZXRkZHRSMjNpUGVwUTN5SGtrUzdoNGpvWXhXd1pwV2RqUQ?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1464,
+    "output_tokens": 205,
+    "cost_usd": 0.000249,
+    "latency_s": 1.79,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:42:13+00:00"
+ },
+ {
+  "date": "2026-03-03",
+  "prev_date": "2026-03-02",
+  "return": -0.0417,
+  "z": -2.52,
+  "ibov_return": -0.0328,
+  "excess_return": -0.009,
+  "scope": "market",
+  "news": [
+   {
+    "title": "Vale (VALE3) afunda mais de 4% com acirramento de conflito no Oriente Médio",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZFZXWVJkR2NIb0R1azktcVdsLW94MXp5NkFTOGdZT0FFNTB1TVJwLWFCd0JSaDNnZGFyQVFRWU1wR05Kd25YaUY2b29fZE80TWItZ3hnYVRhdGFtV1NveWJxazFJNEd6Q0djT3FnYWJISklJOTh1QXA0NkFRVVZsU2NxeHhTWHNOTVF5U0hwWUhTTldTS1gxRk1TZW1yWFBw0gGmAUFVX3lxTE5jNnFtSzh5M2VUaW9DSi15UVFZbTFUU1JLMEgtUXhLeFM1ajhnRlZtTXE2LVBBQy1mNlowbG9kYWtROGRPS09uQmdGQVlhczVUNzRBQVFQVVBkTzA4MG9nMjlFNkR0VWo0R2Q2REpEWHNES25kdnFIUzVnWWx3Y1NBQzdJSXJXTzBwc1EzR0V1Vnd0R0ZXajQ3WmZBTFp4UXpSdHVZTVE?oc=5",
+    "published": "2026-03-03"
+   },
+   {
+    "title": "Top 10 Ações rende o dobro da Bolsa no mês e acumula 64,81% em 12 meses",
+    "source": "Safra",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTWpRX3oyZFVVWFZXT1BDWW4wSFVCVjc4MlI4OUVaMWc2VG5XTVowTVMwQ214S0xfZUlDWTFsUC1yZ2x6V2ZrY05kU1MxR1E5MUVmSEUzcGZkQWJ0VnE4emRVSk8tLUl3eFg3RzA4SmRvVnFDZno1WkFybjdzeF9iY3puS19sUnJzVkNiMw?oc=5",
+    "published": "2026-03-02"
+   },
+   {
+    "title": "Vale (VALE3) paga dividendos hoje; confira quanto e quem recebe",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWW9IY0J4bUVTdnU2azc5TkVHNjBSaUdKOXR0U3FJc2h2SHpZRzVYbWtVMFhFZmp6LWgtRTlBTDU5ODRxbElqVkpLYXo4OGt1ZjRFZWZMVFlaVFE5VXQ2elJmdTdYQzJLOWNFUVhiVG0yWHYtVVgtcmZfSE13djMwLThld2xTZUI0Um11ZU1ZZUJoQU1qcjVBNDdHUVB2NkVHQjhIQ0taUXdadGV5SWlhQWROUTFCdTJWUXhZSmg2aTl6c01qYk5iRGtZdC1kdGZJRnJHTXktOFVleVBUd2xKX1MzSdIB8gFBVV95cUxQdmVQenZwdV9IVlJ5UllvNWkyV3pTZGxReGlxWmxEeHpYSEp1M2dHVHpzdFJQWkpmOWhwYkljTUlYTjZqVnVnaW05dGtKSXlKNXFMY1B3NzhXQmMtdXlDdFB3UDVKT0NOSVhIVWtSR2pFeHhnY3F5Qkd5T2tLYjVjUXByMXA4V3RCUmYyYlpfOWFkcldEam5PbFQ4SkxYRHpwTG1HUm5ITTdnU3hVOXZiVW5YUnhUU0oxaUVKY3NuaExfODNjRzVOTjY0YXJwQ1dLMnd3eGt1dlJVczBUM0h3VjVsY2dhV1ctSkIzSEEwM3VCQQ?oc=5",
+    "published": "2026-03-04"
+   },
+   {
+    "title": "Vale sente efeitos da aversão ao risco e cai mais de 5% no Ibovespa",
+    "source": "Exame",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWllwdEZlU1N0dlFfX2Z1SHZwZ0c3T3g2cnktck8zTk94TUdQTjQ0NnlxS0h6TDJVZzJWelV1Wk1QTVdRVVdheV9MOUhJTy04VHFEcUlURHZNbkRBSlVHNGJESF85TjlSTGNUbGpXRko2dW0ybmNCOVRnV2xLQ3ZFTTB0U1BVRWxJakdzMFZkbV96U0tmSkkyellBU0dkdUw0WkUw?oc=5",
+    "published": "2026-03-03"
+   },
+   {
+    "title": "Itaú (ITUB4) lidera apostas: carteira recomendada de março reforça bancos, energia e commodities",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY2xfei03Y2ZnWmp6NTVjTDVPbmdaR0hLcTlkUmFhcE5wdWRIb3JnOUtkelZnZmRaVEQ2VUpQVGlzSVhwMUpISjA4WjUwNUw4YXl6LTV6bFlGZnpOYlJSVkM4MWFkSHZKSkZ6aG05X083QUdINHNXN3gtZ3luckxmOFV2RWNBV03SAYwBQVVfeXFMTkpfMHczMXNQWUVRdVR0clV6aGxtZlpYemwwckVUN2I5cmhfWW5FSUltVEo1MEFiQlhWazF1VU9VTFoxZXFGUUlTZ08xdTV4N25Sa2FUbkVRVmVJOU9CWWVhZ05TVVh6WUZlVDFQMmFrdlJ3cTBmdGhXckQ0TWMwMWh4M3JlUGFxUTlyT2Y?oc=5",
+    "published": "2026-03-02"
+   },
+   {
+    "title": "Dólar salta a R$ 5,26, e Bolsa cai 3% com escalada no Oriente Médio",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakpSS2k2R0lsNEZ5VGFaQjg4SXIyem5XUlhQREJhT2RjRXZ0Y1VzZlcxSzRsOGRGZFZGdllFQS1tajNrOGZzZWpGUVFZbmVMcC1xYUFJdXU2cmdIMzNHazdkTjBNTHdEcTRYRFdibFE3MklRSjNLNm5KTEtldC1oWlRsQ2JYdV9fb1RSM0Z0MVBkQ1l5UHN4dGpUeTAtOU1DTU5JazBzWE1KRXM4NlV6TGFfRmhjTFR3Yksw?oc=5",
+    "published": "2026-03-03"
+   },
+   {
+    "title": "Fechamento (05/01) | Ibovespa sobe 0,83%, aos 161.869 pontos; dólar cai para R$ 5,4055",
+    "source": "InvesTalk",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KMi1hWklGd3hEXzBSRnJ2Q1pyc0NRamFZU1RXR1RzUGppaUYwZWFTMXNpd0pDRWlxdW5Ud2JGNmsyZk9KR0ppa3BYWjlUZ3NqMWVHSTBCVWVUelh6b2VOMTBQOEdQRWNWOFIxQXFyU3BfUQ?oc=5",
+    "published": "2026-03-03"
+   },
+   {
+    "title": "Dólar opera acima de R$ 5,30 e Bolsa cai mais de 4% com novos ataques no Irã e no Líbano",
+    "source": "O GLOBO",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORG9OTFQ1QTM1cFJiQ3hyR2dkWWxCQmFjQ1VtUXdoZ2RrcW00SmxleDd4LVQ0YkRpSXIzQ21RUFBzZjB0U3dTaDlPSHJxemJxRWc0YVNIVVQwY3JoZlZmSTRNTDdoc0IxNTRnYkNCUU82RUhoVDYtY0d5TEs4TkFfdDJUMGtSRHd4YS1QX3luRjNzb0NzUGRwclE5dldVc2l4U1BIbVpISEhkbDRtZTNhMXl1VHNHOVVjcUphcjVlZXVBaTV0RDdQYm5pblVtVlhhWlpVbUlBZEVpZC10UlVF0gHuAUFVX3lxTFBsaklFVXl3Z2V3VU9TQWlmR1JSLTFjcWZjM1dHZHc2OVRHZEIwSVBQb3M0b3lLN2JVNTdtNGp4OXBuMV9mN2llemJYdE43YnJ5Q0dvUENucDZ6cWIyemJTck9QVl9BSzNkQkN1Z2czWUdSQ19qcVVXazdqZnR4SWhtb0t0cEdjc3VlUk1HM2hPN3dIcHg4YzN5aVJEcGRSTlhSZkpHNVZQaUFSYTdHMnY5OHlxZThScmhBdnUzMnpOa2d1ZUhMZVpEcWNUaTBLUGdxQktMX0tZcmpfXzlfamNyeDQ0VU02Y0Q2aDl2dWc?oc=5",
+    "published": "2026-03-03"
+   },
+   {
+    "title": "Bolsa brasileira sofre maior queda desde dezembro de 2025",
+    "source": "TradeMap",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NakhGWHg5LXJ1WGhIOUdLWW9oSzJadE55RnJNR3FTMXV0NENOTE9sT1ZFWFdMYWczYnJEOFhiX0tvY0haQ3dTdzZLNDRYR3VJSm5EWlFSbWY?oc=5",
+    "published": "2026-03-03"
+   },
+   {
+    "title": "Ibovespa cai mais de 3% e dólar sobe a R$ 5,28 com incerteza gerada pela guerra no Irã",
+    "source": "Bloomberg Línea Brasil",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSmNNZEpod05kOXJnajdTX3V0THhjbjhzWFBYLWQyX0dFMmxqQjB3T2VxMUJsWDdwQUVNUGctR2dubldKU3hJNUhVb0JKOVFIY3dVSWpqdFpnUFNrZTY0LXhxWWRhc1VfUG82LTQxX0Y3MzlxV3IzNVhET096TzQ5S1U0Q1hSNjhtSDFOWUVyUG53RFZsYmVIeEMtY3pJMXZCWWM1M1BVTklobVJxUG41ZnNfZGZUUEc4VzFHRW52dnBxTDVVWXfSAdoBQVVfeXFMTThmZnlxTU9BSHFJU2FrVXZIdFJQX2lXZ3RDVjFiNFc4dUoyNGUxdG1jdDRRLUVRQ3lQcllEZWZpeFUtcURFTElWaXVIc0lIN1JHOU9ldVRlMldGcks1UTU4UmJlZFpJWXRmekZ2T3pacy1fOFFRNHJLZGhvUWJEWUxPWWRMMWUtV1ZYLUljU0tIU25lX2dwYWtZNzFJdUVBa1lNSzdQYlJmTHdwSlBsRW5IUjZoMm1lT1lDaVlsMGl2R1N2QWVkdEljOFRlZjhud0ZocXdDTWtoT2c?oc=5",
+    "published": "2026-03-03"
+   }
+  ],
+  "ai": {
+   "short_reason": "Aversão ao risco com escalada no Oriente Médio",
+   "explanation": "A queda de VALE3 acompanhou o mercado, com o Ibovespa caindo mais de 3% em meio a novos ataques no Irã e no Líbano e à incerteza gerada pela guerra. O dólar subiu acima de R$ 5,28, sinal de aversão ao risco, e a ação teve queda um pouco maior que a do índice.",
+   "type": "macro",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Vale (VALE3) afunda mais de 4% com acirramento de conflito no Oriente Médio",
+     "source": "Estadão",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZFZXWVJkR2NIb0R1azktcVdsLW94MXp5NkFTOGdZT0FFNTB1TVJwLWFCd0JSaDNnZGFyQVFRWU1wR05Kd25YaUY2b29fZE80TWItZ3hnYVRhdGFtV1NveWJxazFJNEd6Q0djT3FnYWJISklJOTh1QXA0NkFRVVZsU2NxeHhTWHNOTVF5U0hwWUhTTldTS1gxRk1TZW1yWFBw0gGmAUFVX3lxTE5jNnFtSzh5M2VUaW9DSi15UVFZbTFUU1JLMEgtUXhLeFM1ajhnRlZtTXE2LVBBQy1mNlowbG9kYWtROGRPS09uQmdGQVlhczVUNzRBQVFQVVBkTzA4MG9nMjlFNkR0VWo0R2Q2REpEWHNES25kdnFIUzVnWWx3Y1NBQzdJSXJXTzBwc1EzR0V1Vnd0R0ZXajQ3WmZBTFp4UXpSdHVZTVE?oc=5"
+    },
+    {
+     "title": "Vale sente efeitos da aversão ao risco e cai mais de 5% no Ibovespa",
+     "source": "Exame",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWllwdEZlU1N0dlFfX2Z1SHZwZ0c3T3g2cnktck8zTk94TUdQTjQ0NnlxS0h6TDJVZzJWelV1Wk1QTVdRVVdheV9MOUhJTy04VHFEcUlURHZNbkRBSlVHNGJESF85TjlSTGNUbGpXRko2dW0ybmNCOVRnV2xLQ3ZFTTB0U1BVRWxJakdzMFZkbV96U0tmSkkyellBU0dkdUw0WkUw?oc=5"
+    },
+    {
+     "title": "Dólar salta a R$ 5,26, e Bolsa cai 3% com escalada no Oriente Médio",
+     "source": "Agência Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakpSS2k2R0lsNEZ5VGFaQjg4SXIyem5XUlhQREJhT2RjRXZ0Y1VzZlcxSzRsOGRGZFZGdllFQS1tajNrOGZzZWpGUVFZbmVMcC1xYUFJdXU2cmdIMzNHazdkTjBNTHdEcTRYRFdibFE3MklRSjNLNm5KTEtldC1oWlRsQ2JYdV9fb1RSM0Z0MVBkQ1l5UHN4dGpUeTAtOU1DTU5JazBzWE1KRXM4NlV6TGFfRmhjTFR3Yksw?oc=5"
+    },
+    {
+     "title": "Dólar opera acima de R$ 5,30 e Bolsa cai mais de 4% com novos ataques no Irã e no Líbano",
+     "source": "O GLOBO",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORG9OTFQ1QTM1cFJiQ3hyR2dkWWxCQmFjQ1VtUXdoZ2RrcW00SmxleDd4LVQ0YkRpSXIzQ21RUFBzZjB0U3dTaDlPSHJxemJxRWc0YVNIVVQwY3JoZlZmSTRNTDdoc0IxNTRnYkNCUU82RUhoVDYtY0d5TEs4TkFfdDJUMGtSRHd4YS1QX3luRjNzb0NzUGRwclE5dldVc2l4U1BIbVpISEhkbDRtZTNhMXl1VHNHOVVjcUphcjVlZXVBaTV0RDdQYm5pblVtVlhhWlpVbUlBZEVpZC10UlVF0gHuAUFVX3lxTFBsaklFVXl3Z2V3VU9TQWlmR1JSLTFjcWZjM1dHZHc2OVRHZEIwSVBQb3M0b3lLN2JVNTdtNGp4OXBuMV9mN2llemJYdE43YnJ5Q0dvUENucDZ6cWIyemJTck9QVl9BSzNkQkN1Z2czWUdSQ19qcVVXazdqZnR4SWhtb0t0cEdjc3VlUk1HM2hPN3dIcHg4YzN5aVJEcGRSTlhSZkpHNVZQaUFSYTdHMnY5OHlxZThScmhBdnUzMnpOa2d1ZUhMZVpEcWNUaTBLUGdxQktMX0tZcmpfXzlfamNyeDQ0VU02Y0Q2aDl2dWc?oc=5"
+    },
+    {
+     "title": "Bolsa brasileira sofre maior queda desde dezembro de 2025",
+     "source": "TradeMap",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NakhGWHg5LXJ1WGhIOUdLWW9oSzJadE55RnJNR3FTMXV0NENOTE9sT1ZFWFdMYWczYnJEOFhiX0tvY0haQ3dTdzZLNDRYR3VJSm5EWlFSbWY?oc=5"
+    },
+    {
+     "title": "Ibovespa cai mais de 3% e dólar sobe a R$ 5,28 com incerteza gerada pela guerra no Irã",
+     "source": "Bloomberg Línea Brasil",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSmNNZEpod05kOXJnajdTX3V0THhjbjhzWFBYLWQyX0dFMmxqQjB3T2VxMUJsWDdwQUVNUGctR2dubldKU3hJNUhVb0JKOVFIY3dVSWpqdFpnUFNrZTY0LXhxWWRhc1VfUG82LTQxX0Y3MzlxV3IzNVhET096TzQ5S1U0Q1hSNjhtSDFOWUVyUG53RFZsYmVIeEMtY3pJMXZCWWM1M1BVTklobVJxUG41ZnNfZGZUUEc4VzFHRW52dnBxTDVVWXfSAdoBQVVfeXFMTThmZnlxTU9BSHFJU2FrVXZIdFJQX2lXZ3RDVjFiNFc4dUoyNGUxdG1jdDRRLUVRQ3lQcllEZWZpeFUtcURFTElWaXVIc0lIN1JHOU9ldVRlMldGcks1UTU4UmJlZFpJWXRmekZ2T3pacy1fOFFRNHJLZGhvUWJEWUxPWWRMMWUtV1ZYLUljU0tIU25lX2dwYWtZNzFJdUVBa1lNSzdQYlJmTHdwSlBsRW5IUjZoMm1lT1lDaVlsMGl2R1N2QWVkdEljOFRlZjhud0ZocXdDTWtoT2c?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1610,
+    "output_tokens": 583,
+    "cost_usd": 0.000452,
+    "latency_s": 3.46,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-20T03:21:44+00:00"
+ },
+ {
+  "date": "2026-04-29",
+  "prev_date": "2026-04-28",
+  "return": -0.0587,
+  "z": -3.03,
+  "ibov_return": -0.0205,
+  "excess_return": -0.0381,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Vale (VALE3) entrega lucro bilionário, mas alta de 576% no níquel muda a história; veja os destaques",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CV2gxLVlEMlBRVm8xRXRiUWl6THZ2ZEl0UnhQS2FwUjV5QUp4Q3VGZUdfc1BjSGhyMFAxS3hqbkhOMy1TX3d1cDY1RFg5N1MtUUZFWEUxNVliRnQ4WXd4TUE3emZCM0ZKU0lQR1laUXV0Vlhubm1metIBfkFVX3lxTE1TaHJsbm1udmtKTTM4LVM5U3BLS3p5XzU2SG1VQ2ppVUQzX3BZNExfdktHV3F5MHVxV1RPdHF6OHlOWWQyVnNoNTlhMlJ2SE1CTnFYUWtsVFVEdC16Qmt2SDBFU01NV3Y2cEs3ZkJsTlJFWHdJT05nU05VZGROUQ?oc=5",
+    "published": "2026-04-28"
+   },
+   {
+    "title": "Flopou? Resultado da Vale (VALE3) não surpreende. É hora de comprar ou vender as ações?",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeG11cjZjd2dVNTVROVJQNE4tdEc2Qjl4UGtDRzI0cmtfd2FBUWdDQ1ZKWnlFOTVaUVpzQkJsY3U4Z19JMm4ydW5oTnFmR0FCOVNmZ2NiYWg0LV8xWi1feUFuU1E0bTlYbzFWMjhIam82MTRvWjdNLVFjanpWOEV4NGlxTlJldi11VmpmenZsMzN2MHV1c2lHWlI3d3FsODVZbV9GamY5SVcwZ0h6QUNjcUhkTC1hZkxwcFlodmxR0gHMAUFVX3lxTE1HTWw5U0s2NE5iMzd1d2VLaWZ3S0o1V2pORFVSNVlYSHNDenFxdXBHbkh6MExxV0FhR1Bva3h3QzNLMmhtTjBsVlZQTkpDbmstTm50WnMzSl9ZczM5d2FVZW1VSXpSUXA2M1BodDVDQXlDcEM2WDF0eXMyWVd5aU1JS0dXVEZlUVNTdjlpUFZTcHNPSTYyMmpiMGRwelRhY2VWSHZIMlR4OXE2OVRQdU4xdmFBTzIySWxPM3FKckgwaDA0cDlsaUlldWNYcw?oc=5",
+    "published": "2026-04-29"
+   },
+   {
+    "title": "Vale (VALE3) cai mais de 5% após resultado: sinal de alerta ou ruído de curto prazo?",
+    "source": "Riconnect",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeWFPdWU5X2ZhaU5meVh6bXB2dWFxQ3ZiV3ltQUd0M0puUFZxRklTLVRlbnlzZlUybDItX1EzcmpYVWVpU3NQRTlKR1VYOVI4UzBRdWZxdDJvZjB6ajRGUjdvbVp3MEpkeGdNd2ZfMzBvazk3WW5NRmRrWFFjX0ZCZ0VLQQ?oc=5",
+    "published": "2026-04-29"
+   },
+   {
+    "title": "Vale tem lucro maior no 1T26, mas Safra vê resultado fraco",
+    "source": "Safra",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYUd2RUQxaXViRzQ1eEtqM0RiUG92Sk1vNFMzekxtdmdDM3I0S0taVlZyd2dpRmhsRTNBMzM5Tmlzb2JMcjRvd0tLSnVLSU1pOEdQR3ZlV1pOS2MwUUlVRkxicjVkU0hHRHNaaml3RU1tOXNabHhQM1M3MnVTaU1jMA?oc=5",
+    "published": "2026-04-29"
+   },
+   {
+    "title": "Após balanços, Vale (VALE3) tem uma das maiores quedas do Ibovespa e Santander (SANB11) recua",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUVZtcmJIN0MyMl9icjQzeVBHQV83cWRENFJXejdwSDFDVVhVYldnaHRVSDFBRzlwMTdaczFrQ25rbkxLbjY3QnB6eWRjMU5YUnY4dFpNbG1nb2dRSkp5Z1BUQXdrdDdmLXVta3RpTjlJc05kZ2V2aXlkMnZZY2Y5a2JyM0Q0dXF2WjZlM25GeTFUNk5VQ212b2k5aU1PdVBsa09fVTJXLV9vNkJ3TmZYT3ZWeGVGWGcyODRlTGwyYTZOSnJxR1V1OUIwTThfOVlZZVlib9IB2gFBVV95cUxOQUZiRmxVaXdobHplcUdMOXdfU2JtRnJuYlFqRDVrVWNHOGlrNUFqNXNvLVUwd05XdWZEUVFaeWo5T1J3MmxiU1NvZzA3U0hLVE5xTFdKOEh4YWZwbG9vUmdNZUtiMmVmamZyRF9qXzVZcmFQbWdUQWdUbU1iVmh5YXd3djI2TFZjTEhZNUZOWE1jLUQ2eGI3N2dSaWFIcC1UVVFCQU5KeFdoS29PRkRwb2c5TUMzWjJwbDAwaUZDZHJSTXJheEszVVBxYXJpVjNmQURhaE1EQnludw?oc=5",
+    "published": "2026-04-29"
+   },
+   {
+    "title": "Vale (VALE3): a tese mudou? O que fazer com ação após derrocada com balanço do 1T",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSkxQWFdwTlh3alFaM1FjTmN2N29BME1hcXlKUWVYVVZjTENrWXYwOHBNV0pKazFBbGJJTC1xQmxBSHRXSkpOcmxTRlBXWTI1ODFXeFdVcUNBbGNJanJPUFNXUmhZNUpST0ZjS0lHLWFjMGJfYWp5WU1NdGlPaGNkZC1aNnZLMWlXVFdiN1VGQ0w4ckctNVQ2ZENmaHFWVnBYQm4yLWl6Yy1lOTJlWUZmZlFiMGJ3cjdtQjB5bdIBwgFBVV95cUxOLXdEVTNQRHp2ZlBVSHhodUQ1RnRRdUFqdVl6eF9vcm5zTDFfbktXek5OSHREbVE2Ny1mQ0ltaVB0OURDRHQzMWExZDZ3eXVqWHB4cU5BRzh1a0RuYjlldW1OSHdLMElSWlgxdzNqNDNVNkpzMm1zVTBIdEZqbl9fYXRVR3RtSENweE1veXV2aUhJaDZoTHg0TXZxZ1RVWnNCcVg0Z255LXJmV2lOVG5aN05oNUN2Zlp2LTgzMzhicTViUQ?oc=5",
+    "published": "2026-04-30"
+   },
+   {
+    "title": "Chance de comprar barato? Ação da Vale (VALE3) cai forte após resultado pressionado; executivos traçam planos para dividendos extras",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOd3Vub2pjakVoLTlYS196TlJrWURFRGRjM0ZPODhILUlmaE5jdjh4cGMxNWREei05eVJSaEhUdGRJN3pXQ3RjMGxyenBlbl9Zb0ZMOUFSc0hGRV9pVlhRdFlOYzAzT0VlY0c4ZS1xblpfTkJSM1RPQWNucHhhSXBubThsbno1WXJ2MlRLWGVqR0taVncwbDNCbklLeTUtdExMOGw4alFHaFV6dklSZENIcTNkdzBPWWpfd3hjc01UYTlWc3hxWUFNYVlyNGdTY1Fhblo3YkplSEh4YjV2eXlyZkRXYVZlSklPRk1zMEZvVWRWWGZ0WVcta1VQcG1fUG8tS0xGekVtdw?oc=5",
+    "published": "2026-04-29"
+   },
+   {
+    "title": "Vale (VALE3) lucra US$ 1,8 bilhão no 1T26, aproveitando alta das commodities",
+    "source": "Traders Corretora",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPblYyb1lucDBGb0E5Yi1jQ2NZazdSSXJMVUVkeWxTY0kxWFdCRFRwU0pMaWFRVXNvNndDb0pVLWhRR2lVLVA2ZjJIcnRaMHIxQURxNkRBSG9wdkhvbHZDU0JfeXpqUlZZZjJoYWhkcUpqSFFXSkpZQ254cW5MdDZBWlpZZS1sUFE1WS1ybXI5TzF3S21xVHVNbEk2Zm1wam8xcGhfTUkzdVpablVibVd3?oc=5",
+    "published": "2026-04-29"
+   }
+  ],
+  "ai": {
+   "short_reason": "Balanço do 1T26 abaixo do esperado pressiona ações",
+   "explanation": "Vale (VALE3) caiu cerca de 5,9% no dia seguinte à divulgação do balanço do 1T26, em um dia em que o Ibovespa também recuou 2,05%. Manchetes do mercado afirmam que o resultado foi fraco ou pressionado, com destaque para a Safra, que viu desempenho fraco apesar do lucro maior, e para a Riconnect, que associou a queda ao resultado divulgado.",
+   "type": "company",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Flopou? Resultado da Vale (VALE3) não surpreende. É hora de comprar ou vender as ações?",
+     "source": "Valor Investe",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeG11cjZjd2dVNTVROVJQNE4tdEc2Qjl4UGtDRzI0cmtfd2FBUWdDQ1ZKWnlFOTVaUVpzQkJsY3U4Z19JMm4ydW5oTnFmR0FCOVNmZ2NiYWg0LV8xWi1feUFuU1E0bTlYbzFWMjhIam82MTRvWjdNLVFjanpWOEV4NGlxTlJldi11VmpmenZsMzN2MHV1c2lHWlI3d3FsODVZbV9GamY5SVcwZ0h6QUNjcUhkTC1hZkxwcFlodmxR0gHMAUFVX3lxTE1HTWw5U0s2NE5iMzd1d2VLaWZ3S0o1V2pORFVSNVlYSHNDenFxdXBHbkh6MExxV0FhR1Bva3h3QzNLMmhtTjBsVlZQTkpDbmstTm50WnMzSl9ZczM5d2FVZW1VSXpSUXA2M1BodDVDQXlDcEM2WDF0eXMyWVd5aU1JS0dXVEZlUVNTdjlpUFZTcHNPSTYyMmpiMGRwelRhY2VWSHZIMlR4OXE2OVRQdU4xdmFBTzIySWxPM3FKckgwaDA0cDlsaUlldWNYcw?oc=5"
+    },
+    {
+     "title": "Vale (VALE3) cai mais de 5% após resultado: sinal de alerta ou ruído de curto prazo?",
+     "source": "Riconnect",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeWFPdWU5X2ZhaU5meVh6bXB2dWFxQ3ZiV3ltQUd0M0puUFZxRklTLVRlbnlzZlUybDItX1EzcmpYVWVpU3NQRTlKR1VYOVI4UzBRdWZxdDJvZjB6ajRGUjdvbVp3MEpkeGdNd2ZfMzBvazk3WW5NRmRrWFFjX0ZCZ0VLQQ?oc=5"
+    },
+    {
+     "title": "Vale tem lucro maior no 1T26, mas Safra vê resultado fraco",
+     "source": "Safra",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYUd2RUQxaXViRzQ1eEtqM0RiUG92Sk1vNFMzekxtdmdDM3I0S0taVlZyd2dpRmhsRTNBMzM5Tmlzb2JMcjRvd0tLSnVLSU1pOEdQR3ZlV1pOS2MwUUlVRkxicjVkU0hHRHNaaml3RU1tOXNabHhQM1M3MnVTaU1jMA?oc=5"
+    },
+    {
+     "title": "Após balanços, Vale (VALE3) tem uma das maiores quedas do Ibovespa e Santander (SANB11) recua",
+     "source": "Estadão",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUVZtcmJIN0MyMl9icjQzeVBHQV83cWRENFJXejdwSDFDVVhVYldnaHRVSDFBRzlwMTdaczFrQ25rbkxLbjY3QnB6eWRjMU5YUnY4dFpNbG1nb2dRSkp5Z1BUQXdrdDdmLXVta3RpTjlJc05kZ2V2aXlkMnZZY2Y5a2JyM0Q0dXF2WjZlM25GeTFUNk5VQ212b2k5aU1PdVBsa09fVTJXLV9vNkJ3TmZYT3ZWeGVGWGcyODRlTGwyYTZOSnJxR1V1OUIwTThfOVlZZVlib9IB2gFBVV95cUxOQUZiRmxVaXdobHplcUdMOXdfU2JtRnJuYlFqRDVrVWNHOGlrNUFqNXNvLVUwd05XdWZEUVFaeWo5T1J3MmxiU1NvZzA3U0hLVE5xTFdKOEh4YWZwbG9vUmdNZUtiMmVmamZyRF9qXzVZcmFQbWdUQWdUbU1iVmh5YXd3djI2TFZjTEhZNUZOWE1jLUQ2eGI3N2dSaWFIcC1UVVFCQU5KeFdoS29PRkRwb2c5TUMzWjJwbDAwaUZDZHJSTXJheEszVVBxYXJpVjNmQURhaE1EQnludw?oc=5"
+    },
+    {
+     "title": "Chance de comprar barato? Ação da Vale (VALE3) cai forte após resultado pressionado; executivos traçam planos para dividendos extras",
+     "source": "Seu Dinheiro",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOd3Vub2pjakVoLTlYS196TlJrWURFRGRjM0ZPODhILUlmaE5jdjh4cGMxNWREei05eVJSaEhUdGRJN3pXQ3RjMGxyenBlbl9Zb0ZMOUFSc0hGRV9pVlhRdFlOYzAzT0VlY0c4ZS1xblpfTkJSM1RPQWNucHhhSXBubThsbno1WXJ2MlRLWGVqR0taVncwbDNCbklLeTUtdExMOGw4alFHaFV6dklSZENIcTNkdzBPWWpfd3hjc01UYTlWc3hxWUFNYVlyNGdTY1Fhblo3YkplSEh4YjV2eXlyZkRXYVZlSklPRk1zMEZvVWRWWGZ0WVcta1VQcG1fUG8tS0xGekVtdw?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1515,
+    "output_tokens": 221,
+    "cost_usd": 0.000262,
+    "latency_s": 1.92,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:42:22+00:00"
+ },
+ {
+  "date": "2026-10-22",
+  "prev_date": "2026-10-21",
+  "return": -0.0397,
+  "z": -2.53,
+  "ibov_return": -0.0115,
+  "excess_return": -0.0282,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "O brilho da Vale (VALE3) acabou? Ação desaba, mas analistas mantêm otimismo",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcGFHNGVqYy1OMmV4NW9QTnE0X2wtUmJ3b1Q5bUlLX3FlVFRsWTBPUGFIRVhEQlpaSmtLWmZXSHhCbFVoTTI4cVpwWFFXRDZSX1RkaHg1cTZScmc2NWFNUE1WQl94azNLdTJaRHR0V2xDMFlUNHNOVE9lbkV2RWRTS0E3bGVvNnA5LU1FeHQ5WHpGczNoLUZNZ2ZkTmctc2F5Nm9HRGdCUGNFbkdoWGRXS0VvbkpINnVBOWtvRGl5Zy1CSldpejN3dkM4bVNhYzA2STBFUXVxb3p5Qm5WSllxZFNfampidmlSamk0ZWJ5ZC1SUdIBgAJBVV95cUxPa3M3RGRqYlRjYTJnX0VnUUd2bEhHQkNkNVItejU3ZGpTcHpETEZJRHhYY0ZOS3IybzZwRlRVYm5TTEdYWWdLOXJoS2RMc0xINy12SzhyZVJ5RFR0YmlvQjFtRU9JV0hTTWVMTTMyR0pMb2laczV4VFRXQlZmNHpFTWMyUndkdkVFeVJvUmRtSWFpRGZQbXAyTkdYVER1S0xLVTlvdHI0X3NFX1g2MVJ6dWp5ZmNvRjhnZVRWTTVFeUY2WVVaRW9xUXFXbzVxSWQ5dS1KY3VYeFJKUExtUzRhRHdPSWJxbHpUWld1NG94MkZtWDNaNU1PTGhINFhUUGNl?oc=5",
+    "published": "2026-10-22"
+   },
+   {
+    "title": "Ibovespa perde mais de 2 mil pontos; Vale (VALE3) despenca 4% e bancos ampliam queda",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX1QwTHZqNXNHaXNIMDZNYjdCSzdEWHdrdzVyZXE2VW5CRm9xamZWNmU4azItWFd3RU5DVjRkZ3E1ZHJYVFFMZ0xPZm9uQzBac2twZDAtdHhxazhXS3ZMTHVTQXUydDhqYzFjSlpya09iTHlBT19BZDdRdW0zMFd1aE5n0gGHAUFVX3lxTE1VcFJZZV9GRWtWc3lkTzM0QWY5aGRhZnVwQUpzNmNoc1N3b1lhZUJDNzVLbERLT2dKN2JYV3l6SmpNOXZzMTItQzZTQWZxQWtOdWJyT2FMOTFDTVpUUVFjUUpHb0hPVVVrMDZ0eGY0Mk01UXAtdXg2ZzNKUWt6R0JILVlLd3Bwaw?oc=5",
+    "published": "2026-10-22"
+   },
+   {
+    "title": "Ações da Vale caem 12% em 2026: vale a pena investir na mineradora agora?",
+    "source": "Exame",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS2lLeEFIZnhpQnFVTzFNc042dV9jMURkUFpFM3dUWDFoNUZzTVczaTg3T1doYVRNREloS1R6cWE2WE5FVnlMeXE2ZW00V0l5Z2RfbnhrTGVsRUh3WXZZQzN1b21MUncyc1pXc0dkQjc0X2VzT1JRUXZiR3UydG1OWmFFcjZsM19QM1d6cW1ZTWFfVG8ybnFJMm5aVTRobVV3aXJvSXB0X1A?oc=5",
+    "published": "2026-10-23"
+   },
+   {
+    "title": "Ibovespa B3 recua 1,15%, puxado por Vale e exterior negativo; dólar vai a R$ 5,03",
+    "source": "Bora Investir",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTTZXWG1zR0V4dmFFTTgzUEJsak9Va3JoeEVLbmFhSWJWUy01bzRyNFZfUzd4ZTlrbWFzY1czRFo0cGdDM1RXX2ZwSEticDlzU0tMaHlheGNBR2laYzlORkJlU245NmE2aXMwSUtZSnRHTGlVMXJMdjJpRnJLM3VuMTVManBUakR3MWM4Q3JVT2N3Z2VMMnA3YUpLelRtejdhU3VIeDdCc3E5ajdqY3Y2dkg1WTh6OFN3eFJudUFiMkdMdw?oc=5",
+    "published": "2026-10-22"
+   },
+   {
+    "title": "Como fica a Bolsa brasileira no pós-eleição: commodities no radar",
+    "source": "Safra",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa185enVaZ1ZIdnhUYmY0V3BkcEU2VHlPTjZmY3YxU1YzVTFGdW8tM3BkamxlTDZoTTVGcWk2OGUzR19FUWRSTUU1U0pyLUJpYjd2QVZYUGpjUHlqbDAwQ3praDlLQmhtRU5ONklmQ3hTY18xbVZyaVM4bzlkRGF4RmZPTXBsa2F1aWFsRA?oc=5",
+    "published": "2026-10-23"
+   },
+   {
+    "title": "Vale (VALE3) dá recado sobre segurança de barragens em Minas Gerais",
+    "source": "Investidor10",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNk9JdFlHOE1WbkgxbVZCWGpRNE9tTHZNaDE1RlFHd2ttQ2dPTFhFNkRQUk5ZS3JpNkhNY1Y1RjZqR1NMYXpMSzFkbGlsQk82UXNId2pxOXVWYXJnSmd3UW45N2dramlLdTFUdUZEQkRtOHNXNWRLX0ljczFLbjhnTDRER1lMUHlacEYtTUFsVnBCNUw5Y1hsT2JGZjN0a0hMLXd5TGl0NWdYQm95ZDFV0gG0AUFVX3lxTE16SWM0LVRacjZwQmRoYUdNYnFWamVsZzIwNGdQcFZYYmNCRDVUR0NySElfNFZ3d2lkR25jY1JEUzB3ZTJjZ1daUzhiUFh5Q2FaLVdOcXI0MmQyS1daMDVIMGpLRmhOMWhZZWloeUVGMk83T05ENDg4c3Yxc0Y3elV2QTlzaWJKT2doRUJsT0JnWVR3T1huZW1mcFZYaThTOER3eWNmQjEwYnd4Y0RLVy0wemJJLQ?oc=5",
+    "published": "2026-10-23"
+   },
+   {
+    "title": "Quais foram as ações, FIIs e ETFs mais negociados na B3 em setembro? Veja aqui",
+    "source": "InvesTalk",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUDZGbjgwTkVlNF9rQldPZENMUXp2WGNyOEpTUVgyUmNTdmpSRXNtZGxEcjFPSlExMkMyU3VFazU2UW04RXhTRnFFZHl2eXQ1T3A4LTJBSHNDcEEtUDR5bTdiaElla1FoS3Q4VWtJVEdOLTBqSG1LWjZobEE2NUVrX3JmS1RXbFR2SUNUZjh0d1AtZTRUb2gzVFBrUHRrVkhmMktfTDRJVG9lM1JIMFJHU0FsQ0s1SDY4V1RESGRHMA?oc=5",
+    "published": "2026-10-23"
+   },
+   {
+    "title": "Petrobras salta 100% em 2026, Vale fica para trás: o que esperar das gigantes agora?",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRHJwR19SYVVjSTJYM3dobkxEMFdaV0M5cFE1cVhDMGZFUndRMkM3ckh0VDhJeTNyWUF6NUUwYWVmVTcxWE01enNfb0FCamlpUWh0WnM4ZWZFalBwWkF5WEp5c3A4Y25faklnYjJQak1YZ1cxcVZfdDdTcDhJeFhSM3RYMXlLRDJ5djlkS2FjX3YxdmdQY3k2Qml6ZXZheUFIQXdTSDJLQlR4M2ZRdlJsR2pyTnZOeTZrRXkxemVsMEhTTmJ6TEpOdDlCUXBTdUXSAdQBQVVfeXFMUGZMNFRveFpZOUJRVVA4M3NBTFNlM3dJOTNCb3N2cDZETEhIZlJ3akpyUDFCc1FiOFhldjNzUmZRYURrMEQtbHhoejI5emRfX0VwQUREejA3NUVxYURoSnZ0SEhJaW9mS2s5WWRETC14X19pRzN3ZHJzOHh0bXVZUWVOVm9fZ2xTVXJsUWlsX0ttMEZhcnZsOHpxVW54NFhLNGNUQ2VPUlR5NjMxU3lDY2haR095LUFTbzY3NGJ0QlVWenczNGExUHN6M3pBNUNrMlp3Rmo?oc=5",
+    "published": "2026-10-22"
+   }
+  ],
+  "ai": {
+   "short_reason": "no clear explanation",
+   "explanation": "Os títulos informam que a Vale caiu cerca de 4% em 22/10, em um dia de queda do Ibovespa puxada também pelo exterior, mas não apontam uma causa específica para o movimento da ação. O comunicado sobre segurança de barragens em Minas Gerais é de 23/10 e não relaciona explicitamente esse tema à queda.",
+   "type": "unknown",
+   "confidence": "low",
+   "sources": [],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1477,
+    "output_tokens": 477,
+    "cost_usd": 0.000386,
+    "latency_s": 3.46,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:42:27+00:00"
+ },
+ {
+  "date": "2026-10-26",
+  "prev_date": "2026-10-23",
+  "return": 0.0401,
+  "z": 2.73,
+  "ibov_return": -0.1388,
+  "excess_return": 0.1789,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Vale (VALE3) acompanha dólar e ação sobe 4% após resultado das eleições",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT1J1bS1qMkxTQ04wUllNcHZWYl9FcFVWUVI5V0d4YjBHM29ZZ28xZHVKMzV0bk9Cano3SUlSRTRUR3V2NWMwZEtueDYwc0lfM0lZRENvYkdrQ2t2TXpwZEtHOGhCblRfZHNaSlRDbHlFSXZ5d2dCa21oX3VJak82ajBKNWNYTUNoMjROU2E2Z2F4VGV6RlBCS9IBngFBVV95cUxQSjA4dEo4R29xd1Vsd2F4Z29yaHBDczMtSWdfRmRPWGtqMGQ2VTlfZU9wWU1MczNLbWZfOTVtZWg0bllpZzBQZWlzMEVYYks0YzVOVWhGTGZDRG9mUmpETnlVQ3d0dU11dEpBUmk2b2RXTE5iQVhJVGpRbjVCd2U2QXJ3WTFIX3RTRERVYURZWFBnOG1YMUQwTFpSY0dwZw?oc=5",
+    "published": "2026-10-26"
+   },
+   {
+    "title": "Ações da Vale caem 12% em 2026: vale a pena investir na mineradora agora?",
+    "source": "Exame",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS2lLeEFIZnhpQnFVTzFNc042dV9jMURkUFpFM3dUWDFoNUZzTVczaTg3T1doYVRNREloS1R6cWE2WE5FVnlMeXE2ZW00V0l5Z2RfbnhrTGVsRUh3WXZZQzN1b21MUncyc1pXc0dkQjc0X2VzT1JRUXZiR3UydG1OWmFFcjZsM19QM1d6cW1ZTWFfVG8ybnFJMm5aVTRobVV3aXJvSXB0X1A?oc=5",
+    "published": "2026-10-23"
+   },
+   {
+    "title": "Vale (VALE3) dá recado sobre segurança de barragens em Minas Gerais",
+    "source": "Investidor10",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNk9JdFlHOE1WbkgxbVZCWGpRNE9tTHZNaDE1RlFHd2ttQ2dPTFhFNkRQUk5ZS3JpNkhNY1Y1RjZqR1NMYXpMSzFkbGlsQk82UXNId2pxOXVWYXJnSmd3UW45N2dramlLdTFUdUZEQkRtOHNXNWRLX0ljczFLbjhnTDRER1lMUHlacEYtTUFsVnBCNUw5Y1hsT2JGZjN0a0hMLXd5TGl0NWdYQm95ZDFV0gG0AUFVX3lxTE16SWM0LVRacjZwQmRoYUdNYnFWamVsZzIwNGdQcFZYYmNCRDVUR0NySElfNFZ3d2lkR25jY1JEUzB3ZTJjZ1daUzhiUFh5Q2FaLVdOcXI0MmQyS1daMDVIMGpLRmhOMWhZZWloeUVGMk83T05ENDg4c3Yxc0Y3elV2QTlzaWJKT2doRUJsT0JnWVR3T1huZW1mcFZYaThTOER3eWNmQjEwYnd4Y0RLVy0wemJJLQ?oc=5",
+    "published": "2026-10-23"
+   },
+   {
+    "title": "Vale investir na Bolsa depois da 'segunda-feira sangrenta'? Estrategista da Monte Bravo diz quais setores olhar, mas tem um ativo preferido",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPN3BQUk00dG01VVhNR2tNRVROTmhtQTRzeEMyYzVudkZXV1BxVWJWUEtickN4UTNfWDRFTkoxRFd2WWx4S2FVeFM5aFByVjVNLURNRjlYbkNQOThRVU1yeWktekZIbVI2SzRER1k1OVhqTlVydFdXeHFGQWo5eWZZWTZSMDI5Vm5kYjR4SFhsNFp5S1l5NUR3b2lvTHdFNjJIcDg0OS1qNldnQjY2T1ZLYVhtcTJ4STRaQkNLa1JSbzd6R0dRTTRKUzlKU2ZCMkQxYUFMWFUzVTBTeUx1eHVPT0J4dHdXb05YX2hJQXRtQVUwbXdwdWVFcmIyZHAyZVMwWWZ5SnMtd1huNWc?oc=5",
+    "published": "2026-10-27"
+   },
+   {
+    "title": "Vale (VALE3): não há mais barragens em nível de emergência em Nova Lima (MG)",
+    "source": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNekhtZXhtVVF0eXR0MkV6ekdhYXltTWNmUDVMZUlVay1EdVBVOHJNd2JTZk1uUml1VVZudTJBT016Q3diay05ejNqVjhySzlJX2ItVWhJTXZMeXFScXlsRkQ2TzVWRGdNR2VnbllSVllQaXlzeEVPZTNESmlJczdZSmxiN19nWWl5TGw5MXc3WGxxcDZVT1p3SW9QR1FQRTJSbVBaNHd6eF9GTmlVak1zektfWEM?oc=5",
+    "published": "2026-10-23"
+   },
+   {
+    "title": "Minério mais barato e paradas mantêm Ativa neutra para Vale (VALE3)",
+    "source": "EuQueroInvestir",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11LTUtZEVueEZhQzMwMU1acVFlR2VGOVRUbWVFTGpGVHlOQTN3U0gySUJNUkpUbFZTOFg4blo0ZzNRa0sxRkVxU0h0NlFHRVk2UXFHODZlcDUtbUFaQTlaSGU1UVF6VDg?oc=5",
+    "published": "2026-10-27"
+   },
+   {
+    "title": "Ibovespa não consegue reagir após tombo histórico; Vale (VALE3) e Petrobras (PETR4) caem, mas Magazine Luiza (MGLU3) dispara",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rVDQydGpraUVpekE3MGF2OFZxb0d4RFI3T01rTnVLZm1rWkN0elE4bFZkcXg5cnUxV0VFT19DMjM2TV9hN3FEbEZJY0JHdmVtSWhRT2YtRHc5eXRRdVVlNXZGUk5tTUZEbnE00gFwQVVfeXFMT05neFM3QjhSZ1JKUlBGZlJLSldVLU52WjJZb0RockVPYjdIMExoekJZNUFsbTRBOHN1VFpGcDEzNjk1akZ4a0NVdGItQkpZMExQMG1pS1hnWnlOdzFBdTFyZG5yeWExU3RjaDZlVXgxSg?oc=5",
+    "published": "2026-10-27"
+   },
+   {
+    "title": "Vale (VALE3) dispara mais de 7% com salto do dólar após vitória de Lula no segundo turno",
+    "source": "BPMoney",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVWMwRVMxTzcya0VzX2xJMFpHbTV5dGhwbHFBSEk3TFZKNVl4VlZnQXZnRWpkVGZGVV91MmZYc0d1T1RldDVEckFERnJjMDVqSGczUnAtZkVqcjd4NTdYYUpUNE1BXzZWbVBVUUdiZkp3MzY0MmFvM0xmWC02aVNJZUoyTE9wbzRaaTllS2lR?oc=5",
+    "published": "2026-10-26"
+   }
+  ],
+  "ai": {
+   "short_reason": "Dólar em alta após resultado das eleições",
+   "explanation": "A VALE3 subiu no dia 26/10 acompanhando a alta do dólar, que beneficia exportadoras de minério como a Vale. As manchetes associam o movimento ao resultado do segundo turno das eleições, mas divergem no tamanho da alta (4% e mais de 7%).",
+   "type": "macro",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Vale (VALE3) acompanha dólar e ação sobe 4% após resultado das eleições",
+     "source": "InfoMoney",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT1J1bS1qMkxTQ04wUllNcHZWYl9FcFVWUVI5V0d4YjBHM29ZZ28xZHVKMzV0bk9Cano3SUlSRTRUR3V2NWMwZEtueDYwc0lfM0lZRENvYkdrQ2t2TXpwZEtHOGhCblRfZHNaSlRDbHlFSXZ5d2dCa21oX3VJak82ajBKNWNYTUNoMjROU2E2Z2F4VGV6RlBCS9IBngFBVV95cUxQSjA4dEo4R29xd1Vsd2F4Z29yaHBDczMtSWdfRmRPWGtqMGQ2VTlfZU9wWU1MczNLbWZfOTVtZWg0bllpZzBQZWlzMEVYYks0YzVOVWhGTGZDRG9mUmpETnlVQ3d0dU11dEpBUmk2b2RXTE5iQVhJVGpRbjVCd2U2QXJ3WTFIX3RTRERVYURZWFBnOG1YMUQwTFpSY0dwZw?oc=5"
+    },
+    {
+     "title": "Vale (VALE3) dispara mais de 7% com salto do dólar após vitória de Lula no segundo turno",
+     "source": "BPMoney",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVWMwRVMxTzcya0VzX2xJMFpHbTV5dGhwbHFBSEk3TFZKNVl4VlZnQXZnRWpkVGZGVV91MmZYc0d1T1RldDVEckFERnJjMDVqSGczUnAtZkVqcjd4NTdYYUpUNE1BXzZWbVBVUUdiZkp3MzY0MmFvM0xmWC02aVNJZUoyTE9wbzRaaTllS2lR?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1518,
+    "output_tokens": 542,
+    "cost_usd": 0.000423,
+    "latency_s": 3.58,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:42:32+00:00"
+ }
+]

@@ -11,7 +11,7 @@ from urllib.parse import quote
 
 import feedparser
 
-from src.config import COMPANY_NAMES, NEWS_PER_EVENT
+from src.config import COMPANY_NAMES, MARKET_NEWS_SLOTS, NEWS_PER_EVENT
 
 RSS_URL = "https://news.google.com/rss/search?q={q}&hl=pt-BR&gl=BR&ceid=BR:pt-419"
 
@@ -59,20 +59,31 @@ def fetch_news(ticker: str, event: dict) -> list[dict]:
     # (tested on PETR4 2026-11-04: plain name returned "concurso Petrobras").
     queries = [f'"{COMPANY_NAMES[ticker]}" (ações OR {ticker} OR Ibovespa OR bolsa)']
     if event["scope"] == "market":
-        queries.append("Ibovespa")  # market-wide move: macro context matters
+        # Market-wide move: macro context matters. Direction words rank "why the
+        # market fell" articles above generic "Ibovespa hits record" pieces
+        # (tested on 2025-12-05 and 2026-02-04).
+        queries.append("(Ibovespa OR bolsa) (cai OR queda OR despenca OR sobe OR dispara OR alta)")
+
+    # Market-wide move: reserve slots for Ibovespa news. Without the quota the
+    # company query filled all 8 slots and the macro cause was cut off
+    # (ITUB4 2026-10-26, -13.7% on election day: 5/8 headlines were about an
+    # unrelated acquisition -> "no clear explanation").
+    quotas = [NEWS_PER_EVENT - MARKET_NEWS_SLOTS, MARKET_NEWS_SLOTS] if len(queries) == 2 else [NEWS_PER_EVENT]
 
     seen, results = set(), []
-    for q in queries:
-        for item in _search(q, start, end):
+    for q, quota in zip(queries, quotas):
+        taken = 0
+        for item in _search(q, start, end):  # Google's relevance order
             key = _normalize(item["title"])
             if key in seen or item["url"] in seen:
                 continue
             seen.update({key, item["url"]})
             results.append(item)
+            taken += 1
+            if taken == quota:
+                break
         time.sleep(1)  # be polite to an unofficial endpoint
-
-    # Google's relevance order; company news come before Ibovespa news.
-    return results[:NEWS_PER_EVENT]
+    return results
 
 
 def main() -> None:

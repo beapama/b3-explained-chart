@@ -81,7 +81,8 @@ def yahoo_symbol(ticker: str) -> str:
 
 # News
 
-NEWS_PER_EVENT = 8  # max articles sent to the model per event
+NEWS_PER_EVENT = 10  # max articles sent to the model per event (~2k input tokens)
+MARKET_NEWS_SLOTS = 5  # of those, reserved for market news on market-wide moves
 
 
 # AI explanation

@@ -71,12 +71,63 @@
   helps the model choose macro vs company (e.g. -58% with Ibov -14%).
 - **Every call logs tokens, cost and latency** in `meta` -> cost per run
   and eval numbers come from real data, not estimates.
+- **Cache keyed by (ticker, date)** in `data/events/{TICKER}.json`: an
+  event already explained is never sent to the API again. Daily cost is
+  proportional to NEW events (0-2 per day), not to history size.
+- **Save after every event**: the backfill can crash or be stopped and
+  resumes where it left off; failed events are simply retried next run.
+- **Store the news the model saw** next to its answer: makes every
+  explanation auditable and lets the eval check citations offline.
+- **`--dry-run`** prints pending events and estimated cost before spending.
+- **Run log** (`data/eval/runs.jsonl`): one line per run with new events,
+  failures, cost and duration -> real cost numbers for the README.
+- **Trade-off of the cache**: if the prompt or model changes, old events
+  keep the old explanation. Fix = delete the file (or add a prompt version
+  to the cache key) and re-run; cheap at ~$0.03 per full backfill.
+- **Secret hygiene incident**: a key ended up in `.env.example` and was
+  committed locally; caught before push by reviewing the diff, commit
+  rewritten and objects purged. Lesson: scan staged diffs for `sk-ant-`.
+- **Failure analysis after the backfill: retrieval, not generation.**
+  13/53 events came back "no clear explanation". Reading the inputs showed
+  that on market-wide days the company query filled all 8 slots and the
+  Ibovespa news (where the macro cause is) were cut. Example: ITUB4 -13.7%
+  on election day got 5/8 headlines about an unrelated acquisition; the
+  model correctly refused to invent a cause. Fix: reserve 4/8 slots for
+  Ibovespa news on market-scope events. Lesson: in RAG-style systems, look
+  at what the model was given before blaming the model.
+- **Iteration 2 of retrieval**: the quota alone gave mixed results (13 -> 12
+  unexplained; ITUB4 election day fixed, but ITUB4 2025-12-05 regressed
+  because the cause headline had come through the company query and was
+  now cut). Plain "Ibovespa" ranks generic "record high" pieces first.
+  Fix: market query with direction words `(Ibovespa OR bolsa) (cai OR
+  queda OR despenca OR sobe OR dispara OR alta)` and 10 headlines (5+5).
+- **Non-determinism, two sources**: Google News returns different results
+  on each call, and the model may label borderline days differently
+  (ITUB4 2026-07-10: sector -> macro between runs). That is why the news
+  the model saw is stored with each event, and why the eval must be run on
+  the stored inputs, not re-fetched ones.
+- **Data quality guard**: Yahoo returned the latest day with volume but
+  NaN prices when run around midnight. NaN rows are dropped (logged) and
+  `json.dumps(allow_nan=False)` fails loudly, since NaN is invalid JSON and
+  would break the site. Implication for CI: schedule the job in the
+  evening, not around midnight.
 
 ## Numbers
 - Events detected: 53 (PETR4 12, VALE3 11, ITUB4 10, MGLU3 13, WEGE3 7)
 - Cost per event (Haiku 5.5): ~$0.0002-0.0005, ~1.5k input tokens,
   latency 1.7-4.8 s. Smoke test: 3 events = $0.00116.
-- Cost per run: TBD
+- Backfill run 1: 53 events, 0 failures, $0.018 total, 264 s (mostly the
+  1 s politeness delay between Google News requests).
+- Retrieval iterations ("no clear explanation" out of 53):
+  v1 13 (company news filled all slots) -> v2 12 (4/8 quota) -> v3 9
+  (direction-word market query, 5/10 quota). Market-scope events:
+  5/22 -> 1/22 unexplained. Remaining 8 are stock-specific days with few
+  or irrelevant headlines (e.g. MGLU3 2026-02-12 had 1 headline).
+- Final backfill: 53 events = 22 macro, 14 company, 8 sector, 9 unknown;
+  confidence 25 high / 15 medium / 13 low; 0 invalid source ids.
+- Total API spend so far (backfill + 2 re-runs of 22 market events): $0.035.
+- Cost per daily run: ~$0.0004 per new event; typical day has 0-2 events
+  -> well under $0.03/month in API cost.
 - Eval accuracy: TBD
 
 ## Limitations

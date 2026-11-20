@@ -18,6 +18,13 @@ def fetch_prices(symbol: str, start: date) -> list[dict]:
     df = yf.Ticker(symbol).history(start=start.isoformat(), auto_adjust=True)
     if df.empty:
         raise RuntimeError(f"No data returned for {symbol}")
+    # Yahoo sometimes returns the current/last day with volume but NaN prices
+    # (seen when running around midnight). Drop it; the next run picks it up.
+    bad = df[["Open", "High", "Low", "Close"]].isna().any(axis=1)
+    if bad.any():
+        print(f"  warning: {symbol} dropped {bad.sum()} row(s) with missing prices: "
+              f"{[d.strftime('%Y-%m-%d') for d in df.index[bad]]}")
+        df = df[~bad]
     return [
         {
             "time": ts.strftime("%Y-%m-%d"),
@@ -33,7 +40,8 @@ def fetch_prices(symbol: str, start: date) -> list[dict]:
 
 def save(name: str, rows: list[dict]) -> None:
     PRICES_DIR.mkdir(parents=True, exist_ok=True)
-    (PRICES_DIR / f"{name}.json").write_text(json.dumps(rows, indent=1))
+    # allow_nan=False: NaN is not valid JSON and would break the site; fail loudly instead.
+    (PRICES_DIR / f"{name}.json").write_text(json.dumps(rows, indent=1, allow_nan=False))
 
 
 def main() -> None:

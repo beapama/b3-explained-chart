@@ -1,0 +1,1097 @@
+[
+ {
+  "date": "2025-12-05",
+  "prev_date": "2025-12-04",
+  "return": -0.0979,
+  "z": -2.77,
+  "ibov_return": -0.0431,
+  "excess_return": -0.0548,
+  "scope": "market",
+  "news": [
+   {
+    "title": "Ações de empresas varejistas sobem após resultado fraco do PIB",
+    "source": "CNN Brasil",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUVZxMmo5Mkxka1VIRWt1XzV0S05KaW5SMFZzY1ZaOThvRXp3X1kzZ01jSGRTeWp6Y0laVXJqdXNXVG1UWTBrRzJSaDc5NTR5Q3JkOTVSa29FZnZyVFl0UnhKbXVwNHctUWNBN05CWW9DVUswVGZWcUppRUtKSTNhRUVDLWlVNFYzdXZCNFQ5WVNpTzhPOWxaaU1JM01MRjBKdER0cFE1aHRyS0VCLWVwRTNva2lYQQ?oc=5",
+    "published": "2025-12-04"
+   },
+   {
+    "title": "Magalu (MGLU3) surpreende mercado com AI que converte 3x mais e mira novo salto no varejo",
+    "source": "Guia do Investidor",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZlQ5b2hVbUUxQ0VrR3dzbjRqTjRkVEU3amJ2ZFFGTm52YzB2TWZha0ZlVnZ0cml5MlZDYlU5U2V2Z0FneHYwUjZ2NWNrd1hnRl9YT2I2ZlhNYW9FRTRzaVFFUXJRN2c1aXlob1JhQXd4QTh0aVd5ZUEzOUZjNUIxeWNfeHBPa04wZC1GSlRxU0hJcXZySHMxTHY2ajlQczNPc01nRExWUl9VWWZMUDUyOEl6d3RtU0hDUXV4bG1RV2RoZXFOYlFF?oc=5",
+    "published": "2025-12-04"
+   },
+   {
+    "title": "BTLG11 é destronado, e outros sete FIIs disputam a liderança; confira o ranking dos fundos imobiliários favoritos para dezembro",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObGxvZzFWeHFUNGxfUTNEdXg4MFhyTGdZVDU3aW9aMXMwSXhzT2tRX09XN0stc1phX2d6YjVSM2U4cEZGSGJBUUFmTFpKV0VZcDVuTS1PM1NJc3EyNDVKaWhhXzVoR1ExZWFtSFFfamxtVUtaLVowTktZdlMzTTdXckpMQVROSVllaThuMW1JNEU2ZC05Y193VUdJbEpKTkp6dEJhUlg4bzk4UUVUQ0JoNU1seVhNdTNwOGl2Xzc1bmRqcFczQlp0SmlMMmlXdF9RcUxWUmhkcnptWDFOaVd6Z0Y4bDYxX0ZQYW9YNU5Xd2p4R3NtUHAydTJrYXVQWm1PT2ZYQUNYQQ?oc=5",
+    "published": "2025-12-04"
+   },
+   {
+    "title": "Mundo nunca teve tantos bilionários. A inteligência artificial está por trás desse recorde",
+    "source": "NeoFeed",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS0hmTU02dU5WeGtxYjhRSFctMUN1Y3NmQm5RYWlvUnJLSHZWeWY2WnFIbUltaF8yeEVSNU5YNThVUVhUZ0lRbGVPOUxSSnRYd1huN1lhNEtlalVYVGhNRnhwZXEzZ3doM1Q2WER5RUQ3c3VuWlFpOXotUlQtVFJxUHZKVXNpd2tycXJTNV9zbm93TVlKdE4wRUlNa1RHR01GMERLMDR2eGxzRHZVRk5WUk53aDZXTFJFc1J1Y0QyVQ?oc=5",
+    "published": "2025-12-04"
+   },
+   {
+    "title": "Bolsa perdeu R$ 183 bilhões em um único dia; Itaú Unibanco (ITUB4) teve maiores perdas",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONjY0aGM1ZUEydTdjaGszeTR2T3c2U0ZiVWFSY3J4Vi1HUTRFWXdxSmY0WkhNVnNaTjIyMi1VWFYwTEl5blVCNzdxU2l0Vktqb3lTZFluQ1ZmZXhPRjRNZDE0ckpHak5OeVZERTlTeTFhNGR1d1o0ZlNpS196dmtkam4yY1YzVVlxTDk0SHlWU2ROY0N0UXNtMmszeDRkNVBFMHZQYWltUVFOcTd2aF9pZGVXdHBDbzhnSjFVRE14WFJMN1NORmFBNE9NdkZCdw?oc=5",
+    "published": "2025-12-06"
+   },
+   {
+    "title": "Bolsa cai 4,31% em dia tenso e reverte início positivo de mês",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT2Y0WTRjblNESWN5NjlVOElGSWctc25DS0FSMDFSX1IzZVlDR0R4MURFTXlad3NKUGRmYy1xN3haV3d0WGpnNkdrVEIxZUxVcVF1WjdMSzM0R1VBcFZYUEROSnY0Z0FpN2ZwQW55Vk5MX2hiQTRDRTAteThqV19ZSEdIb29DenlZQ1g2ZEM2cjYzeU1KVDNGeUhJX0wxd3A5RGhnelFpOHc2dHgtRkNkcFhtYzc4d1dx?oc=5",
+    "published": "2025-12-05"
+   },
+   {
+    "title": "Após recordes, Ibovespa B3 vira e tem queda de mais de 4%; entenda",
+    "source": "Bora Investir",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYTM1X0dobDUxSUk0dVE1RkFuMDBpLXpxRTYycFFVbDlDaXE2YjBiMTNkNV9fNVRGb2RVVmpORE9JYmx3VVJKYlBWNHB0bE16cUlZWndmMHY3Z2tQSVBsNzlucEZ0TllIYU5nWHRreVRsRVJQbDNVVVFaRmtyRC03ZkNzUVk2SmUzTk5oNXV0TXY3UWJMbzVYZ25MTXFEZnVBbmw4WEYyQkF4eC1ZcmJrM1Z3?oc=5",
+    "published": "2025-12-05"
+   },
+   {
+    "title": "Dólar dispara a R$ 5,43 e bolsa cai mais de 4%, após pré-candidatura de Flávio Bolsonaro",
+    "source": "G1",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yMnoxNHgwMUNZQjV0MXp5TlJ3UThGaTN1bDJiZlhDeXlsM2V5RnFVOVZkVEFEcXZoZmNXOEdNQUZWWmFOaGRYU3U0bmx5NzNNMXo3c3FFcmVLUDE4SFU2MzF6V1FWaWx0dEQ0SVNoc2JuOTl2SkFxUtIBhwFBVV95cUxOUnNHTlNuUmYzQ3MzR1Q3RTdNWC1HQW9CTW84SlU0cWJ2ZUdMV21qSG8zN2x0UkE1QkF4TENVVnNWaTlYWVRiMDJlX0hHckF2QWk0czk5ZGNDWkpPVjRjV09nMGMwbUtXWXFXNFdEdFB2SXFBc1Bocm9FM1laY1haSDZNYmNmNEU?oc=5",
+    "published": "2025-12-05"
+   },
+   {
+    "title": "Por que a Bolsa sobe tanto? Índice alcançou os 164 mil pontos pela 1ª vez",
+    "source": "Exame",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS2dPRHo1eEx2bDEwZzVuNHlkaWpSWXYyTDVCN1NzTDFCcndONVJhRGRZdEt5cC1RM2pNaWhKdzdqZXMzQVgtNF9XcHMwZHVPMGpBdGcyWDFVOWpBNThseUswWXRNMVh5eWR3dk5tQVNBamUyNUd2dGpnb1pYZEgyWEEtT0VEa05iREdaREdaQm9maF9jTTlVaUFhbVFtUmRMQ3FGTXM1eV9qRHM?oc=5",
+    "published": "2025-12-04"
+   },
+   {
+    "title": "Ibovespa tem a maior queda em quatro anos após Flávio Bolsonaro indicar candidatura",
+    "source": "Bloomberg Línea Brasil",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONm5BUXhVbnJzNjBBQVZCTWd0Q1pyR1BLbVdka0E0TW5rbHNPMmZzSEdvNktOeHZPbFBZVHBmZk9WRkNTQjVIc0syM0hZNFhydXg3bnBIWkZ0clFRd3FQVzQyR3RHeGppa3g4UG9Pd00zYzFpS2JRY2JQUk1LTW81bWhseWl0RkFKek5NWFNzR0ZKbml1VmVIUVowb2FFYTM4VmdKWlZFWm54S3R6OEhlaTJLaG90SVk2UFJPNTZhTF9QQjU4UkHSAdoBQVVfeXFMTkNvOFV5Z0Y5OEhoLVNLbFhpSjB1Vzg4WWRaSG1tX21SUXVCUXgzLWg2M3dqaUJMa1BsYlFUUlhlem5GLUlUX19nQW5RX3dqRlhSTkxkcGhKYVJMQ2ZNaVc3UlExM1NLeWF0MG5VVmh5T0M5QzFGZHNIRE1lOWxUdktOenQ0ZXFqZm00c1REUmFaaFlzbk9zclBSNWlOaEZoN0Q4OTNsY3c0MGtuVTVvSklKS0plcEZhVkRweDFQY3RuN3p5LTA0anJCVFJmLTlTeHE1cVV1TlViR1E?oc=5",
+    "published": "2025-12-05"
+   }
+  ],
+  "ai": {
+   "short_reason": "Queda generalizada da bolsa após fala política",
+   "explanation": "O Ibovespa caiu 4,31% em 5/12, após a indicação de pré-candidatura de Flávio Bolsonaro, com alta do dólar a R$ 5,43. A MGLU3 caiu bem mais que o índice nesse contexto de aversão ao risco, mas as notícias não citam fatores específicos da Magazine Luiza.",
+   "type": "macro",
+   "confidence": "medium",
+   "sources": [
+    {
+     "title": "Dólar dispara a R$ 5,43 e bolsa cai mais de 4%, após pré-candidatura de Flávio Bolsonaro",
+     "source": "G1",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yMnoxNHgwMUNZQjV0MXp5TlJ3UThGaTN1bDJiZlhDeXlsM2V5RnFVOVZkVEFEcXZoZmNXOEdNQUZWWmFOaGRYU3U0bmx5NzNNMXo3c3FFcmVLUDE4SFU2MzF6V1FWaWx0dEQ0SVNoc2JuOTl2SkFxUtIBhwFBVV95cUxOUnNHTlNuUmYzQ3MzR1Q3RTdNWC1HQW9CTW84SlU0cWJ2ZUdMV21qSG8zN2x0UkE1QkF4TENVVnNWaTlYWVRiMDJlX0hHckF2QWk0czk5ZGNDWkpPVjRjV09nMGMwbUtXWXFXNFdEdFB2SXFBc1Bocm9FM1laY1haSDZNYmNmNEU?oc=5"
+    },
+    {
+     "title": "Ibovespa tem a maior queda em quatro anos após Flávio Bolsonaro indicar candidatura",
+     "source": "Bloomberg Línea Brasil",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONm5BUXhVbnJzNjBBQVZCTWd0Q1pyR1BLbVdka0E0TW5rbHNPMmZzSEdvNktOeHZPbFBZVHBmZk9WRkNTQjVIc0syM0hZNFhydXg3bnBIWkZ0clFRd3FQVzQyR3RHeGppa3g4UG9Pd00zYzFpS2JRY2JQUk1LTW81bWhseWl0RkFKek5NWFNzR0ZKbml1VmVIUVowb2FFYTM4VmdKWlZFWm54S3R6OEhlaTJLaG90SVk2UFJPNTZhTF9QQjU4UkHSAdoBQVVfeXFMTkNvOFV5Z0Y5OEhoLVNLbFhpSjB1Vzg4WWRaSG1tX21SUXVCUXgzLWg2M3dqaUJMa1BsYlFUUlhlem5GLUlUX19nQW5RX3dqRlhSTkxkcGhKYVJMQ2ZNaVc3UlExM1NLeWF0MG5VVmh5T0M5QzFGZHNIRE1lOWxUdktOenQ0ZXFqZm00c1REUmFaaFlzbk9zclBSNWlOaEZoN0Q4OTNsY3c0MGtuVTVvSklKS0plcEZhVkRweDFQY3RuN3p5LTA0anJCVFJmLTlTeHE1cVV1TlViR1E?oc=5"
+    },
+    {
+     "title": "Bolsa cai 4,31% em dia tenso e reverte início positivo de mês",
+     "source": "Agência Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT2Y0WTRjblNESWN5NjlVOElGSWctc25DS0FSMDFSX1IzZVlDR0R4MURFTXlad3NKUGRmYy1xN3haV3d0WGpnNkdrVEIxZUxVcVF1WjdMSzM0R1VBcFZYUEROSnY0Z0FpN2ZwQW55Vk5MX2hiQTRDRTAteThqV19ZSEdIb29DenlZQ1g2ZEM2cjYzeU1KVDNGeUhJX0wxd3A5RGhnelFpOHc2dHgtRkNkcFhtYzc4d1dx?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1624,
+    "output_tokens": 700,
+    "cost_usd": 0.000512,
+    "latency_s": 4.28,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-20T03:22:36+00:00"
+ },
+ {
+  "date": "2026-02-12",
+  "prev_date": "2026-02-11",
+  "return": -0.0856,
+  "z": -2.67,
+  "ibov_return": -0.0102,
+  "excess_return": -0.0754,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Celulares, smart TVs e mais ofertas na ação Faz um 21 do Magazine Luiza; confira os destaques",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMVJibzZzYXN1X2s2WThMTFpocjlUeG4zX1VxakdodGR6T0xuemk2dFliOS1iU1Q4a0x2MDBrNUlpMURKV0Z2RXZYMUlOMzZaY3BNOG5RRWFrR25Kajg3QUZGX0FtYjhHNDRNN2VVSW1fRFZuby1HNjA4enZxakJWcGRLclQ2ZGRWQjRpcm5VNl9CQWRkXzduMU1ORW5rMHhnMlMzRlpyaTZFT2JjeHNPU2Y5aXNTMUVXeXB5Q1hNYTlFaGpOcjdJZEZFSE04Z0h3ZmkyYVFmdXYtLXpjbHVBZjE3bmxBUdIB6wFBVV95cUxNQ292RS1xNGJtMGF5Tk8wNGQxQU9sX1NTWW1qMjhUakxwV0h5OXV3bUVFS0c2WklsazgxdHlMaUVVQWtfSE4tTnc1ZXl3b0txRThmYmk2Y3h5NlJRbl9Zbk9Nb0dURjI4VXNXZE9TZy1rbFpjTmprSzE2cHIyWkF4NENCTHZfZE1OdFZGNEIySGxyNEp0MmNubm1NMGhTbF9TY0Y5WkNlZkVmODhpLUhpb2ZsX3hXUDFabk4tUC1hZzRpTHR3YVY5S3hJOWp4UnhsYXFtdjlrZDAxNndDN3U3c2Z5dUNRUi1Iakdv?oc=5",
+    "published": "2026-02-11"
+   }
+  ],
+  "ai": {
+   "short_reason": "no clear explanation",
+   "explanation": "As manchetes disponíveis não explicam a queda de 8,56% da MGLU3 em 12/02/2026. A única notícia trata de promoções de varejo (",
+   "type": "unknown",
+   "confidence": "low",
+   "sources": [],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1095,
+    "output_tokens": 160,
+    "cost_usd": 0.000189,
+    "latency_s": 2.35,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:43:42+00:00"
+ },
+ {
+  "date": "2026-03-31",
+  "prev_date": "2026-03-30",
+  "return": 0.0962,
+  "z": 2.6,
+  "ibov_return": 0.0271,
+  "excess_return": 0.0691,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "BB-BI divulga novo preço-alvo para Magazine Luiza (MGLU3)",
+    "source": "InvesTalk",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdW5Oeld1NThqRllrSkZOM2xVbWNscmRJMGc4WHpaN3lHd3QwVi01U3lfOE95NHFMQ3NKcXdaZms1eGRMaGpCVjhZQ2w1QlI4TTJOYV92OU9ab3JySmZRWlRST29Md0x2SWVVZ0hWb2JpeTltcGZCZzJZRERKX3JsMzVvVkdWSEV6Wlh3U25oZlBRUQ?oc=5",
+    "published": "2026-03-31"
+   },
+   {
+    "title": "T4F deve deixar o \"palco\" da bolsa",
+    "source": "NeoFeed",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MaXNPT1JVS1IzaUpYT29tNE1aTTgxVmpMbEhSQy12QVl4cnJjVGV1VVdzZVZDSm8zTDBnVS00UHZrZUtjNk0wYUNvbUZjNDdWaDVIYVVrOS1aQlpzLUo5dVJabHRjdVpjbkNtaVpuWV80MUk?oc=5",
+    "published": "2026-04-01"
+   }
+  ],
+  "ai": {
+   "short_reason": "Revisão de preço-alvo por banco sem causa clara",
+   "explanation": "O movimento de alta de 9,62% da MGLU3 em 31/03/2026 coincidiu com a divulgação de um novo preço-alvo pelo BB-BI para a companhia. Como o título não detalha a revisão nem o motivo da mudança, a relação causal é apenas provável e não confirmada pelos documentos disponíveis.",
+   "type": "company",
+   "confidence": "low",
+   "sources": [
+    {
+     "title": "BB-BI divulga novo preço-alvo para Magazine Luiza (MGLU3)",
+     "source": "InvesTalk",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdW5Oeld1NThqRllrSkZOM2xVbWNscmRJMGc4WHpaN3lHd3QwVi01U3lfOE95NHFMQ3NKcXdaZms1eGRMaGpCVjhZQ2w1QlI4TTJOYV92OU9ab3JySmZRWlRST29Md0x2SWVVZ0hWb2JpeTltcGZCZzJZRERKX3JsMzVvVkdWSEV6Wlh3U25oZlBRUQ?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1123,
+    "output_tokens": 174,
+    "cost_usd": 0.000199,
+    "latency_s": 1.78,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:43:45+00:00"
+ },
+ {
+  "date": "2026-05-08",
+  "prev_date": "2026-05-07",
+  "return": -0.0995,
+  "z": -2.62,
+  "ibov_return": 0.0049,
+  "excess_return": -0.1044,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Ações do Magazine Luiza (MGLU3) despencam após balanço e mercado se divide sobre recuperação",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMXZVdXBFazFSNExTVm4xQTFIYV93TDVoeUh2NzRnWlUzT21Fc0FRZFJYeC1BT1VmRHlqcUoyZEM5SG5QNkVJNEE2Nm13ZUMyWHZMOFc5eVpubVp3SzEzZGRNT24xbm9LNzNHUmlFNmRGaDEySUZPeldjS2F0UERVTW03ZEFIUHNJUVBHZWRURGZfaXJBcGZTb1kyRk5IU1doZDM1bjJHNjJudkN3MlhaLWRLTdIBuAFBVV95cUxNYjdzcFJ5VG5vTThhWkktVDJ2YWptSDhhaDlhbU1nYTAyWktPUE5zemtRU0UwNHJTZEw2cUsxSDl0WkxmSG9wcWxFMGhSOWdJa0lBR3E4c2JUREd1Yzk3MkNDREJZRVpJeTZrX3hVTlhSQ2FodXBUeWJIZU5WVEFydHlNdy1Tb3U3UmhfVHFObzYzelBtcTFWdzhYVFp6VDRxUDRsbFhIbW5Eem1Mb3d5WWxQT3pFM0xE?oc=5",
+    "published": "2026-05-08"
+   },
+   {
+    "title": "Magazine Luiza (MGLU3) 1T26: crescimento no volume de vendas nas lojas físicas, mas insuficiente para impedir prejuízo líquido no trimestre",
+    "source": "InvesTalk",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ0RsV2VjY2d5NTdDcGdERFBlZUs1MkFvOEthbDJtQnNvU0ZYTlQwV2xSUnZlV2M1a3QyejFtNi1YVDY1TE05WlVWbDhMRVVranZ3SS15UXZ3NkdyYTVYZzh3NWRmS0pEWXF2MW1PMlUxMEZ4VkdaeG5vb252MG5SX2xhZ3pUc3c?oc=5",
+    "published": "2026-05-08"
+   },
+   {
+    "title": "Magazine Luiza (MGLU3) tem prejuízo líquido ajustado de R$ 33,9 mi no 1T",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ29kQ0J5NkRRdlhRWXc1MU5kZUx3T3I3RkI4UmZ3b0lrWVZrTldsV2V0Qko1a3NUS2g1aVMyOFRzQ0JtajhyTmwwcklYSWdWcHNWRGoyVjB3ZXczU2k0TVpYNGhuc3B6Q3JTcVBKRUhPN0VLRi1wYjA1ZUZXb2FoelBmX2RsMzU3V1HSAY8BQVVfeXFMT3EtbXBhcTJaTDZGeW9wNnBVbkFaeE14WThFdUZMc0oxR3V2UFppS0dRbmxlVzZORmRDU1pQNndMRGFLcWdob3l2NkVwTUgwcGRYTEg2OGh4eExNRjdLQVdiRHZkd3FLN1A5OEpFNjhabWFsU181NEZjSkFUc3BpVFRudEo1dmpoV2dHNUM1dmc?oc=5",
+    "published": "2026-05-08"
+   },
+   {
+    "title": "Magazine Luiza registra prejuízo no 1T26, e ações despencam mais de 8% na B3",
+    "source": "ADVFN",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOFhuakctNTNJUGszWi1pRXVxcXJiVXBVT21QdVFOZjF5TkFSb0FaczlRYzRtaVVUdE9wRUhjU052eXZadDdERDRZc2l0M2tYdUNKU2cyNWVaMVNyV2ZERExaSkNKRXBHbnNiREJsMlk2UGZBbzUwcGRheE1YSF9SbTduVjhEZUhCb3ROSmdPekFhRnBxbWU4ZHBnVVpMWjJCM2RBZEYzdTZMR1EtcElv?oc=5",
+    "published": "2026-05-08"
+   },
+   {
+    "title": "Magazine Luiza tem prejuízo de R$ 55,2 milhões no 1º trimestre",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc1NkbFFxVjRodTlLclhvVGJXZDZDQ3pvVTNXS1g1WkpmeGVsMmhGNWlFcGEwZDJzVWh0R3d0LUxJU1dmNFdIM0dCa3U1ZDkzM3luLVlGb2ZpaDR1TmZQNVpzOGNfcDNtZWtwT1ZVbDJRYl9GSlFMeUJEb2JtTWFua0dKRHJ4cGladVVNMjNNbDEtd25FWldQdnh3WlNqN2pLQzlhQlVaRVRiLUtBU0xUMXJYNlNMY2F6Z0NhaEh4SzNIbjl6YlhWU1NnYldTcDRoNGRCZ3dMNXM5YnVCUzVSaFNJY9IB8gFBVV95cUxPQXAteVpFVkJzOU1iMTdLWExBR2hmbzlFNkxQSTlxVjZ3UWJiSGYyTVdhYWwwYjBiRVhZYmhKcHp1bkdVYkhkaElJYXlvWG51bDh2Vm1FRFpzaTdDTDVwN29IUlV3cVB0Z3pHMW1ZWlZSUjl4WUxxNHV4QUphN1pCTGhWTE1CdWJZaVRucm9hTGNnWWQ4UlVUYWI4dndpNWZpM3pmSXc1TDNNS3Vrc1JyTjYwc1hER0E5Q0ZYYm9FblFlbVZGbTFoSjFiRExSQUNtcnR4M0p5MDdnWi1acWlmcFYxQmVmQ3Zfa1ZvcEFpc0h5dw?oc=5",
+    "published": "2026-05-07"
+   },
+   {
+    "title": "MGLU3: o que a análise técnica aponta para as ações após o balanço da Magazine Luiza",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdUllZkZQVG5IaWRRTXBYYmJpWmhfakpZdGxnSmJLVkZGc1M0b21PME1PSDMwU2I0SnFYbUtGa2FMX3RfVnpQXzJHT1U0MjdiNV93YTJwczhzZXR3cVk0X3B5Z3oycFp3aksxMmZtUVRscEl3bklpTllTSG95NktiekQ2TUI3TUhuc1ZyNXNDVm82THRIOTM5SUhtY0dnRGlmMmZFMXl6LUJOT2UwY3U0WnZyMjNXTzljRzdiZUJHVdIBxAFBVV95cUxPMHE3LTNQZmxoMlBJOW9RdzZsR3BuemE0T2FYelV1WUhtczVtQkJ4Q3hKRHQ4d25RT29DcmtUV1hyR2NOUVd6LXFpSTRxbm5vOTd3TEl5R2NvSjRDMGk4N2Y5bDBXTDJFVjFsel9sVXljRmc5NzV6MjFiNUlhTkRDbFFTcUJHYmFEc3hVTFJsa3ByY0pZbHNxTUxBWXZ1NTZ5Ym1rR283VkYzNVNaZEdHalljZmJRUGt5ZGZpMEVaTEc3YnM1?oc=5",
+    "published": "2026-05-08"
+   },
+   {
+    "title": "Magazine Luiza (MGLU3) ainda sente o peso dos juros e reverte lucro em prejuízo acima do esperado no 1T26",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaXRIbUdpa2o0V2RsMnRHVFVlSWdKNWhJa3ZMMUpFaW4tV1hGTlUwY3d4R2RXYk9yNkNxZC1CM0l5SWhOdXNGTG12X3lrTVJNeGdhc1JNTmcxX0tHNmoyM3JpMFZKV2NQTHhjTTRIdi1hVmY4LVdJTDZXV3kyUkdWT1RhdFZUSkZoSzZpSzRwR3lrbEVtR054XzctTTJZdGprQ1EyOVU4ZmxmYnBWWWVUaTFMalFISmlXSHpEV3h2RHFxcEQxM0wtZ0FWajh3eks5SVc5VVhyRlctcjF0anZoLWw1a3VUQQ?oc=5",
+    "published": "2026-05-08"
+   },
+   {
+    "title": "Magazine Luiza (MGLU3) tem prejuízo de R$ 33,9 milhões no 1T26 e frustra expectativas; veja os números",
+    "source": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNExtTTVHQmtyOFBrbHhMRFo0M1BYRFdTY2tmeEFmVTZ3YXJHTmNNdno2b3VNR0d3RUF4Y1VhZjZ3eF9seFFiSTIxX3F3V0h0Q1FUVWtINHNmQ2JPek5IekphalNFNkcxUXE1djZQNmhzRzJ1X0lHNzZ6NVdKUUg5VHI0aVpPUWlJSThoYkhZTlMtLU1JZlpoMm9BcjVxd3R1S3BhQmRVajRiMGFWMUFsRXhHYWdMT2czRkhtVU1qdG1iNUJhRlhYYzQtOEZOdw?oc=5",
+    "published": "2026-05-07"
+   }
+  ],
+  "ai": {
+   "short_reason": "Prejuízo no 1T26 frustra expectativas do mercado",
+   "explanation": "O Magazine Luiza reportou prejuízo líquido no primeiro trimestre de 2026, enquanto o mercado esperava resultado melhor, segundo as manchetes. Os juros altos foram apontados como um dos fatores que pesaram sobre o resultado, e as ações caíram mais de 8% na B3 no mesmo dia.",
+   "type": "company",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Ações do Magazine Luiza (MGLU3) despencam após balanço e mercado se divide sobre recuperação",
+     "source": "Estadão",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMXZVdXBFazFSNExTVm4xQTFIYV93TDVoeUh2NzRnWlUzT21Fc0FRZFJYeC1BT1VmRHlqcUoyZEM5SG5QNkVJNEE2Nm13ZUMyWHZMOFc5eVpubVp3SzEzZGRNT24xbm9LNzNHUmlFNmRGaDEySUZPeldjS2F0UERVTW03ZEFIUHNJUVBHZWRURGZfaXJBcGZTb1kyRk5IU1doZDM1bjJHNjJudkN3MlhaLWRLTdIBuAFBVV95cUxNYjdzcFJ5VG5vTThhWkktVDJ2YWptSDhhaDlhbU1nYTAyWktPUE5zemtRU0UwNHJTZEw2cUsxSDl0WkxmSG9wcWxFMGhSOWdJa0lBR3E4c2JUREd1Yzk3MkNDREJZRVpJeTZrX3hVTlhSQ2FodXBUeWJIZU5WVEFydHlNdy1Tb3U3UmhfVHFObzYzelBtcTFWdzhYVFp6VDRxUDRsbFhIbW5Eem1Mb3d5WWxQT3pFM0xE?oc=5"
+    },
+    {
+     "title": "Magazine Luiza registra prejuízo no 1T26, e ações despencam mais de 8% na B3",
+     "source": "ADVFN",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOFhuakctNTNJUGszWi1pRXVxcXJiVXBVT21QdVFOZjF5TkFSb0FaczlRYzRtaVVUdE9wRUhjU052eXZadDdERDRZc2l0M2tYdUNKU2cyNWVaMVNyV2ZERExaSkNKRXBHbnNiREJsMlk2UGZBbzUwcGRheE1YSF9SbTduVjhEZUhCb3ROSmdPekFhRnBxbWU4ZHBnVVpMWjJCM2RBZEYzdTZMR1EtcElv?oc=5"
+    },
+    {
+     "title": "Magazine Luiza (MGLU3) ainda sente o peso dos juros e reverte lucro em prejuízo acima do esperado no 1T26",
+     "source": "Seu Dinheiro",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaXRIbUdpa2o0V2RsMnRHVFVlSWdKNWhJa3ZMMUpFaW4tV1hGTlUwY3d4R2RXYk9yNkNxZC1CM0l5SWhOdXNGTG12X3lrTVJNeGdhc1JNTmcxX0tHNmoyM3JpMFZKV2NQTHhjTTRIdi1hVmY4LVdJTDZXV3kyUkdWT1RhdFZUSkZoSzZpSzRwR3lrbEVtR054XzctTTJZdGprQ1EyOVU4ZmxmYnBWWWVUaTFMalFISmlXSHpEV3h2RHFxcEQxM0wtZ0FWajh3eks5SVc5VVhyRlctcjF0anZoLWw1a3VUQQ?oc=5"
+    },
+    {
+     "title": "Magazine Luiza (MGLU3) tem prejuízo de R$ 33,9 milhões no 1T26 e frustra expectativas; veja os números",
+     "source": "Money Times",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNExtTTVHQmtyOFBrbHhMRFo0M1BYRFdTY2tmeEFmVTZ3YXJHTmNNdno2b3VNR0d3RUF4Y1VhZjZ3eF9seFFiSTIxX3F3V0h0Q1FUVWtINHNmQ2JPek5IekphalNFNkcxUXE1djZQNmhzRzJ1X0lHNzZ6NVdKUUg5VHI0aVpPUWlJSThoYkhZTlMtLU1JZlpoMm9BcjVxd3R1S3BhQmRVajRiMGFWMUFsRXhHYWdMT2czRkhtVU1qdG1iNUJhRlhYYzQtOEZOdw?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1552,
+    "output_tokens": 184,
+    "cost_usd": 0.000247,
+    "latency_s": 1.78,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:43:48+00:00"
+ },
+ {
+  "date": "2026-07-09",
+  "prev_date": "2026-07-08",
+  "return": 0.0776,
+  "z": 2.82,
+  "ibov_return": 0.0122,
+  "excess_return": 0.0654,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "MGLU3: Por que as ações do Magazine Luiza estão disparando hoje?",
+    "source": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYmtwY096bDFDbVVHRDFDbDVQdk9VcXY0ejlCbjdZUDhSYU02MWI4Nk9IaUR6V3MzY0R1ZUVKWXpFLTJqZ1dDc1kyVG02VVJNdnY5elZPcFlCaTFmWEROYUo0MVZqdlFQV3dwTGZMazMwN1ZGeW93Vm5LUjFySnY2QWNaZDZDMnE3dDRabVFEMF9HeURxeDNrVFl1YlFscFpoQXFFd3RpSDNhdFYzQXk5RDhVTXZmQk9aS0E?oc=5",
+    "published": "2026-07-09"
+   },
+   {
+    "title": "Magazine Luiza (MGLU3) dispara com “WhatsApp da Lu”, mas queda no ano ainda pesa",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2xMUXpkS0ZzckxOUFZpcnctcndQZVBubWo2aHV6SDdzMTE2Q01JakZqQlBKR296RlJFSE5XZGQtYzUzRkRKcEVwUUI4NzhGRWZxQkdpTnYxaUd1YlRUcjBuMG1SbERiZlotNEZkLTQ0dVhXTU5EYTF5VkE0cjlrOXJMTVFseTRPeDZlQ1pyUdIBmAJBVV95cUxNUTJ2Y1kwNzRGLUlXQU5lakVWd0U3dVRZYWJuNWhva25rUE5WaFVvSWlDaUlnOHNUT3JUaDNteTBrRjlQOGVTRlFxcEhUQnR4d0VJVEo5NFJYXzM0dEJFeEN2UXF4cThHN0NRb3h4a1J1aDNVYmdMd1lxS2ttVzdrZDJNQm01ZTNIS2h0Z0FpbGFCUENEbjlwVG5QSEVlWUhXb2ZsbC05OVpyRG8waTdTU3d4VkE2aDQteXp4YWNocmgyQ21GcXZvclFlNWNlcTZMNGprNXpqWDAyZlhFcXRKb1NHRms3QVI2bUNjaEZUS3dOZkVBMk5RWFV4dGdSWDVfNklucVcxNjItcVY3R3R2TnNJUVY2WUhB?oc=5",
+    "published": "2026-07-10"
+   },
+   {
+    "title": "Ibovespa hoje: Magazine Luiza (MGLU3) lidera altas; Axia (AXIA3) e petroleiras caem",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY3RYTm1hcndwTXdvT3JvLVVUTExqbHI4NXFTUkh6emF0a0VsWGtXSElYWFlSTm5oMmJMOUN5WFlsS09yeDRWLWp6TDQ1ejlGcXFJOWZ4OUhwV1RkUHl0WTViOElJY2pyTXprakZTeFZjd2hkdXE3a1QzazY1cmI3a0JCTW5UdXY2MF9pT0NxWXNKbmp3bVE3NktDMi1qMzJQdlo0aHVjQ254a3h0RDBLcWFfUzk2Rk84UHlnT1FUeWYzVzFjUThicThCTVRZUHZaelHSAdcBQVVfeXFMTmZHOGctTzlUYmlwVHIxNlpWNVBlY1JRd1RPYmlvN3N5bE43UWZGaGJ2eElYNkJqRWw3VjRJNGF3aDV3Ry1ZbF9ndVRuaHdRclJGNTBOZW5ib01Id01oTWwzWTMzU3d5T0N1elpUbTdyYzBjemk0Z3pCNmNQWWhhUDVkNUVwTkhRZkVaejZCTmhaRk1RZFpuQVI3X0FrS1BzZXk5NUp3Vm5zd0NXbEpLSVRFa2l6N2Zvc1ZSd2tDM2RCZmxzMXlPZUdfSUlyYm1oekhWeHk4eGc?oc=5",
+    "published": "2026-07-09"
+   },
+   {
+    "title": "Ibovespa Abre em Alta Aos 171 Mil Pontos; Vale e Petrobras Recuam na Contramão",
+    "source": "Forbes Brasil",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81aUdBSE9scjBnMjN5ZEFpZHk4Q0VBbnA3TG5MWXhJc3hFQlRhZXdmV0pucXFpUHZ4UFJMZ1BVOHZLa0RaQkg3bElZSm4yYUd4dGFYS2ViWVRrUHR5SkVXMVdfTDNybkNZMG43V2hsTUY3djU2dEpJ?oc=5",
+    "published": "2026-07-09"
+   },
+   {
+    "title": "Magazine Luiza (MGLU3): por que ações saltam até 9% nesta sexta-feira (10)?",
+    "source": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSTNTVURmTjgxT1JvUDVHWDYtZmZvZk1YZ2lhbkktcS1HZ3pEZGRRZW50OGthaHhVU0FIUmhfVnNqWjV6MFdRZS0zLTJVS0s0UTAzN3R6eGxaUVhJNUlMclhHaTBRWjJxWHlBQWU5WG9XazA3U3VZbkpqcm1aS2lwTEhIUFhhT3ZhVjcyQlE0eUZ6NVB6MEY0aTVyc3BhMVNlLW9ySmFITDNpQQ?oc=5",
+    "published": "2026-07-10"
+   },
+   {
+    "title": "WhatsApp da Lu Magazine Luiza movimenta R$ 100 milhões",
+    "source": "Acia Araçatuba",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53THROZGJhdEh3Zmw1YWVSOVZBWlc4a0o4UGFvNVFQTkdTYmZ3SmEyU3FIaFpEeXd3UjJueXBMVXFyaXdnLWJzeEVYMktPUnNBeGh2aXozMEg5X0dLZHI4SDFEM3VPN2w2cUNZ?oc=5",
+    "published": "2026-07-08"
+   },
+   {
+    "title": "Ibovespa: as ações que mais caíram em 2026 podem ser oportunidade?",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeTFiQmRXZjlYZ3FQM2ZkeVpBdkVQeXhNWF9PTEJ0dGhhTU9jQ3paQlU5bE9PME0xOWp5TG1wbWNzNEQwSlhmTUtqWURXX09yS2todjdOLTdvcm9xcjllenlJTU5QalJCb08xN3Bnbm10OUdNUWIyZERVTVhHZm9aRVg5eG5UUUJYUzRiNTYxSnhyNUVXZmd0OG01OE5ldmRMMEFEc1NR0gGrAUFVX3lxTFAwVzRVUWhzeDg2c2hybkRzaExPVjBIcWlTVllTRHdUNGIwVmNvMUdWTHlSTndWUVVqRXJHREhIVlB6V1NSa3NWSUZqdXB4RnFaWHJXSUJqZTNVSmhjQnVJQ0R1OGRKaGs3cXIzdnNZcm1ycXZLVVd5STBoaEFjeUFDN3phc0xQcEoyVXJxVE8xeHp0M0N4QV9YbXpnRzNFRDZ0Vk91ZlY5Vm9zTQ?oc=5",
+    "published": "2026-07-08"
+   },
+   {
+    "title": "MGLU3 sobe 8,2% e Ibovespa avança 2,3% na B3 hoje",
+    "source": "Visno Invest",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWVJycF8tRG56azJIYTk5dFphdk51YzRmQjlKbmRLMGlvYXBWZFpPd25aTll3UGJkakdGQkN3dGkxbDhUX1hIYTF5MzhSRWdpclRwWUxPZkdXRnI2Q2F6X25ZZ1pXUHUyNXZRam1JbEF5M05kbXJhRnBuTXZBS0lvME5hcUMzVlh2bTFj?oc=5",
+    "published": "2026-07-10"
+   }
+  ],
+  "ai": {
+   "short_reason": "Canal WhatsApp da Lu impulsiona ações da Magalu",
+   "explanation": "As ações da Magazine Luiza subiram com força e lideraram as altas do Ibovespa, em um dia em que o índice avançou 1,22%. Notícias associam o movimento ao canal de vendas WhatsApp da Lu, que movimentou cerca de R$ 100 milhões, embora as notícias não detalhem um anúncio oficial da companhia.",
+   "type": "company",
+   "confidence": "medium",
+   "sources": [
+    {
+     "title": "Magazine Luiza (MGLU3) dispara com “WhatsApp da Lu”, mas queda no ano ainda pesa",
+     "source": "Suno - Investimentos Inteligentes",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2xMUXpkS0ZzckxOUFZpcnctcndQZVBubWo2aHV6SDdzMTE2Q01JakZqQlBKR296RlJFSE5XZGQtYzUzRkRKcEVwUUI4NzhGRWZxQkdpTnYxaUd1YlRUcjBuMG1SbERiZlotNEZkLTQ0dVhXTU5EYTF5VkE0cjlrOXJMTVFseTRPeDZlQ1pyUdIBmAJBVV95cUxNUTJ2Y1kwNzRGLUlXQU5lakVWd0U3dVRZYWJuNWhva25rUE5WaFVvSWlDaUlnOHNUT3JUaDNteTBrRjlQOGVTRlFxcEhUQnR4d0VJVEo5NFJYXzM0dEJFeEN2UXF4cThHN0NRb3h4a1J1aDNVYmdMd1lxS2ttVzdrZDJNQm01ZTNIS2h0Z0FpbGFCUENEbjlwVG5QSEVlWUhXb2ZsbC05OVpyRG8waTdTU3d4VkE2aDQteXp4YWNocmgyQ21GcXZvclFlNWNlcTZMNGprNXpqWDAyZlhFcXRKb1NHRms3QVI2bUNjaEZUS3dOZkVBMk5RWFV4dGdSWDVfNklucVcxNjItcVY3R3R2TnNJUVY2WUhB?oc=5"
+    },
+    {
+     "title": "WhatsApp da Lu Magazine Luiza movimenta R$ 100 milhões",
+     "source": "Acia Araçatuba",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53THROZGJhdEh3Zmw1YWVSOVZBWlc4a0o4UGFvNVFQTkdTYmZ3SmEyU3FIaFpEeXd3UjJueXBMVXFyaXdnLWJzeEVYMktPUnNBeGh2aXozMEg5X0dLZHI4SDFEM3VPN2w2cUNZ?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1522,
+    "output_tokens": 567,
+    "cost_usd": 0.000436,
+    "latency_s": 3.71,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:43:53+00:00"
+ },
+ {
+  "date": "2026-07-10",
+  "prev_date": "2026-07-09",
+  "return": 0.0741,
+  "z": 2.51,
+  "ibov_return": 0.0297,
+  "excess_return": 0.0444,
+  "scope": "market",
+  "news": [
+   {
+    "title": "MGLU3: Por que as ações do Magazine Luiza estão disparando hoje?",
+    "source": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYmtwY096bDFDbVVHRDFDbDVQdk9VcXY0ejlCbjdZUDhSYU02MWI4Nk9IaUR6V3MzY0R1ZUVKWXpFLTJqZ1dDc1kyVG02VVJNdnY5elZPcFlCaTFmWEROYUo0MVZqdlFQV3dwTGZMazMwN1ZGeW93Vm5LUjFySnY2QWNaZDZDMnE3dDRabVFEMF9HeURxeDNrVFl1YlFscFpoQXFFd3RpSDNhdFYzQXk5RDhVTXZmQk9aS0E?oc=5",
+    "published": "2026-07-09"
+   },
+   {
+    "title": "Magazine Luiza (MGLU3) dispara com “WhatsApp da Lu”, mas queda no ano ainda pesa",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2xMUXpkS0ZzckxOUFZpcnctcndQZVBubWo2aHV6SDdzMTE2Q01JakZqQlBKR296RlJFSE5XZGQtYzUzRkRKcEVwUUI4NzhGRWZxQkdpTnYxaUd1YlRUcjBuMG1SbERiZlotNEZkLTQ0dVhXTU5EYTF5VkE0cjlrOXJMTVFseTRPeDZlQ1pyUdIBmAJBVV95cUxNUTJ2Y1kwNzRGLUlXQU5lakVWd0U3dVRZYWJuNWhva25rUE5WaFVvSWlDaUlnOHNUT3JUaDNteTBrRjlQOGVTRlFxcEhUQnR4d0VJVEo5NFJYXzM0dEJFeEN2UXF4cThHN0NRb3h4a1J1aDNVYmdMd1lxS2ttVzdrZDJNQm01ZTNIS2h0Z0FpbGFCUENEbjlwVG5QSEVlWUhXb2ZsbC05OVpyRG8waTdTU3d4VkE2aDQteXp4YWNocmgyQ21GcXZvclFlNWNlcTZMNGprNXpqWDAyZlhFcXRKb1NHRms3QVI2bUNjaEZUS3dOZkVBMk5RWFV4dGdSWDVfNklucVcxNjItcVY3R3R2TnNJUVY2WUhB?oc=5",
+    "published": "2026-07-10"
+   },
+   {
+    "title": "Magazine Luiza (MGLU3): por que ações saltam até 9% nesta sexta-feira (10)?",
+    "source": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSTNTVURmTjgxT1JvUDVHWDYtZmZvZk1YZ2lhbkktcS1HZ3pEZGRRZW50OGthaHhVU0FIUmhfVnNqWjV6MFdRZS0zLTJVS0s0UTAzN3R6eGxaUVhJNUlMclhHaTBRWjJxWHlBQWU5WG9XazA3U3VZbkpqcm1aS2lwTEhIUFhhT3ZhVjcyQlE0eUZ6NVB6MEY0aTVyc3BhMVNlLW9ySmFITDNpQQ?oc=5",
+    "published": "2026-07-10"
+   },
+   {
+    "title": "Ibovespa hoje: Magazine Luiza (MGLU3) lidera altas; Axia (AXIA3) e petroleiras caem",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY3RYTm1hcndwTXdvT3JvLVVUTExqbHI4NXFTUkh6emF0a0VsWGtXSElYWFlSTm5oMmJMOUN5WFlsS09yeDRWLWp6TDQ1ejlGcXFJOWZ4OUhwV1RkUHl0WTViOElJY2pyTXprakZTeFZjd2hkdXE3a1QzazY1cmI3a0JCTW5UdXY2MF9pT0NxWXNKbmp3bVE3NktDMi1qMzJQdlo0aHVjQ254a3h0RDBLcWFfUzk2Rk84UHlnT1FUeWYzVzFjUThicThCTVRZUHZaelHSAdcBQVVfeXFMTmZHOGctTzlUYmlwVHIxNlpWNVBlY1JRd1RPYmlvN3N5bE43UWZGaGJ2eElYNkJqRWw3VjRJNGF3aDV3Ry1ZbF9ndVRuaHdRclJGNTBOZW5ib01Id01oTWwzWTMzU3d5T0N1elpUbTdyYzBjemk0Z3pCNmNQWWhhUDVkNUVwTkhRZkVaejZCTmhaRk1RZFpuQVI3X0FrS1BzZXk5NUp3Vm5zd0NXbEpLSVRFa2l6N2Zvc1ZSd2tDM2RCZmxzMXlPZUdfSUlyYm1oekhWeHk4eGc?oc=5",
+    "published": "2026-07-09"
+   },
+   {
+    "title": "Ibovespa Abre em Alta Aos 171 Mil Pontos; Vale e Petrobras Recuam na Contramão",
+    "source": "Forbes Brasil",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81aUdBSE9scjBnMjN5ZEFpZHk4Q0VBbnA3TG5MWXhJc3hFQlRhZXdmV0pucXFpUHZ4UFJMZ1BVOHZLa0RaQkg3bElZSm4yYUd4dGFYS2ViWVRrUHR5SkVXMVdfTDNybkNZMG43V2hsTUY3djU2dEpJ?oc=5",
+    "published": "2026-07-09"
+   },
+   {
+    "title": "Bolsa sobe quase 3% e fecha no maior nível desde maio",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONmU1bkJMS0tlZEJicXlrRndLM3poTTRsUms0UHQ5eVhrQTBQOXRub05lemZyRUVGYTlWT054OHp1R05zMGxwNFRnYWxuOEpoRTQtWG1yanNZd0dEOHBtYkxRcXBfLTk2SkI4TGdQWkZmMmdTYnVKbGV4NWpQY0tHUTB0TUM3dk44S2pvN2ktTGZ2Z205Y08zeE1tYUM3WjZacUpHRWgyUmdjNk1kdG9B?oc=5",
+    "published": "2026-07-10"
+   },
+   {
+    "title": "Fechamento (10/07) | Bolsa tem forte alta de quase 3%, contagiada por IPCA e expectativa de corte da Selic",
+    "source": "InvesTalk",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zc1NtTy1wNkJfNnBVekhtNEZKb3RqOU1SQ0hJdjVGbHAwYWRTcklzOElTTnpabVg2cWFrUklnV2drQk03RndhQ0lQN2lqOS1fY1RiSkFzYWhraXl3Mk9vemZZeXBxWlUyS2dhemt1bDlJWDBBOEE?oc=5",
+    "published": "2026-07-10"
+   },
+   {
+    "title": "Ibovespa B3 sobe quase 3% e vira semana para o azul, com IPCA no foco; dólar cai a R$ 5,10",
+    "source": "Bora Investir",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOUtIdDhMNzdyejJHR0U4dXNfcm5ta3FUNHB5a1M2UjZ5M0pCblhlTE52TjRYeUlZNDNURFFvYVotTG9GWWRCODR2cE5iamdVWWt3enNobTRJSnVFZnN2eXR5VHNWWkZvYkN5SE1ENHZPdXRiVnMtRzZRS2R4YlVRUnBOU0RuT04wdDRsY2VGdjlpSTh0M01INzNtSC1Oa3BFTXNHSnBlZHFzbnA5VTJ2a0xfallraENRc0FHdDltclAyVGpSR0hvcDVrWjI0NHM?oc=5",
+    "published": "2026-07-10"
+   },
+   {
+    "title": "Ibovespa dispara após queda forte da inflação e retoma patamar dos 177.000 pontos; dólar recua",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQXU5MkQtVHd1OXZuai1oUmJTUUI2Z19BMVppX1lESzFvZ3BmaV9Fb0JmckRGZks1cDdGZDRoeVV2NWJHZGszbTU1ZGVYVVZyUFpnZFJXakpNNENXc01NRUhkTmNwRTc1TUdhSEhLWkZqb2IzNUt5Wm1ubmxra1d2RUxkeU9Tbk5ERlhRNzQxMGg1VFFjY1J5VDIzMXV5TzMtTzlaNE92bzdGb2ozSVowVW1sd1I5dkI2UzNEbC1WNFpyYjdxSEhVbF9DX3dsS3k4ay1WX0E5X3N6dE5TaTJkbmF3RFA2RUxUcWJFS9IB-wFBVV95cUxQVVZqaWI4Uzdlakc3c3JNZ3VJeWRBbzhLRDRTTk5heEJwQXpwdnhDem1aQTNYRWxJWDVLUGMwa3VKV2pfcldGUkg1NE1BRlhScDlWX0R5Um9Gc2o3MXRpSHRJOXhXU2xuUWN5R2w1aXVXWmUzb2NCOWs2Q0NzdjlLbGFsWkJMd1NCSW8zMUxiUHA2RTE3TnNLbExFbmU3RHMtbWZBcy1UZDBJN0ZyNVRYTXpsWkxaZVVrYkZDeGhIYjA0WC1jUkQ4T29taFJNNm9ZZjlpeVVvZlVBRkpZTXlEQWQyNzdLV2dtV1hWRnloeXlNMVRvcU1ITDBtVQ?oc=5",
+    "published": "2026-07-10"
+   },
+   {
+    "title": "Ibovespa sobe com NY e recupera parte de quedas recentes, mas geopolítica pede cautela",
+    "source": "UOL Economia",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYkNnWTdKWmRzckpGZ2s3ZWRCZzJQNFNYR21DLUdLR2hqcWFUa2R6SUdVNFBBQktCMERSVFo1U2d0VnFuV3RpU1NENHdKMjFsR0s5WktHUWZXTGxsX3UwRmlkTVpNRUlZbDBfZ2tOaWR1Vzk0dzNPc1dvZGVWSGluYVJ0THNRRWR4OHZMN1V4dFRNV1A4Tm9md2s5M1FEUE42bTBPYUlpdEQ0SGRPV0ZOd2NsYU90SmVIcUhUenZHWEVjUUdhbmQwaVBSN1JSZE9EM1gwZkRJM2laUnVha2lLZFhBYVNoNzFOREE?oc=5",
+    "published": "2026-07-09"
+   }
+  ],
+  "ai": {
+   "short_reason": "IPCA fraco e expectativa de corte da Selic",
+   "explanation": "O Ibovespa subiu quase 3% no dia 10/07, impulsionado pela queda da inflação (IPCA) e pela expectativa de corte da Selic, o que tende a beneficiar varejistas como a Magazine Luiza. A MGLU3 subiu 7,41%, mais que o índice, e uma das reportagens associa a alta também ao lançamento do “WhatsApp da Lu”, mas os textos não detalham um motivo específico da empresa.",
+   "type": "macro",
+   "confidence": "medium",
+   "sources": [
+    {
+     "title": "Fechamento (10/07) | Bolsa tem forte alta de quase 3%, contagiada por IPCA e expectativa de corte da Selic",
+     "source": "InvesTalk",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zc1NtTy1wNkJfNnBVekhtNEZKb3RqOU1SQ0hJdjVGbHAwYWRTcklzOElTTnpabVg2cWFrUklnV2drQk03RndhQ0lQN2lqOS1fY1RiSkFzYWhraXl3Mk9vemZZeXBxWlUyS2dhemt1bDlJWDBBOEE?oc=5"
+    },
+    {
+     "title": "Ibovespa dispara após queda forte da inflação e retoma patamar dos 177.000 pontos; dólar recua",
+     "source": "Valor Investe",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQXU5MkQtVHd1OXZuai1oUmJTUUI2Z19BMVppX1lESzFvZ3BmaV9Fb0JmckRGZks1cDdGZDRoeVV2NWJHZGszbTU1ZGVYVVZyUFpnZFJXakpNNENXc01NRUhkTmNwRTc1TUdhSEhLWkZqb2IzNUt5Wm1ubmxra1d2RUxkeU9Tbk5ERlhRNzQxMGg1VFFjY1J5VDIzMXV5TzMtTzlaNE92bzdGb2ozSVowVW1sd1I5dkI2UzNEbC1WNFpyYjdxSEhVbF9DX3dsS3k4ay1WX0E5X3N6dE5TaTJkbmF3RFA2RUxUcWJFS9IB-wFBVV95cUxQVVZqaWI4Uzdlakc3c3JNZ3VJeWRBbzhLRDRTTk5heEJwQXpwdnhDem1aQTNYRWxJWDVLUGMwa3VKV2pfcldGUkg1NE1BRlhScDlWX0R5Um9Gc2o3MXRpSHRJOXhXU2xuUWN5R2w1aXVXWmUzb2NCOWs2Q0NzdjlLbGFsWkJMd1NCSW8zMUxiUHA2RTE3TnNLbExFbmU3RHMtbWZBcy1UZDBJN0ZyNVRYTXpsWkxaZVVrYkZDeGhIYjA0WC1jUkQ4T29taFJNNm9ZZjlpeVVvZlVBRkpZTXlEQWQyNzdLV2dtV1hWRnloeXlNMVRvcU1ITDBtVQ?oc=5"
+    },
+    {
+     "title": "Ibovespa B3 sobe quase 3% e vira semana para o azul, com IPCA no foco; dólar cai a R$ 5,10",
+     "source": "Bora Investir",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOUtIdDhMNzdyejJHR0U4dXNfcm5ta3FUNHB5a1M2UjZ5M0pCblhlTE52TjRYeUlZNDNURFFvYVotTG9GWWRCODR2cE5iamdVWWt3enNobTRJSnVFZnN2eXR5VHNWWkZvYkN5SE1ENHZPdXRiVnMtRzZRS2R4YlVRUnBOU0RuT04wdDRsY2VGdjlpSTh0M01INzNtSC1Oa3BFTXNHSnBlZHFzbnA5VTJ2a0xfallraENRc0FHdDltclAyVGpSR0hvcDVrWjI0NHM?oc=5"
+    },
+    {
+     "title": "Magazine Luiza (MGLU3) dispara com “WhatsApp da Lu”, mas queda no ano ainda pesa",
+     "source": "Suno - Investimentos Inteligentes",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2xMUXpkS0ZzckxOUFZpcnctcndQZVBubWo2aHV6SDdzMTE2Q01JakZqQlBKR296RlJFSE5XZGQtYzUzRkRKcEVwUUI4NzhGRWZxQkdpTnYxaUd1YlRUcjBuMG1SbERiZlotNEZkLTQ0dVhXTU5EYTF5VkE0cjlrOXJMTVFseTRPeDZlQ1pyUdIBmAJBVV95cUxNUTJ2Y1kwNzRGLUlXQU5lakVWd0U3dVRZYWJuNWhva25rUE5WaFVvSWlDaUlnOHNUT3JUaDNteTBrRjlQOGVTRlFxcEhUQnR4d0VJVEo5NFJYXzM0dEJFeEN2UXF4cThHN0NRb3h4a1J1aDNVYmdMd1lxS2ttVzdrZDJNQm01ZTNIS2h0Z0FpbGFCUENEbjlwVG5QSEVlWUhXb2ZsbC05OVpyRG8waTdTU3d4VkE2aDQteXp4YWNocmgyQ21GcXZvclFlNWNlcTZMNGprNXpqWDAyZlhFcXRKb1NHRms3QVI2bUNjaEZUS3dOZkVBMk5RWFV4dGdSWDVfNklucVcxNjItcVY3R3R2TnNJUVY2WUhB?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1663,
+    "output_tokens": 914,
+    "cost_usd": 0.000623,
+    "latency_s": 4.95,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-20T03:22:44+00:00"
+ },
+ {
+  "date": "2026-08-17",
+  "prev_date": "2026-08-14",
+  "return": 0.0818,
+  "z": 2.63,
+  "ibov_return": -0.0009,
+  "excess_return": 0.0827,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Ação da Magazine Luiza (MGLU3) sobe forte em meio ao tombo da Casas Bahia",
+    "source": "Valor Econômico",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZzkxUUtKUHI5Zm9EZ3lpS0p4RVlINERnZjRjU212VXYwV1FwQXFnT0xNYS1Xd0x1QndoQjZyUlJmdHF3RDl4SjZCSkhacXktZmkwMWs4eHpxS2EyNEoyS18tV2VFb3YxZVF5ajRwb0hWaUpuXzdNWlZyRGRhMldWNzhwRDdSaHdxNnB3Yl81TXFseVdLZHZ0aWVZOVBsNGVLQTJndGpNTXJrS0lvT3ppWmZpdGJvNm5SNU9UWG43OXBhNXhwQzJncNIB1wFBVV95cUxOYjltcEhXZTFFZVROMXM5T3cyS2o3MXB1UzlHWnk3WHNSRDBXbGVmalZQOW9jOXdWcUl4QmNid0h2YUQ3RnRxVGg5YXdyTk54aTYyQ2dzUUFxcDktZVk1V2tkOFZzS21vZzhKbnc2TEw3dUdxT0xnNWc4eDlucERLaW5QdVdSLUdMdEliRjd5UnUzVEZISHJma1g1REdYVVR6UkE4STJVc1prMzFYbDNXUElWQ3VST0ZyeFRtc0R6WHNWRGdEaWNxRnRnZXZsQUYyZklQMmsybw?oc=5",
+    "published": "2026-08-17"
+   },
+   {
+    "title": "Magazine Luiza destoa de Casas Bahia, dispara mais de 6% e lidera altas do Ibovespa",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPajU2UVdBNkRvLTZJYk9TQlNVbk1mbzR2NGxrSTNTQmtPN2tZRW1XV05rWEFxS0dUbmJHWVBrVHE1czNrU2g2Y09Oa2pXSXZ3NVR6X0dwZnJMeW90a3V2LXhaMTdESFVweC1SNmFRRTlWdXhuRnJOcmlzb1ZXZloydVF4SkFmNk1vUWZGa1hRSUd1eXZmRUZaaGVOdXhja3dRcEFwWEgtRGpjT2FIa2xpLVc5VjhtZ0FKYXZLUmtVTXM5bXFEamVlLWhjdGxsRjB1MlVsOG84SdIB3AFBVV95cUxQMzdaR0FYU3ljQTBWRFNmZjZlVXBQLUhlMEpCdENfMFJ2SkhXbFJWdGxaS0ttSGE5OFlFOUZ5NHNXQTdFRDBIaHFmLXlJQjRxbU4tYUE4YkdkS29SZ3hubTJfbklvYXVjNnQzeE5wTjNZdU5CTXY0SUJsSUc5bDNROFoyeHVRUWwyQzJVdVRoaG1qSE5YOHlUQlpQTVFoVVh4SU92cUVTZE5iTGZTT1QweHl6cVBROXh3NUhtdnlLa3NhY3ZiTXQtdmF3ci1ZMG5hUnVianY2QXZGME0t?oc=5",
+    "published": "2026-08-17"
+   },
+   {
+    "title": "Ação do Magazine Luiza (MGLU3) Dispara em Dia de Queda Firme de Casas Bahia",
+    "source": "Forbes Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXo3MVBoZzM5T3pHVWwxMllBemFpeHV6Qi0zdkVaQS1mb0YxY05GU1ZGTzlvX0VkWThQdHJKMmJ4VmNaTXFTR0x5cE5hZDZHa043SmR1cS12bTVFaXhOWjNMSjlEaFVEcUhFWDdMdXhhUDU2WXEyT1BzZGx5NlBiVjJlbTBFdlhINzdrMjBxRVlpc0lHV29CelBoNUpITFpsb1RPSlFYbzBQMnJZS0FlbGZWczJ0NWZJ?oc=5",
+    "published": "2026-08-17"
+   },
+   {
+    "title": "“Não é agora”: gestor da AlphaKey manda recado sobre Magazine Luiza (MGLU3) e revela o que procura na bolsa",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQ0tTSEVVQUh2WVRoQ29yNXZVa1V0eGFSRTRkRWoxMS1TM2pSa0dZLU5Rekc4VjM2UDR3TFQ1dmE2QVJCZDlxOEZjcHlFRF9GRFZrSllmZmduM0tCVXBHcElOR0w1SE5fUWN2MUJLWVBULXF3ZzVydGx4UU14aF82SkM1Mnpiajk4SkhzcEgycWVCNUZkZHhfM2FpTWV5UG5RQzEwaUh2UGQ5dmxOOTgxM3hMMWp3NzdVTUt6Yi1QUUF0NUY4UTVFRy1SYnRFckpIRi1ydnNRZVRERkVWQWJnaFB3cGk1OFdY?oc=5",
+    "published": "2026-08-18"
+   },
+   {
+    "title": "MGLU3: Por que as ações do Magazine Luiza estão em alta hoje?",
+    "source": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWmcwVHJTLXkxUlk4VjA4R29TOVdPcWpWLU1ZMWs5WVd5Y3BhYm81SGw3Nm5iVHRjMmRXTVBaWVZtcFJYWkplT1MxekF0RUExNksxOWNjZlBsaGFrUE0wVi03dV9JQl9KQ19HZHMweTY1SldBaXpiSXJIbWJza0xoNWVLVUJsNGk0a3FYNndmSUg4VUtRTEE2dWNTNGtoLXhHNFQyREFQeWY1Y2t1YVhTOWlPbE9nUQ?oc=5",
+    "published": "2026-08-17"
+   },
+   {
+    "title": "Magazine Luiza (MGLU3) não é para agora, diz gestor da AlphaKey; 'para a defesa do seu dinheiro'",
+    "source": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLVZ4OWpFVTlMNDFGU2p3alR0cElmNjRiN25QS0pxN2phWGpQNHhBdTlJdHZxT2VNQnBBWFhQMjF3enExMzU2b2lyZ3ZnajhYOVNSb2txUnZtaWN5Z1NiNTRZeE50aldLNmFITmE4akhWamFEZHV2bHdKUUMxWS16Ml8teDIxMlpMQi1tVGZrdHdEd08zNEl4UGljaDlCbEU4U2M4OXQ5MkxpVkJnVzJwQ3p6ZUp2dElXd2k0VGdSVEFJSjht?oc=5",
+    "published": "2026-08-18"
+   },
+   {
+    "title": "Ação do Magazine Luiza dispara cerca de 7% em dia de queda de Casas Bahia",
+    "source": "CNN Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTE9pUEFrbjBkQmhCaHpRNEdBVC1sMkVOQk5NZkxvQTZCQ1lKdHJhV3BkeEZLYy1NSXJSMlNoUHJ5cEVScWtSS3M0T1BkQ0VHc3NPY3A1bnpnc1NTMnBuakZCTG5kd0hlTGpqZFhwSUJ3ZnpmR28taTByaUVhZ2dOdDNkVndSd2VKaGZVQ2pod0Jrckw4a3FheG9VcUFMRUZteEJ0OGxpU0RYREpvcDZaNEFSMWU5Z3dNeHoyUExOZ05FekE?oc=5",
+    "published": "2026-08-17"
+   },
+   {
+    "title": "Ações do Magazine Luiza disparam em dia de queda nos papéis da Casas Bahia",
+    "source": "UOL Economia",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTXZtZXlQS3VVckR1V2lrUHAxdUdLT05iRm5LclBiNm85RGROdnhuOGlSN0UzV05xeHZtSlpGcXpGMEd4MVAycEItMjFtWGdxTXp3QnBDTWFINlUyd1pyVVBwdzZGZlN6dGtzLUt6azBnSEdwUVV2dUVpdkItNjFJdUlMZ2xwM1JlWTBzZ3cxVFZESnlYaV9scGhIbWZKN0VCTGhoMWxObTlidVAtTHRMU3BYZlpBVXhMVEEtaHk3N0lndHMwQkE?oc=5",
+    "published": "2026-08-17"
+   }
+  ],
+  "ai": {
+   "short_reason": "no clear explanation",
+   "explanation": "As manchetes descrevem a alta da MGLU3 em contraste com a queda da Casas Bahia, mas não apontam uma causa específica para o movimento da própria Magazine Luiza. Uma gestora citada nas notícias diz que a ação não é para o momento, o que não explica a alta do dia.",
+   "type": "unknown",
+   "confidence": "low",
+   "sources": [],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1536,
+    "output_tokens": 433,
+    "cost_usd": 0.00037,
+    "latency_s": 3.04,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:44:05+00:00"
+ },
+ {
+  "date": "2026-08-25",
+  "prev_date": "2026-08-24",
+  "return": 0.0913,
+  "z": 2.58,
+  "ibov_return": 0.0155,
+  "excess_return": 0.0758,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Magazine Luiza sobe 9% e lidera ganhos; veja maiores altas e baixas do Ibovespa",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUzZkNFRmYUJNTVgzRlZwSklYRThBby11S2oza1dXemZLQTNxSEZOYmVGT2RyVlJ6c1NWbklndmd0dWVzbjZrTDN2TktfNHpLczhfZXh6NzBvazRnVFhpSWhySWlRaUxvVkRCenFyVVRlSU9wV1lvQjEzQXB4Q1hTY181YkhzUUlsQzhZNjNvaC1Cb1FCS3JRcElYZHUzQ2tzMFBFeGxMNjVWeE9SQzgwc240RUwyRXF0d25mT1hKRlhYNGVRTzRnd3hVaVFvSG9lSHfSAdcBQVVfeXFMUGVRX0JrSjYtUnYyZEdmXzAxeVVMeFV0R3FsbDA1eWQxR09NR2N3RUFaWThXdWR0ZWNva3lLbHIwS3hMbDFTNExJOHRZRXJMWHhFM3lsOWFtRXNuQllOQnhfbC1Ca19VUWhlMGVuNm1rWHJsc3VkZTRaOG5UczJQUkxSd1RRV0RNTjNJeTBOWkNOdzBBcFhpVlZud0NQTDNLMk9ySjUycTFxcnpEVEgyN0ZGMV80YmxibDluM1J2NV9GSUFwdGsyNVhrMVVoWGppYllZSEE4bFU?oc=5",
+    "published": "2026-08-25"
+   }
+  ],
+  "ai": {
+   "short_reason": "no clear explanation",
+   "explanation": "As manchetes disponíveis apenas registram a alta de MGLU3 no dia, sem informar a causa do movimento. Não há notícia sobre resultados, decisões da empresa ou fatores setoriais ou macroeconômicos que explique a variação.",
+   "type": "unknown",
+   "confidence": "low",
+   "sources": [],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1093,
+    "output_tokens": 172,
+    "cost_usd": 0.000195,
+    "latency_s": 1.79,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:44:08+00:00"
+ },
+ {
+  "date": "2026-09-02",
+  "prev_date": "2026-09-01",
+  "return": 0.1688,
+  "z": 4.29,
+  "ibov_return": 0.0305,
+  "excess_return": 0.1383,
+  "scope": "market",
+  "news": [
+   {
+    "title": "Ação do Magazine Luiza (MGLU3) dispara após acordo para vender produtos no Mercado Livre",
+    "source": "Valor Econômico",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVU5WVDJpVWd5aHNaRENDekhwT2t1c3R0azB2SE11Mmt2amV4UGo4eUlQUWhHNFZlMTVZT3ZtVmh4ejNlcmt0a1BNa1ZxU2RBVGZWR0VDVWs1ZkY1OTJoby1BLXkyc1hLQy1Ud3ZFYlQ3UHhXWkN0WE9Cc240NEEwSThtNENpZFB1ZjZuYWhIa2RZNW9UNzN0VUw2YVlXdmx5Ti1RcFBzTi1VZVJ5WTRITDJNeTdMR3c0bUV0WUhTSGxnME1nOE1WdmlVY0VHbHFPck1fZUg0aGdhVG5o0gHrAUFVX3lxTE40WThIYlIwNmd6ZDduLUNwN0JBUDg5VzIxQU9RRFFrbUxyMHhLZDZ1RkxsTS1abmpqY0VHYTFnZmtLdl9hMVpwM2t0akNOVk9KVlNZNEljelhQUHVfVy1JLVEzN0dPOEU5WGhVRHN6b0ljaDJNLTZ0ckdneXllZi1YZXVBakpQX2hwRDNWbU02NjZMUE9SR3V1Vm1NbnVPOGZDeHdDMldyMkd3aWgyRWFLOVNha0JEcnVyU2g4U2Q1MFlYOWFYS29yTHJEbVhaQkMzUkZvYzNwczJaalBvN0cxTlB3dkdNa3JmdGc?oc=5",
+    "published": "2026-09-02"
+   },
+   {
+    "title": "Ações do Magazine Luiza sobem 17% após parceria com Mercado Livre",
+    "source": "UOL Economia",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzVvMUZLRnhNQ2ZrM2UwTFZReFEwOGMzeUpPVGMxM1VuRDV2amd4OVJCLU05VS1UNzAxbXloaU9vQ1E0T25NbjVXZ2paRlFVUDh1My1xdjFCQ3JHMVoybkh2WHpJUzVYTlM4dzF4cWZVMmhLRDV6SFFQZlNuWk1BcnBiNEVrTVNXdThIcl9aSlhESm9LWlJPT2RpdkpONlQ3ZTV6YS1CQ2JNRUk4Mk5iSXhlMTFPOGE2bEtqeDFDOHJwVm1DLUJicExR?oc=5",
+    "published": "2026-09-02"
+   },
+   {
+    "title": "Duplo twist carpado: BofA dá ‘duplo upgrade’ em Magazine Luiza (MGLU3) após disparada da ação e acordo com Mercado Livre",
+    "source": "Seu Dinheiro",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ0g0UllKVkEybnFaQWlEMTRETGpoLWNYMGdRVWZ5X2xUT1dMNHBfV0ZsQmxQMGpyUGNwd0ZzdG5DWHdOQnNvckZxTEFMU3ZTdDNkN3RKN0tuVWpjMnBWXzNUYTRGcFpsQk9WcGNYRkJ5dU1kYjNQbHlxU2RMVDBrWkNLR2ZEd0trUV85UzBScUtLbC1LSENnTmdwOTJhamVtX2pTeVZPWU8wUmwybF82MkliVFVURE0?oc=5",
+    "published": "2026-09-03"
+   },
+   {
+    "title": "MGLU3: Por que as ações do Magazine Luiza estão disparando hoje?",
+    "source": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3hGUERqT3JyYXE4aE5fRjRXRVFGblhqbGpvTXhNVUtDNXlqWjlHajVIdnZyTkZtVExDQzJEei02eERWWVRCbEpDOVdNQmIyMUstOEU5bGpZckJmZVZyeHlYS2NRcFhqQWxsUXVDeTNMVjhVQXEzT3JHc1pNZzltNEd4WHQtZkdjLTl5LTBKSUpmeEdtdkVFUDBGUHRLUUZhS3QweWpSNEdYYmNINGZvb3dB?oc=5",
+    "published": "2026-09-02"
+   },
+   {
+    "title": "Magazine Luiza e Mercado Livre se unem para ampliar vendas",
+    "source": "Investidor10",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRmdDMmtnTnBBR2dlenBxaXZ0S0NyVUkzTkUtUkRUUElsM25wRVV1NzFQeHFjemYtbTdLLWxIT1JPWlNZNWNoaW4wTGxFRms0X0dwM2ljWl92SV9sRjI1OGZ6TngwNzNIQXRmZXNaYVY2T2pRNl9jRTZuRV85bGRKZWIxRVJnUzE1RnNVYjNBSE9kUTk5RENLejJpbEctVnFuLUVkQXpn0gGrAUFVX3lxTFB2aktqbzFBRlhLamdwLUtpMHBiZzc2YUNDWl9hZXlrQVdnb1ZxelFPOGZ0OTBvUHZxOUliRExMRWFyYmt1R3FiTW9HYzdyNXhydDI0OWUyOHB2NzFVT3hiQjBNaFJuU2tTNl9KVWY4U1Y3eTlVS3JXRTdnZGNEQ2tGWU1acTBCSmhyei0xMU1aeXNSUnhOWEdORGJaSXJvMkRQb2FFMVZ4MzhtYw?oc=5",
+    "published": "2026-09-02"
+   },
+   {
+    "title": "Bolsa dispara 3% e atinge o maior nível desde maio",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNREtJYTNSUHpNRHFxRllLRERIX0I2SHJvSnJVVG92N042amFnaEp1UTZrQ2EwUTFMT0pOSDd3NDZXQzhKM0dfdk9MLXJjQjJFRjdzYUpWTWxhQnhTSm4tb3lWS1VaMzhGbmJSMGZaay1MWVVwbXlKdUwyMkVzcGJRT0NOTExEOFZxLUVyVVBtcEoyYzdrSjByT1NZT09lT2hST3FRYnc1UW8wRHc?oc=5",
+    "published": "2026-09-02"
+   },
+   {
+    "title": "Ibovespa sobe 3%, na 11ª alta seguida, e dólar cai para R$ 5,10",
+    "source": "O GLOBO",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXdEd19KQ2pZaGxkbWtld29DajdBOXliZXlWWW1nanRiNkhuS1NRMERUQUNOWkh1NGhwVEdDbGZFcG0zbFRibDFtNFZ1cHBycDlnOEF5QWFOYXptd3RQcXZMTlh3QUIzX3BlRFFmZkhwMy1lUXIxTHFLVmV0X3VZUFktZmtOb1hGTmlnakVieDd3RUJ0WUN6bWZvU2xwS0pOZGfSAbABQVVfeXFMUFJOZTN6VlRjcXk2bjJVVFFSUXc4dERNazNQS2VxQ0tBZGpuMmExb1Y0QmhXMEZaUWtENWR1QWpOdC1GR083ZzFxNmtwU2NhRThJYk5DbVlKS2RLbmoyUzZ5bnNiTTVKdzdkb2tBY0hfRl9YamJhbjNndWZNYVQ0LWw4TzB4NHBSUkRrQTM5Snhlak5nNTRoYjJiQ1BfQXd3UkZFc1Q4N2Z1MzlKRGtEeXU?oc=5",
+    "published": "2026-09-02"
+   },
+   {
+    "title": "Ibovespa B3 sobe mais de 3%, em 11ª alta consecutiva; dólar cai a R$ 5,10",
+    "source": "Bora Investir",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd080WGdLTkdLaW5DSGhHOE5WaExyRXVjNFpZVThZbWRnV1UzcnlxYnVHTlE2RXB6TUt4bmFOZWVrdlhVUE4zQ19MT0tUcmZLUUdSVWFDSnZoZWs3R0dRNTl4RFZabnprRUlxeHI1MmdPWW5yQ3dKNFFGOVZDS2hnVlQ3clZWTktEQzNHX2t4WVJqdlE3b2lQT24wOEFoRVBVNFZQdGZZNGx6ZVVoV2c1RDdHeDNia3cz?oc=5",
+    "published": "2026-09-02"
+   },
+   {
+    "title": "Fechamento (01/09) | 10ª alta seguida: Ibovespa avança 1,30%, sustentado por petroleiras e bancos",
+    "source": "InvesTalk",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3WkxvZkhRb1JNMEdfcmZtdWlGaUw4Nnl2NU9BdTdWOU9lT2RtNXhCRVJrb2tMT2lHUEZNVERxWGpMNXhTWXRQekFlQ2JWUmduUHZfb2J4ZlphUXQyOTNMRGlxTUhvc1Jqejh4TGhvM3hLWjBWWWc?oc=5",
+    "published": "2026-09-01"
+   },
+   {
+    "title": "Ibovespa sobe 1,30% e atinge o maior nível desde maio; dólar cai a R$ 5,16",
+    "source": "Bloomberg Línea Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2xOSm5CejBuc2Q2RTFHdl81MXc5UTJKUmYtN2ZKOXpfYlE5RnFzbk9rbTV5YVRISjJ6TU5hM1dtLS1RLWJqY1FVSkIyWDI2TFppRnlIeC1DWW9DQ3RrMlVROV9IOU9VM1ZpMVpoZWdDNEl5ZGwtMW5zZl9CcTFJRFJ3X1owUWMzTHdmTV9BMXRaUmctS3NlcTJUVlVfaEtNWFZOZzRDTTJuUHNJbDI2OUh6RdIBxwFBVV95cUxNMjZWSjFhWlJUWXZnQmd4TEtCanFBdHFLYWNacE9DcW9YbFNxYWUwMUNKVmgzWTEwODh1XzlUVWdUWEhmRHRZMGtlMDFkYkJybUctTkZzc1VGbGJDbFl5WUVyQUtNbkd1M1JqWXBxV1lNTDVjQkVaYTdRUmZHMlBPMkZ0X3BDczFRRmFkSl8tOGFsa0JhcEctZ3hxSDVld251OUJsQmp6NllKcW9teGhLWG9YT05zcEg5RHY4c0M0SHNJLUJQa3Vj?oc=5",
+    "published": "2026-09-01"
+   }
+  ],
+  "ai": {
+   "short_reason": "Acordo de venda no Mercado Livre impulsiona ação",
+   "explanation": "A MGLU3 subiu cerca de 17% após o anúncio de acordo para vender produtos da Magazine Luiza no Mercado Livre, o que foi destacado por várias reportagens. O Ibovespa também subiu cerca de 3% no mesmo dia, mas a alta da ação é muito superior e está associada ao anúncio da parceria.",
+   "type": "company",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Ação do Magazine Luiza (MGLU3) dispara após acordo para vender produtos no Mercado Livre",
+     "source": "Valor Econômico",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVU5WVDJpVWd5aHNaRENDekhwT2t1c3R0azB2SE11Mmt2amV4UGo4eUlQUWhHNFZlMTVZT3ZtVmh4ejNlcmt0a1BNa1ZxU2RBVGZWR0VDVWs1ZkY1OTJoby1BLXkyc1hLQy1Ud3ZFYlQ3UHhXWkN0WE9Cc240NEEwSThtNENpZFB1ZjZuYWhIa2RZNW9UNzN0VUw2YVlXdmx5Ti1RcFBzTi1VZVJ5WTRITDJNeTdMR3c0bUV0WUhTSGxnME1nOE1WdmlVY0VHbHFPck1fZUg0aGdhVG5o0gHrAUFVX3lxTE40WThIYlIwNmd6ZDduLUNwN0JBUDg5VzIxQU9RRFFrbUxyMHhLZDZ1RkxsTS1abmpqY0VHYTFnZmtLdl9hMVpwM2t0akNOVk9KVlNZNEljelhQUHVfVy1JLVEzN0dPOEU5WGhVRHN6b0ljaDJNLTZ0ckdneXllZi1YZXVBakpQX2hwRDNWbU02NjZMUE9SR3V1Vm1NbnVPOGZDeHdDMldyMkd3aWgyRWFLOVNha0JEcnVyU2g4U2Q1MFlYOWFYS29yTHJEbVhaQkMzUkZvYzNwczJaalBvN0cxTlB3dkdNa3JmdGc?oc=5"
+    },
+    {
+     "title": "Ações do Magazine Luiza sobem 17% após parceria com Mercado Livre",
+     "source": "UOL Economia",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzVvMUZLRnhNQ2ZrM2UwTFZReFEwOGMzeUpPVGMxM1VuRDV2amd4OVJCLU05VS1UNzAxbXloaU9vQ1E0T25NbjVXZ2paRlFVUDh1My1xdjFCQ3JHMVoybkh2WHpJUzVYTlM4dzF4cWZVMmhLRDV6SFFQZlNuWk1BcnBiNEVrTVNXdThIcl9aSlhESm9LWlJPT2RpdkpONlQ3ZTV6YS1CQ2JNRUk4Mk5iSXhlMTFPOGE2bEtqeDFDOHJwVm1DLUJicExR?oc=5"
+    },
+    {
+     "title": "MGLU3: Por que as ações do Magazine Luiza estão disparando hoje?",
+     "source": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3hGUERqT3JyYXE4aE5fRjRXRVFGblhqbGpvTXhNVUtDNXlqWjlHajVIdnZyTkZtVExDQzJEei02eERWWVRCbEpDOVdNQmIyMUstOEU5bGpZckJmZVZyeHlYS2NRcFhqQWxsUXVDeTNMVjhVQXEzT3JHc1pNZzltNEd4WHQtZkdjLTl5LTBKSUpmeEdtdkVFUDBGUHRLUUZhS3QweWpSNEdYYmNINGZvb3dB?oc=5"
+    },
+    {
+     "title": "Magazine Luiza e Mercado Livre se unem para ampliar vendas",
+     "source": "Investidor10",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRmdDMmtnTnBBR2dlenBxaXZ0S0NyVUkzTkUtUkRUUElsM25wRVV1NzFQeHFjemYtbTdLLWxIT1JPWlNZNWNoaW4wTGxFRms0X0dwM2ljWl92SV9sRjI1OGZ6TngwNzNIQXRmZXNaYVY2T2pRNl9jRTZuRV85bGRKZWIxRVJnUzE1RnNVYjNBSE9kUTk5RENLejJpbEctVnFuLUVkQXpn0gGrAUFVX3lxTFB2aktqbzFBRlhLamdwLUtpMHBiZzc2YUNDWl9hZXlrQVdnb1ZxelFPOGZ0OTBvUHZxOUliRExMRWFyYmt1R3FiTW9HYzdyNXhydDI0OWUyOHB2NzFVT3hiQjBNaFJuU2tTNl9KVWY4U1Y3eTlVS3JXRTdnZGNEQ2tGWU1acTBCSmhyei0xMU1aeXNSUnhOWEdORGJaSXJvMkRQb2FFMVZ4MzhtYw?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1640,
+    "output_tokens": 186,
+    "cost_usd": 0.000257,
+    "latency_s": 1.74,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-20T03:22:48+00:00"
+ },
+ {
+  "date": "2026-09-30",
+  "prev_date": "2026-09-29",
+  "return": 0.1252,
+  "z": 2.66,
+  "ibov_return": 0.0137,
+  "excess_return": 0.1115,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "MGLU3 após o rali: gráfico indica até onde ação do Magazine Luiza pode ir",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU2t5alJPWXJJQWlGT2hBUldlWlFuWnVrYWlIRGNFTVBFMjU3d0xmOW5mMk51OENwSjJEM050OU03c0VYc2t5RnlmZGRDVjlsUUpMQzExaWcyU0ZjbFA0c3VycThjMXgtV3BzTkJldzJDS2R4eDB0c1hOYWRvMC1VVmN2OVI1MGljRUk3QmNvLUVCUkM0NzhfdzVUQlNFdUJF0gGmAUFVX3lxTE5UNk9XTEpZUDF2YS05YURxbGtmSWxTMWZqYk51Wi1FVjBBSzdqRTFtZnJidWdyeG9oMnVkNVhZa0ljMlBOLXI0UmZQdWx4QjlSNFhEYVB2WE5HVXdVU1ZwaEVuRWFIRDV0cGN4d2dySER1clhnN29rOFhaNzAtbFROSFpZMVRMdlVnWVAtNHhkWjE5QlBkUmtsVC1fVHZtcXR5NTQ4MWc?oc=5",
+    "published": "2026-10-01"
+   },
+   {
+    "title": "Magazine Luiza (MGLU3) dispara mais de 10% com queda dos juros, rompimento técnico",
+    "source": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLV9iM0VuLVJXei0xSnNHRWVJZnk1YnRpQkd3SWphbkhrMkNHVUhPcFBWNFZCaVBHVHZtaWJJUGcxZHhydGJOa2tLX2UwV016eGtzN3huQVJHZG5YV1duNnBHZ254RVdFanJGMmlGWTBXWHFweUdPLW1VSG5qLXFLMjdjWlBuS0FXcEQyRFU5eUhIV2FNeVNMMEVWVl91OTBYZjFjemF2bm5Wa3d5WGt0LV9OM2tXQzYwWFh5anN6b2wtMnpJT2l3ZTVXNlZDZWs?oc=5",
+    "published": "2026-09-30"
+   },
+   {
+    "title": "Rali de setembro: Magalu (MGLU3) dispara 61% e lidera altas do Ibovespa",
+    "source": "Investidor10",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWJ0cHlSbnRDWndvcUVLMHNOMWxidmRDNXlkVXN6UGhYc1I3TUxXeWxoTV8yaXBKOFVZY1BSeWEtNUFyWURDNEJ6SE1ySk11TUx2T0FMQV9hZmFoWTNaRVJqbEpPSWVJM2lCcUFIbU9WMlkxWFcwQnpxb1pzekpMYWFDaGhSZFprTkRGZ0JHTHFWLXcwQXA1VXlFV19aWmRnQ0hHbVlKSkRmc2l6SHBKVXhR0gG3AUFVX3lxTFBiTng1SUZhV0VUTFh0Vkk5OTNyUXhueWc2em84ZHQyb0FGbnRzMV8ya3pXLU5QeWpOOU05RzdqMlM3MUNibkU5UzUyQWh2ai13Vm5CZ0NwVnRtR2IyZ0FMbHRzOVBCWnlNVkM0OXRvWHBLck5qOV9vcG55dWJMd3Itejc2NFJiU2xoOVhMWHNQY1RWX3JJSkxpQlN1Z0huSFV1WkFqRHE3bG9ZekpmZ3V1U3dPOVlvbw?oc=5",
+    "published": "2026-10-01"
+   },
+   {
+    "title": "Magazine Luiza (MGLU3): Ações sobem 10% nesta quarta-feira (30); o que mexe com a varejista?",
+    "source": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeVg4N1Z2Vnc4bW81V2plR3lOQ002OXFYdzBSY1RQaldFVjEtVjVNNEhPaGlIUFcya3QxWTg3LU5zZmdQTVpac3ZfRm1BeXNRR0JDUEg4Q3BPb3NvWENOM2g0WTVDQ2lFQjZJMGZmWFEtQ0VkeUtkZlU5YlpjNWM2eWItQjZNaHVSUUt5S0dYaUNsQjdQdmFOVDR6RGhLdFptVWljQ3NhRlFrNkNaR0dSVjZrXzNfanFpUHEzZw?oc=5",
+    "published": "2026-09-30"
+   },
+   {
+    "title": "Maiores altas e baixas do Ibovespa nesta quarta-feira (30)",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTEdxalhLNGM5NkRoNmROdnpTQjJMZG5qdGZNWEdoX1BfN1VfelFmRGFuOUMwSXg1RWdWc2NBaE9lUm1BRTBrV3VjQnd4eTZlYng1dm5iMGZMclNZeF90bDV3VF9lMXY1a0hUeXpCRjRQQzFFcWV6WlN4ZC00dHN5VEV3OHdId3ZQVkhpS3dva2pGakVQaHRWYnY2WTdDQ3NDYnlUSkdicWNxUUZnSE0yYldMY2hxeF8tMnVUeXRTSmtIZlgzSzBWemdmdmlYZmx3SzVCcWtaOHl5QldNbUJnalB3?oc=5",
+    "published": "2026-09-30"
+   },
+   {
+    "title": "Magazine Luiza (MGLU3) ou Assaí (ASAI3)? JPMorgan aponta quais ações mais ganham com queda dos juros",
+    "source": "Guia do Investidor",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUUdTNVN4ZWJEU3FtbV9EUGJhMWdvWFh1cko5UXdaaThvTWtYOXo2OVlCM05MTUl0ODhhUnNtaFNMMHdTYW5EOEozenlBMURnTHM0bXJiQXB0UnN2Yjdxd0J6WlpfRnBDRy1DZWZsUjNZUVV3dllsN3NqVTN4NDd2RFFJaXhybHJyU1V1WUZxUHFsNHplYTQxRXBWUUlSZWRENGFyZWM0Qm10YmxUdzlrLWQ3Y0hRMmNYQVNhVDlmQVFEamxUX2VtSXNGaE51ZmVXSUE?oc=5",
+    "published": "2026-09-30"
+   },
+   {
+    "title": "Magalu salta 61% e lidera Ibovespa em setembro: por que disparou e o que vem agora?",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY1ZXZ1JuV2ZNaXZ0T0V3QkNiR1FGeVlDcGxCeGl4U1J3OWVMZlBUb2NIMFBNUVd4SkI2WGVSQ3JsS3NLTEtrWE9oZlQyOUR6RUtybUgxNnVuWnFRcEF6dklucl91WUU3dUhXblR4ak1jSnZXZkV6ZFRoZVN5QnRvQXFuaUw1VlpNTkZlMEFiTlFGcGtvYllRSTVkWUFKTVVydHRqcE4wdG4xcHpWOXFJSW5CYlJ6UkFZbVhSNy0zb3EyV1nSAcgBQVVfeXFMTlBQUnZTQ2pMZTlGMDdqaEN3TVkyN1ZoUm5OaEVaazBFcWlaaWVyNWNSbW5iMThuQU8zVGtzNkJ5ZXcwTlBpcGo3YWQxbmtKM2JCU0stVzdlZ2Vsc25wTzkyd29Na2hhWmZldXVOY2p5U3ZncXM0Y2FLQ1VkcXVQX1djdDdvZW1YZEJacV9fR2xjQVRmdTdhSW5hTVIwYXFiUnR3Q2FHeEJBMUFyX1VUYkdWZzRNaU1KdDFMbHhDU3F1TjQxMHRFcE0?oc=5",
+    "published": "2026-10-01"
+   },
+   {
+    "title": "Magalu salta 61% e lidera Ibovespa em setembro, revelam dados",
+    "source": "Paraíba Business",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdU9OWTl0bFJDN0pyTEJuekhuVkVOUENPUWpBY1pxZEYzMUEtYm9BRkxqaXF5Skh1LVk5MXpPZHN5Qmp0QzU1N1pRcXRWc3N4eWExVVhZbVpuR0RNUjlTcWYzYnA0N1A3SmdiTGJ2UmJ3NmdsZF84OEUwekJSNDJjeVJIa2NneXBGZk9IZEdJRGI4T3Mx?oc=5",
+    "published": "2026-10-01"
+   }
+  ],
+  "ai": {
+   "short_reason": "Queda dos juros e rompimento técnico impulsionam ações",
+   "explanation": "A ação da Magalu subiu mais de 10% em 30 de setembro, com reportagens atribuindo o movimento à expectativa de queda dos juros, que favorece varejistas, e a um rompimento técnico do gráfico. Uma análise citada aponta a Magalu entre as ações que mais se beneficiariam da queda dos juros.",
+   "type": "macro",
+   "confidence": "medium",
+   "sources": [
+    {
+     "title": "Magazine Luiza (MGLU3) dispara mais de 10% com queda dos juros, rompimento técnico",
+     "source": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLV9iM0VuLVJXei0xSnNHRWVJZnk1YnRpQkd3SWphbkhrMkNHVUhPcFBWNFZCaVBHVHZtaWJJUGcxZHhydGJOa2tLX2UwV016eGtzN3huQVJHZG5YV1duNnBHZ254RVdFanJGMmlGWTBXWHFweUdPLW1VSG5qLXFLMjdjWlBuS0FXcEQyRFU5eUhIV2FNeVNMMEVWVl91OTBYZjFjemF2bm5Wa3d5WGt0LV9OM2tXQzYwWFh5anN6b2wtMnpJT2l3ZTVXNlZDZWs?oc=5"
+    },
+    {
+     "title": "Magazine Luiza (MGLU3): Ações sobem 10% nesta quarta-feira (30); o que mexe com a varejista?",
+     "source": "Money Times",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeVg4N1Z2Vnc4bW81V2plR3lOQ002OXFYdzBSY1RQaldFVjEtVjVNNEhPaGlIUFcya3QxWTg3LU5zZmdQTVpac3ZfRm1BeXNRR0JDUEg4Q3BPb3NvWENOM2g0WTVDQ2lFQjZJMGZmWFEtQ0VkeUtkZlU5YlpjNWM2eWItQjZNaHVSUUt5S0dYaUNsQjdQdmFOVDR6RGhLdFptVWljQ3NhRlFrNkNaR0dSVjZrXzNfanFpUHEzZw?oc=5"
+    },
+    {
+     "title": "Magazine Luiza (MGLU3) ou Assaí (ASAI3)? JPMorgan aponta quais ações mais ganham com queda dos juros",
+     "source": "Guia do Investidor",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUUdTNVN4ZWJEU3FtbV9EUGJhMWdvWFh1cko5UXdaaThvTWtYOXo2OVlCM05MTUl0ODhhUnNtaFNMMHdTYW5EOEozenlBMURnTHM0bXJiQXB0UnN2Yjdxd0J6WlpfRnBDRy1DZWZsUjNZUVV3dllsN3NqVTN4NDd2RFFJaXhybHJyU1V1WUZxUHFsNHplYTQxRXBWUUlSZWRENGFyZWM0Qm10YmxUdzlrLWQ3Y0hRMmNYQVNhVDlmQVFEamxUX2VtSXNGaE51ZmVXSUE?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1513,
+    "output_tokens": 182,
+    "cost_usd": 0.000242,
+    "latency_s": 1.78,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:44:16+00:00"
+ },
+ {
+  "date": "2026-10-05",
+  "prev_date": "2026-10-02",
+  "return": 0.2418,
+  "z": 5.1,
+  "ibov_return": 0.077,
+  "excess_return": 0.1648,
+  "scope": "market",
+  "news": [
+   {
+    "title": "O jogo virou para o Magalu? O que esperar da ação que subiu mais de 50% em um mês",
+    "source": "Exame",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ1RxZjJzVE80cHB5dDNkam5WWnFkR1BOYU1ILTZNY2FXczRlUE9QMi1hdTNSdHVtdC02bFRVMEZ0VVJQZ1pfbXh2dHFqb3FYSmN3Xzk0ZTQ0eDlzeTV2dVJRajNibWtNM0k2ZDliNmVTdUhrdERDVlJOV0J2dmFEUmFLZXlYb0dlMmZIa0ZKQmJzZlROYjY0bm4tZ1hhV1pLUnNqUEEzWk8yTXdqeXdtQWJremU?oc=5",
+    "published": "2026-10-02"
+   },
+   {
+    "title": "Magazine Luiza (MGLU3) dispara 28% após 1º turno das eleições colocar mudanças econômicas radar; outras ações acompanham",
+    "source": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOel9oMVlwVGg4Ti1OaTJtVDdEcDNLNi1CejhNUXN4VEhhNmpnblFwbmt5RFVRc1lCOVAzQjRuN2RHdUVSRFNwVzc2dnBReXRuWDRSWU44MkVOWVZSQmh4dXBsVTZUR3pQWTJsNzhYU2Z6dm1ibm5LRTlWVFRvYVpVUGxmbFNyR0xJejBMdEMyZkJJR2JmTE5XRGRVM0dtUmZsOWNLM2M3WnlsWVhQYTdYdldWcW5yMmlnZzdMNmZTcm1CdFc1Y2NHWlVMa0dNM2M2bTExWmlpZi1VODB4MHVhYS1n?oc=5",
+    "published": "2026-10-05"
+   },
+   {
+    "title": "Magalu e mais: as ações que disparam na Bolsa com vitória de Flávio no 1º turno",
+    "source": "VEJA",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUWNXMTU2RW9kNE9XYlI1cjY1NTNta1hITWYzS2xrUGtxeXhKemdJR1BTTGZrWFBaYTRycGdHRU9NMmxVRjAwVWpHS2hVUXVKRGJ2YVFLR3lockY3bnBBbVlId1gwY09VSnRCMFlKUnpfUWMzUGYzWjdfbGlCWlRObjgybm9Pc2k3cE1nZE1RTjI0Rmk3V2xqTDlYYU9hUS1DV055X0JUOWtVZ09vUU1lcGQyQlkwTTNiVnJQV1dvQQ?oc=5",
+    "published": "2026-10-05"
+   },
+   {
+    "title": "Quais ações podem ganhar com o resultado do 1º turno? Citi destaca nomes do varejo",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUm9SQmVYalVLM2VKWk8zTXl1Um9ydW02anZoNTI5SVQ4X0lESzgtUkxGMUVERVk4NE1NbkJIV01wVFV4NktpMWNIVUYzX3dDYjA1N1NrT0pxNHhEUFhpemw3cUlQSkRESTlzWHU3MTdBZnBPaXEzSGFWWGxBazJXd2hYcUFHTVl5WC1ONlAxWE94NFc1eFV5dzRhNVdKUjRlR0NBdjFKa2tWWE9JZWV0YTlMMjNGY0ltd1d2cEVyeG1UZWYwb3VTaVVDemdKSlgwSVF0Mlhn0gHbAUFVX3lxTE9Wb0FBcEEyaUNwSldXMkk0RHBBTU1FNFZMS0l4NlFpQVg3VEVUdWJwd2hGUW1qQzl0OHpwYTRPeFFtbjh0V0p2eWZ6S0xlZUlSNnlHUWE5bW9kT0Fkak5MVU9tS0lPVjFsT25xbWN5WHdOcE1wM0NfSlBDcC01OXZkazV0dnRpbDlvajBRbWRDLVVFRDVIQTdxMjdDa1Zrb3NLZ2FQYzN6Q0NJbjYtZy1STy1WUng2NlVfVmdpUEpsYU1FYVVGcVMwczV5MzN5OGloQ0g3Szd5SUhyZw?oc=5",
+    "published": "2026-10-05"
+   },
+   {
+    "title": "MGLU3: O que esperar para outubro? Confira a Análise Técnica de Magazine Luiza",
+    "source": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHpSaXlQdkh0aEdFSWY4R1JTOTB2dW52Mm15UE5vYkNzRXh1a2ZYSll4eUpvRTdEY3BjWWh6QnQ3SFR5VlB4eWFrRzBNSGVORmNpWlBUTW15SXg3ODIwMUJfVUFFVF9tTGZTeHliclhfT1NHR0JzS2pzRGlvX05IWWtlUGtRYnhZeWF0d1BLWTRNbFRNTDJxMktTSTVfck9rWExVWnRWcjUzdVNqS3pZWEM0di1QeDVMbHFsQw?oc=5",
+    "published": "2026-10-04"
+   },
+   {
+    "title": "Dólar cai a R$ 5, e bolsa sobe quase 8% após primeiro turno",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeG0zZVpfaV9NVG1OM1JoQ3A5Rmk0Zm5ZVDFSUWR0bC1aM3FzaHZGWldWRkxiUlpBRFZKdF9kbFpCMVgtUkVORTNfeFc2aW9rOHNhY2Z4RHFWTEd0cEJJN2JhQm9hOERRTDBRemxmY0xfTzZxUlZ6V3d1SFl5MmlTc3BGNzBocDU5cnY3bGdYNmlPcDdVZGI0LWczc0JDWnI2d1hSS092UVJVV1JZMERmQUR3?oc=5",
+    "published": "2026-10-05"
+   },
+   {
+    "title": "Bolsa sobe, dólar cai: o que está por trás da euforia do mercado com vantagem de Flávio Bolsonaro no 1º turno",
+    "source": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSeWZzYWl1Q2YydHNyLU9QS09nUlladTNPVC0tSllaeWhoU0kzN254QXdHSnZnYzRZbW91cDdWSE84T0MybkNvTVhuR2pJOEdIU1YxellTWnU5Y3l0YzFjT3Z5UdIBaEFVX3lxTE1lQUVNbm04WnJFaXQ4UGhwOUY3eUZ4RHgxa2J5WVEwTkV1a05XLXFvajJXSkxnMG4tR2phV0V5WURkM25zTDBxeHJTNDJHRmRYYW94TERVMHRBZ3Nuc1BGS29KYlQ3cWV3?oc=5",
+    "published": "2026-10-05"
+   },
+   {
+    "title": "Só correção? O que explica queda do Ibovespa nesta terça depois de salto com 1º turno",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWRFSmJYTU9lZ2hzTHdZUnpYc1VNMHRUX2VWM1Q3MnlHNDd0d19KdVBKTS1xWDRmclpvUHQwR3A0Sks4cHUtbGViWE12Zm83YUFpYUdZMUlvWnNDTF8wR1R0RE9wX3UtaUk5R0t2eGVxSUstY0wyMDJpZGJKNFZvU0xoU20zNXBndDRROC03cUMzYkZNMThVbUFqeXozM3VnYWNhek1rbDBnSWtlQ0wzQWNYNjBZcTFJcXF5OFk1R29fM20xS0HSAcsBQVVfeXFMTU95ZWFQU3ZxaDZCR3BIOTY5UWx5TkFCdWw2MjE2d0lZMWtrdXRQRG1BOE1BN2VERHR2Q2hKSUg4ekl5djU4a1pYLWlrV1ZJN2dRcVh1VUx5ejRJelZObFZBMk9UOC1JQkI5SDdyS2Q5NW5DNlRGa3BJMVV2cnBBLVU5Z3lMbE1CWnZRd3dYNnVOMkQ0R0QySlo2S2dkNGV4aGNzYmItcXNrbHR3c3ZGemliN1pjLVFCRDk1bTYzTEd2Ry14RnBqWWxidDQ?oc=5",
+    "published": "2026-10-06"
+   },
+   {
+    "title": "Enfoque - Informações Financeiras",
+    "source": "Enfoque - Informações Financeiras",
+    "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQRHdvaVZZYmxIX3FxaEptYW5CZC1odDRXVTZLM0FuSVR0TC1oaElkSzk5SjJva3oxRGs1N0hQYXJFTHZZeEk5V1JBWmc3Z2ZkMldvNUJGbC02WldVV2xCVXFlRTFZc0pqVGhaQW4wc3NtM2h4VjdYQWs5aldSbGVnNHVOZmhjd2pwakpZNlJyMjFRYl91UHNNOVgtcXFSdnlnSDRTbElETlZBRF84N1dLemdiVW9KU2JmM1FQWFhKOHVMSWEwWlgtdm5VczNxUm5qaVVEOGtwbG5tZ2pFZnFlRVU2MUZPT1ZqSTBCUGZpaEJGUEZCRF9OdDNhT0hJSFdnSUFacVdINHRXbVN6dVg2UmxqTnNRQm10emtYSTExSjVxM2JoREUxWFNVWU5LU19GWmgxeFpjZlBPSEN0OWF4cXctTTZud1hXS1lnR1V6MHdrWHpMd0h4OVpXQjFMZ1kxWVdGaWdHS0FKdkxFTi1wUTZGdmRtQUw0TlVmcFRjU0t4YjV2elViVTJ2WXdPZWR1c0lodFl5MklWa0o3TGMwLVVoTzB3dDdYSWl6LThNX1ZTb2JIVl9XdzhYUF9XVFlPVFdKUGFKSFlhZ0VRZ3RwcmZLZjRieDIySlpiNlFvOW1fR2ozZ3kybTJFbm1SR1N6UHoybGRodk1CZ2s?oc=5",
+    "published": "2026-10-02"
+   },
+   {
+    "title": "Ibovespa dispara e dólar cai após 1º turno: por que a vantagem de Flávio sobre Lula animou o mercado",
+    "source": "G1",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNHJuOVBldFVGVnlrbFgxd1g4VHUwMGNybkZTb2xZOTJjUFl1VjBmVXhNQ3ZrNG1Eb1NkUnk1U2J0cHZMWFRCUDJkSVhRemhqZjJMeTB2a3NiLW1UTHRURmpDbjBvbi1yaFpuMWJKYm1WUTZRWFJQMkVMdHB5VHQ2QWNNQjVoS25rWFk2WGZXdncxVlhrMk5mVk05YWJpcy1yTmcwVkxWcE9jWlZtZ285em4xR0lQVGl5QXc2Z0xPcE9peUN2T24ybTZldDZ5ajdQN2ZBSWt2aFJRaXpQOE1HZ3F4QmdDWFBBSkHSAfgBQVVfeXFMT3ByVHRWMkgtTkRJTFoxRXQ4WU1NMjVDRDFNZEl6OGpBdjZhNzU0c0RpTFBMNGNUX1I0cnU2Ync2bFV5dUFqMXlMNExnWW5jVEY2a1AzeVFuRWJzOGEyUFUtOUh1X2NFOHpYdGxPUE1jeUJrenJ6T2VMV3VlYnphOFBvM2IzVkF0Z3A2cXJSY2FSQW4tY21BQk5WcUJXeTBoZTQ2RkNWSU9TUVhoRzFwSlB5dkozRnZtd3AyMmEyQXBxY0xkZW5KUUZYYWtVazB1TUN4TmljdGFMT3E0bVlSWnZfWGF2MVJ2S2FIcjlCdXRseW93ckxKTzI?oc=5",
+    "published": "2026-10-06"
+   }
+  ],
+  "ai": {
+   "short_reason": "Resultado do 1º turno eleitoral impulsiona o varejo",
+   "explanation": "O mercado reagiu ao resultado do primeiro turno das eleições, com a vantagem de Flávio Bolsonaro vista como favorável a mudanças econômicas, e o Ibovespa subiu quase 8% no dia. A Magazine Luiza foi destacada entre as ações do varejo que mais dispararam, em um movimento que acompanhou a euforia geral da bolsa.",
+   "type": "macro",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Magazine Luiza (MGLU3) dispara 28% após 1º turno das eleições colocar mudanças econômicas radar; outras ações acompanham",
+     "source": "Money Times",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOel9oMVlwVGg4Ti1OaTJtVDdEcDNLNi1CejhNUXN4VEhhNmpnblFwbmt5RFVRc1lCOVAzQjRuN2RHdUVSRFNwVzc2dnBReXRuWDRSWU44MkVOWVZSQmh4dXBsVTZUR3pQWTJsNzhYU2Z6dm1ibm5LRTlWVFRvYVpVUGxmbFNyR0xJejBMdEMyZkJJR2JmTE5XRGRVM0dtUmZsOWNLM2M3WnlsWVhQYTdYdldWcW5yMmlnZzdMNmZTcm1CdFc1Y2NHWlVMa0dNM2M2bTExWmlpZi1VODB4MHVhYS1n?oc=5"
+    },
+    {
+     "title": "Magalu e mais: as ações que disparam na Bolsa com vitória de Flávio no 1º turno",
+     "source": "VEJA",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUWNXMTU2RW9kNE9XYlI1cjY1NTNta1hITWYzS2xrUGtxeXhKemdJR1BTTGZrWFBaYTRycGdHRU9NMmxVRjAwVWpHS2hVUXVKRGJ2YVFLR3lockY3bnBBbVlId1gwY09VSnRCMFlKUnpfUWMzUGYzWjdfbGlCWlRObjgybm9Pc2k3cE1nZE1RTjI0Rmk3V2xqTDlYYU9hUS1DV055X0JUOWtVZ09vUU1lcGQyQlkwTTNiVnJQV1dvQQ?oc=5"
+    },
+    {
+     "title": "Dólar cai a R$ 5, e bolsa sobe quase 8% após primeiro turno",
+     "source": "Agência Brasil",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeG0zZVpfaV9NVG1OM1JoQ3A5Rmk0Zm5ZVDFSUWR0bC1aM3FzaHZGWldWRkxiUlpBRFZKdF9kbFpCMVgtUkVORTNfeFc2aW9rOHNhY2Z4RHFWTEd0cEJJN2JhQm9hOERRTDBRemxmY0xfTzZxUlZ6V3d1SFl5MmlTc3BGNzBocDU5cnY3bGdYNmlPcDdVZGI0LWczc0JDWnI2d1hSS092UVJVV1JZMERmQUR3?oc=5"
+    },
+    {
+     "title": "Bolsa sobe, dólar cai: o que está por trás da euforia do mercado com vantagem de Flávio Bolsonaro no 1º turno",
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSeWZzYWl1Q2YydHNyLU9QS09nUlladTNPVC0tSllaeWhoU0kzN254QXdHSnZnYzRZbW91cDdWSE84T0MybkNvTVhuR2pJOEdIU1YxellTWnU5Y3l0YzFjT3Z5UdIBaEFVX3lxTE1lQUVNbm04WnJFaXQ4UGhwOUY3eUZ4RHgxa2J5WVEwTkV1a05XLXFvajJXSkxnMG4tR2phV0V5WURkM25zTDBxeHJTNDJHRmRYYW94TERVMHRBZ3Nuc1BGS29KYlQ3cWV3?oc=5"
+    },
+    {
+     "title": "Ibovespa dispara e dólar cai após 1º turno: por que a vantagem de Flávio sobre Lula animou o mercado",
+     "source": "G1",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNHJuOVBldFVGVnlrbFgxd1g4VHUwMGNybkZTb2xZOTJjUFl1VjBmVXhNQ3ZrNG1Eb1NkUnk1U2J0cHZMWFRCUDJkSVhRemhqZjJMeTB2a3NiLW1UTHRURmpDbjBvbi1yaFpuMWJKYm1WUTZRWFJQMkVMdHB5VHQ2QWNNQjVoS25rWFk2WGZXdncxVlhrMk5mVk05YWJpcy1yTmcwVkxWcE9jWlZtZ285em4xR0lQVGl5QXc2Z0xPcE9peUN2T24ybTZldDZ5ajdQN2ZBSWt2aFJRaXpQOE1HZ3F4QmdDWFBBSkHSAfgBQVVfeXFMT3ByVHRWMkgtTkRJTFoxRXQ4WU1NMjVDRDFNZEl6OGpBdjZhNzU0c0RpTFBMNGNUX1I0cnU2Ync2bFV5dUFqMXlMNExnWW5jVEY2a1AzeVFuRWJzOGEyUFUtOUh1X2NFOHpYdGxPUE1jeUJrenJ6T2VMV3VlYnphOFBvM2IzVkF0Z3A2cXJSY2FSQW4tY21BQk5WcUJXeTBoZTQ2RkNWSU9TUVhoRzFwSlB5dkozRnZtd3AyMmEyQXBxY0xkZW5KUUZYYWtVazB1TUN4TmljdGFMT3E0bVlSWnZfWGF2MVJ2S2FIcjlCdXRseW93ckxKTzI?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1611,
+    "output_tokens": 204,
+    "cost_usd": 0.000263,
+    "latency_s": 1.83,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-20T03:22:53+00:00"
+ },
+ {
+  "date": "2026-10-09",
+  "prev_date": "2026-10-08",
+  "return": 0.1922,
+  "z": 3.28,
+  "ibov_return": 0.0138,
+  "excess_return": 0.1784,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "O rojão MGLU3! Confira a análise técnica da ação de Magazine Luiza (Magalu)",
+    "source": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVGZOZHg0VC1HdnZ5OHN1RnVSOUtRQ3kwQmtOVVZOclJIbURwb0hxcFVIYWROSmNQUkM0SmQ1NzgwYzd0eXFWREVZUkZMTVJwOUx6VkhjR1FQLVVaYmFiMkVGQUNkSTE5d2h3N2dRa0owNUphTUM4ekFiUndvY1l0dW9yWEZBUDRfSl82SnZxWUJiQVdzMnV3VDQ4VS00QldvS0xRX3JFYnJRN2tQRmRHdWtTSDJuM3M?oc=5",
+    "published": "2026-10-09"
+   },
+   {
+    "title": "MGLU3: Por que Magalu subiu 5,5% nesta 5ª depois de já ter saltado 27% na semana?",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNnY1MldIRjMzRXFfZmhuTjBqc0dpS1VTTWpYUU1Sa3NUYjNwM1hVTXFIWWt1MzlST2Y4cUh1aXJYWlc4UDZKQ3IxZmlSTHBvU0tJN202ejZ4R2dVNFRnbkVGZktmQXdYbV9DLWxmdHVwZDJJQlRRaW95R21SYWF6T01ablZzYjJTa01INjdLejlqLWgyb1RaQ2RHUW1GTzI4YmNmWk52MFJWVW1oZ3h5blppOFRzblhYbHd5b9IBwgFBVV95cUxQN3BDU1RGNEtnN2RfaXpGQ3UyOXM1TkNuZEFQc3NRRE94enFSSlRmOWRya2F5WFBMejdxQklPcDlCdTlwak5Vb0J6VWNPR3UzejNYYVdlZHVwNzJHNWVzcTRnMzhERnRmVVExZGtIY05QZEs2M0RYVWJWVG5pdmFsWUlkSnNqZ21yNEl1N1E1STFBYVdfWjBjMGt0ckNjeUN1WGo3RzJOT2Z5dWE1TVdXZ1R6MWYxUFZGOWFQbzhTRW16UQ?oc=5",
+    "published": "2026-10-08"
+   },
+   {
+    "title": "Magazine Luiza (MGLU3): O que está por trás da disparada de 20% nesta sexta-feira (9) e de 45% na semana?",
+    "source": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSjYxemFxMzZwbldQdS13R1YxUm5xcnJMNVlPN1FKVDBmVjBnYnhReS1FMVdUQjQxWUEybGNsNHk1NUFIZFZneHRKUG45REhNYlBWM1hIN1F1aGNsVFo1YnFOdGo3RUJVXzlselNSRVAwU2hRZ0JyckJBWTU4blBkck9JSnZIN05FYmx2dFpiOUEwZDBCc2ptS25ZcU93Z3NYYUhVWWtPNDhwWEk3Q29KSXZCY3ZYSWQ3M0Z2NUVPaThoOGJoUjRPdjBuemMyUQ?oc=5",
+    "published": "2026-10-09"
+   },
+   {
+    "title": "Magazine Luiza dispara hoje e acumula ganhos de quase 50% na semana; o que move a ação?",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY0hod2FPc250eFB5ME1iekNENF9rcEJCVTYwWDVkOGlOZFd4eGRkT1J1aFVoSlluTTZTQXN6NFBaaVBNb1BwQ002VUFNc0xnbXBvMTRNS0tYQUowcmFvQXdURUZ3dmlKSU05WEZka1hVY1VKZnpNajk0djBpZlBxOElWenFiNEktZGZIX3prb3R2QmZ3M1FKeEI0RlVabDFnX0tObXYxMW5RcjBGNndlYWszN3B0QkxiQzRRZU1NaV9KUUtBV1ZmS0ZESThLaV9kWU1YVmI0Uzl5bXPSAeABQVVfeXFMTk5oRkJoS0pUQVY3M3g2Qzc5VWVUTng0R29CUFZocjJnblN5WVprMmVrb1FHc1M3RHdlWnlmS1hWeE0telQyaWI1NW5mUTlxbnp3X0FNdktYYW5jbGZ5N19ZZHNwQUNmbUNrRVAtVTZwYm5MbkhJY2ZzbkE2UFlJNjdYQXRYbTVvLTY5b3VCNnJ1VV96WkZSVDUwQUhpSFRXa3dzdjZBMmRwTGNvV3FpUGdCVGs5WE1mS21CT3d2V1RoOVFmZFhxSUpwT0JNaHQyZmJBRnBzcWh5ekxFSU5SRWg?oc=5",
+    "published": "2026-10-09"
+   },
+   {
+    "title": "Morgan Stanley aponta ações que podem ganhar com a queda da Selic",
+    "source": "ISTOÉ DINHEIRO",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yVjI5TGl0UDFrdmJYMWExVndiTngxMVI3eUJqWEpQOW9Ja0lvRVRzTE1qbzAzbktXeDh5OEVNaUg1cTFvXzR5enYxS1NFQURDRDhraDBHV3BhNkpDV1BwMTY3dVNEWVhsdlBqRnpxMG5Fc0hmZXR0RlNiNWU?oc=5",
+    "published": "2026-10-09"
+   },
+   {
+    "title": "MGLU3 estica rali e sobe 28% na semana; veja os próximos níveis da ação",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZkg0R2NrRU50bDNVQ09fOFJ3MkNuSE5KcGszcDk0bUgwaFFhZzhrTi1uaFNpcWRZOTBoczRXa1kyeTcxYW9NSGJmRU51alVHRWo3OG5xLXBzblNaVFNsRHkxMmFGZmphWi05Q3F6cWdIa3NKM1dRVkpUNkM5R0IzTjE3M0JFWDVteHlEeE5FSTZBRU45bExFcm42SElZMTBJWTNKRlRfbDdVdko10gGyAUFVX3lxTE9MS2lDbGI3ZkJfd1M4aVVpblM3dmEtbDdVd0YyZVFHUUN1ZUkzY0t3QkdMMUJVVGxxRHBwUHhScThZZTBhb0p5TExZUlpWZ2ZhSGk1bmRMM2Y0V2ZsWXNOUXItcTVjbG53VmE4TnI0MkVDcVB5OU8tSjBVaWwyQnpuOXRhd0pTZTlyaU1MVXZyREhsOFpEajBzYnpXYUlDXzN6R0dJUnQzbHltVy1WbUFhRVE?oc=5",
+    "published": "2026-10-08"
+   },
+   {
+    "title": "Ibovespa salta quase 9% e tem maior ganho semanal desde 2020; Magazine Luiza (MGLU3) e Embraer (EMBR3) são os destaques",
+    "source": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJc0ZkVjV1bkpfOW1iVEZ2c3BrSVBTc1BpU2UyOTRPak5XbXRRbEtfUXBKemlDQ1BLajU3WFZmR3oyRml2dWxrN0g3SXViZUNFNkN3SnUxaV9hN1BBVElBVXVZQm1LeDVkVkNYZFJ2dkRkNjJWVVE?oc=5",
+    "published": "2026-10-10"
+   },
+   {
+    "title": "MGLU3 lidera ranking da Selic: veja as ações que mais ganham com a queda dos juros",
+    "source": "Guia do Investidor",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeU15UUg1Q1JuZFNFSHV0VU1qV0R4T1ZCbjBHUUlwWG5uWEZrQjA2eG4zbExISUtBdmR3d3Nfc2d1N0xXSzgyUWRGS1dqVFJFbmVTTTI2bFpqQ05jZk5VZ1l3aTJtYm9BSHV4Q1R2ZnJsUXNlQmdWR29HQlZyMy1XZk1HZlh6MDJ1OS1HTDdzdWpJMTFvRlQwN294VXl5VDlVcUNFY09LQUpTUlc2bmtzS3FmWGFuTWtPUG0wR3VIUQ?oc=5",
+    "published": "2026-10-08"
+   }
+  ],
+  "ai": {
+   "short_reason": "Expectativa de queda da Selic impulsiona a ação",
+   "explanation": "Reportagens citam a MGLU3 como uma das ações que mais ganham com a queda dos juros, e a Morgan Stanley aponta papéis que podem se beneficiar do corte da Selic. O Ibovespa também teve forte alta na semana, mas a MGLU3 subiu bem mais que o índice no dia, e as notícias não detalham um fato específico da empresa que explique a disparada.",
+   "type": "macro",
+   "confidence": "medium",
+   "sources": [
+    {
+     "title": "Morgan Stanley aponta ações que podem ganhar com a queda da Selic",
+     "source": "ISTOÉ DINHEIRO",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yVjI5TGl0UDFrdmJYMWExVndiTngxMVI3eUJqWEpQOW9Ja0lvRVRzTE1qbzAzbktXeDh5OEVNaUg1cTFvXzR5enYxS1NFQURDRDhraDBHV3BhNkpDV1BwMTY3dVNEWVhsdlBqRnpxMG5Fc0hmZXR0RlNiNWU?oc=5"
+    },
+    {
+     "title": "Ibovespa salta quase 9% e tem maior ganho semanal desde 2020; Magazine Luiza (MGLU3) e Embraer (EMBR3) são os destaques",
+     "source": "Money Times",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJc0ZkVjV1bkpfOW1iVEZ2c3BrSVBTc1BpU2UyOTRPak5XbXRRbEtfUXBKemlDQ1BLajU3WFZmR3oyRml2dWxrN0g3SXViZUNFNkN3SnUxaV9hN1BBVElBVXVZQm1LeDVkVkNYZFJ2dkRkNjJWVVE?oc=5"
+    },
+    {
+     "title": "MGLU3 lidera ranking da Selic: veja as ações que mais ganham com a queda dos juros",
+     "source": "Guia do Investidor",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeU15UUg1Q1JuZFNFSHV0VU1qV0R4T1ZCbjBHUUlwWG5uWEZrQjA2eG4zbExISUtBdmR3d3Nfc2d1N0xXSzgyUWRGS1dqVFJFbmVTTTI2bFpqQ05jZk5VZ1l3aTJtYm9BSHV4Q1R2ZnJsUXNlQmdWR29HQlZyMy1XZk1HZlh6MDJ1OS1HTDdzdWpJMTFvRlQwN294VXl5VDlVcUNFY09LQUpTUlc2bmtzS3FmWGFuTWtPUG0wR3VIUQ?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1540,
+    "output_tokens": 652,
+    "cost_usd": 0.00048,
+    "latency_s": 4.17,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-19T23:44:27+00:00"
+ },
+ {
+  "date": "2026-10-26",
+  "prev_date": "2026-10-23",
+  "return": -0.5823,
+  "z": -9.42,
+  "ibov_return": -0.1388,
+  "excess_return": -0.4435,
+  "scope": "market",
+  "news": [
+   {
+    "title": "Magazine Luiza (MGLU3) recua 58% após reeleição de Lula; CEAB3 e LREN3 caem",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaDk5YnJ1SzdteVViaDJ4Zy1SUmFHb2drQ0gwRi05eWM4UFZ5MnQ2VGx2UFZFTlVxcTE4ZVpZd2V0ZTJ3eEkxMEVSVEdOWU94eGxNc184cHNubGN0eXRKUVlIQnROMjZjRzZxZzJDNWtzNUlPYkFxZkFWSFZITTZlNEQtZmVtVnJ1YU85STZ5N2dyNVVsTGdUMHVKNmh6cnNhcWU00gGoAUFVX3lxTE9vZXZUMi1aNmZMQkNqQWQ0VF85bVRmeGVpV1JiLWhJV2xwYnVFY1ROczZieTVmS3k4UGJTS1JxOEN2ZjlmLXRaOTZ0QzBLVTRYcTFoSm5reVM1RlQ2anNaWTE0WkpMakpEdjRucjBRZHRPS3NJNm9kd196LXNRWXdMQmFzbC14TzJFYUtCcHF0ZDYyQkRyOEpBakQ0NXNjYzhTOEp0bHpCQQ?oc=5",
+    "published": "2026-10-26"
+   },
+   {
+    "title": "Magazine Luiza cai quase 60% após eleição. O que fazer com as ações MGLU3 agora?",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNjJyeXJTQ1FOdGZ1WURVSUtQSXpPbjdHSnpISV9CRWxYcF9zT1cycXEtdmFkenV2bkhBcy10bTNYb0JMQ3BxN1BSZldCRXhXcTUyTDBfaWhBOG1hc3JHclRILVhaNWVjU3VDMnJ2MHFSalc0Qjl0UEtlQ3luU3ZFZ0xHc2YwYWRfakJWdEFUTUdmaEk3eWVSWjBkS0tXRGVrdktmZWkzcDV0YlVta09Bdzdtdk14RnNhenZNY1BINFpOaXBSQ2luUjdONWg3QVd3eEHSAdcBQVVfeXFMT1ZlSmpJWDNnZVFJTlExV2t1OGFSeEZkQnhHc1ZhTzVVTllqSFdmYnZpYW5JejRPa3h5OUZWVWN6YURYUllTZURkdHUtTHVMT2hYbjlSN0stVFo3Q1d3dEg2MzRRSzlhZ2ZOV0s5RE1Kajl5VzJWb3JOUzVWc0hNOXB3UkxHVXVnMmctR1Q0bnFaRkJ5S044NWxVTnJZeGR6eWVBbXZpczI5UUgyMVBrODc1enRXZHE4TVA5T2wzQWFMWl9Ub3J4dWx1TTQyMWhyUDJweXhVdUk?oc=5",
+    "published": "2026-10-27"
+   },
+   {
+    "title": "Ações do Magazine Luiza cedem 58% e tem maior queda diária desde 1994 após vitória de Lula",
+    "source": "Valor Econômico",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcGhMb1lreWlXbXFlRHNxMDVZNkxtTG5NWDJMNC1telloX0tsbzUzZjJqZkU2Vmt1Ui1USi0xV3E2dVdfNUw4bUFqajdpWFNkSkRxQnQyam9XS2NIZTNiZWRxNjIwMkJXTjRtWmpWVm1uXzdpRVhYNVhmTGpNTDQ4Z3V6UE1xTzNpbDdjZFMyOVRHWlNuRG5waDhIdTlFNkJKcm1PTGFvUVMxOVBicVFSQUpKMlFOWWpxS0M1VFFreWFWb2NIeFhEbVliRm5BZkFBOHgyRzFTMlNDWDE5UVBVQWsyYkpMUUVSVm0zUWlEcWpuOFHSAYICQVVfeXFMUFlMTnZqaUdFODY1VkgwaFoycFpCTEhCSl9Edkp3dnRDVE5pdllrMGdPQUhscGpIenBKN0xwWlNEYWJfWHFNU01pZ19lLTVaSGZUUzZNRmVvM0llTjJZM3hGeW5GdUNFMENMbUlCeVdwR0RQR250Z1dvald0Q21VbVN0MC0wQVNsMEVjaUdJWTRzeHVzTUY3RWdUWE5MY2VVMjZiQUJkTFh2dlpUWVMzamlyc0kyVnoxNk1ULXRZREZvQnBNLXU3WVU0c2ZVTUJORk5vckhqMTBsUWtDZkgzbFgzTl9oM0RYUDQtMnpWN3FtTUhPbkJhaFpib0E4WjhsM1l3?oc=5",
+    "published": "2026-10-26"
+   },
+   {
+    "title": "Magalu despenca 57% e C&A cai 47%; Cyrela e MRV têm queda de mais de 40%",
+    "source": "UOL Economia",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUHhkdHBzT0JiOEV0VzVfZEVZNXQzeWdHaFB2SFF6RUtLQWhYWkxudWctWHNPNkM1WlFTUHlKV1F6UXpLYnUtR0RTVkdGOWdacnNOREtBZU0yZ3dNelV5VXpMUFBQQTAwOGlhSjRuSFE1TkNYY2Utc1hzc2NqVXltZ0cyeEdIWlhmWnZoRTl5QzJJRXNFdC1zMXg0OVBKZEo2QkFqTEdHLTRUekhCX1B4VS1oMjRCQm5YVXUxU1ZKZmNUVHh5bExfMXVLaTY?oc=5",
+    "published": "2026-10-26"
+   },
+   {
+    "title": "Magalu e Assaí lideram perdas na Bolsa; ações recuam quase 50%",
+    "source": "VEJA",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYk9fRVFfdi1HM0MwNVp2bHAtcDVIS1lQc0tjRURIcW5vZXBlQkl0Y00wSjBmZUNjM3RpQ0FtTWN0MV90eXg4Y2pVdGJ6ZjhaektDS3FrN0RvRHdjeFAyaWstOUdFbUNOLXlIM0lUelUyS240RnMwRkd4R013TE5fTUI1MUlud3R2c1RZdXZJbzY0WXRoMjBQU0xCR0U?oc=5",
+    "published": "2026-10-26"
+   },
+   {
+    "title": "Dólar cai quase 1%, e Ibovespa recua após tombo eleitoral",
+    "source": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcW81N09vSURHdzdyclV3eWxGakV2M0ZZNmtoeFVIYUhfWjZPXzhqRE1hajRTX05wX3A3TEZ5X0lIYXU2QzFBS2JaOXJybngzR2dVaTRMblk4Qm5Ja0dJVWNfTkFJV01PVUtOYVI4MUd2RE04ZFlQNklPR242cU50OFJ4Qm9nTlNjWnR3QWRVUndQNHhTSWNQbTBib1hHYVJ2czdKWHg1TW1YcDk3VXdsOWgxMA?oc=5",
+    "published": "2026-10-27"
+   },
+   {
+    "title": "Dólar fecha a R$ 5,40, Bolsa despenca 13,8%; BC e Tesouro atuam no mercado",
+    "source": "O GLOBO",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0w0Q2hNYjZ0dDM2bEY1Ujd2VGhFX2tmUGNOT2prdmxyNEY3NExubTZGdUo5YVhiX3pPNGxxWGMtZ2hEbnBCaDhmQmZxUFUyUHZXNEczMVBKYl93emlXNHNOWDJiWUUxUm1EcnJxOFhiVVZmd0s1dS11Y0hwT1o3UG5CeUxjMlJnQWhQSENxS0F1dkc0ZEt0bHZUaFFjNjFlaW9LVDJGQklIMmpKWU1fblc2aVpQdlhPc18zTU4wZzh0dmxSSGhJ0gHWAUFVX3lxTE00cXZqcmtUTk1jSDFUT2JlcHJmZ24wMVB4UEhCRURmQUdWekk3TzRDUDRJVWptcFhmTE9BU3QzNmRMWnlTSlRDTHp6aEFMY3ZMVjhxVkFDbkxCWUdRQlJMUVJOcEc3bk9EMzQ3OWRENWJJQ25wYjdZSzFzZUdOUDQwcXlCQmg2OWNWRWZERWJxSEFfRENSLTQ0LVBzQVlEQ0k3X1NjbWRmX1JGWHJQR2hUVmoySTRHMHV5X0VKUHRKRWRkZWtkUjNjcC1TeExLTURFbGl4c1E?oc=5",
+    "published": "2026-10-26"
+   },
+   {
+    "title": "QUEDA DA BOLSA 📉 O Ibovespa inicia, nesta segunda-feira, 26, uma semana sob forte pressão após a reeleição do presidente Luiz Inácio Lula da Silva (PT) no segundo turno das eleições presidenciais de 2026.⁣ ⁣ Logo no início do pregão, a B3 acionou",
+    "source": "Instagram",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XOHZyeHVpZFBEc2lTRmhfUTBZYzgxaXlfZURSUXdhc25oajc2c25iNXRndWxFUEpaeXpYWXIyaHkwR084SEdyVVZBS05za0ZYdGc?oc=5",
+    "published": "2026-10-26"
+   },
+   {
+    "title": "Bolsa despenca com vitória de Lula, mas passado mostra que ressaca eleitoral pode ser curta",
+    "source": "NeoFeed",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2w1aFJlVjZWSzBzNE9FeVlMWGIxd3N3T21FREN1MGEyRUpISndVR1l4NktDSElwMjVmU1JjYU45M29lZVVobGVwTjNSSG1JUE9wTjJKSkJWS1RMX0FvNjZJNW5WSWltZHB4cUNGMEZ1ZnQxaWx6MFRLZl93cU5ZWG44R2ZDUHVwQ09NMTIxLXh0b3RPaWhNeTNVbTJhZnI1UnlmTTdKN3Q4ekRqYXZ0NjBFYnpuY3hyd1YwRHZkWUI?oc=5",
+    "published": "2026-10-26"
+   },
+   {
+    "title": "Queda da bolsa pós-eleição reflete especulação e perda de lucros privatistas, analisa economista",
+    "source": "Brasil de Fato",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb19MQVhCZHozX3RNRWxjRDhpRXMydXJvemRYSmNDRnJrNVQtOFpjRC1oQW5oWW53eVVhRHBWQnYybS1QR3UyQk5yN3hnSzkxTnlhLUR2RWJNVzktY2hsdGdyeHRVdnBuQUNuN0tRcmNFMy1JaHhLdGM1ME5VaFphZVZQSUV3empzWUtjQXBkZ1Q0Xy1jTldFOVdlLWdsLVgwYXNTVmVfWXdsOExvenZQeGVySzA0b3JqU05XdDB1U1FRVVFtVnBxcmFrN2ZxTzFWc3o3V1VR?oc=5",
+    "published": "2026-10-27"
+   }
+  ],
+  "ai": {
+   "short_reason": "Reeleição de Lula provoca queda generalizada da bolsa",
+   "explanation": "Segundo as manchetes, a vitória de Lula na eleição presidencial levou a uma forte queda do Ibovespa, que recuou cerca de 13,8% no dia. A Magazine Luiza caiu mais de 58%, a maior queda diária desde 1994, em um movimento que atingiu várias ações do mercado.",
+   "type": "macro",
+   "confidence": "high",
+   "sources": [
+    {
+     "title": "Magazine Luiza (MGLU3) recua 58% após reeleição de Lula; CEAB3 e LREN3 caem",
+     "source": "Suno - Investimentos Inteligentes",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaDk5YnJ1SzdteVViaDJ4Zy1SUmFHb2drQ0gwRi05eWM4UFZ5MnQ2VGx2UFZFTlVxcTE4ZVpZd2V0ZTJ3eEkxMEVSVEdOWU94eGxNc184cHNubGN0eXRKUVlIQnROMjZjRzZxZzJDNWtzNUlPYkFxZkFWSFZITTZlNEQtZmVtVnJ1YU85STZ5N2dyNVVsTGdUMHVKNmh6cnNhcWU00gGoAUFVX3lxTE9vZXZUMi1aNmZMQkNqQWQ0VF85bVRmeGVpV1JiLWhJV2xwYnVFY1ROczZieTVmS3k4UGJTS1JxOEN2ZjlmLXRaOTZ0QzBLVTRYcTFoSm5reVM1RlQ2anNaWTE0WkpMakpEdjRucjBRZHRPS3NJNm9kd196LXNRWXdMQmFzbC14TzJFYUtCcHF0ZDYyQkRyOEpBakQ0NXNjYzhTOEp0bHpCQQ?oc=5"
+    },
+    {
+     "title": "Ações do Magazine Luiza cedem 58% e tem maior queda diária desde 1994 após vitória de Lula",
+     "source": "Valor Econômico",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcGhMb1lreWlXbXFlRHNxMDVZNkxtTG5NWDJMNC1telloX0tsbzUzZjJqZkU2Vmt1Ui1USi0xV3E2dVdfNUw4bUFqajdpWFNkSkRxQnQyam9XS2NIZTNiZWRxNjIwMkJXTjRtWmpWVm1uXzdpRVhYNVhmTGpNTDQ4Z3V6UE1xTzNpbDdjZFMyOVRHWlNuRG5waDhIdTlFNkJKcm1PTGFvUVMxOVBicVFSQUpKMlFOWWpxS0M1VFFreWFWb2NIeFhEbVliRm5BZkFBOHgyRzFTMlNDWDE5UVBVQWsyYkpMUUVSVm0zUWlEcWpuOFHSAYICQVVfeXFMUFlMTnZqaUdFODY1VkgwaFoycFpCTEhCSl9Edkp3dnRDVE5pdllrMGdPQUhscGpIenBKN0xwWlNEYWJfWHFNU01pZ19lLTVaSGZUUzZNRmVvM0llTjJZM3hGeW5GdUNFMENMbUlCeVdwR0RQR250Z1dvald0Q21VbVN0MC0wQVNsMEVjaUdJWTRzeHVzTUY3RWdUWE5MY2VVMjZiQUJkTFh2dlpUWVMzamlyc0kyVnoxNk1ULXRZREZvQnBNLXU3WVU0c2ZVTUJORk5vckhqMTBsUWtDZkgzbFgzTl9oM0RYUDQtMnpWN3FtTUhPbkJhaFpib0E4WjhsM1l3?oc=5"
+    },
+    {
+     "title": "Dólar fecha a R$ 5,40, Bolsa despenca 13,8%; BC e Tesouro atuam no mercado",
+     "source": "O GLOBO",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0w0Q2hNYjZ0dDM2bEY1Ujd2VGhFX2tmUGNOT2prdmxyNEY3NExubTZGdUo5YVhiX3pPNGxxWGMtZ2hEbnBCaDhmQmZxUFUyUHZXNEczMVBKYl93emlXNHNOWDJiWUUxUm1EcnJxOFhiVVZmd0s1dS11Y0hwT1o3UG5CeUxjMlJnQWhQSENxS0F1dkc0ZEt0bHZUaFFjNjFlaW9LVDJGQklIMmpKWU1fblc2aVpQdlhPc18zTU4wZzh0dmxSSGhJ0gHWAUFVX3lxTE00cXZqcmtUTk1jSDFUT2JlcHJmZ24wMVB4UEhCRURmQUdWekk3TzRDUDRJVWptcFhmTE9BU3QzNmRMWnlTSlRDTHp6aEFMY3ZMVjhxVkFDbkxCWUdRQlJMUVJOcEc3bk9EMzQ3OWRENWJJQ25wYjdZSzFzZUdOUDQwcXlCQmg2OWNWRWZERWJxSEFfRENSLTQ0LVBzQVlEQ0k3X1NjbWRmX1JGWHJQR2hUVmoySTRHMHV5X0VKUHRKRWRkZWtkUjNjcC1TeExLTURFbGl4c1E?oc=5"
+    },
+    {
+     "title": "QUEDA DA BOLSA 📉 O Ibovespa inicia, nesta segunda-feira, 26, uma semana sob forte pressão após a reeleição do presidente Luiz Inácio Lula da Silva (PT) no segundo turno das eleições presidenciais de 2026.⁣ ⁣ Logo no início do pregão, a B3 acionou",
+     "source": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XOHZyeHVpZFBEc2lTRmhfUTBZYzgxaXlfZURSUXdhc25oajc2c25iNXRndWxFUEpaeXpYWXIyaHkwR084SEdyVVZBS05za0ZYdGc?oc=5"
+    },
+    {
+     "title": "Bolsa despenca com vitória de Lula, mas passado mostra que ressaca eleitoral pode ser curta",
+     "source": "NeoFeed",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2w1aFJlVjZWSzBzNE9FeVlMWGIxd3N3T21FREN1MGEyRUpISndVR1l4NktDSElwMjVmU1JjYU45M29lZVVobGVwTjNSSG1JUE9wTjJKSkJWS1RMX0FvNjZJNW5WSWltZHB4cUNGMEZ1ZnQxaWx6MFRLZl93cU5ZWG44R2ZDUHVwQ09NMTIxLXh0b3RPaWhNeTNVbTJhZnI1UnlmTTdKN3Q4ekRqYXZ0NjBFYnpuY3hyd1YwRHZkWUI?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1703,
+    "output_tokens": 432,
+    "cost_usd": 0.000386,
+    "latency_s": 2.83,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-20T03:22:59+00:00"
+ }
+]
