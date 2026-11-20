@@ -111,6 +111,30 @@
   `json.dumps(allow_nan=False)` fails loudly, since NaN is invalid JSON and
   would break the site. Implication for CI: schedule the job in the
   evening, not around midnight.
+- **Eval in two layers**: (1) automatic checks on all 53 events, free and
+  re-runnable (grounding: every cited URL is in the list we provided;
+  consistency: abstentions have no sources and type "unknown", real
+  answers cite >= 1 source; detector-vs-AI agreement on market days);
+  (2) human labels on a fixed, stratified sample of 15 (seed 42; 4 macro,
+  4 company, 3 sector, 4 unknown) -> accuracy and calibration by
+  confidence. Runs on stored inputs, so it is reproducible.
+- **Why stratified**: a random 15 would be mostly macro; stratifying makes
+  sure abstentions ("unknown") are also judged (was abstaining right?).
+- **Grounding is 100% by construction** (numbered sources), so the check is
+  a regression test, not a discovery. The real quality question (is the
+  cause right?) needs a human -> the hand labels.
+- **Labels came from a stronger model (LLM-as-judge), not by hand**:
+  faster, but a judge can share blind spots with the model it grades.
+  Mitigations: different, larger model; per-row written rationale so a
+  human can audit each label; the site states who labeled. Honest framing
+  in the interview: "LLM-judged, human-reviewed", never "hand-labeled".
+- **Main error pattern**: on stock-specific days with weak headlines the
+  model gives a low-confidence "reach" (VALE3: "new favorable wind",
+  "foreign investor raised stake") instead of abstaining. Abstentions
+  themselves were all correct. Next step: rule "if confidence would be
+  low, abstain", then re-measure on the same 15 events.
+- **Calibration is useful**: high-confidence answers were right 93% of the
+  time. The site shows the confidence badge so users can weigh answers.
 
 ## Numbers
 - Events detected: 53 (PETR4 12, VALE3 11, ITUB4 10, MGLU3 13, WEGE3 7)
@@ -128,9 +152,22 @@
 - Total API spend so far (backfill + 2 re-runs of 22 market events): $0.035.
 - Cost per daily run: ~$0.0004 per new event; typical day has 0-2 events
   -> well under $0.03/month in API cost.
-- Eval accuracy: TBD
+- Automatic eval: 133 sources cited, 100% grounded, 0 invalid ids, 0
+  inconsistent answers; 86.4% of market-scope events labeled macro by the
+  AI (independent signals agreeing).
+- Cost per explanation: $0.00036 (97 explanations incl. re-runs).
+- Labeled eval (15 events, LLM-as-judge with Claude Opus 5.5 as labeler,
+  pending human review): accuracy 76.7% (partial = 0.5), strict 66.7%,
+  type accuracy 86.7%. By confidence: high 92.9% (n=7), medium 50% (n=2),
+  low 66.7% (n=6). Abstentions: 5/5 judged correct.
 
 ## Limitations
+- Explanations use headlines only (no article body); Google News is an
+  unofficial source and results vary per call.
+- 9/53 events have no explanation; most are stock-specific days with few
+  headlines. Low-confidence answers are often weak guesses.
+- Eval sample is small (15) and LLM-judged; numbers are indicative.
+- Market vs stock split uses a simple Ibovespa z-score, not beta.
 
 ## Next steps
 - CVM filings, pytest suite, prompt A/B comparison, more tickers, Telegram alerts

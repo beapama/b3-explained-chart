@@ -1,0 +1,50 @@
+{
+ "generated_at": "2026-11-20T03:28:43+00:00",
+ "model": "claude-haiku-5-5",
+ "automatic": {
+  "events": 53,
+  "explained": 44,
+  "no_clear_explanation": 9,
+  "sources_cited": 133,
+  "sources_grounded_pct": 100.0,
+  "invalid_source_ids": 0,
+  "inconsistent_answers": [],
+  "market_scope_labeled_macro_pct": 86.4,
+  "by_type": {
+   "macro": 22,
+   "unknown": 9,
+   "sector": 8,
+   "company": 14
+  },
+  "by_confidence": {
+   "high": 25,
+   "medium": 15,
+   "low": 13
+  }
+ },
+ "human": {
+  "labeler": "LLM-as-judge (Claude Opus 5.5), pending human review",
+  "labeled": 15,
+  "accuracy_pct": 76.7,
+  "strict_accuracy_pct": 66.7,
+  "accuracy_by_confidence": {
+   "high": 92.9,
+   "medium": 50.0,
+   "low": 66.7
+  },
+  "type_accuracy_pct": 86.7,
+  "errors": [
+   "MGLU3 2026-10-26: Cause right (election), but misses why it fell 4x the index: domestic retail hit hardest ([1][4][5]) after a big pre-election rally.",
+   "VALE3 2026-01-06: 'New favorable wind' is not a cause; the model admits it is unconfirmed. Should have abstained.",
+   "VALE3 2026-01-14: Model itself says the inference is weak and the news is from the day before. A stake increase does not explain +4.7%. Should have abstained.",
+   "VALE3 2026-02-03: A broker target raise is plausible but weak for +4.9% on a mega cap; confidence 'medium' is too high.",
+   "WEGE3 2026-11-09: Partnership is real news but unlikely to move WEG +5.3%; data-center analyst notes [1][4] are equally plausible. Hedged correctly but not a clear cause."
+  ]
+ },
+ "cost": {
+  "runs": 3,
+  "total_cost_usd": 0.0352,
+  "cost_per_event_usd": 0.00036,
+  "avg_seconds_per_event": 5.4
+ }
+}

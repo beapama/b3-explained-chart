@@ -10,7 +10,9 @@
   9 "no clear explanation" after 3 retrieval iterations, $0.035 total spend
 
 ## Current step
-- 7. Mini eval
+- 7. Mini eval — done: 100% grounded; 15 events labeled by LLM-as-judge
+  (accuracy 76.7%, strict 66.7%). Pending: Beatriz reviews labels.csv and
+  then sets LABELER in src/evaluate.py to "...reviewed by a human".
 
 ## Next
 8. Site · 9. GitHub Actions · 10. README
