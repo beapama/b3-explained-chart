@@ -2,7 +2,7 @@
 
 Daily price charts of five B3 stocks where an AI marks the days with unusually strong moves and explains, on the chart itself, what happened, citing the news it used. Every business day after the market closes, a GitHub Actions job detects new moves, writes the explanations and republishes the site.
 
-**Live site: [English](https://beapama.github.io/b3-explained-chart/?lang=en) · [Português](https://beapama.github.io/b3-explained-chart/?lang=pt)** (one site with a PT | EN switch)
+**Live site: https://beapama.github.io/b3-explained-chart/?lang=en** (switch to Portuguese with the PT | EN button at the top right)
 
 **Built with:** Python, pandas, Claude API (Haiku 5.5, structured output), GitHub Actions, GitHub Pages, plain JavaScript with lightweight-charts.
 
