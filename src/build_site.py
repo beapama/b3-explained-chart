@@ -8,6 +8,7 @@ Usage:
     python -m src.build_site
     python -m http.server 8000 -d _site     # open http://localhost:8000
 """
+import hashlib
 import json
 import shutil
 from datetime import datetime, timezone
@@ -18,10 +19,25 @@ SITE_SRC = ROOT / "site"
 OUT = ROOT / "_site"
 
 
+def bust_cache(html_path) -> None:
+    """Add a content hash to the CSS/JS links: style.css -> style.css?v=1a2b3c4d.
+
+    GitHub Pages lets browsers cache files for 10 minutes. Without this, a
+    visitor right after a deploy could get the new HTML with the old JS (seen:
+    the page stuck on "Carregando..."). A new hash = a new URL = a fresh download.
+    """
+    html = html_path.read_text(encoding="utf-8")
+    for name in ("style.css", "app.js"):
+        digest = hashlib.sha256((OUT / name).read_bytes()).hexdigest()[:8]
+        html = html.replace(f'"{name}"', f'"{name}?v={digest}"')
+    html_path.write_text(html, encoding="utf-8")
+
+
 def main() -> None:
     if OUT.exists():
         shutil.rmtree(OUT)
     shutil.copytree(SITE_SRC, OUT)
+    bust_cache(OUT / "index.html")
     shutil.copytree(PRICES_DIR, OUT / "data" / "prices", ignore=shutil.ignore_patterns(".gitkeep"))
     shutil.copytree(EVENTS_DIR, OUT / "data" / "events", ignore=shutil.ignore_patterns(".gitkeep"))
     shutil.copy(EVAL_DIR / "summary.json", OUT / "data" / "eval_summary.json")

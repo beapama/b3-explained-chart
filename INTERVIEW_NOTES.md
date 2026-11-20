@@ -100,6 +100,7 @@ Material de preparação. Cada decisão: **o que** foi feito, **por quê** e o
 - **Chave de API no `.env.example`, commitada localmente.** Pego revisando o diff antes do push; commit reescrito, objetos apagados, histórico verificado (0 ocorrências). Lição: revisar o diff antes de todo commit.
 - **`.gitignore` padrão de Python ignorava `/site`** (pasta do mkdocs): a página não estava sendo versionada. Pego conferindo `git status` depois do commit.
 - **Variável vazia injetada pelo VS Code no terminal** escondia a chave do `.env` → `override=True`.
+- **Página travada em "Carregando…" logo após um deploy:** o GitHub Pages deixa o navegador guardar arquivos por 10 min; o navegador juntou o HTML novo com o JS antigo. Correção: *cache busting* no `build_site` (`app.js?v=<hash do conteúdo>`), então arquivo novo = endereço novo.
 - **Marcadores deslocados no celular:** eu lia as coordenadas do gráfico antes de ele terminar de se redimensionar. Correção: reposicionar depois que o gráfico redesenha (dois `requestAnimationFrame` + evento de mudança de tamanho). Pego pelo print do site publicado.
 
 ---
