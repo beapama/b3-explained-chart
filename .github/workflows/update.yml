@@ -1,0 +1,98 @@
+# Step 9: daily update + deploy.
+#
+# Every business day after the B3 close: download prices, detect strong moves,
+# explain only the NEW ones (cache in data/events), recompute the eval summary,
+# commit the data back to the repo, then build and publish the site on Pages.
+#
+# Pushes to main that touch the site or the code only rebuild and redeploy
+# (no API calls), so design fixes go live without waiting for the evening run.
+
+name: Update data and deploy site
+
+on:
+  schedule:
+    # 22:00 UTC = 19:00 in Brasília (UTC-3, no daylight saving since 2019).
+    # B3 closes at ~18:00; by 19:00 Yahoo has the full day. Running near
+    # midnight returned NaN prices for the latest day (see PROGRESS.md).
+    # Mon-Fri only; on B3 holidays there is no new bar, so nothing is explained.
+    - cron: "0 22 * * 1-5"
+  workflow_dispatch: # manual "Run workflow" button
+  push:
+    branches: [main]
+    paths: ["site/**", "src/build_site.py", ".github/workflows/update.yml"]
+
+permissions:
+  contents: write # commit data/ back to the repo
+  pages: write    # deploy to GitHub Pages
+  id-token: write # required by deploy-pages
+
+# Never run two updates at once (both would try to commit data/).
+concurrency:
+  group: update-and-deploy
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Detect and explain new events
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m src.pipeline
+
+      - name: Recompute eval summary (no API calls)
+        run: python -m src.evaluate
+
+      - name: Commit data if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "Daily data update $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+  deploy:
+    needs: update
+    # Run after a successful update, or alone on a push (update is skipped then).
+    if: ${{ !failure() && !cancelled() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main # include the data commit the update job just pushed
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+
+      # build_site only copies files: no third-party packages needed,
+      # but it imports src.config, which needs python-dotenv.
+      - run: pip install python-dotenv
+
+      - run: python -m src.build_site
+
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v5

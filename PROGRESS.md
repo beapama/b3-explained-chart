@@ -12,13 +12,15 @@
   by LLM-as-judge (accuracy 76.7%, strict 66.7%). Pending: Beatriz reviews
   data/eval/labels.csv, then updates LABELER in src/evaluate.py.
 
+- [x] 8. Site "Pregão Explicado": `python -m src.build_site` -> _site/ (static page,
+  cherry palette, HTML pins, eval section). Checked desktop/mobile, light/dark.
+
 ## Current step
-- 8. Site — redesigned as "Pregão Explicado" (finding headline, figures row,
-  callout on chart). Screenshot-checked desktop/mobile, light/dark. Waiting
-  for local confirmation: `python -m src.build_site` + `python -m http.server 8000 -d _site`.
+- 9. GitHub Actions: .github/workflows/update.yml written. Needs: repo secret
+  ANTHROPIC_API_KEY, Pages source = GitHub Actions, push, manual first run.
 
 ## Next
-9. GitHub Actions · 10. README
+10. README
 
 ## Open issues
 - ~~MGLU3 2026-10-26 -58%: data error?~~ Resolved: real move, "biggest daily
