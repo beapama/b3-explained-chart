@@ -71,9 +71,14 @@
       if (ev) select(ev);
     });
     chart.subscribeCrosshairMove(tooltip);
-    const relayout = () => requestAnimationFrame(() => { placePins(); placeCallout(); });
+    // Pins and callout are HTML over the canvas, so they must follow the chart's own
+    // geometry. Wait two frames: the chart redraws (and rescales) on its own frame,
+    // and reading coordinates before that returned stale positions on phones.
+    const relayout = () => requestAnimationFrame(() => requestAnimationFrame(() => { placePins(); placeCallout(); }));
     chart.timeScale().subscribeVisibleLogicalRangeChange(relayout);
+    chart.timeScale().subscribeSizeChange(relayout); // the canvas resized (autoSize)
     new ResizeObserver(relayout).observe($(".chart-box"));
+    state.relayout = relayout;
   }
 
   // Pins are HTML buttons over the canvas: readable letters, a 40px tap area and keyboard focus.
@@ -213,7 +218,7 @@
   function select(ev, focus = false) {
     state.sel = ev;
     for (const b of $("#pins").children) b.classList.toggle("sel", b.dataset.d === ev?.date);
-    detail(); table(); placeCallout();
+    detail(); table(); placeCallout(); state.relayout();
     if (focus && ev) {
       const d = new Date(ev.date), from = new Date(d), to = new Date(d);
       from.setDate(d.getDate() - 60); to.setDate(d.getDate() + 60);
@@ -241,6 +246,7 @@
     chart.timeScale().fitContent();
     paintMarkers();
     select(state.events.at(-1) || null);
+    state.relayout(); // new data rescales the chart: re-place pins once it has redrawn
   }
 
   function method(s) {

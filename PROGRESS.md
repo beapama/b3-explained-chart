@@ -15,12 +15,17 @@
 - [x] 8. Site "Pregão Explicado": `python -m src.build_site` -> _site/ (static page,
   cherry palette, HTML pins, eval section). Checked desktop/mobile, light/dark.
 
+- [x] 9. GitHub Actions: daily update + Pages deploy, both jobs green (push and
+  manual run). Live: https://beapama.github.io/b3-explained-chart/
+- [x] 10. README: what it is, live link, screenshots, mermaid diagram, eval, cost,
+  limitations, next steps.
+
 ## Current step
-- 9. GitHub Actions: .github/workflows/update.yml written. Needs: repo secret
-  ANTHROPIC_API_KEY, Pages source = GitHub Actions, push, manual first run.
+- Done. Optional before the interview: review data/eval/labels.csv, then set
+  LABELER in src/evaluate.py to "...revisado por humano" and re-run the eval.
 
 ## Next
-10. README
+- (out of scope, see README next steps)
 
 ## Open issues
 - ~~MGLU3 2026-10-26 -58%: data error?~~ Resolved: real move, "biggest daily
@@ -30,6 +35,9 @@
   TODO (optional): local pre-commit hook that blocks `sk-ant-` strings.
 - Fixed: VS Code injected an empty ANTHROPIC_API_KEY into the terminal;
   `load_dotenv(override=True)` makes .env win locally.
+- Fixed: on phones, pins and callout were placed before the chart finished
+  resizing (stale coordinates). Now re-placed after the chart redraws
+  (double requestAnimationFrame + timeScale().subscribeSizeChange).
 - Fixed: Yahoo returns NaN prices for the latest day around midnight ->
   rows dropped + `allow_nan=False`. Schedule CI in the evening (step 9).
 - Google News links are news.google.com redirect URLs (open fine in a

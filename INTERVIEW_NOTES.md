@@ -90,6 +90,7 @@ Material de preparação. Cada decisão: **o que** foi feito, **por quê** e o
 - **Chave de API no `.env.example`, commitada localmente.** Pego revisando o diff antes do push; commit reescrito, objetos apagados, histórico verificado (0 ocorrências). Lição: revisar o diff antes de todo commit.
 - **`.gitignore` padrão de Python ignorava `/site`** (pasta do mkdocs): a página não estava sendo versionada. Pego conferindo `git status` depois do commit.
 - **Variável vazia injetada pelo VS Code no terminal** escondia a chave do `.env` → `override=True`.
+- **Marcadores deslocados no celular:** eu lia as coordenadas do gráfico antes de ele terminar de se redimensionar. Correção: reposicionar depois que o gráfico redesenha (dois `requestAnimationFrame` + evento de mudança de tamanho). Pego pelo print do site publicado.
 
 ---
 
