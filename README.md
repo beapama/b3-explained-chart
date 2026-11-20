@@ -4,6 +4,8 @@ Daily price charts of five B3 stocks where an AI marks the days with unusually s
 
 **Live site: [English](https://beapama.github.io/b3-explained-chart/?lang=en) · [Português](https://beapama.github.io/b3-explained-chart/?lang=pt)** (one site with a PT | EN switch)
 
+**Built with:** Python, pandas, Claude API (Haiku 5.5, structured output), GitHub Actions, GitHub Pages, plain JavaScript with lightweight-charts.
+
 | Desktop (light, English) | Phone (dark, English) |
 |---|---|
 | ![Desktop view: PETR4 chart with event markers and the explanation panel](docs/screenshot-desktop.png) | ![Phone view in dark mode: MGLU3 chart](docs/screenshot-mobile-dark.png) |
@@ -29,10 +31,10 @@ flowchart TB
 1. **Prices** (`src/prices.py`): daily adjusted prices via `yfinance`, so dividends do not look like crashes.
 2. **Detection** (`src/detect.py`): a day is an event when its return is at least 2.5 standard deviations away from the mean of the previous 60 trading days. Each stock is judged against its own volatility. If the Ibovespa also moved strongly that day in the same direction, the event is tagged as market-wide.
 3. **News** (`src/news.py`): Google News RSS from the previous trading day to the day after (weekend news explains Monday moves). Market-wide events reserve half the slots for market news.
-4. **Explanation** (`src/explain.py`): Claude Haiku 5.5 reads only those headlines and returns validated JSON (Pydantic), in Portuguese and English in the same call. It cites sources **by their number in the list**, and the code maps numbers to links, so it cannot invent a source. If the headlines do not explain the move, it answers "no clear explanation".
+4. **Explanation** (`src/explain.py`): Claude Haiku 5.5 reads only those headlines and returns validated JSON (Pydantic), in Portuguese and English in the same call. It cites sources **by their number in the list**, and the code maps numbers to links, so it cannot invent a source. If the headlines do not explain the move, it answers "no clear explanation". Events explained before the English fields existed were translated once by `src/translate.py`, without re-explaining them, so the evaluated Portuguese text did not change.
 5. **Cache and pipeline** (`src/pipeline.py`): events are cached by (ticker, date), so the API is never called twice for the same event and a rerun is always safe.
 6. **Evaluation** (`src/evaluate.py`): see below.
-7. **Site** (`site/`, built by `src/build_site.py`): one HTML, CSS and JS file reading the JSON, with [lightweight-charts](https://github.com/tradingview/lightweight-charts) pinned to 5.0.9. Portuguese and English from one page (a text dictionary per language, `?lang=en` for direct links); light and dark mode follow the system; it works on phones. News headlines stay in Portuguese, since they are the original sources.
+7. **Site** (`site/`, built by `src/build_site.py`): one HTML, CSS and JS file reading the JSON, with [lightweight-charts](https://github.com/tradingview/lightweight-charts) pinned to 5.0.9. Portuguese and English from one page (a text dictionary per language, `?lang=en` for direct links); light and dark mode follow the system; it works on phones. News headlines stay in Portuguese, since they are the original sources. The build adds a content hash to the CSS and JS links, so browsers never mix a new page with old cached code.
 8. **Automation** (`.github/workflows/update.yml`): Monday to Friday at 22:00 UTC (19:00 in Brasília, about an hour after the close). It runs the pipeline, commits `data/` if anything changed and deploys to GitHub Pages.
 
 ## Evaluation
@@ -74,6 +76,7 @@ cp .env.example .env              # then set ANTHROPIC_API_KEY
 
 python -m src.pipeline --dry-run  # lists new events and the estimated cost, no API calls
 python -m src.pipeline            # prices -> detection -> news -> explanations (cached)
+python -m src.translate --dry-run # English for events explained before the bilingual schema (one-time)
 python -m src.evaluate            # writes data/eval/summary.json
 python -m src.build_site          # assembles _site/
 python -m http.server 8000 -d _site
