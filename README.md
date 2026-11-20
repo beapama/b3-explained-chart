@@ -13,15 +13,16 @@ Universe: PETR4, VALE3, ITUB4, MGLU3, WEGE3 and the Ibovespa, last 12 months.
 ## How it works
 
 ```mermaid
-flowchart LR
-    A[Yahoo Finance<br/>adjusted daily prices] --> B[Detect strong moves<br/>rolling z-score vs 60 days<br/>+ compare with Ibovespa]
-    B --> C{Already in<br/>cache?}
-    C -- yes --> F
-    C -- no --> D[Google News RSS<br/>up to 10 headlines<br/>prev. trading day → next day]
-    D --> E[Claude Haiku 5.5<br/>structured JSON:<br/>reason, explanation, type,<br/>confidence, source numbers]
-    E --> F[(data/events/*.json<br/>committed to Git)]
-    F --> G[Evaluation<br/>data/eval/summary.json]
-    F --> H[Static site<br/>GitHub Pages]
+%%{init: {"flowchart": {"wrappingWidth": 420, "nodeSpacing": 40, "rankSpacing": 36}}}%%
+flowchart TB
+    A["<b>Prices</b><br/>Yahoo Finance, adjusted daily closes for 5 stocks + Ibovespa"] --> B["<b>Detect strong moves</b><br/>return vs the previous 60 trading days (|z| ≥ 2.5), compared with the Ibovespa"]
+    B --> C{"Already<br/>explained?"}
+    C -- "no" --> D["<b>News</b><br/>Google News RSS: up to 10 headlines, previous trading day to the day after"]
+    D --> E["<b>Claude Haiku 5.5</b><br/>validated JSON in Portuguese and English: reason, explanation, type, confidence, source numbers"]
+    E --> F[("<b>Cache</b><br/>data/events/*.json, committed to Git")]
+    C -- "yes" --> F
+    F --> G["<b>Evaluation</b><br/>data/eval/summary.json"]
+    F --> H["<b>Static site</b><br/>GitHub Pages, PT | EN"]
     G --> H
 ```
 
