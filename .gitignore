@@ -170,7 +170,7 @@ conda-meta/
 .ropeproject
 
 # mkdocs/Zensical documentation
-/site
+# /site  (disabled: site/ holds this project's web page source, not mkdocs output)
 
 # mypy
 .mypy_cache/
