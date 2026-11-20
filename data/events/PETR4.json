@@ -98,7 +98,9 @@
     "cost_usd": 0.000386,
     "latency_s": 3.14,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Stock drop after Flávio Bolsonaro's pre-candidacy announcement",
+   "explanation_en": "The Ibovespa fell 4.31% and the dollar surged to R$ 5.43 after Flávio Bolsonaro announced his pre-candidacy, which raised risk aversion in the market. PETR4 followed the index's decline, falling 3.54% on the day, in a broad-based move across the stock exchange."
   },
   "explained_at": "2026-11-20T03:21:11+00:00"
  },
@@ -201,7 +203,9 @@
     "cost_usd": 0.000365,
     "latency_s": 2.9,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Market falls on rates, elections, US data",
+   "explanation_en": "The stock exchange fell about 2.4% amid uncertainty over interest rates in Brazil and abroad, plus the Quaest poll and US unemployment data, which increased risk aversion. As the decline was widespread, PETR4 followed the Ibovespa's move, dropping 3.03% on the day."
   },
   "explained_at": "2026-11-20T03:21:17+00:00"
  },
@@ -299,7 +303,9 @@
     "cost_usd": 0.000382,
     "latency_s": 2.72,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Broad Ibovespa rally as Trump backs down",
+   "explanation_en": "The stock rose in line with the Ibovespa, which closed up 3.33% at a record high, with the dollar falling to R$ 5.32. Agência Brasil links the rise to Trump's retreats, which points to a broad market move rather than a specific event at Petrobras."
   },
   "explained_at": "2026-11-20T03:21:23+00:00"
  },
@@ -344,7 +350,9 @@
     "cost_usd": 0.000359,
     "latency_s": 3.11,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "no clear explanation",
+   "explanation_en": "The headlines describe PETR4's rise over the week and a technical breakout on the chart, but they do not point to a fundamental cause for the day's move. The news about dialogue with the Public Ethics Commission has no relation to the stock price."
   },
   "explained_at": "2026-11-19T23:41:06+00:00"
  },
@@ -434,7 +442,9 @@
     "cost_usd": 0.00023,
     "latency_s": 1.75,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Oil rally amid Middle East conflict",
+   "explanation_en": "News from March 2 links the rise in PETR4 to the war in the Middle East, which pushed oil prices up and benefited Petrobras and the sector. The move was sector-wide, with the stock rising well above the Ibovespa, which posted a modest gain on the day."
   },
   "explained_at": "2026-11-19T23:41:09+00:00"
  },
@@ -502,7 +512,9 @@
     "cost_usd": 0.000388,
     "latency_s": 3.34,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Oil falls on US-Iran truce",
+   "explanation_en": "Petrobras shares fell as the truce between the US and Iran pushed oil prices down, and the state-run company lost about R$28 billion in market value. The decline was steeper than that of other companies in the sector, while the Ibovespa rose on the same day."
   },
   "explained_at": "2026-11-19T23:41:14+00:00"
  },
@@ -583,7 +595,9 @@
     "cost_usd": 0.000233,
     "latency_s": 1.71,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Oil price drop weighs on Petrobras",
+   "explanation_en": "Petrobras (PETR4) fell more than 4% on the day, according to the headline linking the drop to lower oil prices. The move ran against the Ibovespa, which rose 0.33%, indicating a factor specific to the oil sector rather than the market as a whole."
   },
   "explained_at": "2026-11-19T23:41:17+00:00"
  },
@@ -669,7 +683,9 @@
     "cost_usd": 0.000242,
     "latency_s": 1.59,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Foreign oil slump pressures Petrobras shares",
+   "explanation_en": "Petrobras shares fell more than 4%, following the sharp decline in oil on international markets, a move that far exceeded the drop in the Ibovespa the same day. The R$ 41.2 billion in dividends approved on the same date does not appear as a cause of the decline in headlines."
   },
   "explained_at": "2026-11-19T23:41:20+00:00"
  },
@@ -754,7 +770,9 @@
     "cost_usd": 0.000395,
     "latency_s": 3.41,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Oil slump pressures Petrobras shares",
+   "explanation_en": "Petrobras shares fell 5.15% on 15/06, on a day when the Ibovespa dropped 0.42%. News from the same day reports that oil plunged and that the state-controlled company led sector losses, with Prio also declining. One report links the drop to the US-Iran agreement, which weighed on the commodity and on the company."
   },
   "explained_at": "2026-11-19T23:41:25+00:00"
  },
@@ -857,7 +875,9 @@
     "cost_usd": 0.000248,
     "latency_s": 1.66,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Euphoria over first-round election results",
+   "explanation_en": "PETR4's rise was accompanied by a jump across the entire Ibovespa (+7.70%) and a drop in the dollar, with the market reacting to Flávio Bolsonaro's lead in the first round. Because the move was widespread, the cause is macroeconomic and not specific to Petrobras."
   },
   "explained_at": "2026-11-20T03:21:27+00:00"
  },
@@ -970,7 +990,9 @@
     "cost_usd": 0.000259,
     "latency_s": 1.78,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Broad stock market sell-off after election",
+   "explanation_en": "The Ibovespa fell about 13.9% on the day, with the market reaction to the election result (Lula's re-election) weighing on the entire market. Petrobras followed the decline, losing about 8.2% in the session, in a move described as an electoral slump."
   },
   "explained_at": "2026-11-20T03:21:33+00:00"
  },
@@ -1061,7 +1083,9 @@
     "cost_usd": 0.00025,
     "latency_s": 1.8,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Sharp oil drop pulls Petrobras shares lower",
+   "explanation_en": "Oil fell about 8% on the day, dragging down Petrobras shares and those of other oil companies, and the state-controlled company was one of the biggest losers on the Ibovespa, which rose 1.23%. The drop in oil below US$ 100, attributed to the 'blue wave' in the US, directly explains the move in PETR4."
   },
   "explained_at": "2026-11-19T23:41:40+00:00"
  }

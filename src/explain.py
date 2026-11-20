@@ -30,7 +30,8 @@ Rules:
 - type: "company" (company-specific: earnings, guidance, management, deals), "sector" (affects the sector: oil price, iron ore, retail, banks), "macro" (whole market: elections, interest rates, fiscal, global risk).
 - confidence: "high" if several headlines state the cause directly; "medium" if one headline states it or it is a reasonable inference; "low" if weak.
 - short_reason: max 8 words. explanation: 2-3 sentences, factual, no investment advice.
-- Write short_reason and explanation in {OUTPUT_LANGUAGE}."""
+- Write short_reason and explanation in {OUTPUT_LANGUAGE}.
+- Also write short_reason_en and explanation_en: the same content in clear English, for international readers (same facts, no additions). If there is no clear explanation, short_reason_en is exactly "{NO_EXPLANATION}"."""
 
 
 class Explanation(BaseModel):
@@ -39,6 +40,9 @@ class Explanation(BaseModel):
     type: Literal["company", "sector", "macro", "unknown"]
     confidence: Literal["high", "medium", "low"]
     source_ids: list[int] = Field(description="Numbers of the headlines that support the explanation")
+    # English copy for the site's EN version, written in the same call (no extra request).
+    short_reason_en: str = Field(description="short_reason in English, max 8 words")
+    explanation_en: str = Field(description="explanation in English")
 
 
 def build_user_message(ticker: str, event: dict, news: list[dict]) -> str:
@@ -83,6 +87,8 @@ def explain_event(client: anthropic.Anthropic, ticker: str, event: dict, news: l
     return {
         "short_reason": out.short_reason,
         "explanation": out.explanation,
+        "short_reason_en": out.short_reason_en,
+        "explanation_en": out.explanation_en,
         "type": out.type,
         "confidence": out.confidence,
         "sources": [{"title": news[i - 1]["title"], "source": news[i - 1]["source"],

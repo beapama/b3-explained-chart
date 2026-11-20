@@ -20,9 +20,14 @@
 - [x] 10. README: what it is, live link, screenshots, mermaid diagram, eval, cost,
   limitations, next steps.
 
+- [x] 11. English version: one site with a PT | EN switch (`?lang=en`), all UI
+  texts in a per-language dictionary, locale formatting, EN fields from the
+  explain call for new events, 53 cached events translated once
+  (`python -m src.translate`, $0.0065), README screenshots in English.
+
 ## Current step
 - Done. Optional before the interview: review data/eval/labels.csv, then set
-  LABELER in src/evaluate.py to "...revisado por humano" and re-run the eval.
+  LABELER["human_reviewed"] = True in src/evaluate.py and re-run the eval.
 
 ## Next
 - (out of scope, see README next steps)

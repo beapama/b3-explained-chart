@@ -103,7 +103,9 @@
     "cost_usd": 0.000481,
     "latency_s": 3.65,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Stocks fall after Flávio Bolsonaro's pre-candidacy",
+   "explanation_en": "The decline was widespread across the market, with the Ibovespa falling 4.31% after Flávio Bolsonaro was named as a pre-candidate, and the dollar surged to R$ 5.43. Itaú (ITUB4) was among the day's biggest losers, following the market's risk-aversion move."
   },
   "explained_at": "2026-11-20T03:21:50+00:00"
  },
@@ -206,7 +208,9 @@
     "cost_usd": 0.000268,
     "latency_s": 1.8,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Broad stock rally as Trump backs down",
+   "explanation_en": "The Ibovespa rose 3.33% on 21/01/2026 and closed at a record high, with the stock market driven by Trump's retreats cited in the news. As the move was a broad market rally, the 4.38% gain in ITUB4 followed the general optimism, with no specific news about the bank that day."
   },
   "explained_at": "2026-11-20T03:21:55+00:00"
  },
@@ -304,7 +308,9 @@
     "cost_usd": 0.000405,
     "latency_s": 3.45,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Broad stock market decline amid cautious overseas sentiment",
+   "explanation_en": "The Ibovespa fell more than 2% on February 4, amid caution abroad and a correction after record highs, according to the day's news. The drop in ITUB4 (-3.29%) followed the market movement, although it was steeper than the index's decline. The 4Q25 earnings report, released that same day, does not appear as a cause of the decline."
   },
   "explained_at": "2026-11-20T03:22:01+00:00"
  },
@@ -349,7 +355,9 @@
     "cost_usd": 0.00019,
     "latency_s": 1.85,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Drop follows banking sector; specific cause unclear",
+   "explanation_en": "The main headline indicates that Itaú fell more than 3% during the day and that shares of other banks also declined, suggesting a sector-wide movement. The news about compensation to a female worker does not appear to be directly related to the price swing."
   },
   "explained_at": "2026-11-19T23:42:54+00:00"
  },
@@ -457,7 +465,9 @@
     "cost_usd": 0.000259,
     "latency_s": 1.71,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Broad stock rally after IPCA and expected Selic cut",
+   "explanation_en": "The Ibovespa rose almost 3% on the day, driven by inflation below expectations and expectations of a Selic rate cut, which favors banks. Itaú followed the market move with a gain of about 4%, on a day described as positive for the banking sector."
   },
   "explained_at": "2026-11-20T03:22:06+00:00"
  },
@@ -547,7 +557,9 @@
     "cost_usd": 0.000458,
     "latency_s": 3.36,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Broad stock selloff on rates and election",
+   "explanation_en": "The Ibovespa fell 2.5% on 11/08, its biggest drop in five months, on a day marked by the electoral scenario, the Copom minutes, the IPCA and a JPMorgan report, with the dollar rising to R$ 5.16. Itaú shares fell 3.51%, more than the index's decline, which indicates a generalized selling movement in the market."
   },
   "explained_at": "2026-11-20T03:22:12+00:00"
  },
@@ -622,7 +634,9 @@
     "cost_usd": 0.000429,
     "latency_s": 3.46,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "no clear explanation",
+   "explanation_en": "The available headlines describe the Ibovespa's rise of about 3% and the drop in the dollar, but they do not state the cause of the move. The texts about Itaú dividends do not explain a rise on September 2."
   },
   "explained_at": "2026-11-20T03:22:19+00:00"
  },
@@ -697,7 +711,9 @@
     "cost_usd": 0.000315,
     "latency_s": 2.6,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "no clear explanation",
+   "explanation_en": "The available headlines do not explain the 4.68% rise in ITUB4 on 30/09/2026. News item [7] only records the move, and the others cover recommended portfolios, currency exchange and training programs, with no direct link to the stock's price that day."
   },
   "explained_at": "2026-11-19T23:43:18+00:00"
  },
@@ -805,7 +821,9 @@
     "cost_usd": 0.000264,
     "latency_s": 2.06,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "First-round election result boosts market sentiment",
+   "explanation_en": "The Ibovespa rose about 7.7% on the day, with the dollar falling, after the first-round result of the presidential election that gave an advantage to Flávio Bolsonaro, according to the headlines. Since the move was market-wide, the rise in Itaú (ITUB4) followed the general euphoria, not a company-specific news item."
   },
   "explained_at": "2026-11-20T03:22:24+00:00"
  },
@@ -918,7 +936,9 @@
     "cost_usd": 0.000459,
     "latency_s": 3.44,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Broad stock selloff after Lula's reelection",
+   "explanation_en": "The Ibovespa fell 13.88% on the same day, and ITUB4 followed the market movement. News reports link the drop to the result of the presidential election runoff, with Lula's reelection, and point out that the decline reflected the political scenario rather than a specific event at Itaú."
   },
   "explained_at": "2026-11-20T03:22:30+00:00"
  }

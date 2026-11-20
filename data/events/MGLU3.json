@@ -98,7 +98,9 @@
     "cost_usd": 0.000512,
     "latency_s": 4.28,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Broad stock selloff after political remarks",
+   "explanation_en": "The Ibovespa fell 4.31% on 5/12, after the pre-candidacy nomination of Flávio Bolsonaro, with the dollar rising to R$5.43. MGLU3 fell much more than the index in this risk-aversion context, but the news does not cite any specific factors related to Magazine Luiza."
   },
   "explained_at": "2026-11-20T03:22:36+00:00"
  },
@@ -131,7 +133,9 @@
     "cost_usd": 0.000189,
     "latency_s": 2.35,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "no clear explanation",
+   "explanation_en": "The available headlines do not explain the 8.56% drop in MGLU3 on 12/02/2026. The only news item deals with retail promotions ("
   },
   "explained_at": "2026-11-19T23:43:42+00:00"
  },
@@ -176,7 +180,9 @@
     "cost_usd": 0.000199,
     "latency_s": 1.78,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Bank price target revision, no clear cause",
+   "explanation_en": "The 9.62% rise in MGLU3 on 31/03/2026 coincided with the release of a new price target for the company by BB-BI. Since the headline does not detail the revision or the reason for the change, the causal link is only likely and not confirmed by the available documents."
   },
   "explained_at": "2026-11-19T23:43:45+00:00"
  },
@@ -272,7 +278,9 @@
     "cost_usd": 0.000247,
     "latency_s": 1.78,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Q1 2026 loss disappoints market expectations",
+   "explanation_en": "Magazine Luiza reported a net loss in the first quarter of 2026, while the market had expected a better result, according to headlines. High interest rates were cited as one of the factors that weighed on the result, and the shares fell more than 8% on B3 the same day."
   },
   "explained_at": "2026-11-19T23:43:48+00:00"
  },
@@ -358,7 +366,9 @@
     "cost_usd": 0.000436,
     "latency_s": 3.71,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Lu's WhatsApp channel boosts Magalu shares",
+   "explanation_en": "Magazine Luiza shares rose sharply and led the Ibovespa's gains, on a day when the index climbed 1.22%. News reports link the move to Lu's WhatsApp sales channel, which generated about R$ 100 million, although the reports do not detail an official announcement from the company."
   },
   "explained_at": "2026-11-19T23:43:53+00:00"
  },
@@ -466,7 +476,9 @@
     "cost_usd": 0.000623,
     "latency_s": 4.95,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Weak IPCA and expected Selic rate cut",
+   "explanation_en": "The Ibovespa rose almost 3% on 07/10, driven by the drop in inflation (IPCA) and expectations of a Selic rate cut, which tends to benefit retailers such as Magazine Luiza. MGLU3 rose 7.41%, more than the index, and one of the reports also links the rise to the launch of “WhatsApp da Lu”, but the texts do not detail a specific reason from the company."
   },
   "explained_at": "2026-11-20T03:22:44+00:00"
  },
@@ -541,7 +553,9 @@
     "cost_usd": 0.00037,
     "latency_s": 3.04,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "no clear explanation",
+   "explanation_en": "The headlines describe the rise of MGLU3 in contrast with the fall of Casas Bahia, but they do not point to a specific cause for Magazine Luiza's own move. A fund manager cited in the news says the stock is not for the moment, which does not explain the day's gain."
   },
   "explained_at": "2026-11-19T23:44:05+00:00"
  },
@@ -574,7 +588,9 @@
     "cost_usd": 0.000195,
     "latency_s": 1.79,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "no clear explanation",
+   "explanation_en": "The available headlines only record the rise in MGLU3 on the day, without stating the cause of the move. There is no news about results, company decisions, or sector or macroeconomic factors that explains the change."
   },
   "explained_at": "2026-11-19T23:44:08+00:00"
  },
@@ -682,7 +698,9 @@
     "cost_usd": 0.000257,
     "latency_s": 1.74,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Mercado Livre sales deal boosts stock",
+   "explanation_en": "MGLU3 rose about 17% after the announcement of an agreement to sell Magazine Luiza products on Mercado Livre, a point highlighted by several news reports. The Ibovespa also rose about 3% on the same day, but the stock's gain is much larger and is associated with the partnership announcement."
   },
   "explained_at": "2026-11-20T03:22:48+00:00"
  },
@@ -773,7 +791,9 @@
     "cost_usd": 0.000242,
     "latency_s": 1.78,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Falling interest rates and technical breakout drive stock gains",
+   "explanation_en": "Magalu's stock rose more than 10% on September 30, with reports attributing the move to expectations of falling interest rates, which favor retailers, and a technical breakout on the chart. A cited analysis points to Magalu as one of the stocks that would benefit most from lower interest rates."
   },
   "explained_at": "2026-11-19T23:44:16+00:00"
  },
@@ -886,7 +906,9 @@
     "cost_usd": 0.000263,
     "latency_s": 1.83,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "First-round election result boosts retail stocks",
+   "explanation_en": "The market reacted to the first-round election result, with Flávio Bolsonaro's lead seen as favorable to economic changes, and the Ibovespa rose almost 8% on the day. Magazine Luiza was highlighted among the retail stocks that surged the most, in a move that accompanied the overall euphoria on the stock exchange."
   },
   "explained_at": "2026-11-20T03:22:53+00:00"
  },
@@ -977,7 +999,9 @@
     "cost_usd": 0.00048,
     "latency_s": 4.17,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Expected Selic rate cut drives the stock higher",
+   "explanation_en": "Reports cite MGLU3 as one of the stocks that would gain most from falling interest rates, and Morgan Stanley points to stocks that could benefit from a Selic rate cut. The Ibovespa also rose strongly during the week, but MGLU3 climbed well more than the index on the day, and the news reports do not detail a specific company event that explains the surge."
   },
   "explained_at": "2026-11-19T23:44:27+00:00"
  },
@@ -1090,7 +1114,9 @@
     "cost_usd": 0.000386,
     "latency_s": 2.83,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Lula's reelection triggers broad stock market selloff",
+   "explanation_en": "According to headlines, Lula's victory in the presidential election led to a sharp drop in the Ibovespa, which fell about 13.8% on the day. Magazine Luiza plunged more than 58%, its biggest one-day decline since 1994, in a move that hit many stocks across the market."
   },
   "explained_at": "2026-11-20T03:22:59+00:00"
  }

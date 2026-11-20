@@ -86,6 +86,16 @@ Material de preparação. Cada decisão: **o que** foi feito, **por quê** e o
 - **Modo de falha:** se Yahoo ou API falham, o job falha, nada é gravado, o deploy não acontece e o site fica com os últimos dados bons.
 - **Sem loop:** commits feitos pelo bot com `GITHUB_TOKEN` não disparam workflows.
 
+## 9. Versão em inglês (para recrutadores)
+- **Um site com troca de idioma, não duas cópias.** *Por quê:* duas cópias obrigariam a corrigir tudo duas vezes. Todo texto da tela vem de um dicionário por idioma no `app.js`; o HTML não tem texto que a troca não alcance.
+- **Formato por idioma:** "R$ 43,17 · 4 nov 2026" em português, "R$ 43.17 · Nov 4, 2026" em inglês. A moeda continua real.
+- **Ordem de escolha do idioma:** `?lang=en` no link > última escolha (localStorage) > idioma do navegador > português. Escolhido no `<head>`, antes de desenhar a página, para não piscar o idioma errado. O link do README/currículo cai direto no inglês.
+- **Textos da IA:** eventos novos recebem inglês **na mesma chamada** (o esquema ganhou `short_reason_en` e `explanation_en`, sem custo extra). Os 53 já explicados foram **traduzidos, não reexplicados**: a explicação em português, as fontes e o eval continuam exatamente os mesmos. Custou US$ 0,0065.
+- **Fallback:** se faltar o inglês num evento, o site mostra o português; nada quebra.
+- **Manchetes ficam em português** (são as fontes originais), com a nota "in Portuguese".
+- **`summary.json` neutro em idioma:** quem rotulou virou dado (`model`, `method`, `human_reviewed`) e o site escreve a frase em cada língua.
+- **Custo honesto:** o custo de tradução entra no total, mas não no custo por explicação.
+
 ## Incidentes (e o que aprendi)
 - **Chave de API no `.env.example`, commitada localmente.** Pego revisando o diff antes do push; commit reescrito, objetos apagados, histórico verificado (0 ocorrências). Lição: revisar o diff antes de todo commit.
 - **`.gitignore` padrão de Python ignorava `/site`** (pasta do mkdocs): a página não estava sendo versionada. Pego conferindo `git status` depois do commit.
@@ -100,6 +110,7 @@ Material de preparação. Cada decisão: **o que** foi feito, **por quê** e o
 - **Busca, "sem explicação" de 53:** v1 13 → v2 12 → v3 9. Eventos de mercado: 5/22 → 1/22.
 - **Eval automático:** 133 fontes citadas, 100% válidas, 0 números inválidos, 0 respostas incoerentes; 86,4% dos eventos "market" rotulados macro pela IA.
 - **Eval rotulado** (15 eventos, LLM como juiz, revisão humana pendente): acurácia 76,7% (parcial = meio ponto), estrita 66,7%, tipo correto 86,7%. Por confiança: alta 92,9% (n=7), média 50% (n=2), baixa 66,7% (n=6). Abstenções: 5/5 corretas.
+- **Tradução única dos 53 eventos para inglês:** US$ 0,0065, 79 s, 0 falhas.
 - **Custo:** US$ 0,00036 por explicação (~1,5–2k tokens de entrada, 1,7–4,8 s). Backfill: 53 eventos, US$ 0,018, 264 s. Gasto total do projeto: US$ 0,035. Diário: 0–2 eventos → bem menos de US$ 0,03/mês.
 
 ## Limitações

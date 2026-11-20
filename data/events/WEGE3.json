@@ -70,7 +70,9 @@
     "cost_usd": 0.000274,
     "latency_s": 2.06,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "no clear explanation",
+   "explanation_en": "The available headlines do not report a specific WEG event on January 8, 2026 that explains the 4.17% drop. The only news about the company is a general outlook for 2026, with no trigger for the move."
   },
   "explained_at": "2026-11-19T23:44:37+00:00"
  },
@@ -168,7 +170,9 @@
     "cost_usd": 0.000475,
     "latency_s": 3.93,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Ibovespa falls on caution abroad",
+   "explanation_en": "The Ibovespa fell more than 2% on a day of correction after record highs, with caution abroad dragging the market down. WEG fell more than the index, and the headlines do not clearly explain this excess decline, only mentioning concern about China in its battery energy storage system (BESS) business."
   },
   "explained_at": "2026-11-20T03:23:05+00:00"
  },
@@ -274,7 +278,9 @@
     "cost_usd": 0.000231,
     "latency_s": 1.89,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Q1 26 earnings disappoint and shares fall",
+   "explanation_en": "WEG released first-quarter 2026 results below expectations, with growth losing momentum and revenue declining, according to headlines. The market reacted with a sharp drop in the stock on the day, well above the decline of the Ibovespa (-2.05%)."
   },
   "explained_at": "2026-11-19T23:44:47+00:00"
  },
@@ -377,7 +383,9 @@
     "cost_usd": 0.000253,
     "latency_s": 1.9,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Q2 earnings boosted investor sentiment",
+   "explanation_en": "WEG shares soared about 10% after the release of its second-quarter earnings, according to headlines from 22/07. The move came on a day of strong gains for the Ibovespa (+2.44%), which also received contributions from Vale and Petrobras, so part of the rise is attributed to the overall market backdrop."
   },
   "explained_at": "2026-11-20T03:23:10+00:00"
  },
@@ -473,7 +481,9 @@
     "cost_usd": 0.000228,
     "latency_s": 1.61,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Margins below expectations in 3Q26",
+   "explanation_en": "WEG shares fell about 7% after the third-quarter earnings report, with analysts pointing to disappointing margins and cost pressure. The Ibovespa also declined, but by a much smaller amount, which indicates the drop was concentrated in the company."
   },
   "explained_at": "2026-11-19T23:44:57+00:00"
  },
@@ -554,7 +564,9 @@
     "cost_usd": 0.000499,
     "latency_s": 4.14,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "US acquisition worth R$ 55 million",
+   "explanation_en": "WEG announced the same day the purchase of a business in the United States for about R$ 55 million, which may have driven the stock's rise. As the Ibovespa fell sharply over the period, the gain appears to be company-specific, but the headlines do not directly confirm the causal link."
   },
   "explained_at": "2026-11-19T23:45:03+00:00"
  },
@@ -617,7 +629,9 @@
     "cost_usd": 0.000342,
     "latency_s": 2.84,
     "invalid_source_ids": []
-   }
+   },
+   "short_reason_en": "Partnership with FPT for electric motor",
+   "explanation_en": "WEG announced on 11/09 a partnership with FPT to develop an electric motor with an onboard generator for trucks and buses, a company-specific announcement. The 5.29% gain on the day, above the Ibovespa (+2.22%), may reflect this news, but the available texts do not confirm a cause-and-effect relationship."
   },
   "explained_at": "2026-11-19T23:45:07+00:00"
  }

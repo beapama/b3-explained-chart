@@ -58,6 +58,41 @@ Universe: PETR4, VALE3, ITUB4, MGLU3, WEGE3 + Ibovespa. Last 12 months.
 10. README: what it is, live link, GIF/screenshot, architecture diagram,
     evaluation, monthly cost, limitations, next steps.
 
+## Extension after the MVP: English version (for recruiters)
+Same site, same content, in English, with a language switch. One site, not
+two copies: the page reads the language and swaps texts.
+
+11. English version of the site:
+    a. UI texts: move every fixed text (masthead, legend, table headers,
+       method section, footer, buttons) into one dictionary per language
+       (pt, en) in site/app.js; no text hard-coded in the HTML that the
+       switch cannot reach.
+    b. Generated texts: the per-ticker finding headline and the figures row
+       get one template per language; numbers, percentages, currency and
+       dates formatted per locale (pt-BR: R$ 43,17 / 4 nov 2026;
+       en: R$ 43.17 / Nov 4, 2026). Keep BRL as the currency.
+    c. AI texts: add short_reason_en and explanation_en to each event.
+       New events: ask for both languages in the same API call (extend the
+       Pydantic schema, one call per event, no extra cost per event).
+       Existing events: one-time script that translates the cached
+       Portuguese fields with Claude Haiku, without re-explaining (the
+       Portuguese text, its sources and the eval stay unchanged). Warn
+       before running it (~53 calls, estimate the cost first).
+    d. News headlines stay in Portuguese (they are the original sources);
+       in English, show a small "(headline in Portuguese)" note.
+    e. Eval section and labeler text in both languages (summary.json stays
+       language-neutral; the site maps it to text).
+    f. Language switch: a PT | EN toggle in the masthead. Choice order:
+       URL (?lang=en, so the README and the CV can link straight to the
+       English page) > saved choice (localStorage) > browser language >
+       Portuguese. Update <html lang>, the page title and the meta
+       description when it changes; keep the selected ticker and event.
+    g. Check by rendering both languages on desktop and phone, light and
+       dark; no layout break with the longer/shorter strings.
+    h. README: link to the English page (…/?lang=en) next to the live link;
+       update INTERVIEW_NOTES with the decisions (one site with a
+       dictionary vs two sites; translate cached events vs re-explain).
+
 Out of scope (list as next steps in README): CVM filings, pytest suite,
 prompt A/B comparison, more tickers, Telegram alerts.
 

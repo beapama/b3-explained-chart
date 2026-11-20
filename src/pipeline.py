@@ -102,6 +102,7 @@ def main() -> None:
 
     summary = {
         "run_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "kind": "explain",
         "model": MODEL,
         "new_events": done,
         "failed": len(failed),

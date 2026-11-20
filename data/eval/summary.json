@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T04:29:50+00:00",
+ "generated_at": "2026-11-20T04:58:48+00:00",
  "model": "claude-haiku-5-5",
  "automatic": {
   "events": 53,
@@ -23,7 +23,11 @@
   }
  },
  "human": {
-  "labeler": "Claude Opus 5.5 como juiz (LLM-as-judge); revisão humana pendente",
+  "labeler": {
+   "model": "Claude Opus 5.5",
+   "method": "llm-as-judge",
+   "human_reviewed": false
+  },
   "labeled": 15,
   "accuracy_pct": 76.7,
   "strict_accuracy_pct": 66.7,
@@ -42,8 +46,9 @@
   ]
  },
  "cost": {
-  "runs": 3,
-  "total_cost_usd": 0.0352,
+  "runs": 4,
+  "total_cost_usd": 0.0417,
+  "translation_cost_usd": 0.0065,
   "cost_per_event_usd": 0.00036,
   "avg_seconds_per_event": 5.4
  }

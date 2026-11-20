@@ -9,39 +9,50 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&display=swap">
   <link rel="stylesheet" href="style.css">
+  <script>
+    // Pick the language before first paint (no flash of the wrong text):
+    // ?lang= in the URL > saved choice > browser language > Portuguese.
+    (() => {
+      const q = new URLSearchParams(location.search).get("lang");
+      const saved = localStorage.getItem("lang");
+      const nav = (navigator.language || "").toLowerCase().startsWith("pt") ? "pt" : "en";
+      const lang = ["pt", "en"].includes(q) ? q : ["pt", "en"].includes(saved) ? saved : nav;
+      document.documentElement.lang = lang === "en" ? "en" : "pt-BR";
+    })();
+  </script>
 </head>
 <body>
   <header class="band masthead">
     <div class="wrap masthead-row">
       <div>
-        <p class="brand">Pregão Explicado</p>
-        <p class="tagline">Os dias de movimento forte de cinco ações da B3, com o motivo de cada um segundo as notícias.</p>
+        <p class="brand" data-i18n="brand">Pregão Explicado</p>
+        <p class="tagline" data-i18n="tagline">Os dias de movimento forte de cinco ações da B3, com o motivo de cada um segundo as notícias.</p>
       </div>
-      <nav class="tabs" id="tickers" aria-label="Escolha a ação"></nav>
+      <div class="controls">
+        <nav class="tabs" id="tickers" aria-label="Escolha a ação"></nav>
+        <div class="lang" role="group" aria-label="Idioma / Language">
+          <button type="button" data-lang="pt" lang="pt-BR">PT</button>
+          <button type="button" data-lang="en" lang="en">EN</button>
+        </div>
+      </div>
     </div>
   </header>
 
   <main>
     <section class="band plate">
       <div class="wrap">
-        <h1 id="finding">Carregando…</h1>
+        <h1 id="finding" data-i18n="loading">Carregando…</h1>
         <dl class="figures" id="figures"></dl>
 
         <div class="plate-grid">
           <figure class="chart-block">
             <div class="chart-box">
-              <div id="chart" class="chart" role="img" aria-label="Preço de fechamento nos últimos 12 meses com os dias de movimento forte marcados"></div>
+              <div id="chart" class="chart" role="img"></div>
               <div id="pins" class="pins"></div>
               <div id="callout" class="callout" hidden><div class="callout-box"></div><div class="leader"></div></div>
               <div id="tooltip" class="tooltip" hidden></div>
             </div>
-            <figcaption class="legend">
-              <span><i class="key" style="--c:var(--company)">E</i>Empresa</span>
-              <span><i class="key" style="--c:var(--sector)">S</i>Setor</span>
-              <span><i class="key" style="--c:var(--macro)">M</i>Mercado inteiro</span>
-              <span><i class="key" style="--c:var(--unknown)">?</i>Sem explicação clara</span>
-              <span class="quiet">A ponta do marcador indica alta (para cima) ou queda (para baixo). Clique num marcador para ler o motivo.</span>
-            </figcaption>
+            <figcaption class="legend" id="legend"></figcaption>
           </figure>
 
           <aside class="detail" id="detail" aria-live="polite"></aside>
@@ -51,10 +62,10 @@
 
     <section class="band">
       <div class="wrap">
-        <h2 id="events-title">Todos os dias marcados</h2>
+        <h2 id="events-title"></h2>
         <div class="scroll">
           <table class="events stack" id="events">
-            <thead><tr><th>Data</th><th class="r">Ação</th><th class="r">Ibovespa</th><th>Tipo</th><th>Motivo</th><th>Confiança</th></tr></thead>
+            <thead><tr id="events-head"></tr></thead>
             <tbody></tbody>
           </table>
         </div>
@@ -63,31 +74,20 @@
 
     <section class="band method" id="eval">
       <div class="wrap">
-        <h2 id="eval-title">Como a IA é conferida</h2>
+        <h2 id="eval-title"></h2>
         <dl class="figures" id="eval-figures"></dl>
         <div class="cols">
-          <div>
-            <h3>Como os dias são escolhidos</h3>
-            <p>Um dia entra no gráfico quando a variação da ação foge muito do normal dela: mais de 2,5 desvios-padrão em relação aos 60 pregões anteriores. Assim, 4% é muito para o Itaú e pouco para a Magazine Luiza. A comparação com o Ibovespa no mesmo dia separa o que foi da ação do que foi do mercado.</p>
-          </div>
-          <div>
-            <h3>Como a IA explica</h3>
-            <p>Para cada dia buscamos até 10 manchetes no Google News, do pregão anterior ao dia seguinte. O modelo <span id="eval-model">de IA</span> lê só essas manchetes e cita as que usou. Quando elas não explicam o movimento, a resposta é “sem explicação clara”, e não um palpite.</p>
-          </div>
-          <div>
-            <h3>Como conferimos</h3>
-            <p id="eval-check">O modelo cita as fontes pelo número que cada manchete tem na lista, e o código troca o número pelo link. Por isso nenhuma fonte pode ser inventada.</p>
-          </div>
+          <div><h3 data-i18n="m1h"></h3><p data-i18n="m1p"></p></div>
+          <div><h3 data-i18n="m2h"></h3><p id="m2p"></p></div>
+          <div><h3 data-i18n="m3h"></h3><p id="m3p"></p></div>
         </div>
-        <p class="limits">Limites: a IA lê só manchetes, não o texto das matérias. O Google News devolve resultados um pouco diferentes a cada busca. A amostra conferida é pequena. Nada aqui é recomendação de investimento.</p>
+        <p class="limits" data-i18n="limits"></p>
       </div>
     </section>
   </main>
 
   <footer class="band foot">
-    <div class="wrap">
-      <p>Preços ajustados do Yahoo Finance e manchetes do Google News, atualizados todo dia útil depois do fechamento. Última atualização: <span id="updated-at">—</span>. <a href="https://github.com/beapama/b3-explained-chart">Código no GitHub</a>.</p>
-    </div>
+    <div class="wrap"><p id="footer"></p></div>
   </footer>
 
   <!-- Pinned exact version: a new major could change the API under us. -->

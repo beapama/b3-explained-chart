@@ -22,8 +22,10 @@ LABELS_PATH = EVAL_DIR / "labels.csv"
 SUMMARY_PATH = EVAL_DIR / "summary.json"
 SAMPLE_PER_TYPE = {"macro": 4, "company": 4, "sector": 3, "unknown": 4}  # 15 events
 SEED = 42  # fixed: the sample is reproducible
-# Who produced the labels. Be honest here: it is shown on the site (in Portuguese).
-LABELER = "Claude Opus 5.5 como juiz (LLM-as-judge); revisão humana pendente"
+# Who produced the labels. Be honest here: it is shown on the site. Kept as data
+# (not text) so the site can phrase it in Portuguese or English.
+# Set human_reviewed to True only after a person has checked labels.csv.
+LABELER = {"model": "Claude Opus 5.5", "method": "llm-as-judge", "human_reviewed": False}
 
 
 def load_events() -> list[dict]:
@@ -133,13 +135,17 @@ def human_eval() -> dict | None:
 
 def cost_summary() -> dict:
     runs = [json.loads(line) for line in open(EVAL_DIR / "runs.jsonl", encoding="utf-8")]
-    explained = sum(r["new_events"] for r in runs)
-    total = sum(r["cost_usd"] for r in runs)
+    # Older lines have no "kind": they are explain runs. Translation runs are
+    # counted in the total but not in the cost per explanation.
+    explain = [r for r in runs if r.get("kind", "explain") == "explain"]
+    explained = sum(r["new_events"] for r in explain)
+    explain_cost = sum(r["cost_usd"] for r in explain)
     return {
         "runs": len(runs),
-        "total_cost_usd": round(total, 4),
-        "cost_per_event_usd": round(total / explained, 5) if explained else None,
-        "avg_seconds_per_event": round(sum(r["duration_s"] for r in runs) / explained, 1) if explained else None,
+        "total_cost_usd": round(sum(r["cost_usd"] for r in runs), 4),
+        "translation_cost_usd": round(sum(r["cost_usd"] for r in runs if r.get("kind") == "translate"), 4),
+        "cost_per_event_usd": round(explain_cost / explained, 5) if explained else None,
+        "avg_seconds_per_event": round(sum(r["duration_s"] for r in explain) / explained, 1) if explained else None,
     }
 
 
