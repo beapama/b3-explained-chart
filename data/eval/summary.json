@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T03:28:43+00:00",
+ "generated_at": "2026-11-20T03:33:12+00:00",
  "model": "claude-haiku-5-5",
  "automatic": {
   "events": 53,
@@ -23,7 +23,7 @@
   }
  },
  "human": {
-  "labeler": "LLM-as-judge (Claude Opus 5.5), pending human review",
+  "labeler": "Claude Opus 5.5 como juiz (LLM-as-judge); revisão humana pendente",
   "labeled": 15,
   "accuracy_pct": 76.7,
   "strict_accuracy_pct": 66.7,

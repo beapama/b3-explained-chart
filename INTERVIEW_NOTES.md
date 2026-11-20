@@ -135,6 +135,45 @@
   low, abstain", then re-measure on the same 15 events.
 - **Calibration is useful**: high-confidence answers were right 93% of the
   time. The site shows the confidence badge so users can weigh answers.
+- **Static site, no framework, no build tool**: one HTML + CSS + JS file
+  reading JSON. GitHub Pages serves it for free; nothing to run or patch.
+  `src/build_site.py` assembles `_site/` (site + only the data the browser
+  needs) - same command locally and in CI, so what I test is what ships.
+- **lightweight-charts pinned to 5.0.9** (exact version in the CDN URL): a
+  new major release could change the API and silently break the page.
+- **Chart design**: neutral ink price line so color means only one thing
+  (event type). Marker color = type, marker shape = direction (▲/▼), marker
+  letter M/S/E/? = type again, so identity never depends on color alone
+  (colorblind users, print). Palette: first 3 slots of a validated
+  categorical palette, checked with a colorblind-simulation script in light
+  and dark mode; dark mode has its own selected colors, not an inversion.
+- **Event table = accessible view of the markers** and the mobile-friendly
+  way to select an event (markers are small touch targets).
+- **News text is untrusted input**: rendered with `textContent`, links
+  limited to http(s), `rel="noopener noreferrer"` -> no XSS from a feed.
+- **Eval is on the page**, including who labeled the sample, so a visitor
+  sees the limits, not just the claims.
+- **Checked by rendering** (headless Edge screenshots, desktop/mobile,
+  light/dark): caught a mobile overflow (CSS grid items do not shrink below
+  their content by default -> `min-width: 0`) and an axis label bug.
+- **Redesign ("Pregão Explicado")**: financial-newspaper graphics style.
+  The headline is the finding, computed from the data per ticker ("PETR4
+  teve 12 dias de movimento forte em 12 meses; 6 vieram de notícias do
+  setor"), then a ruled row of key figures (close, 12-month change vs
+  Ibovespa, biggest marked up/down day), then the chart with the selected
+  event called out by a leader line and the explanation in a narrow column
+  beside it. Literata serif; cherry palette chosen by me (wine #621027
+  masthead, raspberry #D52A63 accent, rose #E59693 tints).
+- **Brand palette vs. data colors**: the cherry palette is three shades of
+  one red, which cannot tell event types apart (especially for colorblind
+  users). So the brand colors go on the page chrome, and the markers use
+  raspberry plus two hues that fit the photo (stem green, plum), validated
+  with the colorblind-simulation script in light and dark mode.
+- **Own HTML pins instead of the library's markers**: the library draws
+  tiny letters in the marker color (unreadable). Pins are 22px discs with
+  a white letter, a tip showing direction, a 40px tap area and keyboard
+  focus. Trade-off: I position them myself on scroll/zoom/resize.
+  Light/dark follows the system setting (no toggle button).
 
 ## Numbers
 - Events detected: 53 (PETR4 12, VALE3 11, ITUB4 10, MGLU3 13, WEGE3 7)

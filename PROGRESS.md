@@ -8,14 +8,17 @@
 - [x] 5. AI explanation: `python -m src.explain` -> Claude Haiku 5.5, structured output, ~$0.0004/event
 - [x] 6. Cache + backfill: `python -m src.pipeline` -> 53 events in data/events,
   9 "no clear explanation" after 3 retrieval iterations, $0.035 total spend
+- [x] 7. Mini eval: `python -m src.evaluate` -> 100% grounded; 15 events labeled
+  by LLM-as-judge (accuracy 76.7%, strict 66.7%). Pending: Beatriz reviews
+  data/eval/labels.csv, then updates LABELER in src/evaluate.py.
 
 ## Current step
-- 7. Mini eval — done: 100% grounded; 15 events labeled by LLM-as-judge
-  (accuracy 76.7%, strict 66.7%). Pending: Beatriz reviews labels.csv and
-  then sets LABELER in src/evaluate.py to "...reviewed by a human".
+- 8. Site — redesigned as "Pregão Explicado" (finding headline, figures row,
+  callout on chart). Screenshot-checked desktop/mobile, light/dark. Waiting
+  for local confirmation: `python -m src.build_site` + `python -m http.server 8000 -d _site`.
 
 ## Next
-8. Site · 9. GitHub Actions · 10. README
+9. GitHub Actions · 10. README
 
 ## Open issues
 - ~~MGLU3 2026-10-26 -58%: data error?~~ Resolved: real move, "biggest daily

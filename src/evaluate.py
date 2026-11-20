@@ -22,8 +22,8 @@ LABELS_PATH = EVAL_DIR / "labels.csv"
 SUMMARY_PATH = EVAL_DIR / "summary.json"
 SAMPLE_PER_TYPE = {"macro": 4, "company": 4, "sector": 3, "unknown": 4}  # 15 events
 SEED = 42  # fixed: the sample is reproducible
-# Who produced the labels. Be honest here: it is shown on the site.
-LABELER = "LLM-as-judge (Claude Opus 5.5), pending human review"
+# Who produced the labels. Be honest here: it is shown on the site (in Portuguese).
+LABELER = "Claude Opus 5.5 como juiz (LLM-as-judge); revisão humana pendente"
 
 
 def load_events() -> list[dict]:
