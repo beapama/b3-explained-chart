@@ -1,4 +1,4 @@
-# Interview notes — Pregão Explicado
+# Interview notes — B3 Moves, Explained
 
 Material de preparação. Cada decisão: **o que** foi feito, **por quê** e o
 **trade-off**. Números na seção "Números".

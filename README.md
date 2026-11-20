@@ -1,4 +1,4 @@
-# B3 Moves, Explained (Pregão Explicado)
+# B3 Moves, Explained
 
 Daily price charts of five B3 stocks where an AI marks the days with unusually strong moves and explains, on the chart itself, what happened, citing the news it used. Every business day after the market closes, a GitHub Actions job detects new moves, writes the explanations and republishes the site.
 

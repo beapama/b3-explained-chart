@@ -1,4 +1,4 @@
-// Pregão Explicado / B3 Moves, Explained: reads the static JSON written by the
+// B3 Moves, Explained: reads the static JSON written by the Python pipeline.
 // Python pipeline. No framework, no build step. One page, two languages: every
 // text the user sees comes from STR below, so the PT | EN switch reaches all of it.
 // News text is untrusted, so the DOM is built with textContent only.
@@ -9,7 +9,7 @@
   const LOCALE = { pt: "pt-BR", en: "en-US" };
   const STR = {
     pt: {
-      brand: "Pregão Explicado",
+      brand: "B3 Moves, Explained", // same name in both languages
       tagline: "Os dias de movimento forte de cinco ações da B3, com o motivo de cada um segundo as notícias.",
       metaDesc: "Os dias de movimento forte de cinco ações da B3 nos últimos 12 meses, com o motivo de cada um segundo as notícias.",
       tickersLabel: "Escolha a ação",
