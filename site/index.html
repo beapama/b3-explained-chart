@@ -10,13 +10,16 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&display=swap">
   <link rel="stylesheet" href="style.css">
   <script>
-    // Pick the language before first paint (no flash of the wrong text):
-    // ?lang= in the URL > saved choice > browser language > Portuguese.
-    (() => {
-      const q = new URLSearchParams(location.search).get("lang");
+    /**
+     * Sets <html lang> before first paint, so the wrong language never flashes.
+     * Priority: ?lang= in the URL, then the saved choice, then the browser language.
+     */
+    (function pickInitialLanguage() {
+      const supported = ["pt", "en"];
+      const fromUrl = new URLSearchParams(location.search).get("lang");
       const saved = localStorage.getItem("lang");
-      const nav = (navigator.language || "").toLowerCase().startsWith("pt") ? "pt" : "en";
-      const lang = ["pt", "en"].includes(q) ? q : ["pt", "en"].includes(saved) ? saved : nav;
+      const fromBrowser = (navigator.language || "").toLowerCase().startsWith("pt") ? "pt" : "en";
+      const lang = [fromUrl, saved].find((choice) => supported.includes(choice)) || fromBrowser;
       document.documentElement.lang = lang === "en" ? "en" : "pt-BR";
     })();
   </script>
@@ -90,7 +93,6 @@
     <div class="wrap"><p id="footer"></p></div>
   </footer>
 
-  <!-- Pinned exact version: a new major could change the API under us. -->
   <script src="https://unpkg.com/lightweight-charts@5.0.9/dist/lightweight-charts.standalone.production.js"></script>
   <script src="app.js"></script>
 </body>

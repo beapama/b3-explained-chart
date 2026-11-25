@@ -25,6 +25,12 @@
   explain call for new events, 53 cached events translated once
   (`python -m src.translate`, $0.0065), README screenshots in English.
 
+- [x] Clean-code pass: no comments anywhere; docstrings (Google style) in
+  Python, JSDoc in JS, step names in the workflow. `pyproject.toml` configures
+  ruff (lint + pydocstyle); `ruff check src` and `ruff format src` pass.
+  app.js: named constants instead of magic numbers, descriptive names, small
+  render functions; rendered text identical before/after (PT and EN).
+
 ## Current step
 - Done. Optional before the interview: review data/eval/labels.csv, then set
   LABELER["human_reviewed"] = True in src/evaluate.py and re-run the eval.

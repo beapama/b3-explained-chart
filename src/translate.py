@@ -1,28 +1,32 @@
 """Step 11c: one-time English translation of the explanations already cached.
 
-New events get English from the explain call itself (src/explain.py). For the
-events explained before that, we TRANSLATE the stored Portuguese text instead
-of re-explaining: the Portuguese explanation, its sources and the eval labels
-stay exactly as they were. Only events without `explanation_en` are sent.
+New events get English from the explain call itself. Events explained before
+that are translated, not re-explained: the Portuguese text, its sources and
+the evaluation labels stay exactly as they were. Only events without
+``explanation_en`` are sent. ``Translation`` has no class docstring on
+purpose: Pydantic would send it to the API as the schema description.
 
 Usage:
-    python -m src.translate --dry-run   # count events and estimate cost, no API calls
-    python -m src.translate
+    python -m src.translate --dry-run    Count events and estimate the cost, no API calls.
+    python -m src.translate              Translate them.
 """
+
 import argparse
-import os
 import sys
 import time
-from datetime import datetime, timezone
 
 import anthropic
 from pydantic import BaseModel, Field
 
-from src.config import MODEL, PRICE_PER_MTOK, TICKERS
-from src.explain import NO_EXPLANATION
-from src.pipeline import load_cache, log_run, save_cache
+from src.config import MODEL, TICKERS, require_api_key, token_cost_usd
+from src.explain import NO_EXPLANATION, check_stop_reason
+from src.pipeline import load_cache, log_run, now_iso, save_cache
 
-EST_COST_PER_EVENT = 0.0003  # USD: ~400 input + ~400 output tokens on Haiku 5.5
+EST_COST_PER_EVENT = 0.0003
+"""USD per translation: about 400 input and 400 output tokens."""
+
+MAX_TOKENS = 1500
+EFFORT = "low"
 
 SYSTEM_PROMPT = """You translate short Brazilian Portuguese texts about stock moves into clear, natural English for international readers.
 - Keep every fact, number, ticker and name; do not add, remove or soften anything.
@@ -36,59 +40,52 @@ class Translation(BaseModel):
 
 
 def translate(client: anthropic.Anthropic, ai: dict) -> tuple[dict, float]:
+    """Translate one cached explanation; return the English fields and the call's cost."""
     response = client.messages.parse(
         model=MODEL,
-        max_tokens=1500,
-        output_config={"effort": "low"},  # plain translation, no reasoning needed
+        max_tokens=MAX_TOKENS,
+        output_config={"effort": EFFORT},
         system=SYSTEM_PROMPT,
-        messages=[{"role": "user", "content":
-                   f"Short reason: {ai['short_reason']}\n\nExplanation: {ai['explanation']}"}],
+        messages=[
+            {"role": "user", "content": f"Short reason: {ai['short_reason']}\n\nExplanation: {ai['explanation']}"}
+        ],
         output_format=Translation,
     )
-    if response.stop_reason in ("refusal", "max_tokens"):
-        raise RuntimeError(f"stop_reason={response.stop_reason}")
+    check_stop_reason(response, "translation")
     out: Translation = response.parsed_output
-    u = response.usage
-    cost = (u.input_tokens * PRICE_PER_MTOK["input"] + u.output_tokens * PRICE_PER_MTOK["output"]) / 1_000_000
     short = NO_EXPLANATION if ai["short_reason"] == NO_EXPLANATION else out.short_reason_en
+    cost = token_cost_usd(response.usage.input_tokens, response.usage.output_tokens)
     return {"short_reason_en": short, "explanation_en": out.explanation_en}, cost
 
 
-def main() -> None:
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--dry-run", action="store_true", help="count events, no API calls")
-    args = parser.parse_args()
-    sys.stdout.reconfigure(encoding="utf-8")
+def find_untranslated() -> list[tuple[str, str]]:
+    """Return (ticker, date) of the cached events that have no English explanation."""
+    return [(t, e["date"]) for t in TICKERS for e in load_cache(t).values() if not e["ai"].get("explanation_en")]
 
-    pending = [(t, e["date"]) for t in TICKERS for e in load_cache(t).values()
-               if not e["ai"].get("explanation_en")]
-    print(f"{len(pending)} events to translate (estimated cost <= ${len(pending) * EST_COST_PER_EVENT:.3f})")
-    if args.dry_run or not pending:
-        return
-    if not os.environ.get("ANTHROPIC_API_KEY"):
-        sys.exit("ANTHROPIC_API_KEY is empty: fill it in .env.")
 
+def run(pending: list[tuple[str, str]]) -> None:
+    """Translate and save each pending event, keep going past failures, and log the run."""
     client = anthropic.Anthropic()
     started, done, failed, total = time.perf_counter(), 0, 0, 0.0
     for ticker, day in pending:
         cache = load_cache(ticker)
         try:
             fields, cost = translate(client, cache[day]["ai"])
-        except Exception as exc:  # keep going; a rerun picks up what is missing
+        except Exception as exc:
             failed += 1
             print(f"  FAILED {ticker} {day}: {exc}")
             continue
         cache[day]["ai"].update(fields)
-        save_cache(ticker, cache)  # save per event, like the pipeline
+        save_cache(ticker, cache)
         done += 1
         total += cost
         print(f"  [{done}/{len(pending)}] {ticker} {day}: {fields['short_reason_en']}")
 
     summary = {
-        "run_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "run_at": now_iso(),
         "kind": "translate",
         "model": MODEL,
-        "new_events": 0,  # nothing was explained; keeps cost-per-explanation honest
+        "new_events": 0,
         "translated": done,
         "failed": failed,
         "cost_usd": round(total, 5),
@@ -96,6 +93,21 @@ def main() -> None:
     }
     log_run(summary)
     print(f"\nRun summary: {summary}")
+
+
+def main() -> None:
+    """Parse the command line and translate the events that still lack English."""
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--dry-run", action="store_true", help="count events, no API calls")
+    args = parser.parse_args()
+    sys.stdout.reconfigure(encoding="utf-8")
+
+    pending = find_untranslated()
+    print(f"{len(pending)} events to translate (estimated cost <= ${len(pending) * EST_COST_PER_EVENT:.3f})")
+    if args.dry_run or not pending:
+        return
+    require_api_key(".env")
+    run(pending)
 
 
 if __name__ == "__main__":

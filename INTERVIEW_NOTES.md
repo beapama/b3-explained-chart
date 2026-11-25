@@ -96,6 +96,13 @@ Material de preparação. Cada decisão: **o que** foi feito, **por quê** e o
 - **`summary.json` neutro em idioma:** quem rotulou virou dado (`model`, `method`, `human_reviewed`) e o site escreve a frase em cada língua.
 - **Custo honesto:** o custo de tradução entra no total, mas não no custo por explicação.
 
+## 10. Qualidade de código
+- **Sem comentários; docstrings no lugar.** *Por quê:* comentário envelhece e mente; nome claro + docstring descreve o contrato (o que a função faz e por quê) e aparece no `help()`/editor. Python em estilo Google, JS com JSDoc, workflow com `name:` em cada passo.
+- **Ruff** (`pyproject.toml`): lint + pydocstyle obriga docstring em toda função pública; `ruff format` padroniza o estilo.
+- **Constantes nomeadas** em vez de números mágicos (`PIN_OFFSET_PX`, `FOCUS_WINDOW_DAYS`, `TickMarkType.Year`), funções pequenas de render.
+- **Como provei que a refatoração não quebrou nada:** renderizei o site antigo e o novo no Edge headless e comparei o texto da página: zero diferenças, em PT e EN.
+- **O "porquê" de decisões de infra** (horário do cron, versão fixada da biblioteca) saiu dos comentários e ficou aqui e no README.
+
 ## Incidentes (e o que aprendi)
 - **Chave de API no `.env.example`, commitada localmente.** Pego revisando o diff antes do push; commit reescrito, objetos apagados, histórico verificado (0 ocorrências). Lição: revisar o diff antes de todo commit.
 - **`.gitignore` padrão de Python ignorava `/site`** (pasta do mkdocs): a página não estava sendo versionada. Pego conferindo `git status` depois do commit.
