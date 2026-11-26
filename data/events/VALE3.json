@@ -908,5 +908,105 @@
    "explanation_en": "VALE3 rose on 26/10 alongside the rise in the dollar, which benefits mining exporters such as Vale. Headlines link the move to the result of the election's second round, but they disagree on the size of the gain (4% and more than 7%)."
   },
   "explained_at": "2026-11-19T23:42:32+00:00"
+ },
+ {
+  "date": "2026-11-24",
+  "prev_date": "2026-11-23",
+  "return": -0.0551,
+  "z": -2.76,
+  "ibov_return": -0.0043,
+  "excess_return": -0.0508,
+  "scope": "stock",
+  "news": [
+   {
+    "title": "Ibovespa B3 sobe 1,58%, com recuperação de Vale e Petrobras; dólar cai a R$ 5,81",
+    "source": "Bora Investir",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRkNhcDBzRHVxRi1KbklnMXhid2NPWkJWMjNWV3kzMnpkUkF2UUlRSFhNWVdCMjFTY3I1RGY4a3BLTDZfNVZvbDcyQ0tuSGNWMk04Wi1ySHBqSFZQTnJLZjhkOGp5MkNuLS0xU1JOVHBfUm5YQ1BPNnJZSENGSDQzNThKdlgxRXhGUnJKbmVGb2o2N3R5NmYwRlRyLS12dEl0eGFqT3ZCbnhJbDY5NVA4UVgyaTFFQ0xIa1pYRC1uUnc?oc=5",
+    "published": "2026-11-25"
+   },
+   {
+    "title": "Vale (VALE3) confirma data do Vale Day 2026 em Nova York",
+    "source": "Suno - Investimentos Inteligentes",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qMjh0akJxVzN0blR1LW9ZSlhsYWR0U0c4cl9kOWhGTGRfRkg3alc1Q1pKSjNCQXlvdzczRU9OY3hJMHRvS1F6aTBGYmlNclg2ZHNJdFJLX01JOXVXT0JDOWxFZm05QmFjVHktT0M5UVFDVFQ1S0ItWXlB0gF_QVVfeXFMTXdfUG9UUERicC16UmZsT2xHWGIwOGJ3bVVlM2lBVGJGQlFDcjI3UmNEM29wMjRqcHd0aE5QNTBWc3hoVTdmRm5qeVlmU3BBYkNlWVJVZ1ZXX3RNMTdlelpSQXZNdzJ5dzBsUnZ5MVNYeThMTldBVGlmZjlCVHBLTQ?oc=5",
+    "published": "2026-11-25"
+   },
+   {
+    "title": "Especulações para Fazenda e fiscal: o que fez Ibovespa subir 1,6% após 4 quedas",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOXzEtcEhCb1Utb0MzaWZQZDF4cE16MldqeG8yMEdPZEdzYkktTEV0TDQtVVotWVZHbkx1MnNwMXoxbTYydGI3ZEd5TUZYSlFtNXh1R3I1SU9PNXdhVGktY3F0a1FSZnFLSEVzY3BIQV9WQVBKWTRvaGItVTBReUJMVy15MFpTdV9oZGZz0gGQAUFVX3lxTE1yMlFkRnFRYTczQjhOM3ZxVHV4ZzEyaURJai1IQlVXeDlVNk1wbUVNU01TMVRwRWtEN0ZTNGxjMDFkUUVqMFctR2VIVFJYTnJjV3B5MmV5ODVWY25SZ21EYXlJa040Q1FiUE1JQ0pfRUNTcHhLV0VaZW5sYTBlcVBVZGJHa3BLelZmeVZ5VGlaMg?oc=5",
+    "published": "2026-11-25"
+   },
+   {
+    "title": "Otimismo com equipe econômica leva Ibovespa a alta de 1,5%; dólar caiu mais de 1%, cotado a R$ 5,91",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbXB5T05UWmg1TENfbl9xbUo0eWc0N1JveG9heERUb0xzekk2R0hVTDJ2bWI2YUFRN2RWazVMbTg1cm10a1phNnpqYlBLM2FHRzdJSWhmcHdLRU0yLXQzMFBCNWFna3V2LU9CRXVFTHJ0R3NLelhHTVFtSW1PYnFpd3R0TWlUS1E3RU5EZjJQZ1RGTWJqZF8xbWJGazQ0NEJveDN0X1pPR0ZVY2pJLXo3RXRjNmRQY1ZPN290b3lYNUFkVG5Vb0ZCV19GOFlwcXp0T3hnRklfYnNUZnZLNkh6dktkOGfSAeoBQVVfeXFMUDNJaFd2bVd4TFY0azl6TG1lZEw3Q1VkbFZsLWhVbk9wcy1UbmJQeXdFcnJKRUJSLWVCd3JiYlg3U2xiVHBqRkJfdldhRkpFbmpZS2lKY0ZwMk1NVFVkYnQ4QzA5VXJ3TjdiYXVGUmJ6eHRVOGRkNEFzZXp5dGVaNHhCNENzbll2RmdrXzRGdTMzU19XdDF3dUpLS29wSkdLd0I1bHdQUUFEcmVlTTJMakRnMW9nNXZOTk40M3ZGZGFRVU1IQUs3RTB0SjFQeGxrWUNzTGdRbnItbk9PNmVicER3b3pIT1Z3NTJB?oc=5",
+    "published": "2026-11-25"
+   },
+   {
+    "title": "Vale VALE3 cai 5,51% e atinge menor valor em um ano",
+    "source": "Acia Araçatuba",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TTHF4WjJnRHM4THBjMDdlalJWSTBqaFI4N3NNTXVDV09oMWp3QnRZT2tyWEdvVVE3SEZXZ1lkck9mVzBZZ09qR1Q5ZUJCR0RXYXpWRXF1elBtbTVNX0ZhcUE3UFZ4T01xRWR2OEhOcnNZVndt?oc=5",
+    "published": "2026-11-25"
+   },
+   {
+    "title": "Ibovespa dispara com expectativas sobre Lula 4, melhora em NY e montagem de opções em dia de menor liquidez",
+    "source": "Valor Econômico",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkFLeFdnUUdrYXNNUmZTSnVmVmRqQmNyR09vRUM5WmtSQUp2XzF2YnVqMU81TXV5cExWRVF5UkYyQWdoTUtOZmMwRnVqMkdrN2ZyVXI3RWdyX2pibFkzVkJWV0IxdkQ5MXRaWmJ3MHlYWE94b0xFM0M4NUVCMVlKVDc0T1FTVGtZdlQ3ZkFKSEgtelczeDZyQmx2MmVOa1I1RlRiRTVmOWtLUmhjZGl1RG5DZzVURmPSAcYBQVVfeXFMTmwtbTV6V0NWVDJCdThoWm5jX0NMMlNaUGV0eHlmeHVibnJHWm9NRV84NG5ZdDd0QzNZWXVKbWtaX0hMN1hNbWJ6S0dMeFkwS1JqQXVVTHV2TndGVGptREhuMlA1SDhVNGhhcU5ZV1RRbUNIU0FGaUNkWHg5SHdwLUFkNmRjbWlpbXc1ZkxzOGxuM1Zyb010cExxbW1PTmNnUF9sOFJCWURaekFPUjFoa1lYQVk4cEQ4VWNIZlQyR3ZRSGRZZFF3?oc=5",
+    "published": "2026-11-25"
+   },
+   {
+    "title": "Por que a Vale (VALE3) caiu mais de 5% nesta terça?",
+    "source": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2dZNGVJa190aTFNbElpUFd1aVB0TXZsbDJmaEZqRFBDcFlRQ1ByaDFJZC1MSzNZMUN6eTZkZC13eTBBZkdzMlZtTm5rTFRRTnZ1T29Ud3o3OFhqVTFwa0kyMHJDYU5WanhfeENURGxEdGpsX0RuR0gtbzRaRTBXMDVnZnhMbXFHeTFTWi1Xd9IBlAFBVV95cUxQU21qSWxwYjFBNTRzM2FOVDZQWEwxS1UzV3I1MXEyTmhEbVRqM0M1NTdBcFRQZFo4RFh2T0xjYWlIYzdzMWVTWFVqQ2huejQya0dQYUdIUk5vUjVuVnA5MXB2ZnlmT1JxazlRN05wdmhQUmcxS0prNGpUbDZ2VkFPTWo2dG9YR2FkVEZDU1R6QTN1a3Jp?oc=5",
+    "published": "2026-11-24"
+   },
+   {
+    "title": "Vale cai 5,51% na Bolsa e atinge menor valor de mercado em mais de um ano",
+    "source": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZl9BWjFrWndLQ2lMaEQtWVlnQThuOE5aVEhSX1JwMFZmX3h6NU81dlo4aDZfNzJaNldyVWFCa1ptZ1R4bkViZzJ4dzZZSGhlTWlMaTVYeHZZeWw1MVFqc3NtZlF5MXA0bU9WWTRfRkM0aWp6QXpJaFZQc2xRUGR1RHhFV1NZeXUxOHQ2U1dNQVg3anR5X0NLeHVhOExkcXZ1UW1GTm9DN215UVZOZG9udDFwZzNDYmw4Q19TRTg5c3NSUTNkMG4wTNIBzgFBVV95cUxQUXJHb3N3YzdrY0J4T2NjWklyQmNRUEsyZ1ZhV2dtdmlhQzhRMlhMNFBKMV9oM3p2Z0oxMDg2WGxYaDJ5YWY2UDl1WW13YlR4UndoSGo1TG5JeXN4MUZZeVR1RjFZWVBRSEtZYlBPeGwtN3pRUnFERlpFQ0ZrY3ZtX1IyRW5EbkRDcGZtaFBFRDNwdXBhZGNyLXVQZjU0X3FrN3J4RjhnYTlVa0lPQjVkbHFWcXBUTWU0c0NFc0JrZmh2YVF5QUNLTW41MUlwQQ?oc=5",
+    "published": "2026-11-24"
+   },
+   {
+    "title": "Ibovespa B3 cede 0,43%, com peso de Vale e Petrobras; dólar cai a R$ 5,91",
+    "source": "Bora Investir",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNTY1QlBJQ3ozclY1TXdHSHRPZkVNdTYxNTk5RlZrU2JKdW1hQ1M3TjNzS1JNeWl2d1pJdkFodjNDU042elhzQk5LcWJydXZZTUl4SldFVE9OWTZNOGs3dlVFc2RCWk5BMlFfelV5eHkxZ3FzdFF0Mm82RjU5dUpOOGVQUnJOTkN4dWFidHJWQjBtX0xmdDRYSk8yZktWQjh6UXp5N0E0Qk5ZNUY5RjBwdWZUOGtWU0k?oc=5",
+    "published": "2026-11-24"
+   },
+   {
+    "title": "Ações da Vale (VALE3) tombam com queda do dólar e cenário negativo para minério",
+    "source": "Valor Investe",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNHM0dmpUeWlwM1lSVmZNYVdLVDdsVVRkR0pqZUlxb19vZGVueWY0Q3M2WTEzQWM2R3JIRmFiUE1HNm43NkdYRG12OHIxM0tMa0t1U253aHRhcjVPY2ZHWnFMckxMeWc5VkdGd09KV3NRanlPYnZKa25SWXdfMG81Y0FTWmFxVVpKMVVvakpuRWcyMU90bW1QQlFyV3dDUWtjVVVRSk1nYXdBdGdHRzJ6LXFYTUtyWFhzbE1YQ29uM3VFLVQ1a0Q4atIB1wFBVV95cUxOVGkwWlk4bWhzZzdRNWFST09lNGtMdnJFa1NtTF9pYXBlZk05VkRKckdXVEFJckxweW1oRUVHRDRiV09YdG9YWEhCZ3p5THpoZHNWTm9tYWxYTFNDYk5lT1UyamlNUFkzVDFVU0RqaVExUEthTkpEVktXUDc1NjNUVWlVaFp3RWlxbTBHM1VwN1JwZ1haMWVqbGRuV2xaUU05MXoxYlpoakpzSVFrNVJvWGx5MWtWN2gtSnYzdnFDQWJyLUpGU3NCR0FyMmpqX1FuQTY0eTVSUQ?oc=5",
+    "published": "2026-11-24"
+   }
+  ],
+  "ai": {
+   "short_reason": "Ações caem com dólar mais fraco e cenário negativo para minério",
+   "explanation": "Segundo a Valor Investe, as ações da Vale tombaram com a queda do dólar e um cenário negativo para o minério de ferro, que é o principal produto da empresa. A queda de mais de 5% no dia também levou a ação ao menor valor de mercado em mais de um ano, segundo o Estadão.",
+   "short_reason_en": "Shares fall on weaker dollar and negative iron ore outlook",
+   "explanation_en": "According to Valor Investe, Vale shares fell with the drop in the dollar and a negative scenario for iron ore, the company's main product. The more than 5% decline also pushed the stock to its lowest market value in over a year, according to Estadão.",
+   "type": "sector",
+   "confidence": "medium",
+   "sources": [
+    {
+     "title": "Ações da Vale (VALE3) tombam com queda do dólar e cenário negativo para minério",
+     "source": "Valor Investe",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNHM0dmpUeWlwM1lSVmZNYVdLVDdsVVRkR0pqZUlxb19vZGVueWY0Q3M2WTEzQWM2R3JIRmFiUE1HNm43NkdYRG12OHIxM0tMa0t1U253aHRhcjVPY2ZHWnFMckxMeWc5VkdGd09KV3NRanlPYnZKa25SWXdfMG81Y0FTWmFxVVpKMVVvakpuRWcyMU90bW1QQlFyV3dDUWtjVVVRSk1nYXdBdGdHRzJ6LXFYTUtyWFhzbE1YQ29uM3VFLVQ1a0Q4atIB1wFBVV95cUxOVGkwWlk4bWhzZzdRNWFST09lNGtMdnJFa1NtTF9pYXBlZk05VkRKckdXVEFJckxweW1oRUVHRDRiV09YdG9YWEhCZ3p5THpoZHNWTm9tYWxYTFNDYk5lT1UyamlNUFkzVDFVU0RqaVExUEthTkpEVktXUDc1NjNUVWlVaFp3RWlxbTBHM1VwN1JwZ1haMWVqbGRuV2xaUU05MXoxYlpoakpzSVFrNVJvWGx5MWtWN2gtSnYzdnFDQWJyLUpGU3NCR0FyMmpqX1FuQTY0eTVSUQ?oc=5"
+    },
+    {
+     "title": "Vale cai 5,51% na Bolsa e atinge menor valor de mercado em mais de um ano",
+     "source": "Estadão",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZl9BWjFrWndLQ2lMaEQtWVlnQThuOE5aVEhSX1JwMFZmX3h6NU81dlo4aDZfNzJaNldyVWFCa1ptZ1R4bkViZzJ4dzZZSGhlTWlMaTVYeHZZeWw1MVFqc3NtZlF5MXA0bU9WWTRfRkM0aWp6QXpJaFZQc2xRUGR1RHhFV1NZeXUxOHQ2U1dNQVg3anR5X0NLeHVhOExkcXZ1UW1GTm9DN215UVZOZG9udDFwZzNDYmw4Q19TRTg5c3NSUTNkMG4wTNIBzgFBVV95cUxQUXJHb3N3YzdrY0J4T2NjWklyQmNRUEsyZ1ZhV2dtdmlhQzhRMlhMNFBKMV9oM3p2Z0oxMDg2WGxYaDJ5YWY2UDl1WW13YlR4UndoSGo1TG5JeXN4MUZZeVR1RjFZWVBRSEtZYlBPeGwtN3pRUnFERlpFQ0ZrY3ZtX1IyRW5EbkRDcGZtaFBFRDNwdXBhZGNyLXVQZjU0X3FrN3J4RjhnYTlVa0lPQjVkbHFWcXBUTWU0c0NFc0JrZmh2YVF5QUNLTW41MUlwQQ?oc=5"
+    }
+   ],
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "input_tokens": 1795,
+    "output_tokens": 463,
+    "cost_usd": 0.000411,
+    "latency_s": 4.13,
+    "invalid_source_ids": []
+   }
+  },
+  "explained_at": "2026-11-26T03:59:26+00:00"
  }
 ]

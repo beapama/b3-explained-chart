@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-25T04:48:15+00:00",
+ "generated_at": "2026-11-26T03:59:28+00:00",
  "model": "claude-haiku-5-5",
  "automatic": {
-  "events": 53,
-  "explained": 44,
+  "events": 54,
+  "explained": 45,
   "no_clear_explanation": 9,
-  "sources_cited": 133,
+  "sources_cited": 135,
   "sources_grounded_pct": 100.0,
   "invalid_source_ids": 0,
   "inconsistent_answers": [],
@@ -13,12 +13,12 @@
   "by_type": {
    "macro": 22,
    "unknown": 9,
-   "sector": 8,
+   "sector": 9,
    "company": 14
   },
   "by_confidence": {
    "high": 25,
-   "medium": 15,
+   "medium": 16,
    "low": 13
   }
  },
@@ -46,8 +46,8 @@
   ]
  },
  "cost": {
-  "runs": 4,
-  "total_cost_usd": 0.0417,
+  "runs": 5,
+  "total_cost_usd": 0.0421,
   "translation_cost_usd": 0.0065,
   "cost_per_event_usd": 0.00036,
   "avg_seconds_per_event": 5.4
